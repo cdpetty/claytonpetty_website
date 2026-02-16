@@ -282,7 +282,7 @@
                 .then(data => {
                     const el = document.getElementById('writing-list');
                     el.innerHTML = (data.items || [])
-                        .map(i => '<li><a href="' + i.link + '">' + i.title + '</a></li>')
+                        .map(i => '<li>- <a href="' + i.link + '">' + i.title + '</a></li>')
                         .join('');
                 })
                 .catch(() => {
