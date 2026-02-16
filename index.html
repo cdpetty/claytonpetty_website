@@ -1,0 +1,484 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Clayton Petty</title>
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>₿</text></svg>">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@400;700&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --maincolor: #1a6fbf;
+            --bordercl: #1a6fbf;
+            --hovercolor: #0f4f8a;
+            --bg: #fff;
+            --text: #232333;
+            --code-bg: #f1f1f1;
+            --muted: #999;
+        }
+
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --maincolor: #4a8be0;
+                --bordercl: #4a8be0;
+                --hovercolor: #2d6ab8;
+                --bg: #282a36;
+                --text: #f8f8f2;
+                --code-bg: #44475a;
+                --muted: #888;
+            }
+        }
+
+        html {
+            color: var(--text);
+            background: var(--bg);
+            font-family: 'Roboto Mono', monospace;
+            font-size: 13px;
+            line-height: 1.6em;
+        }
+
+        body { display: block; margin: 8px; }
+        * { -webkit-tap-highlight-color: rgba(0, 0, 0, 0); }
+        ::selection { background: var(--maincolor); color: #fff; }
+        p { line-height: 1.5; }
+
+        hr {
+            border: 0;
+            border-top: 3px dotted var(--bordercl);
+            margin: 1em 0;
+        }
+
+        a {
+            border-bottom: 3px solid var(--maincolor);
+            color: inherit;
+            text-decoration: none;
+        }
+
+        a:hover {
+            background-color: var(--hovercolor);
+            color: #fff;
+        }
+
+        ul { list-style: none; padding-left: 2ch; }
+        ul li { text-indent: -2ch; }
+        ul > li::before { content: '* '; font-weight: bold; }
+
+        code {
+            background-color: var(--code-bg);
+            padding: 0.1em 0.2em;
+        }
+
+        .content {
+            animation: intro 0.3s both;
+            animation-delay: 0.15s;
+            margin-bottom: 4em;
+            margin-left: auto;
+            margin-right: auto;
+            max-width: 800px;
+            padding: 0 1ch;
+            word-wrap: break-word;
+        }
+
+        @keyframes intro {
+            0% { opacity: 0; }
+            100% { opacity: 1; }
+        }
+
+        header {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-between;
+            margin: 1em 0;
+            align-items: center;
+        }
+
+        header .main { font-size: 1.5rem; }
+        header { margin-top: 3em; margin-bottom: 2em; }
+        header nav { margin-top: 0.5em; }
+        header nav a { margin-left: 0; margin-right: 1em; }
+
+        h1, h2, h3, h4, h5, h6 {
+            font-size: 1.2rem;
+            margin-top: 2em;
+        }
+
+        h1::before { color: var(--maincolor); content: '# '; }
+        h2::before { color: var(--maincolor); content: '## '; }
+
+        .meta {
+            color: var(--muted);
+            letter-spacing: -0.5px;
+        }
+
+        /* Lottery widget */
+        .lottery {
+            padding: 0.8em 1em;
+            font-size: 0.75rem;
+            color: var(--muted);
+            background: var(--code-bg);
+        }
+
+        .lottery-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 0.5em;
+        }
+
+        .lottery-title {
+            font-weight: 700;
+        }
+
+        .lottery-stats {
+            text-align: center;
+            margin: 0.6em 0;
+        }
+
+        .lottery-stats .big-number {
+            font-size: 1.6rem;
+            font-weight: 700;
+            color: var(--maincolor);
+            line-height: 1.2;
+        }
+
+        .lottery-stats .label {
+            font-size: 0.65rem;
+            text-transform: uppercase;
+            letter-spacing: 0.15em;
+        }
+
+        .lottery-meta {
+            display: flex;
+            justify-content: center;
+            gap: 1.5em;
+            font-size: 0.7rem;
+            margin: 0.5em 0;
+        }
+
+        .lottery-live {
+            margin-top: 0.6em;
+            padding-top: 0.5em;
+            border-top: 1px solid var(--muted);
+            font-size: 0.7rem;
+            display: flex;
+            justify-content: space-between;
+            gap: 1em;
+        }
+
+        .lottery-live-side {
+            overflow: hidden;
+            white-space: nowrap;
+            text-overflow: ellipsis;
+            min-width: 0;
+        }
+
+        .lottery-live-label {
+            font-size: 0.6rem;
+            text-transform: uppercase;
+            letter-spacing: 0.1em;
+            display: block;
+            margin-bottom: 0.2em;
+        }
+
+        .status-dot {
+            display: inline-block;
+            width: 6px;
+            height: 6px;
+            background: var(--maincolor);
+            border-radius: 50%;
+            animation: pulse 1s infinite;
+            margin-right: 0.4em;
+            vertical-align: middle;
+        }
+
+        @keyframes pulse {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0.3; }
+        }
+
+        /* Writing list */
+        .writing-list { padding-left: 0; }
+        .writing-list li { text-indent: 0; margin-bottom: 0.5em; }
+        .writing-list li::before { content: none; }
+
+        footer {
+            border-top: 0.4rem dotted var(--bordercl);
+            padding: 2rem 0;
+            margin-top: 2rem;
+            color: var(--muted);
+            font-size: 0.85rem;
+        }
+
+        footer nav a { margin-right: 1em; }
+
+        .gradient-link { border-bottom-color: red; }
+        .gradient-link:hover { background-color: red; color: #fff; }
+
+        .about-row {
+            display: flex;
+            gap: 1.5em;
+            align-items: start;
+            margin: 1.5em 0;
+        }
+
+        .headshot {
+            width: 140px;
+            flex-shrink: 0;
+        }
+
+        .about-row .about-text p:first-child {
+            margin-top: 0;
+        }
+
+        @media (max-width: 500px) {
+            .about-row {
+                flex-direction: column;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="content">
+        <header>
+            <div class="main"><a href="/">Clayton Petty</a></div>
+            <nav>
+                <a href="https://www.linkedin.com/in/cdpetty/">LinkedIn</a>
+                <a href="https://x.com/Cdpetty">X</a>
+                <a href="mailto:clayton@gradient.com">Email</a>
+            </nav>
+        </header>
+
+        <p style="margin-bottom: 0">Early stage investor, traveler, and oyster connoisseur.</p>
+
+        <h1 style="margin-top: 1em">About</h1>
+
+        <div class="about-row">
+            <img src="Headshot2.jpg" alt="Clayton Petty" class="headshot">
+            <div class="about-text">
+                <p>
+                    I'm at Partner at <a href="https://www.gradient.com/" class="gradient-link">Gradient</a> where I invest in early stage AI founders.
+                    Previously, I helped to build the Cyber Security practice at
+                    McKinsey &amp; Company, and led teams working with infra &amp; vertical SaaS operators on GTM engineering. 
+                    <br/><br/>I began my career as a software engineer and studied computer science.
+                </p>
+            </div>
+        </div>
+
+        <h2 id="writing">Writing</h2>
+
+        <p>
+            I write occasionally on <a href="https://claytonpetty.substack.com/">Substack</a>.
+        </p>
+
+        <ul class="writing-list" id="writing-list">
+            <li class="meta">Loading posts...</li>
+        </ul>
+
+        <script>
+            fetch('https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Fclaytonpetty.substack.com%2Ffeed')
+                .then(r => r.json())
+                .then(data => {
+                    const el = document.getElementById('writing-list');
+                    el.innerHTML = (data.items || [])
+                        .map(i => '<li><a href="' + i.link + '">' + i.title + '</a></li>')
+                        .join('');
+                })
+                .catch(() => {
+                    document.getElementById('writing-list').innerHTML =
+                        '<li><a href="https://claytonpetty.substack.com/">View posts on Substack</a></li>';
+                });
+        </script>
+
+        <h2 id="lottery">A Free Lottery</h2>
+
+        <p>
+            Your browser is guessing random Bitcoin private keys and
+            checking them against Satoshi Nakamoto's wallet
+            using <code>secp256k1</code> cryptography.
+            The odds are 1 in 2<sup>256</sup>. Maybe you'll make some money while dropping by.
+        </p>
+
+        <div class="lottery">
+            <div class="lottery-header">
+                <span class="lottery-title"><span class="status-dot"></span>running</span>
+                <span class="meta">12c6DS...rzjrJX &mdash; 51 BTC</span>
+            </div>
+            <div class="lottery-stats">
+                <div class="label">Guesses</div>
+                <div class="big-number" id="total-attempts">0</div>
+            </div>
+            <div class="lottery-meta">
+                <span><span id="total-visits">0</span> visits</span>
+                <span id="time-spent">&mdash;</span>
+                <span><span id="keys-per-sec">&mdash;</span> keys/sec</span>
+            </div>
+            <div class="lottery-live">
+                <div class="lottery-live-side">
+                    <span class="lottery-live-label"><span class="status-dot"></span>Key</span>
+                    <span id="current-privkey">loading...</span>
+                </div>
+                <div class="lottery-live-side" style="text-align: right">
+                    <span class="lottery-live-label">Address</span>
+                    <span id="current-address">&mdash;</span>
+                    <span style="color: var(--maincolor)">&#x2717;</span>
+                </div>
+            </div>
+        </div>
+
+        <hr>
+
+        <footer style="border: none"></footer>
+    </div>
+
+    <script type="module">
+        import { secp256k1 } from 'https://esm.sh/@noble/curves@1.8.1/secp256k1';
+        import { sha256 } from 'https://esm.sh/@noble/hashes@1.7.1/sha256';
+        import { ripemd160 } from 'https://esm.sh/@noble/hashes@1.7.1/ripemd160';
+
+        // Satoshi's untouched wallet — 51.35 BTC
+        const TARGET_ADDRESS = '12c6DSiU4Rq3P4ZxziKxzrL5LmMBrzjrJX';
+        const B58 = '123456789ABCDEFGHJKLMNPQRSTUVWXYZabcdefghijkmnopqrstuvwxyz';
+
+        function base58Encode(bytes) {
+            const digits = [0];
+            for (const byte of bytes) {
+                let carry = byte;
+                for (let j = 0; j < digits.length; j++) {
+                    carry += digits[j] << 8;
+                    digits[j] = carry % 58;
+                    carry = (carry / 58) | 0;
+                }
+                while (carry > 0) {
+                    digits.push(carry % 58);
+                    carry = (carry / 58) | 0;
+                }
+            }
+            let result = '';
+            for (const byte of bytes) {
+                if (byte !== 0) break;
+                result += '1';
+            }
+            for (let i = digits.length - 1; i >= 0; i--) result += B58[digits[i]];
+            return result;
+        }
+
+        function bytesToHex(bytes) {
+            return Array.from(bytes, b => b.toString(16).padStart(2, '0')).join('');
+        }
+
+        function deriveAddress(privKey) {
+            const pub = secp256k1.getPublicKey(privKey, true);
+            const h = ripemd160(sha256(pub));
+            const v = new Uint8Array(21);
+            v[0] = 0x00;
+            v.set(h, 1);
+            const c = sha256(sha256(v)).slice(0, 4);
+            const f = new Uint8Array(25);
+            f.set(v);
+            f.set(c, 21);
+            return base58Encode(f);
+        }
+
+        // Persistence
+        const KEY = 'impossible_lottery';
+        function load() {
+            try {
+                const d = JSON.parse(localStorage.getItem(KEY));
+                return d && typeof d.attempts === 'number' ? d : null;
+            } catch { return null; }
+        }
+        function save(d) { try { localStorage.setItem(KEY, JSON.stringify(d)); } catch {} }
+
+        const stored = load() || { attempts: 0, visits: 0, seconds: 0 };
+        stored.visits++;
+        save(stored);
+
+        // DOM
+        const $ = id => document.getElementById(id);
+        const fmt = new Intl.NumberFormat();
+        const elTotal   = $('total-attempts');
+        const elVisits  = $('total-visits');
+        const elRate    = $('keys-per-sec');
+        const elPrivkey = $('current-privkey');
+        const elAddress = $('current-address');
+        const elTime    = $('time-spent');
+
+        elVisits.textContent = fmt.format(stored.visits);
+        elTotal.textContent  = fmt.format(stored.attempts);
+
+        let session = 0, rate = 0, rateCount = 0;
+        let rateTime = performance.now(), displayTime = 0;
+        let lastPrivHex = '', lastAddr = '';
+        let sessionStart = performance.now();
+
+        function formatDuration(totalSec) {
+            const d = Math.floor(totalSec / 86400);
+            const h = Math.floor((totalSec % 86400) / 3600);
+            const m = Math.floor((totalSec % 3600) / 60);
+            const s = Math.floor(totalSec % 60);
+            if (d > 0) return d + 'd ' + h + 'h ' + m + 'm';
+            if (h > 0) return h + 'h ' + m + 'm ' + s + 's';
+            if (m > 0) return m + 'm ' + s + 's';
+            return s + 's';
+        }
+
+        function updateDisplay() {
+            const total = stored.attempts + session;
+            const elapsed = (performance.now() - sessionStart) / 1000;
+            elTotal.textContent  = fmt.format(total);
+            elRate.textContent   = '~' + fmt.format(Math.round(rate));
+            elTime.textContent   = formatDuration(stored.seconds + elapsed);
+            elPrivkey.textContent = lastPrivHex.slice(0, 16) + '...';
+            elAddress.textContent = lastAddr;
+        }
+
+        function tick() {
+            for (let i = 0; i < 32; i++) {
+                const priv = new Uint8Array(32);
+                crypto.getRandomValues(priv);
+                try {
+                    const addr = deriveAddress(priv);
+                    session++;
+                    lastPrivHex = bytesToHex(priv);
+                    lastAddr = addr;
+                    if (addr === TARGET_ADDRESS) {
+                        updateDisplay();
+                        alert('Found it: ' + lastPrivHex);
+                        return;
+                    }
+                } catch {}
+            }
+
+            const now = performance.now();
+            if (now - rateTime >= 1000) {
+                rate = ((session - rateCount) / (now - rateTime)) * 1000;
+                rateTime = now;
+                rateCount = session;
+            }
+            if (now - displayTime >= 66) {
+                updateDisplay();
+                displayTime = now;
+            }
+            requestAnimationFrame(tick);
+        }
+
+        setInterval(() => {
+            stored.attempts += session;
+            session = 0;
+            rateCount = 0;
+            stored.seconds += (performance.now() - sessionStart) / 1000;
+            sessionStart = performance.now();
+            save(stored);
+        }, 10000);
+        window.addEventListener('beforeunload', () => {
+            stored.attempts += session;
+            stored.seconds += (performance.now() - sessionStart) / 1000;
+            save(stored);
+        });
+
+        tick();
+    </script>
+</body>
+</html>
