@@ -46,5 +46,24 @@ class ReadingTests(unittest.TestCase):
         item={'title':'Paid software','kind':'article','first_seen_at':reading.STAMP}
         self.assertNotIn('AI',reading.rank(item,{'AI':['AI']})['why'])
 
+    def test_apollo_public_metadata_deduplicates_and_preserves_calendar_day(self):
+        import json
+        from html import escape
+        metadata={'title':'A market & economy chart','detailLink':'/wealth/insights-news/insights/daily-spark/chart','blogDate':'2026-09-23'}
+        figure='<figure data-itemDetails="'+escape(json.dumps(metadata),quote=True)+'"></figure>'
+        parser=reading.ApolloArticles('https://www.apollo.com/wealth/insights-news/insights/daily-spark')
+        parser.feed(figure * 2)
+        self.assertEqual(len(parser.items),1)
+        item=next(iter(parser.items.values()))
+        self.assertEqual(item['published_at'],'2026-09-23T19:00:00+00:00')
+        metadata['detailLink']='https://other.example/daily-spark/chart'
+        parser.feed('<figure data-itemDetails="'+escape(json.dumps(metadata),quote=True)+'"></figure>')
+        self.assertEqual(len(parser.items),1)
+
+    def test_excludes_roundup_section_but_keeps_original_interviews(self):
+        source={'exclude_title_pattern':r'^\s*\[?AINews\b'}
+        self.assertFalse(reading.allowed({'title':'[AINews] Weekly roundup'},source))
+        self.assertTrue(reading.allowed({'title':'A conversation about AI agents'},source))
+
 
 if __name__ == '__main__': unittest.main()

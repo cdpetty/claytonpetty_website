@@ -1,6 +1,7 @@
 """Collect public feeds and monitor feedless blogs. Python standard library only."""
 import concurrent.futures
 import hashlib
+import gzip
 import json
 import re
 import urllib.error
@@ -36,6 +37,11 @@ def fetch(url):
         body = response.read(3_000_001)
         if len(body) > 3_000_000:
             raise ValueError("Response too large")
+        if body.startswith(b"\x1f\x8b"):
+            import io
+            with gzip.GzipFile(fileobj=io.BytesIO(body)) as archive:
+                body = archive.read(3_000_001)
+            if len(body) > 3_000_000: raise ValueError("Response too large")
         return body, response.geturl()
 
 
@@ -112,9 +118,46 @@ def rank(item, topics):
     return item
 
 
+class ApolloArticles(HTMLParser):
+    """Read public article metadata from Apollo's Daily Spark listing."""
+    def __init__(self, base):
+        super().__init__(); self.base = base; self.items = {}
+
+    def handle_starttag(self, tag, attrs):
+        raw = dict(attrs).get("data-itemdetails")
+        if not raw: return
+        try:
+            data = json.loads(raw)
+            url = canonical(urljoin(self.base, data.get("detailLink", "")))
+            title = clean(data.get("title"))
+            # The publisher supplies a date only. Noon Pacific preserves that day
+            # in the site's Pacific calendar without claiming an exact publish time.
+            day = datetime.strptime(data.get("blogDate", ""), "%Y-%m-%d")
+            from zoneinfo import ZoneInfo
+            published = day.replace(hour=12, tzinfo=ZoneInfo("America/Los_Angeles")).astimezone(timezone.utc).isoformat()
+            if url and title and urlsplit(url).netloc == urlsplit(self.base).netloc and "/daily-spark/" in url:
+                self.items[url] = {"url": url, "title": title, "published_at": published, "kind": "article"}
+        except (ValueError, TypeError): pass
+
+
+def allowed(item, source):
+    pattern = source.get("exclude_title_pattern")
+    return not pattern or not re.search(pattern, item["title"], re.I)
+
+
 def check(source, previous):
     old = previous or {}; state = dict(old)
     state.update(name=source["name"], url=source["url"], categories=source["categories"], checked_at=STAMP)
+    if source.get("adapter") == "apollo":
+        try:
+            body, final = fetch(source["url"])
+            parser = ApolloArticles(final); parser.feed(body.decode("utf-8"))
+            if not parser.items: raise ValueError("No dated articles found")
+            state.update(status="feed", last_success_at=STAMP, error=None)
+            return state, list(parser.items.values())
+        except Exception as exc:
+            state.update(status="error", error=type(exc).__name__)
+            return state, []
     candidates = [source.get("feed_url"), old.get("feed_url")]
     page = None; error = None
     for feed in dict.fromkeys(filter(None, candidates)):
@@ -161,13 +204,15 @@ def main():
     prior_items = {i["url"]: i for i in previous.get("items", [])}
     seen = previous.get("first_seen", {url: i["first_seen_at"] for url, i in prior_items.items()})
     active = {s["url"] for s in config["sources"]}
-    items = {url: i for url, i in prior_items.items() if i.get("source_url") in active}
+    by_source = {s["url"]: s for s in config["sources"]}
+    items = {url: i for url, i in prior_items.items() if i.get("source_url") in active and allowed(i, by_source[i["source_url"]])}
     states = []
     with concurrent.futures.ThreadPoolExecutor(max_workers=10) as pool:
         futures = [pool.submit(check, source, prior_sources.get(source["url"])) for source in config["sources"]]
         for future in concurrent.futures.as_completed(futures):
             state, entries = future.result(); states.append(state)
             for entry in entries:
+                if not allowed(entry, by_source[state["url"]]): continue
                 prior = prior_items.get(entry["url"], {})
                 first_seen = seen.get(entry["url"], STAMP) if entry["kind"] == "article" else STAMP
                 seen[entry["url"]] = first_seen
@@ -176,7 +221,7 @@ def main():
     cutoff = (NOW - timedelta(days=config.get("lookback_days", 60))).isoformat()
     fresh = [rank(i, config["ranking_topics"]) for i in items.values() if (i.get("published_at") or i["first_seen_at"]) >= cutoff and (i.get("published_at") or i["first_seen_at"]) <= STAMP]
     fresh.sort(key=lambda i: (-i["score"], i["url"]))
-    output = {"updated_at": STAMP, "ranking": "Title topic matches and recency; no AI analysis or full article content.", "first_seen": seen, "sources": sorted(states, key=lambda s: s["name"].lower()), "items": fresh[:1000]}
+    output = {"updated_at": STAMP, "ranking": "Title topic matches and recency; no AI analysis or full article content.", "first_seen": seen, "sources": sorted(states, key=lambda s: s["name"].lower()), "items": fresh}
     temp = target.with_suffix(".tmp"); temp.write_text(json.dumps(output, indent=2) + "\n"); temp.replace(target)
     counts = {s: sum(x["status"] == s for x in states) for s in ("feed", "page_watch", "error")}
     print(json.dumps({"sources": len(states), "items": len(fresh), **counts}))
