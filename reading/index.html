@@ -15,21 +15,22 @@
     .controls{display:flex;flex-wrap:wrap;gap:12px;margin:26px 0}.controls label{flex:1;min-width:150px}input,select{width:100%;padding:10px;background:var(--bg);color:var(--text);border:1px solid var(--line);border-radius:3px;font:inherit}
     ol{list-style:none;padding:0;margin:0}li.article{padding:24px 0;border-top:1px solid var(--line);display:grid;grid-template-columns:34px 1fr;gap:12px}.rank{color:var(--blue);font-size:19px}h3{font-size:16px;line-height:1.5;margin:0 0 8px}.meta{font-size:11px;color:var(--muted)}.why{font-size:12px}
     button{background:transparent;color:var(--text);border:1px solid var(--line);border-radius:3px;padding:5px 10px;font:inherit;cursor:pointer}button[aria-pressed=true]{background:var(--panel)}details{border-top:3px dotted var(--blue);margin-top:30px;padding-top:18px}summary{cursor:pointer}#sources li{margin:12px 0}#notice{padding:12px;background:var(--panel)}[hidden]{display:none!important}
+    #topic-nav{display:flex;flex-wrap:wrap;gap:10px 18px;margin:20px 0 36px;font-size:12px}.topic-section{margin:32px 0 44px;scroll-margin-top:20px}.topic-section h2{border-bottom:3px dotted var(--blue);padding-bottom:12px;font-size:19px}.topic-count{font-weight:400;font-size:12px;color:var(--muted)}.show-more{margin-top:8px;padding:9px 14px}
   </style>
 </head>
 <body><main>
   <header><a href="/">Clayton Petty</a><nav><a href="/">Home</a></nav></header>
   <h1>The reading list</h1>
-  <p>New writing from the blogs and newsletters I follow, ordered by relevance and recency.</p>
+  <p>New writing from the blogs and newsletters I follow, organized by topic, with the highest-priority reads first.</p>
   <p id="status" class="muted" role="status">Loading the latest reading list…</p>
   <p id="notice" hidden></p>
   <div class="controls">
     <label>Search<input id="search" type="search" placeholder="Title or publication"></label>
-    <label>Topic<select id="category"><option value="">All topics</option></select></label>
-    <label>Show<select id="view"><option value="all">All items</option><option value="unread">Unread</option><option value="saved">Saved</option></select></label>
+    <label>Topic<select id="category" aria-label="Topic"><option value="">All topics</option></select></label>
+    <label>Show<select id="view" aria-label="Show"><option value="all">All items</option><option value="unread">Unread</option><option value="saved">Saved</option></select></label>
   </div>
-  <p class="meta">Ranked by title matches for AI, startups, investing, and security, plus recency. Reading state is saved on this browser only.</p>
-  <p id="count" aria-live="polite"></p><ol id="items"></ol>
+  <p class="meta">Ranked by title matches for AI, startups, investing, and security, plus recency. Topics use article titles, with source categories as a fallback. Reading state is saved on this browser only.</p>
+  <p id="count" aria-live="polite"></p><nav id="topic-nav" aria-label="Jump to topic"></nav><div id="items"></div>
   <details><summary id="sources-title">Followed sources</summary><p class="muted">Feeds report articles. Page watches report content changes, which can include navigation or other edits. Failed checks retain previously collected items.</p><ul id="sources"></ul></details>
   <noscript>Please enable JavaScript to display the reading list.</noscript>
 </main><script src="reading.js" defer></script></body></html>

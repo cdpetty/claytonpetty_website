@@ -21,3 +21,7 @@ Run `python3 -m unittest discover -s tests` before publishing. Preview with `pyt
 ## Inbox integration is pending
 
 This collector handles public blog and newsletter feeds. The work-inbox inventory was used only to discover public publication feeds; email data is not published. Newly subscribed newsletters are not automatically discovered. Personal-inbox discovery remains pending. Gmail access through the assistant does not provide credentials to GitHub Actions. Daily email ingestion needs separate authorization and a chosen private/public publishing design. No email messages, inbox addresses, message IDs, access tokens, or paid newsletter text are included in this site.
+
+## Topic organization
+
+Articles are grouped into AI & infrastructure, Startups & venture, Security, Finance & markets, China & geopolitics, Building & engineering, Science & progress, and Essays & ideas. Title-based rules choose one topic, falling back to the source category; page changes appear under Site updates. Each section retains priority order and shows five items initially, with a Show all control. Search and saved/unread filters apply across sections. Topic rules live in `reading/reading.js`.
