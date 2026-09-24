@@ -69,7 +69,23 @@ function render() {
       row.append(star,copy);list.append(row);
     });
   }
+  packTopics();
 }
+function packTopics() {
+  const grid=$('items'),sections=[...grid.querySelectorAll('.topic-section')];
+  if(!sections.length)return;
+  const columns=getComputedStyle(grid).gridTemplateColumns.split(' ').length;
+  sections.sort((a,b)=>Number(a.id.slice(6))-Number(b.id.slice(6)));
+  grid.replaceChildren(...sections);
+  if(columns===1)return;
+  const measured=sections.map(section=>({section,height:section.getBoundingClientRect().height+8})).sort((a,b)=>b.height-a.height);
+  const stacks=Array.from({length:columns},()=>({node:el('div','','topic-column'),height:0}));
+  for(const {section,height} of measured){const stack=stacks.reduce((best,s)=>s.height<best.height?s:best);stack.node.append(section);stack.height+=height;}
+  grid.replaceChildren(...stacks.map(s=>s.node));
+}
+let resizeTimer;
+window.addEventListener('resize',()=>{clearTimeout(resizeTimer);resizeTimer=setTimeout(packTopics,100);});
+document.fonts.ready.then(packTopics);
 function moveDay(amount) {
   const date=new Date($('day').value+'T12:00:00Z');date.setUTCDate(date.getUTCDate()+amount);
   $('day').value=date.toISOString().slice(0,10);render();

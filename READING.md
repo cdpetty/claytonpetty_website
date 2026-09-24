@@ -30,7 +30,7 @@ Run `python3 -m unittest discover -s tests` before publishing. Preview with `pyt
 
 ## Interface
 
-The daily view uses America/Los_Angeles dates, a date picker, search, and compact topic cards in up to four desktop columns and one phone column. All collected articles for the selected day are displayed. Following opens a searchable, alphabetical source directory grouped by topic and shows article-feed, page-watch or failed-check status.
+The daily view uses America/Los_Angeles dates, a date picker, search, and compact topic cards in up to five desktop columns and one phone column. All collected articles for the selected day are displayed. Following opens a searchable, alphabetical source directory grouped by topic and shows article-feed, page-watch or failed-check status.
 
 Stars save article snapshots in this browser's localStorage, including articles that later age out of the feed. They do not sync across devices and are lost if site data is cleared. Storage failures show a warning.
 
@@ -47,3 +47,8 @@ Explicit exclusions are recorded in `editorial_exclusions` in sources.json as gu
 ## Article bylines
 
 Article cards display the author in a compact second line, with the publication available on hover. Authors come from RSS creator/author fields, Atom entry/feed authors, or Apollo public article metadata. Email addresses in RSS author fields are stripped. If no author is supplied, the publication is shown without inventing a byline. Search includes authors, and new starred snapshots preserve them; older stars gain bylines when their articles are still in the current feed.
+
+
+## Dense layout
+
+Topic cards are packed by measured height into balanced columns, recalculated after filtering, font loading and resizing. Full titles and bylines remain visible; nothing is clipped or paginated. At 1366×768, the September 23 sample of 39 articles fits without scrolling. Smaller screens and larger daily lists may still scroll. Phone text and touch targets stay larger.
