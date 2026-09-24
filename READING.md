@@ -33,3 +33,7 @@ The grid defaults to today in America/Los_Angeles and shows every collected, dat
 ## Stars
 
 A small star on each article saves a snapshot of its title, link, publication, and date in browser localStorage. The Starred toggle shows saved articles across all dates, including ones that age out of the 60-day feed. Stars are private to this browser, do not sync across devices, and are lost if site storage is cleared. Storage failures show a visible warning. No read-status controls or ranking explanations are displayed.
+
+## Following directory
+
+The Following button opens a searchable, alphabetical directory grouped by source topic/category. It lists every configured source, including sources with failed checks, and identifies article feeds versus page watches. The dialog supports Escape/Close and adapts to phones. Search matches publication/person names, websites, and groups.
