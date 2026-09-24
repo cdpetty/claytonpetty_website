@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T05:29:41.560571+00:00",
+  "updated_at": "2026-09-24T05:56:11.944570+00:00",
   "ranking": "Title topic matches and recency; no AI analysis or full article content.",
   "first_seen": {
     "https://tomtunguz.com/the-most-important-market-in-ai-is-the-middle/": "2026-09-24T03:49:54.414936+00:00",
@@ -1722,7 +1722,7 @@
       "categories": [
         "Newsletters"
       ],
-      "checked_at": "2026-09-24T05:29:41.560571+00:00",
+      "checked_at": "2026-09-24T05:56:11.944570+00:00",
       "discovered_at": "2026-09-24T03:55:11.066413+00:00",
       "status": "error",
       "error": "HTTPError"
@@ -1733,10 +1733,10 @@
       "categories": [
         "Newsletters"
       ],
-      "checked_at": "2026-09-24T05:29:41.560571+00:00",
+      "checked_at": "2026-09-24T05:56:11.944570+00:00",
       "status": "feed",
       "feed_url": "https://rss.beehiiv.com/feeds/bMmoLYZLBJ.xml",
-      "last_success_at": "2026-09-24T05:29:41.560571+00:00",
+      "last_success_at": "2026-09-24T05:56:11.944570+00:00",
       "error": null
     },
     {
@@ -1745,10 +1745,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T05:29:41.560571+00:00",
+      "checked_at": "2026-09-24T05:56:11.944570+00:00",
       "status": "page_watch",
       "fingerprint": "1497fd3376bdd786f4ae8c7569220f179a7c0757abab933956b2645b227566a8",
-      "last_success_at": "2026-09-24T05:29:41.560571+00:00",
+      "last_success_at": "2026-09-24T05:56:11.944570+00:00",
       "error": null,
       "discovered_at": "2026-09-24T03:49:54.414936+00:00"
     },
@@ -1758,7 +1758,7 @@
       "categories": [
         "Newsletters"
       ],
-      "checked_at": "2026-09-24T05:29:41.560571+00:00",
+      "checked_at": "2026-09-24T05:56:11.944570+00:00",
       "discovered_at": "2026-09-24T03:55:11.066413+00:00",
       "status": "error",
       "error": "HTTPError"
@@ -1769,10 +1769,10 @@
       "categories": [
         "Newsletters"
       ],
-      "checked_at": "2026-09-24T05:29:41.560571+00:00",
+      "checked_at": "2026-09-24T05:56:11.944570+00:00",
       "status": "feed",
       "feed_url": "https://www.bensbites.com/feed",
-      "last_success_at": "2026-09-24T05:29:41.560571+00:00",
+      "last_success_at": "2026-09-24T05:56:11.944570+00:00",
       "error": null
     },
     {
@@ -1781,10 +1781,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T05:29:41.560571+00:00",
+      "checked_at": "2026-09-24T05:56:11.944570+00:00",
       "status": "page_watch",
       "fingerprint": "a79900bfe8704325f8081c9d7bc96f376fa218137b5df1cf07a38fc3780e91d7",
-      "last_success_at": "2026-09-24T05:29:41.560571+00:00",
+      "last_success_at": "2026-09-24T05:56:11.944570+00:00",
       "error": null,
       "discovered_at": "2026-09-24T03:49:54.414936+00:00"
     },
@@ -1794,10 +1794,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T05:29:41.560571+00:00",
+      "checked_at": "2026-09-24T05:56:11.944570+00:00",
       "status": "feed",
       "feed_url": "https://www.benkuhn.net/index.xml",
-      "last_success_at": "2026-09-24T05:29:41.560571+00:00",
+      "last_success_at": "2026-09-24T05:56:11.944570+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -1807,10 +1807,10 @@
       "categories": [
         "AI"
       ],
-      "checked_at": "2026-09-24T05:29:41.560571+00:00",
+      "checked_at": "2026-09-24T05:56:11.944570+00:00",
       "status": "feed",
       "feed_url": "https://www.beren.io/feed.xml",
-      "last_success_at": "2026-09-24T05:29:41.560571+00:00",
+      "last_success_at": "2026-09-24T05:56:11.944570+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -1820,10 +1820,10 @@
       "categories": [
         "AI"
       ],
-      "checked_at": "2026-09-24T05:29:41.560571+00:00",
+      "checked_at": "2026-09-24T05:56:11.944570+00:00",
       "status": "feed",
       "feed_url": "https://www.aleksagordic.com/feed.xml",
-      "last_success_at": "2026-09-24T05:29:41.560571+00:00",
+      "last_success_at": "2026-09-24T05:56:11.944570+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -1833,10 +1833,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T05:29:41.560571+00:00",
+      "checked_at": "2026-09-24T05:56:11.944570+00:00",
       "status": "feed",
       "feed_url": "https://boz.com/rss.xml",
-      "last_success_at": "2026-09-24T05:29:41.560571+00:00",
+      "last_success_at": "2026-09-24T05:56:11.944570+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -1846,10 +1846,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T05:29:41.560571+00:00",
+      "checked_at": "2026-09-24T05:56:11.944570+00:00",
       "status": "page_watch",
       "fingerprint": "542c24b8b68eb39167bb812f132dec758a3ab4c0f19b1c384e13fd630e12b2d4",
-      "last_success_at": "2026-09-24T05:29:41.560571+00:00",
+      "last_success_at": "2026-09-24T05:56:11.944570+00:00",
       "error": null,
       "discovered_at": "2026-09-24T03:49:54.414936+00:00"
     },
@@ -1859,10 +1859,10 @@
       "categories": [
         "China"
       ],
-      "checked_at": "2026-09-24T05:29:41.560571+00:00",
+      "checked_at": "2026-09-24T05:56:11.944570+00:00",
       "status": "feed",
       "feed_url": "https://www.chinatalk.media/feed",
-      "last_success_at": "2026-09-24T05:29:41.560571+00:00",
+      "last_success_at": "2026-09-24T05:56:11.944570+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -1873,7 +1873,7 @@
         "Cyber",
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T05:29:41.560571+00:00",
+      "checked_at": "2026-09-24T05:56:11.944570+00:00",
       "status": "error",
       "fingerprint": "e40c7d84bc4e624b0b4f3aa9d48e22f65c4dadbfcb31e977cc69562318d5fc3d",
       "last_success_at": "2026-09-24T03:48:01.272420+00:00",
@@ -1886,10 +1886,10 @@
       "categories": [
         "Cyber"
       ],
-      "checked_at": "2026-09-24T05:29:41.560571+00:00",
+      "checked_at": "2026-09-24T05:56:11.944570+00:00",
       "status": "page_watch",
       "fingerprint": "6a02e958bbaf04c3b603b830254abbca16ff273ce9bfef9f7b075809d4f8130a",
-      "last_success_at": "2026-09-24T05:29:41.560571+00:00",
+      "last_success_at": "2026-09-24T05:56:11.944570+00:00",
       "error": null,
       "discovered_at": "2026-09-24T03:49:54.414936+00:00"
     },
@@ -1899,10 +1899,10 @@
       "categories": [
         "AI"
       ],
-      "checked_at": "2026-09-24T05:29:41.560571+00:00",
+      "checked_at": "2026-09-24T05:56:11.944570+00:00",
       "status": "page_watch",
       "fingerprint": "cab214c4dbf1fa1c38b98d9e9dabf0fe21d031c6d6b72d41a5c6d311c554587b",
-      "last_success_at": "2026-09-24T05:29:41.560571+00:00",
+      "last_success_at": "2026-09-24T05:56:11.944570+00:00",
       "error": null,
       "discovered_at": "2026-09-24T03:49:54.414936+00:00"
     },
@@ -1912,10 +1912,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T05:29:41.560571+00:00",
+      "checked_at": "2026-09-24T05:56:11.944570+00:00",
       "status": "feed",
       "feed_url": "https://www.cold-takes.com/rss/",
-      "last_success_at": "2026-09-24T05:29:41.560571+00:00",
+      "last_success_at": "2026-09-24T05:56:11.944570+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -1925,10 +1925,10 @@
       "categories": [
         "Finance"
       ],
-      "checked_at": "2026-09-24T05:29:41.560571+00:00",
+      "checked_at": "2026-09-24T05:56:11.944570+00:00",
       "status": "page_watch",
       "fingerprint": "222cb2bbc555655ed4d1e0dcea983e3dfc57e3d778e95f8a5ec3d2739c591911",
-      "last_success_at": "2026-09-24T05:29:41.560571+00:00",
+      "last_success_at": "2026-09-24T05:56:11.944570+00:00",
       "error": null,
       "discovered_at": "2026-09-24T03:49:54.414936+00:00"
     },
@@ -1938,10 +1938,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T05:29:41.560571+00:00",
+      "checked_at": "2026-09-24T05:56:11.944570+00:00",
       "status": "page_watch",
       "fingerprint": "8b6979729bf2143214e51d459c100cc97703e25c2d623ffd3faccd40724a3103",
-      "last_success_at": "2026-09-24T05:29:41.560571+00:00",
+      "last_success_at": "2026-09-24T05:56:11.944570+00:00",
       "error": null,
       "discovered_at": "2026-09-24T03:49:54.414936+00:00"
     },
@@ -1951,7 +1951,7 @@
       "categories": [
         "Newsletters"
       ],
-      "checked_at": "2026-09-24T05:29:41.560571+00:00",
+      "checked_at": "2026-09-24T05:56:11.944570+00:00",
       "discovered_at": "2026-09-24T03:55:11.066413+00:00",
       "status": "error",
       "error": "HTTPError"
@@ -1962,7 +1962,7 @@
       "categories": [
         "Newsletters"
       ],
-      "checked_at": "2026-09-24T05:29:41.560571+00:00",
+      "checked_at": "2026-09-24T05:56:11.944570+00:00",
       "discovered_at": "2026-09-24T03:55:11.066413+00:00",
       "status": "error",
       "error": "HTTPError"
@@ -1973,10 +1973,10 @@
       "categories": [
         "Cyber"
       ],
-      "checked_at": "2026-09-24T05:29:41.560571+00:00",
+      "checked_at": "2026-09-24T05:56:11.944570+00:00",
       "status": "feed",
       "feed_url": "https://cybersecurityventures.com/feed/",
-      "last_success_at": "2026-09-24T05:29:41.560571+00:00",
+      "last_success_at": "2026-09-24T05:56:11.944570+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -1986,12 +1986,12 @@
       "categories": [
         "AI"
       ],
-      "checked_at": "2026-09-24T05:29:41.560571+00:00",
+      "checked_at": "2026-09-24T05:56:11.944570+00:00",
       "status": "page_watch",
       "error": null,
       "discovered_at": "2026-09-24T03:49:54.414936+00:00",
       "fingerprint": "5df51225ee547a034664be4c2a5f82f3bbff06a463691c913ce1033c9fa4e20d",
-      "last_success_at": "2026-09-24T05:29:41.560571+00:00"
+      "last_success_at": "2026-09-24T05:56:11.944570+00:00"
     },
     {
       "name": "Dwarkesh Podcast",
@@ -1999,10 +1999,10 @@
       "categories": [
         "Newsletters"
       ],
-      "checked_at": "2026-09-24T05:29:41.560571+00:00",
+      "checked_at": "2026-09-24T05:56:11.944570+00:00",
       "status": "feed",
       "feed_url": "https://www.dwarkesh.com/feed",
-      "last_success_at": "2026-09-24T05:29:41.560571+00:00",
+      "last_success_at": "2026-09-24T05:56:11.944570+00:00",
       "error": null
     },
     {
@@ -2011,10 +2011,10 @@
       "categories": [
         "Newsletters"
       ],
-      "checked_at": "2026-09-24T05:29:41.560571+00:00",
+      "checked_at": "2026-09-24T05:56:11.944570+00:00",
       "status": "feed",
       "feed_url": "https://news.poach.vc/feed",
-      "last_success_at": "2026-09-24T05:29:41.560571+00:00",
+      "last_success_at": "2026-09-24T05:56:11.944570+00:00",
       "error": null
     },
     {
@@ -2023,10 +2023,10 @@
       "categories": [
         "AI"
       ],
-      "checked_at": "2026-09-24T05:29:41.560571+00:00",
+      "checked_at": "2026-09-24T05:56:11.944570+00:00",
       "status": "page_watch",
       "fingerprint": "a582747353d0bd8aba0b3fa43063c1bbf443adb401ab87a036dc951bcaec43e0",
-      "last_success_at": "2026-09-24T05:29:41.560571+00:00",
+      "last_success_at": "2026-09-24T05:56:11.944570+00:00",
       "error": null,
       "discovered_at": "2026-09-24T03:49:54.414936+00:00"
     },
@@ -2036,10 +2036,10 @@
       "categories": [
         "Cyber"
       ],
-      "checked_at": "2026-09-24T05:29:41.560571+00:00",
+      "checked_at": "2026-09-24T05:56:11.944570+00:00",
       "status": "feed",
       "fingerprint": "3b386860baee7ef1360ad41f8759481c6d2ac304e383e403d7526c239c722ce9",
-      "last_success_at": "2026-09-24T05:29:41.560571+00:00",
+      "last_success_at": "2026-09-24T05:56:11.944570+00:00",
       "error": null,
       "feed_url": "https://embracethered.com/blog/index.xml",
       "discovered_at": "2026-09-24T03:49:54.414936+00:00"
@@ -2050,10 +2050,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T05:29:41.560571+00:00",
+      "checked_at": "2026-09-24T05:56:11.944570+00:00",
       "status": "feed",
       "feed_url": "https://www.henrikkarlsson.xyz/feed",
-      "last_success_at": "2026-09-24T05:29:41.560571+00:00",
+      "last_success_at": "2026-09-24T05:56:11.944570+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -2063,10 +2063,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T05:29:41.560571+00:00",
+      "checked_at": "2026-09-24T05:56:11.944570+00:00",
       "status": "page_watch",
       "feed_url": "https://gwern.substack.com/feed",
-      "last_success_at": "2026-09-24T05:29:41.560571+00:00",
+      "last_success_at": "2026-09-24T05:56:11.944570+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null,
       "fingerprint": "36e4d5a3730ccc917e986c0c8a7ecd35d4bd26cb3379027f6c12fc26424f3727"
@@ -2077,10 +2077,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T05:29:41.560571+00:00",
+      "checked_at": "2026-09-24T05:56:11.944570+00:00",
       "status": "feed",
       "feed_url": "https://insights.euclid.vc/feed",
-      "last_success_at": "2026-09-24T05:29:41.560571+00:00",
+      "last_success_at": "2026-09-24T05:56:11.944570+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -2090,10 +2090,10 @@
       "categories": [
         "General"
       ],
-      "checked_at": "2026-09-24T05:29:41.560571+00:00",
+      "checked_at": "2026-09-24T05:56:11.944570+00:00",
       "status": "page_watch",
       "fingerprint": "0e54f811ff384c363417ba5a8279c7370afd7b51d4d7fc69a35b5fc1a442aabc",
-      "last_success_at": "2026-09-24T05:29:41.560571+00:00",
+      "last_success_at": "2026-09-24T05:56:11.944570+00:00",
       "error": null,
       "discovered_at": "2026-09-24T03:49:54.414936+00:00"
     },
@@ -2103,10 +2103,10 @@
       "categories": [
         "Newsletters"
       ],
-      "checked_at": "2026-09-24T05:29:41.560571+00:00",
+      "checked_at": "2026-09-24T05:56:11.944570+00:00",
       "status": "feed",
       "feed_url": "https://ideas.everywhere.vc/feed",
-      "last_success_at": "2026-09-24T05:29:41.560571+00:00",
+      "last_success_at": "2026-09-24T05:56:11.944570+00:00",
       "error": null
     },
     {
@@ -2115,10 +2115,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T05:29:41.560571+00:00",
+      "checked_at": "2026-09-24T05:56:11.944570+00:00",
       "status": "feed",
       "feed_url": "https://findthemoat.com/feed/",
-      "last_success_at": "2026-09-24T05:29:41.560571+00:00",
+      "last_success_at": "2026-09-24T05:56:11.944570+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -2128,7 +2128,7 @@
       "categories": [
         "Newsletters"
       ],
-      "checked_at": "2026-09-24T05:29:41.560571+00:00",
+      "checked_at": "2026-09-24T05:56:11.944570+00:00",
       "discovered_at": "2026-09-24T03:55:11.066413+00:00",
       "status": "error",
       "error": "HTTPError"
@@ -2139,7 +2139,7 @@
       "categories": [
         "Newsletters"
       ],
-      "checked_at": "2026-09-24T05:29:41.560571+00:00",
+      "checked_at": "2026-09-24T05:56:11.944570+00:00",
       "discovered_at": "2026-09-24T03:55:11.066413+00:00",
       "status": "error",
       "error": "HTTPError"
@@ -2150,7 +2150,7 @@
       "categories": [
         "Newsletters"
       ],
-      "checked_at": "2026-09-24T05:29:41.560571+00:00",
+      "checked_at": "2026-09-24T05:56:11.944570+00:00",
       "discovered_at": "2026-09-24T03:55:11.066413+00:00",
       "status": "error",
       "error": "HTTPError"
@@ -2161,10 +2161,10 @@
       "categories": [
         "Newsletters"
       ],
-      "checked_at": "2026-09-24T05:29:41.560571+00:00",
+      "checked_at": "2026-09-24T05:56:11.944570+00:00",
       "status": "feed",
       "feed_url": "https://www.gmnyc.com/feed",
-      "last_success_at": "2026-09-24T05:29:41.560571+00:00",
+      "last_success_at": "2026-09-24T05:56:11.944570+00:00",
       "error": null
     },
     {
@@ -2173,7 +2173,7 @@
       "categories": [
         "Newsletters"
       ],
-      "checked_at": "2026-09-24T05:29:41.560571+00:00",
+      "checked_at": "2026-09-24T05:56:11.944570+00:00",
       "discovered_at": "2026-09-24T03:55:11.066413+00:00",
       "status": "error",
       "error": "HTTPError"
@@ -2184,7 +2184,7 @@
       "categories": [
         "Cyber"
       ],
-      "checked_at": "2026-09-24T05:29:41.560571+00:00",
+      "checked_at": "2026-09-24T05:56:11.944570+00:00",
       "discovered_at": "2026-09-24T03:49:54.414936+00:00",
       "status": "error",
       "error": "URLError"
@@ -2195,10 +2195,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T05:29:41.560571+00:00",
+      "checked_at": "2026-09-24T05:56:11.944570+00:00",
       "status": "feed",
       "feed_url": "https://grahamduncan.blog/feed/",
-      "last_success_at": "2026-09-24T05:29:41.560571+00:00",
+      "last_success_at": "2026-09-24T05:56:11.944570+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -2208,10 +2208,10 @@
       "categories": [
         "Finance"
       ],
-      "checked_at": "2026-09-24T05:29:41.560571+00:00",
+      "checked_at": "2026-09-24T05:56:11.944570+00:00",
       "status": "page_watch",
       "fingerprint": "fca5ebe3f0b78df8838f4cc26ceb9a6b4d7eceeb99d6d7d4d392ca382c9e68a3",
-      "last_success_at": "2026-09-24T05:29:41.560571+00:00",
+      "last_success_at": "2026-09-24T05:56:11.944570+00:00",
       "error": null,
       "discovered_at": "2026-09-24T03:49:54.414936+00:00"
     },
@@ -2222,10 +2222,10 @@
         "AI",
         "Newsletters"
       ],
-      "checked_at": "2026-09-24T05:29:41.560571+00:00",
+      "checked_at": "2026-09-24T05:56:11.944570+00:00",
       "status": "feed",
       "feed_url": "https://jack-clark.net/feed/",
-      "last_success_at": "2026-09-24T05:29:41.560571+00:00",
+      "last_success_at": "2026-09-24T05:56:11.944570+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -2235,10 +2235,10 @@
       "categories": [
         "Builders"
       ],
-      "checked_at": "2026-09-24T05:29:41.560571+00:00",
+      "checked_at": "2026-09-24T05:56:11.944570+00:00",
       "status": "page_watch",
       "fingerprint": "ba2546cec03cd602857dc2c155af0ee60cd481a3c7313feaecb1fd214faa637d",
-      "last_success_at": "2026-09-24T05:29:41.560571+00:00",
+      "last_success_at": "2026-09-24T05:56:11.944570+00:00",
       "error": null,
       "discovered_at": "2026-09-24T03:49:54.414936+00:00"
     },
@@ -2248,7 +2248,7 @@
       "categories": [
         "Newsletters"
       ],
-      "checked_at": "2026-09-24T05:29:41.560571+00:00",
+      "checked_at": "2026-09-24T05:56:11.944570+00:00",
       "discovered_at": "2026-09-24T03:55:11.066413+00:00",
       "status": "error",
       "error": "HTTPError"
@@ -2259,10 +2259,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T05:29:41.560571+00:00",
+      "checked_at": "2026-09-24T05:56:11.944570+00:00",
       "status": "feed",
       "feed_url": "https://jsomers.net/blog/feed",
-      "last_success_at": "2026-09-24T05:29:41.560571+00:00",
+      "last_success_at": "2026-09-24T05:56:11.944570+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -2272,10 +2272,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T05:29:41.560571+00:00",
+      "checked_at": "2026-09-24T05:56:11.944570+00:00",
       "status": "feed",
       "feed_url": "https://fullhoffman.com/feed/",
-      "last_success_at": "2026-09-24T05:29:41.560571+00:00",
+      "last_success_at": "2026-09-24T05:56:11.944570+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -2285,7 +2285,7 @@
       "categories": [
         "Newsletters"
       ],
-      "checked_at": "2026-09-24T05:29:41.560571+00:00",
+      "checked_at": "2026-09-24T05:56:11.944570+00:00",
       "discovered_at": "2026-09-24T03:55:11.066413+00:00",
       "status": "error",
       "error": "HTTPError"
@@ -2296,10 +2296,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T05:29:41.560571+00:00",
+      "checked_at": "2026-09-24T05:56:11.944570+00:00",
       "status": "feed",
       "feed_url": "https://www.jmeiners.com/feed.xml",
-      "last_success_at": "2026-09-24T05:29:41.560571+00:00",
+      "last_success_at": "2026-09-24T05:56:11.944570+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -2309,10 +2309,10 @@
       "categories": [
         "General"
       ],
-      "checked_at": "2026-09-24T05:29:41.560571+00:00",
+      "checked_at": "2026-09-24T05:56:11.944570+00:00",
       "status": "page_watch",
       "fingerprint": "4dc36184e2117a315d6addb4ee1093384dddb508e49bfa9afdef3379b10dab7c",
-      "last_success_at": "2026-09-24T05:29:41.560571+00:00",
+      "last_success_at": "2026-09-24T05:56:11.944570+00:00",
       "error": null,
       "discovered_at": "2026-09-24T03:49:54.414936+00:00"
     },
@@ -2322,7 +2322,7 @@
       "categories": [
         "Newsletters"
       ],
-      "checked_at": "2026-09-24T05:29:41.560571+00:00",
+      "checked_at": "2026-09-24T05:56:11.944570+00:00",
       "discovered_at": "2026-09-24T03:55:11.066413+00:00",
       "status": "error",
       "error": "HTTPError"
@@ -2333,10 +2333,10 @@
       "categories": [
         "AI"
       ],
-      "checked_at": "2026-09-24T05:29:41.560571+00:00",
+      "checked_at": "2026-09-24T05:56:11.944570+00:00",
       "status": "page_watch",
       "fingerprint": "7b326d5bd068f2c7bff5936724c56f5865c0ecb80641f4bf4c12b96ce6de5c37",
-      "last_success_at": "2026-09-24T05:29:41.560571+00:00",
+      "last_success_at": "2026-09-24T05:56:11.944570+00:00",
       "error": null,
       "discovered_at": "2026-09-24T03:49:54.414936+00:00"
     },
@@ -2346,10 +2346,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T05:29:41.560571+00:00",
+      "checked_at": "2026-09-24T05:56:11.944570+00:00",
       "status": "feed",
       "feed_url": "https://qy.co/feed.xml",
-      "last_success_at": "2026-09-24T05:29:41.560571+00:00",
+      "last_success_at": "2026-09-24T05:56:11.944570+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -2359,7 +2359,7 @@
       "categories": [
         "Newsletters"
       ],
-      "checked_at": "2026-09-24T05:29:41.560571+00:00",
+      "checked_at": "2026-09-24T05:56:11.944570+00:00",
       "discovered_at": "2026-09-24T03:55:11.066413+00:00",
       "status": "error",
       "error": "HTTPError"
@@ -2370,10 +2370,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T05:29:41.560571+00:00",
+      "checked_at": "2026-09-24T05:56:11.944570+00:00",
       "status": "feed",
       "feed_url": "https://magnusfinancial.com/feed/",
-      "last_success_at": "2026-09-24T05:29:41.560571+00:00",
+      "last_success_at": "2026-09-24T05:56:11.944570+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -2383,10 +2383,10 @@
       "categories": [
         "Cyber"
       ],
-      "checked_at": "2026-09-24T05:29:41.560571+00:00",
+      "checked_at": "2026-09-24T05:56:11.944570+00:00",
       "status": "feed",
       "feed_url": "https://malwr-analysis.com/feed/",
-      "last_success_at": "2026-09-24T05:29:41.560571+00:00",
+      "last_success_at": "2026-09-24T05:56:11.944570+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -2396,10 +2396,10 @@
       "categories": [
         "Newsletters"
       ],
-      "checked_at": "2026-09-24T05:29:41.560571+00:00",
+      "checked_at": "2026-09-24T05:56:11.944570+00:00",
       "status": "feed",
       "feed_url": "https://www.spatialintelligence.ai/feed",
-      "last_success_at": "2026-09-24T05:29:41.560571+00:00",
+      "last_success_at": "2026-09-24T05:56:11.944570+00:00",
       "error": null
     },
     {
@@ -2408,10 +2408,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T05:29:41.560571+00:00",
+      "checked_at": "2026-09-24T05:56:11.944570+00:00",
       "status": "feed",
       "feed_url": "https://marginalrevolution.com/feed",
-      "last_success_at": "2026-09-24T05:29:41.560571+00:00",
+      "last_success_at": "2026-09-24T05:56:11.944570+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -2421,10 +2421,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T05:29:41.560571+00:00",
+      "checked_at": "2026-09-24T05:56:11.944570+00:00",
       "status": "feed",
       "feed_url": "https://matklad.github.io/feed.xml",
-      "last_success_at": "2026-09-24T05:29:41.560571+00:00",
+      "last_success_at": "2026-09-24T05:56:11.944570+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -2434,10 +2434,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T05:29:41.560571+00:00",
+      "checked_at": "2026-09-24T05:56:11.944570+00:00",
       "status": "feed",
       "feed_url": "https://maxhodak.com/writings.xml",
-      "last_success_at": "2026-09-24T05:29:41.560571+00:00",
+      "last_success_at": "2026-09-24T05:56:11.944570+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -2447,10 +2447,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T05:29:41.560571+00:00",
+      "checked_at": "2026-09-24T05:56:11.944570+00:00",
       "status": "feed",
       "feed_url": "https://nadia.xyz/feed",
-      "last_success_at": "2026-09-24T05:29:41.560571+00:00",
+      "last_success_at": "2026-09-24T05:56:11.944570+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -2460,10 +2460,10 @@
       "categories": [
         "Newsletters"
       ],
-      "checked_at": "2026-09-24T05:29:41.560571+00:00",
+      "checked_at": "2026-09-24T05:56:11.944570+00:00",
       "status": "feed",
       "feed_url": "https://www.newcomer.co/feed",
-      "last_success_at": "2026-09-24T05:29:41.560571+00:00",
+      "last_success_at": "2026-09-24T05:56:11.944570+00:00",
       "error": null
     },
     {
@@ -2472,10 +2472,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T05:29:41.560571+00:00",
+      "checked_at": "2026-09-24T05:56:11.944570+00:00",
       "status": "page_watch",
       "fingerprint": "193281cb4f511f085cdfe8ab074bd6063986152c10209f07ab9ccebbd0ae5061",
-      "last_success_at": "2026-09-24T05:29:41.560571+00:00",
+      "last_success_at": "2026-09-24T05:56:11.944570+00:00",
       "error": null,
       "discovered_at": "2026-09-24T03:49:54.414936+00:00"
     },
@@ -2485,7 +2485,7 @@
       "categories": [
         "Newsletters"
       ],
-      "checked_at": "2026-09-24T05:29:41.560571+00:00",
+      "checked_at": "2026-09-24T05:56:11.944570+00:00",
       "discovered_at": "2026-09-24T03:55:11.066413+00:00",
       "status": "error",
       "error": "HTTPError"
@@ -2496,10 +2496,10 @@
       "categories": [
         "Newsletters"
       ],
-      "checked_at": "2026-09-24T05:29:41.560571+00:00",
+      "checked_at": "2026-09-24T05:56:11.944570+00:00",
       "status": "feed",
       "feed_url": "https://rss.beehiiv.com/feeds/fh86e58Ctb.xml",
-      "last_success_at": "2026-09-24T05:29:41.560571+00:00",
+      "last_success_at": "2026-09-24T05:56:11.944570+00:00",
       "error": null
     },
     {
@@ -2508,7 +2508,7 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T05:29:41.560571+00:00",
+      "checked_at": "2026-09-24T05:56:11.944570+00:00",
       "status": "error",
       "error": "HTTPError",
       "discovered_at": "2026-09-24T03:49:54.414936+00:00"
@@ -2519,10 +2519,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T05:29:41.560571+00:00",
+      "checked_at": "2026-09-24T05:56:11.944570+00:00",
       "status": "feed",
       "feed_url": "https://paco.me/feed.xml",
-      "last_success_at": "2026-09-24T05:29:41.560571+00:00",
+      "last_success_at": "2026-09-24T05:56:11.944570+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -2532,10 +2532,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T05:29:41.560571+00:00",
+      "checked_at": "2026-09-24T05:56:11.944570+00:00",
       "status": "feed",
       "feed_url": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
-      "last_success_at": "2026-09-24T05:29:41.560571+00:00",
+      "last_success_at": "2026-09-24T05:56:11.944570+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -2545,10 +2545,10 @@
       "categories": [
         "Cyber"
       ],
-      "checked_at": "2026-09-24T05:29:41.560571+00:00",
+      "checked_at": "2026-09-24T05:56:11.944570+00:00",
       "status": "feed",
       "feed_url": "https://www.philvenables.com/blog-feed.xml",
-      "last_success_at": "2026-09-24T05:29:41.560571+00:00",
+      "last_success_at": "2026-09-24T05:56:11.944570+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -2558,7 +2558,7 @@
       "categories": [
         "General"
       ],
-      "checked_at": "2026-09-24T05:29:41.560571+00:00",
+      "checked_at": "2026-09-24T05:56:11.944570+00:00",
       "status": "error",
       "error": "HTTPError",
       "discovered_at": "2026-09-24T03:49:54.414936+00:00"
@@ -2569,10 +2569,10 @@
       "categories": [
         "Newsletters"
       ],
-      "checked_at": "2026-09-24T05:29:41.560571+00:00",
+      "checked_at": "2026-09-24T05:56:11.944570+00:00",
       "status": "feed",
       "feed_url": "https://www.prosaictimes.com/feed",
-      "last_success_at": "2026-09-24T05:29:41.560571+00:00",
+      "last_success_at": "2026-09-24T05:56:11.944570+00:00",
       "error": null
     },
     {
@@ -2581,12 +2581,12 @@
       "categories": [
         "AI"
       ],
-      "checked_at": "2026-09-24T05:29:41.560571+00:00",
+      "checked_at": "2026-09-24T05:56:11.944570+00:00",
       "discovered_at": "2026-09-24T03:49:54.414936+00:00",
       "status": "page_watch",
       "error": null,
       "fingerprint": "ced3e07f9dea3cabfe087518dd703265b5ef7dc0a543e7992c78fe5fcfa977a3",
-      "last_success_at": "2026-09-24T05:29:41.560571+00:00"
+      "last_success_at": "2026-09-24T05:56:11.944570+00:00"
     },
     {
       "name": "Rabib Alam",
@@ -2594,7 +2594,7 @@
       "categories": [
         "AI"
       ],
-      "checked_at": "2026-09-24T05:29:41.560571+00:00",
+      "checked_at": "2026-09-24T05:56:11.944570+00:00",
       "status": "error",
       "fingerprint": "a5e4bf6b562cb2e02c99900128b0573738f658d04d96535c98881acb8134886b",
       "last_success_at": "2026-09-24T03:48:01.272420+00:00",
@@ -2607,10 +2607,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T05:29:41.560571+00:00",
+      "checked_at": "2026-09-24T05:56:11.944570+00:00",
       "status": "feed",
       "feed_url": "https://rsms.me/atom.xml",
-      "last_success_at": "2026-09-24T05:29:41.560571+00:00",
+      "last_success_at": "2026-09-24T05:56:11.944570+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -2620,10 +2620,10 @@
       "categories": [
         "Builders"
       ],
-      "checked_at": "2026-09-24T05:29:41.560571+00:00",
+      "checked_at": "2026-09-24T05:56:11.944570+00:00",
       "status": "page_watch",
       "fingerprint": "a835884ff255d1f73c62b1563188d75a7631a2ffab21b5853dc4574e93d4cba2",
-      "last_success_at": "2026-09-24T05:29:41.560571+00:00",
+      "last_success_at": "2026-09-24T05:56:11.944570+00:00",
       "error": null,
       "discovered_at": "2026-09-24T03:49:54.414936+00:00"
     },
@@ -2633,7 +2633,7 @@
       "categories": [
         "AI"
       ],
-      "checked_at": "2026-09-24T05:29:41.560571+00:00",
+      "checked_at": "2026-09-24T05:56:11.944570+00:00",
       "status": "error",
       "error": "TimeoutError",
       "discovered_at": "2026-09-24T03:49:54.414936+00:00"
@@ -2644,10 +2644,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T05:29:41.560571+00:00",
+      "checked_at": "2026-09-24T05:56:11.944570+00:00",
       "status": "feed",
       "feed_url": "https://blog.samaltman.com/posts.atom",
-      "last_success_at": "2026-09-24T05:29:41.560571+00:00",
+      "last_success_at": "2026-09-24T05:56:11.944570+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -2657,10 +2657,10 @@
       "categories": [
         "General"
       ],
-      "checked_at": "2026-09-24T05:29:41.560571+00:00",
+      "checked_at": "2026-09-24T05:56:11.944570+00:00",
       "status": "feed",
       "feed_url": "https://semianalysis.com/feed/",
-      "last_success_at": "2026-09-24T05:29:41.560571+00:00",
+      "last_success_at": "2026-09-24T05:56:11.944570+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -2670,10 +2670,10 @@
       "categories": [
         "China"
       ],
-      "checked_at": "2026-09-24T05:29:41.560571+00:00",
+      "checked_at": "2026-09-24T05:56:11.944570+00:00",
       "status": "feed",
       "feed_url": "https://sinocism.com/feed",
-      "last_success_at": "2026-09-24T05:29:41.560571+00:00",
+      "last_success_at": "2026-09-24T05:56:11.944570+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -2683,10 +2683,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T05:29:41.560571+00:00",
+      "checked_at": "2026-09-24T05:56:11.944570+00:00",
       "status": "feed",
       "feed_url": "https://slatestarcodex.com/feed/",
-      "last_success_at": "2026-09-24T05:29:41.560571+00:00",
+      "last_success_at": "2026-09-24T05:56:11.944570+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -2696,10 +2696,10 @@
       "categories": [
         "Newsletters"
       ],
-      "checked_at": "2026-09-24T05:29:41.560571+00:00",
+      "checked_at": "2026-09-24T05:56:11.944570+00:00",
       "status": "feed",
       "feed_url": "https://www.sourcery.vc/feed",
-      "last_success_at": "2026-09-24T05:29:41.560571+00:00",
+      "last_success_at": "2026-09-24T05:56:11.944570+00:00",
       "error": null
     },
     {
@@ -2708,10 +2708,10 @@
       "categories": [
         "Newsletters"
       ],
-      "checked_at": "2026-09-24T05:29:41.560571+00:00",
+      "checked_at": "2026-09-24T05:56:11.944570+00:00",
       "status": "feed",
       "feed_url": "https://blog.southparkcommons.com/feed",
-      "last_success_at": "2026-09-24T05:29:41.560571+00:00",
+      "last_success_at": "2026-09-24T05:56:11.944570+00:00",
       "error": null
     },
     {
@@ -2720,7 +2720,7 @@
       "categories": [
         "Newsletters"
       ],
-      "checked_at": "2026-09-24T05:29:41.560571+00:00",
+      "checked_at": "2026-09-24T05:56:11.944570+00:00",
       "discovered_at": "2026-09-24T03:55:11.066413+00:00",
       "status": "error",
       "error": "HTTPError"
@@ -2731,7 +2731,7 @@
       "categories": [
         "Newsletters"
       ],
-      "checked_at": "2026-09-24T05:29:41.560571+00:00",
+      "checked_at": "2026-09-24T05:56:11.944570+00:00",
       "discovered_at": "2026-09-24T03:55:11.066413+00:00",
       "status": "error",
       "error": "HTTPError"
@@ -2742,7 +2742,7 @@
       "categories": [
         "Newsletters"
       ],
-      "checked_at": "2026-09-24T05:29:41.560571+00:00",
+      "checked_at": "2026-09-24T05:56:11.944570+00:00",
       "discovered_at": "2026-09-24T03:55:11.066413+00:00",
       "status": "error",
       "error": "HTTPError"
@@ -2753,10 +2753,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T05:29:41.560571+00:00",
+      "checked_at": "2026-09-24T05:56:11.944570+00:00",
       "status": "feed",
       "feed_url": "https://susam.net/feed.xml",
-      "last_success_at": "2026-09-24T05:29:41.560571+00:00",
+      "last_success_at": "2026-09-24T05:56:11.944570+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -2766,7 +2766,7 @@
       "categories": [
         "Newsletters"
       ],
-      "checked_at": "2026-09-24T05:29:41.560571+00:00",
+      "checked_at": "2026-09-24T05:56:11.944570+00:00",
       "discovered_at": "2026-09-24T03:55:11.066413+00:00",
       "status": "error",
       "error": "HTTPError"
@@ -2777,10 +2777,10 @@
       "categories": [
         "Newsletters"
       ],
-      "checked_at": "2026-09-24T05:29:41.560571+00:00",
+      "checked_at": "2026-09-24T05:56:11.944570+00:00",
       "status": "feed",
       "feed_url": "https://rss.beehiiv.com/feeds/YSbcm1WDrI.xml",
-      "last_success_at": "2026-09-24T05:29:41.560571+00:00",
+      "last_success_at": "2026-09-24T05:56:11.944570+00:00",
       "error": null
     },
     {
@@ -2789,10 +2789,10 @@
       "categories": [
         "China"
       ],
-      "checked_at": "2026-09-24T05:29:41.560571+00:00",
+      "checked_at": "2026-09-24T05:56:11.944570+00:00",
       "status": "feed",
       "feed_url": "https://www.asianometry.com/feed",
-      "last_success_at": "2026-09-24T05:29:41.560571+00:00",
+      "last_success_at": "2026-09-24T05:56:11.944570+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -2802,7 +2802,7 @@
       "categories": [
         "Newsletters"
       ],
-      "checked_at": "2026-09-24T05:29:41.560571+00:00",
+      "checked_at": "2026-09-24T05:56:11.944570+00:00",
       "discovered_at": "2026-09-24T03:55:11.066413+00:00",
       "status": "error",
       "error": "HTTPError"
@@ -2813,7 +2813,7 @@
       "categories": [
         "Newsletters"
       ],
-      "checked_at": "2026-09-24T05:29:41.560571+00:00",
+      "checked_at": "2026-09-24T05:56:11.944570+00:00",
       "discovered_at": "2026-09-24T03:55:11.066413+00:00",
       "status": "error",
       "error": "HTTPError"
@@ -2824,10 +2824,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T05:29:41.560571+00:00",
+      "checked_at": "2026-09-24T05:56:11.944570+00:00",
       "status": "feed",
       "fingerprint": "fa8b7f5eac12a40b22f7965f7f1466e48e38747255f18cc949cf5831e5ca2350",
-      "last_success_at": "2026-09-24T05:29:41.560571+00:00",
+      "last_success_at": "2026-09-24T05:56:11.944570+00:00",
       "error": null,
       "feed_url": "https://tomtunguz.com/index.xml",
       "discovered_at": "2026-09-24T03:49:54.414936+00:00"
@@ -2838,10 +2838,10 @@
       "categories": [
         "AI"
       ],
-      "checked_at": "2026-09-24T05:29:41.560571+00:00",
+      "checked_at": "2026-09-24T05:56:11.944570+00:00",
       "status": "feed",
       "feed_url": "https://towardsdatascience.com/feed/",
-      "last_success_at": "2026-09-24T05:29:41.560571+00:00",
+      "last_success_at": "2026-09-24T05:56:11.944570+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -2851,10 +2851,10 @@
       "categories": [
         "Newsletters"
       ],
-      "checked_at": "2026-09-24T05:29:41.560571+00:00",
+      "checked_at": "2026-09-24T05:56:11.944570+00:00",
       "status": "feed",
       "feed_url": "https://thescienceofhitting.com/feed",
-      "last_success_at": "2026-09-24T05:29:41.560571+00:00",
+      "last_success_at": "2026-09-24T05:56:11.944570+00:00",
       "error": null
     },
     {
@@ -2864,10 +2864,10 @@
         "Solo blogs",
         "AI"
       ],
-      "checked_at": "2026-09-24T05:29:41.560571+00:00",
+      "checked_at": "2026-09-24T05:56:11.944570+00:00",
       "status": "page_watch",
       "fingerprint": "7326ecdee1523681e63a7ac7b45d57fa034fce8989c94357587b4ddedc6c42d4",
-      "last_success_at": "2026-09-24T05:29:41.560571+00:00",
+      "last_success_at": "2026-09-24T05:56:11.944570+00:00",
       "error": null,
       "discovered_at": "2026-09-24T03:49:54.414936+00:00"
     },
@@ -2877,10 +2877,10 @@
       "categories": [
         "General"
       ],
-      "checked_at": "2026-09-24T05:29:41.560571+00:00",
+      "checked_at": "2026-09-24T05:56:11.944570+00:00",
       "status": "feed",
       "feed_url": "https://worksinprogress.co/rss.xml",
-      "last_success_at": "2026-09-24T05:29:41.560571+00:00",
+      "last_success_at": "2026-09-24T05:56:11.944570+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -2890,10 +2890,10 @@
       "categories": [
         "Cyber"
       ],
-      "checked_at": "2026-09-24T05:29:41.560571+00:00",
+      "checked_at": "2026-09-24T05:56:11.944570+00:00",
       "status": "feed",
       "feed_url": "https://nicholas.carlini.com/writing/feed.xml",
-      "last_success_at": "2026-09-24T05:29:41.560571+00:00",
+      "last_success_at": "2026-09-24T05:56:11.944570+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -2903,10 +2903,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T05:29:41.560571+00:00",
+      "checked_at": "2026-09-24T05:56:11.944570+00:00",
       "status": "page_watch",
       "fingerprint": "873f26a9d2413dfaa66f1325cfbd473c7e71fbbf6539e36d1362e98086f479f2",
-      "last_success_at": "2026-09-24T05:29:41.560571+00:00",
+      "last_success_at": "2026-09-24T05:56:11.944570+00:00",
       "error": null,
       "discovered_at": "2026-09-24T03:49:54.414936+00:00"
     }
@@ -2937,7 +2937,7 @@
         "Solo blogs"
       ],
       "first_seen_at": "2026-09-24T03:48:01.272420+00:00",
-      "score": 67.6,
+      "score": 67.5,
       "why": "AI & infrastructure; Startups & investing"
     },
     {
@@ -2983,20 +2983,6 @@
       "why": "AI & infrastructure; Security"
     },
     {
-      "url": "https://www.newcomer.co/p/less-than-one-week-until-the-machine",
-      "title": "Less than One Week Until the Machine Earning AI Summit: See Our Speakers & Discussion Group Leaders",
-      "published_at": "2026-09-23T18:51:21+00:00",
-      "kind": "article",
-      "source": "Newcomer",
-      "source_url": "https://newcomer.substack.com/",
-      "categories": [
-        "Newsletters"
-      ],
-      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
-      "score": 44.6,
-      "why": "AI & infrastructure"
-    },
-    {
       "url": "https://marginalrevolution.com/marginalrevolution/2026/09/optimal-liability-for-offensive-and-defensive-ai.html",
       "title": "Optimal liability for offensive and defensive AI",
       "published_at": "2026-09-23T18:03:36+00:00",
@@ -3007,6 +2993,20 @@
         "Solo blogs"
       ],
       "first_seen_at": "2026-09-24T03:48:01.272420+00:00",
+      "score": 44.5,
+      "why": "AI & infrastructure"
+    },
+    {
+      "url": "https://www.newcomer.co/p/less-than-one-week-until-the-machine",
+      "title": "Less than One Week Until the Machine Earning AI Summit: See Our Speakers & Discussion Group Leaders",
+      "published_at": "2026-09-23T18:51:21+00:00",
+      "kind": "article",
+      "source": "Newcomer",
+      "source_url": "https://newcomer.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
       "score": 44.5,
       "why": "AI & infrastructure"
     },
@@ -3119,7 +3119,7 @@
         "Newsletters"
       ],
       "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
-      "score": 42.6,
+      "score": 42.5,
       "why": "AI & infrastructure"
     },
     {
@@ -3246,21 +3246,7 @@
         "Solo blogs"
       ],
       "first_seen_at": "2026-09-24T03:48:01.272420+00:00",
-      "score": 39.6,
-      "why": "AI & infrastructure"
-    },
-    {
-      "url": "https://towardsdatascience.com/we-pinned-our-model-version-to-stay-safe-the-provider-deprecated-it-anyway/",
-      "title": "We Pinned Our Model Version to Stay Safe. The Provider Deprecated It Anyway.",
-      "published_at": "2026-09-18T14:00:02+00:00",
-      "kind": "article",
-      "source": "Towards Data Science",
-      "source_url": "https://towardsdatascience.com/",
-      "categories": [
-        "AI"
-      ],
-      "first_seen_at": "2026-09-24T03:48:01.272420+00:00",
-      "score": 39.4,
+      "score": 39.5,
       "why": "AI & infrastructure"
     },
     {
@@ -3295,6 +3281,20 @@
       "url": "https://towardsdatascience.com/starting-a-career-in-data-science-in-the-age-of-ai/",
       "title": "Starting a Career in Data Science in the Age of AI",
       "published_at": "2026-09-18T12:30:01+00:00",
+      "kind": "article",
+      "source": "Towards Data Science",
+      "source_url": "https://towardsdatascience.com/",
+      "categories": [
+        "AI"
+      ],
+      "first_seen_at": "2026-09-24T03:48:01.272420+00:00",
+      "score": 39.3,
+      "why": "AI & infrastructure"
+    },
+    {
+      "url": "https://towardsdatascience.com/we-pinned-our-model-version-to-stay-safe-the-provider-deprecated-it-anyway/",
+      "title": "We Pinned Our Model Version to Stay Safe. The Provider Deprecated It Anyway.",
+      "published_at": "2026-09-18T14:00:02+00:00",
       "kind": "article",
       "source": "Towards Data Science",
       "source_url": "https://towardsdatascience.com/",
@@ -3414,7 +3414,7 @@
         "China"
       ],
       "first_seen_at": "2026-09-24T03:48:01.272420+00:00",
-      "score": 35.9,
+      "score": 35.8,
       "why": "AI & infrastructure"
     },
     {
@@ -3456,7 +3456,7 @@
         "Newsletters"
       ],
       "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
-      "score": 32.5,
+      "score": 32.4,
       "why": "AI & infrastructure"
     },
     {
@@ -3488,20 +3488,6 @@
       "why": "Security"
     },
     {
-      "url": "https://magnusfinancial.com/market-commentary-august-2026/",
-      "title": "Market Commentary \u2013 August 2026",
-      "published_at": "2026-09-11T11:31:25+00:00",
-      "kind": "article",
-      "source": "Magnus Financial Group",
-      "source_url": "https://magnusfinancial.com/",
-      "categories": [
-        "Solo blogs"
-      ],
-      "first_seen_at": "2026-09-24T03:48:01.272420+00:00",
-      "score": 32.3,
-      "why": "Startups & investing"
-    },
-    {
       "url": "https://www.bensbites.com/p/telling-ai-to-design-is-hard",
       "title": "Telling AI to design is hard",
       "published_at": "2026-09-11T13:07:26+00:00",
@@ -3514,6 +3500,20 @@
       "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
       "score": 32.3,
       "why": "AI & infrastructure"
+    },
+    {
+      "url": "https://magnusfinancial.com/market-commentary-august-2026/",
+      "title": "Market Commentary \u2013 August 2026",
+      "published_at": "2026-09-11T11:31:25+00:00",
+      "kind": "article",
+      "source": "Magnus Financial Group",
+      "source_url": "https://magnusfinancial.com/",
+      "categories": [
+        "Solo blogs"
+      ],
+      "first_seen_at": "2026-09-24T03:48:01.272420+00:00",
+      "score": 32.2,
+      "why": "Startups & investing"
     },
     {
       "url": "https://sinocism.com/p/xi-going-to-india-plan-for-building",
@@ -3640,20 +3640,6 @@
       ],
       "first_seen_at": "2026-09-24T03:48:01.272420+00:00",
       "score": 25.2,
-      "why": "AI & infrastructure"
-    },
-    {
-      "url": "https://fullhoffman.com/2026/09/03/the-half-life-of-ai-engineering/",
-      "title": "The Half-Life of AI Engineering",
-      "published_at": "2026-09-04T07:05:15+00:00",
-      "kind": "article",
-      "source": "Jason A. Hoffman \u2013 Industrialist",
-      "source_url": "https://fullhoffman.com/",
-      "categories": [
-        "Solo blogs"
-      ],
-      "first_seen_at": "2026-09-24T03:48:01.272420+00:00",
-      "score": 25.1,
       "why": "AI & infrastructure"
     },
     {
@@ -4004,6 +3990,20 @@
       ],
       "first_seen_at": "2026-09-24T03:48:01.272420+00:00",
       "score": 25,
+      "why": "AI & infrastructure"
+    },
+    {
+      "url": "https://fullhoffman.com/2026/09/03/the-half-life-of-ai-engineering/",
+      "title": "The Half-Life of AI Engineering",
+      "published_at": "2026-09-04T07:05:15+00:00",
+      "kind": "article",
+      "source": "Jason A. Hoffman \u2013 Industrialist",
+      "source_url": "https://fullhoffman.com/",
+      "categories": [
+        "Solo blogs"
+      ],
+      "first_seen_at": "2026-09-24T03:48:01.272420+00:00",
+      "score": 25.0,
       "why": "AI & infrastructure"
     },
     {
@@ -4681,7 +4681,7 @@
         "Solo blogs"
       ],
       "first_seen_at": "2026-09-24T05:26:32.889645+00:00",
-      "score": 20.0,
+      "score": 19.9,
       "why": "From a followed source"
     },
     {
@@ -4769,20 +4769,6 @@
       "why": "From a followed source"
     },
     {
-      "url": "https://towardsdatascience.com/from-words-to-vectors-what-happens-in-between/",
-      "title": "From Words to Vectors: What Happens in Between?",
-      "published_at": "2026-09-23T14:00:01+00:00",
-      "kind": "article",
-      "source": "Towards Data Science",
-      "source_url": "https://towardsdatascience.com/",
-      "categories": [
-        "AI"
-      ],
-      "first_seen_at": "2026-09-24T03:48:01.272420+00:00",
-      "score": 19.4,
-      "why": "From a followed source"
-    },
-    {
       "url": "https://towardsdatascience.com/i-trained-a-tiny-network-to-compress-data-it-drew-a-pentagon/",
       "title": "I Trained a Tiny Network to Compress Data. It Drew a Pentagon.",
       "published_at": "2026-09-23T15:30:01+00:00",
@@ -4825,6 +4811,20 @@
       "why": "From a followed source"
     },
     {
+      "url": "https://towardsdatascience.com/from-words-to-vectors-what-happens-in-between/",
+      "title": "From Words to Vectors: What Happens in Between?",
+      "published_at": "2026-09-23T14:00:01+00:00",
+      "kind": "article",
+      "source": "Towards Data Science",
+      "source_url": "https://towardsdatascience.com/",
+      "categories": [
+        "AI"
+      ],
+      "first_seen_at": "2026-09-24T03:48:01.272420+00:00",
+      "score": 19.3,
+      "why": "From a followed source"
+    },
+    {
       "url": "https://towardsdatascience.com/how-grpo-trains-small-language-models-with-verifiable-rewards/",
       "title": "How GRPO Trains Small Language Models with Verifiable Rewards",
       "published_at": "2026-09-23T12:30:01+00:00",
@@ -4839,20 +4839,6 @@
       "why": "From a followed source"
     },
     {
-      "url": "https://worksinprogress.co/issue/weapons-of-mass-decentralization/",
-      "title": "Weapons of mass decentralization",
-      "published_at": "2026-09-23T11:34:36+00:00",
-      "kind": "article",
-      "source": "Works in Progress Magazine",
-      "source_url": "https://worksinprogress.co/",
-      "categories": [
-        "General"
-      ],
-      "first_seen_at": "2026-09-24T03:48:01.272420+00:00",
-      "score": 19.3,
-      "why": "From a followed source"
-    },
-    {
       "url": "https://marginalrevolution.com/marginalrevolution/2026/09/the-price-of-intelligence-is-falling.html",
       "title": "The Price of Intelligence is Falling Rapidly",
       "published_at": "2026-09-23T11:17:32+00:00",
@@ -4861,6 +4847,20 @@
       "source_url": "https://marginalrevolution.com/",
       "categories": [
         "Solo blogs"
+      ],
+      "first_seen_at": "2026-09-24T03:48:01.272420+00:00",
+      "score": 19.2,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://worksinprogress.co/issue/weapons-of-mass-decentralization/",
+      "title": "Weapons of mass decentralization",
+      "published_at": "2026-09-23T11:34:36+00:00",
+      "kind": "article",
+      "source": "Works in Progress Magazine",
+      "source_url": "https://worksinprogress.co/",
+      "categories": [
+        "General"
       ],
       "first_seen_at": "2026-09-24T03:48:01.272420+00:00",
       "score": 19.2,
@@ -4891,7 +4891,7 @@
         "Solo blogs"
       ],
       "first_seen_at": "2026-09-24T03:48:01.272420+00:00",
-      "score": 19.0,
+      "score": 18.9,
       "why": "From a followed source"
     },
     {
@@ -4919,7 +4919,7 @@
         "Solo blogs"
       ],
       "first_seen_at": "2026-09-24T03:48:01.272420+00:00",
-      "score": 18.6,
+      "score": 18.5,
       "why": "From a followed source"
     },
     {
@@ -4940,20 +4940,6 @@
       "url": "https://towardsdatascience.com/break-your-own-rag-pipeline-before-users-do/",
       "title": "Break Your Own RAG Pipeline Before Users Do",
       "published_at": "2026-09-22T15:30:01+00:00",
-      "kind": "article",
-      "source": "Towards Data Science",
-      "source_url": "https://towardsdatascience.com/",
-      "categories": [
-        "AI"
-      ],
-      "first_seen_at": "2026-09-24T03:48:01.272420+00:00",
-      "score": 18.4,
-      "why": "From a followed source"
-    },
-    {
-      "url": "https://towardsdatascience.com/build-a-speaker-recognition-app-with-claude-code/",
-      "title": "Build a Speaker-Recognition App with Claude Code",
-      "published_at": "2026-09-22T14:00:02+00:00",
       "kind": "article",
       "source": "Towards Data Science",
       "source_url": "https://towardsdatascience.com/",
@@ -5007,6 +4993,20 @@
       "why": "From a followed source"
     },
     {
+      "url": "https://towardsdatascience.com/build-a-speaker-recognition-app-with-claude-code/",
+      "title": "Build a Speaker-Recognition App with Claude Code",
+      "published_at": "2026-09-22T14:00:02+00:00",
+      "kind": "article",
+      "source": "Towards Data Science",
+      "source_url": "https://towardsdatascience.com/",
+      "categories": [
+        "AI"
+      ],
+      "first_seen_at": "2026-09-24T03:48:01.272420+00:00",
+      "score": 18.3,
+      "why": "From a followed source"
+    },
+    {
       "url": "https://www.bensbites.com/p/what-can-you-build-with-jev",
       "title": "What can you build with Jev",
       "published_at": "2026-09-22T13:01:13+00:00",
@@ -5045,7 +5045,7 @@
         "China"
       ],
       "first_seen_at": "2026-09-24T03:48:01.272420+00:00",
-      "score": 17.7,
+      "score": 17.6,
       "why": "From a followed source"
     },
     {
@@ -5063,9 +5063,9 @@
       "why": "From a followed source"
     },
     {
-      "url": "https://towardsdatascience.com/gpt-6-astra-just-hit-openais-highest-cybersecurity-risk-level/",
-      "title": "GPT-6 Astra Just Hit OpenAI's Highest Cybersecurity Risk Level",
-      "published_at": "2026-09-21T14:00:01+00:00",
+      "url": "https://towardsdatascience.com/google-offered-10m-for-a-dying-airlines-data-how-can-you-value-yours/",
+      "title": "Google Offered $10M for a Dying Airline's Data. How Can You Value Yours?",
+      "published_at": "2026-09-21T12:30:02+00:00",
       "kind": "article",
       "source": "Towards Data Science",
       "source_url": "https://towardsdatascience.com/",
@@ -5073,13 +5073,13 @@
         "AI"
       ],
       "first_seen_at": "2026-09-24T03:48:01.272420+00:00",
-      "score": 17.4,
+      "score": 17.3,
       "why": "From a followed source"
     },
     {
-      "url": "https://towardsdatascience.com/google-offered-10m-for-a-dying-airlines-data-how-can-you-value-yours/",
-      "title": "Google Offered $10M for a Dying Airline's Data. How Can You Value Yours?",
-      "published_at": "2026-09-21T12:30:02+00:00",
+      "url": "https://towardsdatascience.com/gpt-6-astra-just-hit-openais-highest-cybersecurity-risk-level/",
+      "title": "GPT-6 Astra Just Hit OpenAI's Highest Cybersecurity Risk Level",
+      "published_at": "2026-09-21T14:00:01+00:00",
       "kind": "article",
       "source": "Towards Data Science",
       "source_url": "https://towardsdatascience.com/",
@@ -5189,20 +5189,6 @@
       "why": "From a followed source"
     },
     {
-      "url": "https://www.sourcery.vc/p/icymi-how-bending-spoons-works",
-      "title": "ICYMI: How Bending Spoons Works",
-      "published_at": "2026-09-20T14:11:01+00:00",
-      "kind": "article",
-      "source": "Sourcery",
-      "source_url": "https://mollysoshea.substack.com/",
-      "categories": [
-        "Newsletters"
-      ],
-      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
-      "score": 16.4,
-      "why": "From a followed source"
-    },
-    {
       "url": "https://towardsdatascience.com/cbam-paper-walkthrough-the-double-attention-mechanism/",
       "title": "CBAM Paper Walkthrough: The Double-Attention Mechanism",
       "published_at": "2026-09-20T13:00:01+00:00",
@@ -5217,6 +5203,20 @@
       "why": "From a followed source"
     },
     {
+      "url": "https://www.sourcery.vc/p/icymi-how-bending-spoons-works",
+      "title": "ICYMI: How Bending Spoons Works",
+      "published_at": "2026-09-20T14:11:01+00:00",
+      "kind": "article",
+      "source": "Sourcery",
+      "source_url": "https://mollysoshea.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 16.3,
+      "why": "From a followed source"
+    },
+    {
       "url": "https://www.chinatalk.media/p/i-went-to-kyrgyzstan-to-find-chinas",
       "title": "I Went to Kyrgyzstan to Find China\u2019s Silent Nomads",
       "published_at": "2026-09-20T11:53:42+00:00",
@@ -5227,7 +5227,7 @@
         "China"
       ],
       "first_seen_at": "2026-09-24T03:48:01.272420+00:00",
-      "score": 16.3,
+      "score": 16.2,
       "why": "From a followed source"
     },
     {
@@ -5241,7 +5241,7 @@
         "AI"
       ],
       "first_seen_at": "2026-09-24T03:48:01.272420+00:00",
-      "score": 16.1,
+      "score": 16.0,
       "why": "From a followed source"
     },
     {
@@ -5283,7 +5283,7 @@
         "Newsletters"
       ],
       "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
-      "score": 15.4,
+      "score": 15.3,
       "why": "From a followed source"
     },
     {
@@ -5451,7 +5451,7 @@
         "AI"
       ],
       "first_seen_at": "2026-09-24T03:48:01.272420+00:00",
-      "score": 12.1,
+      "score": 12.0,
       "why": "From a followed source"
     },
     {
@@ -5479,7 +5479,7 @@
         "Newsletters"
       ],
       "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
-      "score": 11.6,
+      "score": 11.5,
       "why": "From a followed source"
     },
     {
@@ -5609,20 +5609,6 @@
       "why": "From a followed source"
     },
     {
-      "url": "https://www.sourcery.vc/p/breaking-all-4-saronic-co-founders",
-      "title": "BREAKING: All 4 Saronic Co-Founders (Part III)",
-      "published_at": "2026-09-11T16:28:40+00:00",
-      "kind": "article",
-      "source": "Sourcery",
-      "source_url": "https://mollysoshea.substack.com/",
-      "categories": [
-        "Newsletters"
-      ],
-      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
-      "score": 7.5,
-      "why": "From a followed source"
-    },
-    {
       "url": "https://www.chinatalk.media/p/gwot-at-25-with-wesley-morgan",
       "title": "GWOT at 25 with Wesley Morgan",
       "published_at": "2026-09-11T14:44:04+00:00",
@@ -5633,6 +5619,20 @@
         "China"
       ],
       "first_seen_at": "2026-09-24T03:48:01.272420+00:00",
+      "score": 7.4,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://www.sourcery.vc/p/breaking-all-4-saronic-co-founders",
+      "title": "BREAKING: All 4 Saronic Co-Founders (Part III)",
+      "published_at": "2026-09-11T16:28:40+00:00",
+      "kind": "article",
+      "source": "Sourcery",
+      "source_url": "https://mollysoshea.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
       "score": 7.4,
       "why": "From a followed source"
     },
@@ -5815,7 +5815,7 @@
         "AI"
       ],
       "first_seen_at": "2026-09-24T03:48:01.272420+00:00",
-      "score": 5.1,
+      "score": 5.0,
       "why": "From a followed source"
     },
     {
@@ -5885,7 +5885,7 @@
         "AI"
       ],
       "first_seen_at": "2026-09-24T03:48:01.272420+00:00",
-      "score": 4.1,
+      "score": 4.0,
       "why": "From a followed source"
     },
     {
@@ -5927,7 +5927,7 @@
         "AI"
       ],
       "first_seen_at": "2026-09-24T03:48:01.272420+00:00",
-      "score": 2.1,
+      "score": 2.0,
       "why": "From a followed source"
     },
     {
