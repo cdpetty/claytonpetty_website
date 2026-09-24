@@ -288,14 +288,6 @@
       "feed_url": null
     },
     {
-      "name": "Links",
-      "url": "https://qy.co/links/",
-      "categories": [
-        "Solo blogs"
-      ],
-      "feed_url": null
-    },
-    {
       "name": "Susam Pal",
       "url": "https://susam.net/",
       "categories": [
@@ -530,14 +522,6 @@
       "feed_url": null
     },
     {
-      "name": "PulseMCP | Keep up-to-date with MCP",
-      "url": "https://www.pulsemcp.com/",
-      "categories": [
-        "AI"
-      ],
-      "feed_url": null
-    },
-    {
       "name": "Newcomer",
       "url": "https://newcomer.substack.com/",
       "categories": [
@@ -600,14 +584,6 @@
         "Newsletters"
       ],
       "feed_url": "https://humiris.substack.com/feed"
-    },
-    {
-      "name": "Geeks Of The Valley Newsletter",
-      "url": "https://geeksofthevalley.substack.com/",
-      "categories": [
-        "Newsletters"
-      ],
-      "feed_url": "https://geeksofthevalley.substack.com/feed"
     },
     {
       "name": "Prosaic Times",
@@ -1508,6 +1484,69 @@
       "categories": [
         "VC"
       ]
+    },
+    {
+      "name": "Latent Garage",
+      "url": "https://latent.substack.com/",
+      "feed_url": "https://latent.substack.com/feed",
+      "categories": [
+        "AI"
+      ]
+    },
+    {
+      "name": "Rachel Woods — Rachel’s Newsletter",
+      "url": "https://rachelwoods.substack.com/",
+      "feed_url": "https://rachelwoods.substack.com/feed",
+      "categories": [
+        "AI"
+      ]
+    },
+    {
+      "name": "Qasar Younis — Writings",
+      "url": "https://qy.co/writings/",
+      "feed_url": null,
+      "categories": [
+        "Solo blogs",
+        "VC"
+      ]
+    }
+  ],
+  "editorial_exclusions": [
+    {
+      "name": "Stealth Startup Spy",
+      "reason": "Startup/deal aggregation"
+    },
+    {
+      "name": "Company Launch Tracker",
+      "reason": "Company-launch aggregation"
+    },
+    {
+      "name": "Agentic AI Weekly",
+      "reason": "Weekly news roundup"
+    },
+    {
+      "name": "Golden Gate Recruits",
+      "reason": "Recruiting/job digest"
+    },
+    {
+      "name": "next play",
+      "reason": "Career/job digest"
+    },
+    {
+      "name": "The Substack Post",
+      "reason": "Platform promotional newsletter"
+    },
+    {
+      "name": "Geeks Of The Valley Newsletter",
+      "reason": "Startup/dealflow roundup"
+    },
+    {
+      "name": "PulseMCP directory",
+      "reason": "Tool and server aggregation"
+    },
+    {
+      "name": "Qasar Younis — Links",
+      "reason": "External link collection"
     }
   ]
 }

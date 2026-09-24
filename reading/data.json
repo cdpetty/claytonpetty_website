@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T06:20:11.134556+00:00",
+  "updated_at": "2026-09-24T06:23:24.839169+00:00",
   "ranking": "Title topic matches and recency; no AI analysis or full article content.",
   "first_seen": {
     "https://tomtunguz.com/the-most-important-market-in-ai-is-the-middle/": "2026-09-24T03:49:54.414936+00:00",
@@ -3555,7 +3555,15 @@
     "https://panteracapital.com/blockchain-letter/crypto-markets-privacy-and-payments/": "2026-09-24T06:19:10.147956+00:00",
     "https://panteracapital.com/blockchain-letter/fund-v-closing-october-31st/": "2026-09-24T06:19:10.147956+00:00",
     "https://panteracapital.com/blockchain-letter/figure-ipo-where-capital-markets-meet-blockchain/": "2026-09-24T06:19:10.147956+00:00",
-    "https://panteracapital.com/blockchain-letter/dat-value-creation/": "2026-09-24T06:19:10.147956+00:00"
+    "https://panteracapital.com/blockchain-letter/dat-value-creation/": "2026-09-24T06:19:10.147956+00:00",
+    "https://latent.substack.com/p/latent-garage-in-2024": "2026-09-24T06:23:24.839169+00:00",
+    "https://latent.substack.com/p/how-to-guides-projects-demos": "2026-09-24T06:23:24.839169+00:00",
+    "https://latent.substack.com/p/90-cheaper-openai-embeddings-riffusion": "2026-09-24T06:23:24.839169+00:00",
+    "https://latent.substack.com/p/i-just-enabled-substack-chat-lets": "2026-09-24T06:23:24.839169+00:00",
+    "https://latent.substack.com/p/latent-space-recap-october-17-31": "2026-09-24T06:23:24.839169+00:00",
+    "https://latent.substack.com/p/002-curiosity-phase-of-generative": "2026-09-24T06:23:24.839169+00:00",
+    "https://latent.substack.com/p/001-hello-world": "2026-09-24T06:23:24.839169+00:00",
+    "https://rachelwoods.substack.com/p/what-product-growth-and-business": "2026-09-24T06:23:24.839169+00:00"
   },
   "sources": [
     {
@@ -3564,11 +3572,11 @@
       "categories": [
         "VC"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
-      "status": "error",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
+      "status": "feed",
       "feed_url": "https://1517.substack.com/feed",
-      "last_success_at": "2026-09-24T06:19:10.147956+00:00",
-      "error": "HTTPError",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
+      "error": null,
       "discovered_at": "2026-09-24T06:20:11.134556+00:00"
     },
     {
@@ -3577,11 +3585,11 @@
       "categories": [
         "AI"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
-      "status": "error",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
+      "status": "feed",
       "feed_url": "https://humaninvariant.substack.com/feed",
-      "last_success_at": "2026-09-24T06:19:10.147956+00:00",
-      "error": "HTTPError",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
+      "error": null,
       "discovered_at": "2026-09-24T06:20:11.134556+00:00"
     },
     {
@@ -3590,10 +3598,10 @@
       "categories": [
         "VC"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
       "status": "feed",
       "feed_url": "https://www.a16z.news/feed",
-      "last_success_at": "2026-09-24T06:20:11.134556+00:00",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
       "error": null
     },
     {
@@ -3602,11 +3610,11 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
-      "status": "error",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
+      "status": "feed",
       "feed_url": "https://aashishreddy.substack.com/feed",
-      "last_success_at": "2026-09-24T06:19:10.147956+00:00",
-      "error": "HTTPError",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
+      "error": null,
       "discovered_at": "2026-09-24T06:20:11.134556+00:00"
     },
     {
@@ -3615,10 +3623,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
       "status": "feed",
       "feed_url": "https://aeon.co/feed.rss",
-      "last_success_at": "2026-09-24T06:20:11.134556+00:00",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
       "error": null
     },
     {
@@ -3627,11 +3635,11 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
-      "status": "error",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
+      "status": "feed",
       "feed_url": "https://afterschool.substack.com/feed",
-      "last_success_at": "2026-09-24T06:19:10.147956+00:00",
-      "error": "HTTPError",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
+      "error": null,
       "discovered_at": "2026-09-24T06:20:11.134556+00:00"
     },
     {
@@ -3640,11 +3648,11 @@
       "categories": [
         "Finance"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
-      "status": "error",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
+      "status": "feed",
       "feed_url": "https://yhamiltonblog.substack.com/feed",
-      "last_success_at": "2026-09-24T06:19:10.147956+00:00",
-      "error": "HTTPError",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
+      "error": null,
       "discovered_at": "2026-09-24T06:20:11.134556+00:00"
     },
     {
@@ -3653,11 +3661,11 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
-      "status": "error",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
+      "status": "feed",
       "feed_url": "https://aryadeniz.substack.com/feed",
-      "last_success_at": "2026-09-24T06:19:10.147956+00:00",
-      "error": "HTTPError",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
+      "error": null,
       "discovered_at": "2026-09-24T06:20:11.134556+00:00"
     },
     {
@@ -3666,10 +3674,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
       "status": "page_watch",
       "fingerprint": "1497fd3376bdd786f4ae8c7569220f179a7c0757abab933956b2645b227566a8",
-      "last_success_at": "2026-09-24T06:20:11.134556+00:00",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
       "error": null,
       "discovered_at": "2026-09-24T03:49:54.414936+00:00"
     },
@@ -3679,10 +3687,10 @@
       "categories": [
         "VC"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
       "status": "feed",
       "feed_url": "https://stratechery.com/feed/",
-      "last_success_at": "2026-09-24T06:20:11.134556+00:00",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
       "error": null
     },
     {
@@ -3691,10 +3699,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
       "status": "page_watch",
       "fingerprint": "a79900bfe8704325f8081c9d7bc96f376fa218137b5df1cf07a38fc3780e91d7",
-      "last_success_at": "2026-09-24T06:20:11.134556+00:00",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
       "error": null,
       "discovered_at": "2026-09-24T03:49:54.414936+00:00"
     },
@@ -3704,10 +3712,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
       "status": "feed",
       "feed_url": "https://www.benkuhn.net/index.xml",
-      "last_success_at": "2026-09-24T06:20:11.134556+00:00",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -3717,10 +3725,10 @@
       "categories": [
         "AI"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
       "status": "feed",
       "feed_url": "https://www.beren.io/feed.xml",
-      "last_success_at": "2026-09-24T06:20:11.134556+00:00",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -3730,10 +3738,10 @@
       "categories": [
         "AI"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
       "status": "feed",
       "feed_url": "https://www.aleksagordic.com/feed.xml",
-      "last_success_at": "2026-09-24T06:20:11.134556+00:00",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -3743,10 +3751,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
       "status": "feed",
       "feed_url": "https://boz.com/rss.xml",
-      "last_success_at": "2026-09-24T06:20:11.134556+00:00",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -3756,11 +3764,11 @@
       "categories": [
         "Finance"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
       "discovered_at": "2026-09-24T06:19:10.147956+00:00",
       "status": "page_watch",
       "fingerprint": "09e5798330e6028634c7ec06f6a50187e2f27c07bbc38397b07f2a3fbdda01d4",
-      "last_success_at": "2026-09-24T06:20:11.134556+00:00",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
       "error": null
     },
     {
@@ -3769,10 +3777,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
       "status": "page_watch",
       "fingerprint": "542c24b8b68eb39167bb812f132dec758a3ab4c0f19b1c384e13fd630e12b2d4",
-      "last_success_at": "2026-09-24T06:20:11.134556+00:00",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
       "error": null,
       "discovered_at": "2026-09-24T03:49:54.414936+00:00"
     },
@@ -3782,10 +3790,10 @@
       "categories": [
         "Finance"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
       "status": "feed",
       "feed_url": "https://www.bristlemoonresearch.com/feed",
-      "last_success_at": "2026-09-24T06:20:11.134556+00:00",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
       "error": null
     },
     {
@@ -3794,11 +3802,11 @@
       "categories": [
         "Finance"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
       "discovered_at": "2026-09-24T06:17:39.218176+00:00",
       "status": "page_watch",
       "fingerprint": "d96ab8c7453f8f65a55ddf1f1563c8133c2552ed62ea95470c773dbb287c9d6d",
-      "last_success_at": "2026-09-24T06:20:11.134556+00:00",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
       "error": null
     },
     {
@@ -3807,11 +3815,11 @@
       "categories": [
         "Builders"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
-      "status": "error",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
+      "status": "feed",
       "feed_url": "https://buckonsoftware.substack.com/feed",
-      "last_success_at": "2026-09-24T06:19:10.147956+00:00",
-      "error": "HTTPError",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
+      "error": null,
       "discovered_at": "2026-09-24T06:20:11.134556+00:00"
     },
     {
@@ -3820,10 +3828,10 @@
       "categories": [
         "Finance"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
       "status": "feed",
       "feed_url": "https://www.thediff.co/rss/",
-      "last_success_at": "2026-09-24T06:20:11.134556+00:00",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
       "error": null
     },
     {
@@ -3832,10 +3840,10 @@
       "categories": [
         "Builders"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
       "status": "feed",
       "feed_url": "https://blog.bytebytego.com/feed",
-      "last_success_at": "2026-09-24T06:20:11.134556+00:00",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
       "error": null
     },
     {
@@ -3844,11 +3852,11 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
-      "status": "error",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
+      "status": "feed",
       "feed_url": "https://arbesman.substack.com/feed",
-      "last_success_at": "2026-09-24T06:19:10.147956+00:00",
-      "error": "HTTPError",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
+      "error": null,
       "discovered_at": "2026-09-24T06:20:11.134556+00:00"
     },
     {
@@ -3857,10 +3865,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
       "status": "feed",
       "feed_url": "https://www.cartoonshateher.com/feed",
-      "last_success_at": "2026-09-24T06:20:11.134556+00:00",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
       "error": null
     },
     {
@@ -3869,10 +3877,10 @@
       "categories": [
         "VC"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
       "status": "feed",
       "feed_url": "https://www.platformer.news/rss/",
-      "last_success_at": "2026-09-24T06:20:11.134556+00:00",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
       "error": null
     },
     {
@@ -3881,10 +3889,10 @@
       "categories": [
         "China"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
       "status": "feed",
       "feed_url": "https://www.chinatalk.media/feed",
-      "last_success_at": "2026-09-24T06:20:11.134556+00:00",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -3895,7 +3903,7 @@
         "Cyber",
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
       "status": "error",
       "fingerprint": "e40c7d84bc4e624b0b4f3aa9d48e22f65c4dadbfcb31e977cc69562318d5fc3d",
       "last_success_at": "2026-09-24T03:48:01.272420+00:00",
@@ -3908,11 +3916,11 @@
       "categories": [
         "Finance"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
-      "status": "error",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
+      "status": "feed",
       "feed_url": "https://cloudedjudgement.substack.com/feed",
-      "last_success_at": "2026-09-24T06:19:10.147956+00:00",
-      "error": "HTTPError",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
+      "error": null,
       "discovered_at": "2026-09-24T06:20:11.134556+00:00"
     },
     {
@@ -3921,11 +3929,11 @@
       "categories": [
         "Finance"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
-      "status": "error",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
+      "status": "feed",
       "feed_url": "https://carriednointerest.substack.com/feed",
-      "last_success_at": "2026-09-24T06:19:10.147956+00:00",
-      "error": "HTTPError",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
+      "error": null,
       "discovered_at": "2026-09-24T06:20:11.134556+00:00"
     },
     {
@@ -3934,10 +3942,10 @@
       "categories": [
         "Cyber"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
       "status": "page_watch",
       "fingerprint": "6a02e958bbaf04c3b603b830254abbca16ff273ce9bfef9f7b075809d4f8130a",
-      "last_success_at": "2026-09-24T06:20:11.134556+00:00",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
       "error": null,
       "discovered_at": "2026-09-24T03:49:54.414936+00:00"
     },
@@ -3947,10 +3955,10 @@
       "categories": [
         "AI"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
       "status": "page_watch",
       "fingerprint": "cab214c4dbf1fa1c38b98d9e9dabf0fe21d031c6d6b72d41a5c6d311c554587b",
-      "last_success_at": "2026-09-24T06:20:11.134556+00:00",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
       "error": null,
       "discovered_at": "2026-09-24T03:49:54.414936+00:00"
     },
@@ -3960,10 +3968,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
       "status": "feed",
       "feed_url": "https://www.cold-takes.com/rss/",
-      "last_success_at": "2026-09-24T06:20:11.134556+00:00",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -3973,10 +3981,10 @@
       "categories": [
         "Finance"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
       "status": "page_watch",
       "fingerprint": "222cb2bbc555655ed4d1e0dcea983e3dfc57e3d778e95f8a5ec3d2739c591911",
-      "last_success_at": "2026-09-24T06:20:11.134556+00:00",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
       "error": null,
       "discovered_at": "2026-09-24T03:49:54.414936+00:00"
     },
@@ -3986,10 +3994,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
       "status": "page_watch",
       "fingerprint": "8b6979729bf2143214e51d459c100cc97703e25c2d623ffd3faccd40724a3103",
-      "last_success_at": "2026-09-24T06:20:11.134556+00:00",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
       "error": null,
       "discovered_at": "2026-09-24T03:49:54.414936+00:00"
     },
@@ -3999,10 +4007,10 @@
       "categories": [
         "Finance"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
       "status": "feed",
       "feed_url": "https://www.compoundingdividends.net/feed",
-      "last_success_at": "2026-09-24T06:20:11.134556+00:00",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
       "error": null
     },
     {
@@ -4011,10 +4019,10 @@
       "categories": [
         "Finance"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
       "status": "feed",
       "feed_url": "https://www.compoundingquality.net/feed",
-      "last_success_at": "2026-09-24T06:20:11.134556+00:00",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
       "error": null
     },
     {
@@ -4023,11 +4031,11 @@
       "categories": [
         "Finance"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
-      "status": "error",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
+      "status": "feed",
       "feed_url": "https://sergeycyw.substack.com/feed",
-      "last_success_at": "2026-09-24T06:19:10.147956+00:00",
-      "error": "HTTPError",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
+      "error": null,
       "discovered_at": "2026-09-24T06:20:11.134556+00:00"
     },
     {
@@ -4036,10 +4044,10 @@
       "categories": [
         "Finance"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
       "status": "feed",
       "feed_url": "https://www.conks.plumbing/feed",
-      "last_success_at": "2026-09-24T06:20:11.134556+00:00",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
       "error": null
     },
     {
@@ -4048,12 +4056,12 @@
       "categories": [
         "Newsletters"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
       "discovered_at": "2026-09-24T03:55:11.066413+00:00",
-      "status": "error",
-      "error": "HTTPError",
+      "status": "feed",
+      "error": null,
       "feed_url": "https://contraryresearch.substack.com/feed",
-      "last_success_at": "2026-09-24T06:19:10.147956+00:00"
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00"
     },
     {
       "name": "CWS Market Review",
@@ -4061,11 +4069,11 @@
       "categories": [
         "Finance"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
-      "status": "error",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
+      "status": "feed",
       "feed_url": "https://cws.substack.com/feed",
-      "last_success_at": "2026-09-24T06:19:10.147956+00:00",
-      "error": "HTTPError",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
+      "error": null,
       "discovered_at": "2026-09-24T06:20:11.134556+00:00"
     },
     {
@@ -4074,10 +4082,10 @@
       "categories": [
         "Cyber"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
       "status": "feed",
       "feed_url": "https://cybersecurityventures.com/feed/",
-      "last_success_at": "2026-09-24T06:20:11.134556+00:00",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -4087,9 +4095,9 @@
       "categories": [
         "AI"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
-      "status": "page_watch",
-      "error": null,
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
+      "status": "error",
+      "error": "HTTPError",
       "discovered_at": "2026-09-24T03:49:54.414936+00:00",
       "fingerprint": "5df51225ee547a034664be4c2a5f82f3bbff06a463691c913ce1033c9fa4e20d",
       "last_success_at": "2026-09-24T06:20:11.134556+00:00"
@@ -4100,11 +4108,11 @@
       "categories": [
         "VC"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
-      "status": "error",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
+      "status": "feed",
       "feed_url": "https://abcbyd.substack.com/feed",
-      "last_success_at": "2026-09-24T06:19:10.147956+00:00",
-      "error": "HTTPError",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
+      "error": null,
       "discovered_at": "2026-09-24T06:20:11.134556+00:00"
     },
     {
@@ -4113,11 +4121,11 @@
       "categories": [
         "Finance"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
-      "status": "error",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
+      "status": "feed",
       "feed_url": "https://softwaremusings.substack.com/feed",
-      "last_success_at": "2026-09-24T06:19:10.147956+00:00",
-      "error": "HTTPError",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
+      "error": null,
       "discovered_at": "2026-09-24T06:20:11.134556+00:00"
     },
     {
@@ -4126,11 +4134,11 @@
       "categories": [
         "AI"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
-      "status": "error",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
+      "status": "feed",
       "feed_url": "https://deploy95.substack.com/feed",
-      "last_success_at": "2026-09-24T06:19:10.147956+00:00",
-      "error": "HTTPError",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
+      "error": null,
       "discovered_at": "2026-09-24T06:20:11.134556+00:00"
     },
     {
@@ -4139,10 +4147,10 @@
       "categories": [
         "Cyber"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
       "status": "feed",
       "feed_url": "https://www.detectionatscale.com/feed",
-      "last_success_at": "2026-09-24T06:20:11.134556+00:00",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
       "error": null
     },
     {
@@ -4151,10 +4159,10 @@
       "categories": [
         "VC"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
       "status": "feed",
       "feed_url": "https://www.digitalnative.tech/feed",
-      "last_success_at": "2026-09-24T06:20:11.134556+00:00",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
       "error": null
     },
     {
@@ -4163,10 +4171,10 @@
       "categories": [
         "Newsletters"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
       "status": "feed",
       "feed_url": "https://www.dwarkesh.com/feed",
-      "last_success_at": "2026-09-24T06:20:11.134556+00:00",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
       "error": null
     },
     {
@@ -4175,10 +4183,10 @@
       "categories": [
         "VC"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
       "status": "feed",
       "feed_url": "https://blog.eladgil.com/feed",
-      "last_success_at": "2026-09-24T06:20:11.134556+00:00",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
       "error": null
     },
     {
@@ -4187,10 +4195,10 @@
       "categories": [
         "AI"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
       "status": "page_watch",
       "fingerprint": "a582747353d0bd8aba0b3fa43063c1bbf443adb401ab87a036dc951bcaec43e0",
-      "last_success_at": "2026-09-24T06:20:11.134556+00:00",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
       "error": null,
       "discovered_at": "2026-09-24T03:49:54.414936+00:00"
     },
@@ -4200,10 +4208,10 @@
       "categories": [
         "Cyber"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
       "status": "feed",
       "fingerprint": "3b386860baee7ef1360ad41f8759481c6d2ac304e383e403d7526c239c722ce9",
-      "last_success_at": "2026-09-24T06:20:11.134556+00:00",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
       "error": null,
       "feed_url": "https://embracethered.com/blog/index.xml",
       "discovered_at": "2026-09-24T03:49:54.414936+00:00"
@@ -4214,10 +4222,10 @@
       "categories": [
         "AI"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
       "status": "feed",
       "feed_url": "https://www.moreentropy.com/feed",
-      "last_success_at": "2026-09-24T06:20:11.134556+00:00",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
       "error": null
     },
     {
@@ -4226,11 +4234,11 @@
       "categories": [
         "Finance"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
-      "status": "error",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
+      "status": "feed",
       "feed_url": "https://ryanshannon.substack.com/feed",
-      "last_success_at": "2026-09-24T06:19:10.147956+00:00",
-      "error": "HTTPError",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
+      "error": null,
       "discovered_at": "2026-09-24T06:20:11.134556+00:00"
     },
     {
@@ -4239,10 +4247,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
       "status": "feed",
       "feed_url": "https://www.henrikkarlsson.xyz/feed",
-      "last_success_at": "2026-09-24T06:20:11.134556+00:00",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -4252,10 +4260,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
-      "status": "page_watch",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
+      "status": "feed",
       "feed_url": "https://gwern.substack.com/feed",
-      "last_success_at": "2026-09-24T06:20:11.134556+00:00",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null,
       "fingerprint": "36e4d5a3730ccc917e986c0c8a7ecd35d4bd26cb3379027f6c12fc26424f3727"
@@ -4266,10 +4274,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
       "status": "feed",
       "feed_url": "https://insights.euclid.vc/feed",
-      "last_success_at": "2026-09-24T06:20:11.134556+00:00",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -4279,10 +4287,10 @@
       "categories": [
         "General"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
       "status": "page_watch",
       "fingerprint": "0e54f811ff384c363417ba5a8279c7370afd7b51d4d7fc69a35b5fc1a442aabc",
-      "last_success_at": "2026-09-24T06:20:11.134556+00:00",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
       "error": null,
       "discovered_at": "2026-09-24T03:49:54.414936+00:00"
     },
@@ -4292,10 +4300,10 @@
       "categories": [
         "Newsletters"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
       "status": "feed",
       "feed_url": "https://ideas.everywhere.vc/feed",
-      "last_success_at": "2026-09-24T06:20:11.134556+00:00",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
       "error": null
     },
     {
@@ -4304,10 +4312,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
       "status": "feed",
       "feed_url": "https://findthemoat.com/feed/",
-      "last_success_at": "2026-09-24T06:20:11.134556+00:00",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -4317,12 +4325,12 @@
       "categories": [
         "Newsletters"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
       "discovered_at": "2026-09-24T03:55:11.066413+00:00",
-      "status": "error",
-      "error": "HTTPError",
+      "status": "feed",
+      "error": null,
       "feed_url": "https://fintechbusinessweekly.substack.com/feed",
-      "last_success_at": "2026-09-24T06:19:10.147956+00:00"
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00"
     },
     {
       "name": "First 1000",
@@ -4330,10 +4338,10 @@
       "categories": [
         "VC"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
       "status": "feed",
       "feed_url": "https://read.first1000.co/feed",
-      "last_success_at": "2026-09-24T06:20:11.134556+00:00",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
       "error": null
     },
     {
@@ -4342,25 +4350,12 @@
       "categories": [
         "VC"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
-      "status": "error",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
+      "status": "feed",
       "feed_url": "https://thefoundingjourney.substack.com/feed",
-      "last_success_at": "2026-09-24T06:19:10.147956+00:00",
-      "error": "HTTPError",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
+      "error": null,
       "discovered_at": "2026-09-24T06:20:11.134556+00:00"
-    },
-    {
-      "name": "Geeks Of The Valley Newsletter",
-      "url": "https://geeksofthevalley.substack.com/",
-      "categories": [
-        "Newsletters"
-      ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
-      "discovered_at": "2026-09-24T03:55:11.066413+00:00",
-      "status": "error",
-      "error": "HTTPError",
-      "feed_url": "https://geeksofthevalley.substack.com/feed",
-      "last_success_at": "2026-09-24T06:19:10.147956+00:00"
     },
     {
       "name": "Generational",
@@ -4368,10 +4363,10 @@
       "categories": [
         "VC"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
       "status": "feed",
       "feed_url": "https://www.generational.pub/feed",
-      "last_success_at": "2026-09-24T06:20:11.134556+00:00",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
       "error": null
     },
     {
@@ -4380,10 +4375,10 @@
       "categories": [
         "Finance"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
       "status": "feed",
       "feed_url": "https://www.globalequitybriefing.com/feed",
-      "last_success_at": "2026-09-24T06:20:11.134556+00:00",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
       "error": null
     },
     {
@@ -4392,11 +4387,11 @@
       "categories": [
         "VC"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
       "discovered_at": "2026-09-24T06:19:10.147956+00:00",
       "status": "page_watch",
       "fingerprint": "805e8cee7b2609f89bef4edd76bbb03f729464615c90ed4fe5e804f672cf833a",
-      "last_success_at": "2026-09-24T06:20:11.134556+00:00",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
       "error": null
     },
     {
@@ -4405,12 +4400,12 @@
       "categories": [
         "Newsletters"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
       "discovered_at": "2026-09-24T03:55:11.066413+00:00",
-      "status": "error",
-      "error": "HTTPError",
+      "status": "feed",
+      "error": null,
       "feed_url": "https://gradientvc.substack.com/feed",
-      "last_success_at": "2026-09-24T06:19:10.147956+00:00"
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00"
     },
     {
       "name": "Hacklivly - The Codelivly Community",
@@ -4418,7 +4413,7 @@
       "categories": [
         "Cyber"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
       "discovered_at": "2026-09-24T03:49:54.414936+00:00",
       "status": "error",
       "error": "URLError"
@@ -4429,11 +4424,11 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
-      "status": "error",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
+      "status": "feed",
       "feed_url": "https://halfcourthoops.substack.com/feed",
-      "last_success_at": "2026-09-24T06:19:10.147956+00:00",
-      "error": "HTTPError",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
+      "error": null,
       "discovered_at": "2026-09-24T06:20:11.134556+00:00"
     },
     {
@@ -4442,11 +4437,11 @@
       "categories": [
         "Builders"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
-      "status": "error",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
+      "status": "feed",
       "feed_url": "https://hardwarefyi.substack.com/feed",
-      "last_success_at": "2026-09-24T06:19:10.147956+00:00",
-      "error": "HTTPError",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
+      "error": null,
       "discovered_at": "2026-09-24T06:20:11.134556+00:00"
     },
     {
@@ -4455,10 +4450,10 @@
       "categories": [
         "Finance"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
       "status": "feed",
       "feed_url": "https://hhhypergrowth.com/rss/",
-      "last_success_at": "2026-09-24T06:20:11.134556+00:00",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
       "error": null
     },
     {
@@ -4467,11 +4462,11 @@
       "categories": [
         "Finance"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
-      "status": "error",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
+      "status": "feed",
       "feed_url": "https://sbeautiful.substack.com/feed",
-      "last_success_at": "2026-09-24T06:19:10.147956+00:00",
-      "error": "HTTPError",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
+      "error": null,
       "discovered_at": "2026-09-24T06:20:11.134556+00:00"
     },
     {
@@ -4480,10 +4475,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
       "status": "feed",
       "feed_url": "https://grahamduncan.blog/feed/",
-      "last_success_at": "2026-09-24T06:20:11.134556+00:00",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -4493,10 +4488,10 @@
       "categories": [
         "Finance"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
       "status": "page_watch",
       "fingerprint": "fca5ebe3f0b78df8838f4cc26ceb9a6b4d7eceeb99d6d7d4d392ca382c9e68a3",
-      "last_success_at": "2026-09-24T06:20:11.134556+00:00",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
       "error": null,
       "discovered_at": "2026-09-24T03:49:54.414936+00:00"
     },
@@ -4507,10 +4502,10 @@
         "AI",
         "Newsletters"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
       "status": "feed",
       "feed_url": "https://jack-clark.net/feed/",
-      "last_success_at": "2026-09-24T06:20:11.134556+00:00",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -4520,10 +4515,10 @@
       "categories": [
         "Builders"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
       "status": "page_watch",
       "fingerprint": "ba2546cec03cd602857dc2c155af0ee60cd481a3c7313feaecb1fd214faa637d",
-      "last_success_at": "2026-09-24T06:20:11.134556+00:00",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
       "error": null,
       "discovered_at": "2026-09-24T03:49:54.414936+00:00"
     },
@@ -4533,11 +4528,11 @@
       "categories": [
         "Builders"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
-      "status": "error",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
+      "status": "feed",
       "feed_url": "https://insightsbykp.substack.com/feed",
-      "last_success_at": "2026-09-24T06:19:10.147956+00:00",
-      "error": "HTTPError",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
+      "error": null,
       "discovered_at": "2026-09-24T06:20:11.134556+00:00"
     },
     {
@@ -4546,11 +4541,11 @@
       "categories": [
         "Finance"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
-      "status": "error",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
+      "status": "feed",
       "feed_url": "https://investing101.substack.com/feed",
-      "last_success_at": "2026-09-24T06:19:10.147956+00:00",
-      "error": "HTTPError",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
+      "error": null,
       "discovered_at": "2026-09-24T06:20:11.134556+00:00"
     },
     {
@@ -4559,12 +4554,12 @@
       "categories": [
         "Newsletters"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
       "discovered_at": "2026-09-24T03:55:11.066413+00:00",
-      "status": "error",
-      "error": "HTTPError",
+      "status": "feed",
+      "error": null,
       "feed_url": "https://humiris.substack.com/feed",
-      "last_success_at": "2026-09-24T06:19:10.147956+00:00"
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00"
     },
     {
       "name": "Irrational Analysis",
@@ -4572,12 +4567,12 @@
       "categories": [
         "Finance"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
       "discovered_at": "2026-09-24T06:17:39.218176+00:00",
-      "status": "error",
+      "status": "page_watch",
       "fingerprint": "302f8b22084670e551a283cd2fb1738afdb623e826ae41d3d3790964856804b3",
-      "last_success_at": "2026-09-24T06:19:10.147956+00:00",
-      "error": "HTTPError"
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
+      "error": null
     },
     {
       "name": "James Somers",
@@ -4585,10 +4580,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
       "status": "feed",
       "feed_url": "https://jsomers.net/blog/feed",
-      "last_success_at": "2026-09-24T06:20:11.134556+00:00",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -4598,10 +4593,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
       "status": "feed",
       "feed_url": "https://fullhoffman.com/feed/",
-      "last_success_at": "2026-09-24T06:20:11.134556+00:00",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -4611,11 +4606,11 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
-      "status": "error",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
+      "status": "feed",
       "feed_url": "https://chasingcuriosity0.substack.com/feed",
-      "last_success_at": "2026-09-24T06:19:10.147956+00:00",
-      "error": "HTTPError",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
+      "error": null,
       "discovered_at": "2026-09-24T06:20:11.134556+00:00"
     },
     {
@@ -4624,10 +4619,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
       "status": "feed",
       "feed_url": "https://www.jmeiners.com/feed.xml",
-      "last_success_at": "2026-09-24T06:20:11.134556+00:00",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -4637,12 +4632,24 @@
       "categories": [
         "General"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
       "status": "page_watch",
       "fingerprint": "4dc36184e2117a315d6addb4ee1093384dddb508e49bfa9afdef3379b10dab7c",
-      "last_success_at": "2026-09-24T06:20:11.134556+00:00",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
       "error": null,
       "discovered_at": "2026-09-24T03:49:54.414936+00:00"
+    },
+    {
+      "name": "Latent Garage",
+      "url": "https://latent.substack.com/",
+      "categories": [
+        "AI"
+      ],
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
+      "status": "feed",
+      "feed_url": "https://latent.substack.com/feed",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
+      "error": null
     },
     {
       "name": "Latent.Space",
@@ -4650,10 +4657,10 @@
       "categories": [
         "AI"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
       "status": "feed",
       "feed_url": "https://www.latent.space/feed",
-      "last_success_at": "2026-09-24T06:20:11.134556+00:00",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
       "error": null
     },
     {
@@ -4662,12 +4669,12 @@
       "categories": [
         "Newsletters"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
       "discovered_at": "2026-09-24T03:55:11.066413+00:00",
-      "status": "error",
-      "error": "HTTPError",
+      "status": "feed",
+      "error": null,
       "feed_url": "https://learnagentic.substack.com/feed",
-      "last_success_at": "2026-09-24T06:19:10.147956+00:00"
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00"
     },
     {
       "name": "Lenny's Newsletter",
@@ -4675,10 +4682,10 @@
       "categories": [
         "VC"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
       "status": "feed",
       "feed_url": "https://www.lennysnewsletter.com/feed",
-      "last_success_at": "2026-09-24T06:20:11.134556+00:00",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
       "error": null
     },
     {
@@ -4687,10 +4694,10 @@
       "categories": [
         "AI"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
       "status": "page_watch",
       "fingerprint": "7b326d5bd068f2c7bff5936724c56f5865c0ecb80641f4bf4c12b96ce6de5c37",
-      "last_success_at": "2026-09-24T06:20:11.134556+00:00",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
       "error": null,
       "discovered_at": "2026-09-24T03:49:54.414936+00:00"
     },
@@ -4700,23 +4707,10 @@
       "categories": [
         "VC"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
       "status": "feed",
       "feed_url": "https://www.newsletter.lukesophinos.com/feed",
-      "last_success_at": "2026-09-24T06:20:11.134556+00:00",
-      "error": null
-    },
-    {
-      "name": "Links",
-      "url": "https://qy.co/links/",
-      "categories": [
-        "Solo blogs"
-      ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
-      "status": "feed",
-      "feed_url": "https://qy.co/feed.xml",
-      "last_success_at": "2026-09-24T06:20:11.134556+00:00",
-      "discovered_at": "2026-09-24T03:48:01.272420+00:00",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
       "error": null
     },
     {
@@ -4725,10 +4719,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
       "status": "feed",
       "feed_url": "https://essays.johnloeber.com/feed",
-      "last_success_at": "2026-09-24T06:20:11.134556+00:00",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
       "error": null
     },
     {
@@ -4737,12 +4731,12 @@
       "categories": [
         "Newsletters"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
       "discovered_at": "2026-09-24T03:55:11.066413+00:00",
-      "status": "error",
-      "error": "HTTPError",
+      "status": "feed",
+      "error": null,
       "feed_url": "https://metz.substack.com/feed",
-      "last_success_at": "2026-09-24T06:19:10.147956+00:00"
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00"
     },
     {
       "name": "Magnus Financial Group",
@@ -4750,10 +4744,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
       "status": "feed",
       "feed_url": "https://magnusfinancial.com/feed/",
-      "last_success_at": "2026-09-24T06:20:11.134556+00:00",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -4763,10 +4757,10 @@
       "categories": [
         "Cyber"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
       "status": "feed",
       "feed_url": "https://malwr-analysis.com/feed/",
-      "last_success_at": "2026-09-24T06:20:11.134556+00:00",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -4776,10 +4770,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
       "status": "feed",
       "feed_url": "https://www.sexual-culture.com/feed",
-      "last_success_at": "2026-09-24T06:20:11.134556+00:00",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
       "error": null
     },
     {
@@ -4788,10 +4782,10 @@
       "categories": [
         "Newsletters"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
       "status": "feed",
       "feed_url": "https://www.spatialintelligence.ai/feed",
-      "last_success_at": "2026-09-24T06:20:11.134556+00:00",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
       "error": null
     },
     {
@@ -4800,10 +4794,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
       "status": "feed",
       "feed_url": "https://marginalrevolution.com/feed",
-      "last_success_at": "2026-09-24T06:20:11.134556+00:00",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -4813,10 +4807,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
       "status": "feed",
       "feed_url": "https://matklad.github.io/feed.xml",
-      "last_success_at": "2026-09-24T06:20:11.134556+00:00",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -4826,10 +4820,10 @@
       "categories": [
         "Finance"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
       "status": "feed",
       "feed_url": "https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine.rss",
-      "last_success_at": "2026-09-24T06:20:11.134556+00:00",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
       "error": null
     },
     {
@@ -4838,10 +4832,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
       "status": "feed",
       "feed_url": "https://maxhodak.com/writings.xml",
-      "last_success_at": "2026-09-24T06:20:11.134556+00:00",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -4851,12 +4845,12 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
       "discovered_at": "2026-09-24T06:17:39.218176+00:00",
-      "status": "error",
+      "status": "page_watch",
       "fingerprint": "d32a62bf207c16523ca80ea6b7a41443a465ac5e1b8af04f5d8e4c8e94891d7a",
-      "last_success_at": "2026-09-24T06:19:10.147956+00:00",
-      "error": "HTTPError"
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
+      "error": null
     },
     {
       "name": "MaxDividends",
@@ -4864,10 +4858,10 @@
       "categories": [
         "Finance"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
       "status": "feed",
       "feed_url": "https://www.maxdividends.com/feed",
-      "last_success_at": "2026-09-24T06:20:11.134556+00:00",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
       "error": null
     },
     {
@@ -4876,11 +4870,11 @@
       "categories": [
         "Finance"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
-      "status": "error",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
+      "status": "feed",
       "feed_url": "https://meritech.substack.com/feed",
-      "last_success_at": "2026-09-24T06:19:10.147956+00:00",
-      "error": "HTTPError",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
+      "error": null,
       "discovered_at": "2026-09-24T06:20:11.134556+00:00"
     },
     {
@@ -4889,11 +4883,11 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
-      "status": "error",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
+      "status": "feed",
       "feed_url": "https://milknosugar.substack.com/feed",
-      "last_success_at": "2026-09-24T06:19:10.147956+00:00",
-      "error": "HTTPError",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
+      "error": null,
       "discovered_at": "2026-09-24T06:20:11.134556+00:00"
     },
     {
@@ -4902,11 +4896,11 @@
       "categories": [
         "Finance"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
-      "status": "error",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
+      "status": "feed",
       "feed_url": "https://mispricedassets.substack.com/feed",
-      "last_success_at": "2026-09-24T06:19:10.147956+00:00",
-      "error": "HTTPError",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
+      "error": null,
       "discovered_at": "2026-09-24T06:20:11.134556+00:00"
     },
     {
@@ -4915,10 +4909,10 @@
       "categories": [
         "AI"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
       "status": "feed",
       "feed_url": "https://www.mixtureofexperts.co/feed",
-      "last_success_at": "2026-09-24T06:20:11.134556+00:00",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
       "error": null
     },
     {
@@ -4927,11 +4921,11 @@
       "categories": [
         "AI"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
-      "status": "error",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
+      "status": "feed",
       "feed_url": "https://moreintelligent.substack.com/feed",
-      "last_success_at": "2026-09-24T06:19:10.147956+00:00",
-      "error": "HTTPError",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
+      "error": null,
       "discovered_at": "2026-09-24T06:20:11.134556+00:00"
     },
     {
@@ -4940,10 +4934,10 @@
       "categories": [
         "Finance"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
       "status": "feed",
       "feed_url": "https://kagansblog.com/feed/",
-      "last_success_at": "2026-09-24T06:20:11.134556+00:00",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
       "error": null
     },
     {
@@ -4952,11 +4946,11 @@
       "categories": [
         "Finance"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
-      "status": "error",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
+      "status": "feed",
       "feed_url": "https://myweeklystock.substack.com/feed",
-      "last_success_at": "2026-09-24T06:19:10.147956+00:00",
-      "error": "HTTPError",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
+      "error": null,
       "discovered_at": "2026-09-24T06:20:11.134556+00:00"
     },
     {
@@ -4965,11 +4959,11 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
-      "status": "error",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
+      "status": "feed",
       "feed_url": "https://mylescooks.substack.com/feed",
-      "last_success_at": "2026-09-24T06:19:10.147956+00:00",
-      "error": "HTTPError",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
+      "error": null,
       "discovered_at": "2026-09-24T06:20:11.134556+00:00"
     },
     {
@@ -4978,10 +4972,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
       "status": "feed",
       "feed_url": "https://nadia.xyz/feed",
-      "last_success_at": "2026-09-24T06:20:11.134556+00:00",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -4991,10 +4985,10 @@
       "categories": [
         "Finance"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
       "status": "feed",
       "feed_url": "https://www.netinterest.co/feed",
-      "last_success_at": "2026-09-24T06:20:11.134556+00:00",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
       "error": null
     },
     {
@@ -5003,10 +4997,10 @@
       "categories": [
         "Newsletters"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
       "status": "feed",
       "feed_url": "https://www.newcomer.co/feed",
-      "last_success_at": "2026-09-24T06:20:11.134556+00:00",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
       "error": null
     },
     {
@@ -5015,10 +5009,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
       "status": "page_watch",
       "fingerprint": "193281cb4f511f085cdfe8ab074bd6063986152c10209f07ab9ccebbd0ae5061",
-      "last_success_at": "2026-09-24T06:20:11.134556+00:00",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
       "error": null,
       "discovered_at": "2026-09-24T03:49:54.414936+00:00"
     },
@@ -5028,10 +5022,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
       "status": "feed",
       "feed_url": "https://www.noahpinion.blog/feed",
-      "last_success_at": "2026-09-24T06:20:11.134556+00:00",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
       "error": null
     },
     {
@@ -5040,12 +5034,12 @@
       "categories": [
         "Newsletters"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
       "discovered_at": "2026-09-24T03:55:11.066413+00:00",
-      "status": "error",
-      "error": "HTTPError",
+      "status": "feed",
+      "error": null,
       "feed_url": "https://notanotherceo.substack.com/feed",
-      "last_success_at": "2026-09-24T06:19:10.147956+00:00"
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00"
     },
     {
       "name": "Not Boring by Packy McCormick",
@@ -5053,10 +5047,10 @@
       "categories": [
         "VC"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
       "status": "feed",
       "feed_url": "https://www.notboring.co/feed",
-      "last_success_at": "2026-09-24T06:20:11.134556+00:00",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
       "error": null
     },
     {
@@ -5065,10 +5059,10 @@
       "categories": [
         "Cyber"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
       "status": "feed",
       "feed_url": "https://news.oaksecurity.io/feed",
-      "last_success_at": "2026-09-24T06:20:11.134556+00:00",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
       "error": null
     },
     {
@@ -5077,7 +5071,7 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
       "status": "error",
       "error": "HTTPError",
       "discovered_at": "2026-09-24T03:49:54.414936+00:00"
@@ -5088,10 +5082,10 @@
       "categories": [
         "Finance"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
       "status": "feed",
       "feed_url": "https://www.onlycfo.io/feed",
-      "last_success_at": "2026-09-24T06:20:11.134556+00:00",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
       "error": null
     },
     {
@@ -5100,10 +5094,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
       "status": "feed",
       "feed_url": "https://paco.me/feed.xml",
-      "last_success_at": "2026-09-24T06:20:11.134556+00:00",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -5113,10 +5107,10 @@
       "categories": [
         "Finance"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
       "status": "feed",
       "feed_url": "https://panteracapital.com/blockchain-letter/feed/",
-      "last_success_at": "2026-09-24T06:20:11.134556+00:00",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
       "discovered_at": "2026-09-24T06:19:10.147956+00:00",
       "error": null
     },
@@ -5126,11 +5120,11 @@
       "categories": [
         "Finance"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
       "discovered_at": "2026-09-24T06:17:39.218176+00:00",
       "status": "page_watch",
       "fingerprint": "7779488df62125566fc9409b1c2200aa11e45efb62b36239008c3a519c9a0877",
-      "last_success_at": "2026-09-24T06:20:11.134556+00:00",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
       "error": null
     },
     {
@@ -5139,10 +5133,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
       "status": "feed",
       "feed_url": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
-      "last_success_at": "2026-09-24T06:20:11.134556+00:00",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -5152,10 +5146,10 @@
       "categories": [
         "Cyber"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
       "status": "feed",
       "feed_url": "https://www.philvenables.com/blog-feed.xml",
-      "last_success_at": "2026-09-24T06:20:11.134556+00:00",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -5165,12 +5159,12 @@
       "categories": [
         "General"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
-      "status": "error",
-      "error": "HTTPError",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
+      "status": "feed",
+      "error": null,
       "discovered_at": "2026-09-24T03:49:54.414936+00:00",
       "feed_url": "https://piratewires.substack.com/feed",
-      "last_success_at": "2026-09-24T06:19:10.147956+00:00"
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00"
     },
     {
       "name": "Platform Aeronaut",
@@ -5178,10 +5172,10 @@
       "categories": [
         "VC"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
       "status": "feed",
       "feed_url": "https://www.platformaeronaut.com/feed",
-      "last_success_at": "2026-09-24T06:20:11.134556+00:00",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
       "error": null
     },
     {
@@ -5190,11 +5184,11 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
-      "status": "error",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
+      "status": "feed",
       "feed_url": "https://postcardsfromistanbul.substack.com/feed",
-      "last_success_at": "2026-09-24T06:19:10.147956+00:00",
-      "error": "HTTPError",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
+      "error": null,
       "discovered_at": "2026-09-24T06:20:11.134556+00:00"
     },
     {
@@ -5203,10 +5197,10 @@
       "categories": [
         "Newsletters"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
       "status": "feed",
       "feed_url": "https://www.prosaictimes.com/feed",
-      "last_success_at": "2026-09-24T06:20:11.134556+00:00",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
       "error": null
     },
     {
@@ -5215,25 +5209,26 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
-      "status": "error",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
+      "status": "feed",
       "feed_url": "https://provenancewatches.substack.com/feed",
-      "last_success_at": "2026-09-24T06:19:10.147956+00:00",
-      "error": "HTTPError",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
+      "error": null,
       "discovered_at": "2026-09-24T06:20:11.134556+00:00"
     },
     {
-      "name": "PulseMCP | Keep up-to-date with MCP",
-      "url": "https://www.pulsemcp.com/",
+      "name": "Qasar Younis \u2014 Writings",
+      "url": "https://qy.co/writings/",
       "categories": [
-        "AI"
+        "Solo blogs",
+        "VC"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
-      "discovered_at": "2026-09-24T03:49:54.414936+00:00",
-      "status": "page_watch",
-      "error": null,
-      "fingerprint": "ced3e07f9dea3cabfe087518dd703265b5ef7dc0a543e7992c78fe5fcfa977a3",
-      "last_success_at": "2026-09-24T06:20:11.134556+00:00"
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
+      "status": "feed",
+      "feed_url": "https://qy.co/feed.xml",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
+      "discovered_at": "2026-09-24T06:23:24.839169+00:00",
+      "error": null
     },
     {
       "name": "Rabib Alam",
@@ -5241,7 +5236,7 @@
       "categories": [
         "AI"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
       "status": "error",
       "fingerprint": "a5e4bf6b562cb2e02c99900128b0573738f658d04d96535c98881acb8134886b",
       "last_success_at": "2026-09-24T03:48:01.272420+00:00",
@@ -5249,15 +5244,27 @@
       "discovered_at": "2026-09-24T03:49:54.414936+00:00"
     },
     {
+      "name": "Rachel Woods \u2014 Rachel\u2019s Newsletter",
+      "url": "https://rachelwoods.substack.com/",
+      "categories": [
+        "AI"
+      ],
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
+      "status": "feed",
+      "feed_url": "https://rachelwoods.substack.com/feed",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
+      "error": null
+    },
+    {
       "name": "Rasmus",
       "url": "https://rsms.me/",
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
       "status": "feed",
       "feed_url": "https://rsms.me/atom.xml",
-      "last_success_at": "2026-09-24T06:20:11.134556+00:00",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -5267,10 +5274,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
       "status": "feed",
       "feed_url": "https://www.cojobrien.com/feed",
-      "last_success_at": "2026-09-24T06:20:11.134556+00:00",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
       "error": null
     },
     {
@@ -5279,10 +5286,10 @@
       "categories": [
         "Builders"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
       "status": "page_watch",
       "fingerprint": "a835884ff255d1f73c62b1563188d75a7631a2ffab21b5853dc4574e93d4cba2",
-      "last_success_at": "2026-09-24T06:20:11.134556+00:00",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
       "error": null,
       "discovered_at": "2026-09-24T03:49:54.414936+00:00"
     },
@@ -5292,11 +5299,11 @@
       "categories": [
         "VC"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
-      "status": "error",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
+      "status": "feed",
       "feed_url": "https://runrate.substack.com/feed",
-      "last_success_at": "2026-09-24T06:19:10.147956+00:00",
-      "error": "HTTPError",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
+      "error": null,
       "discovered_at": "2026-09-24T06:20:11.134556+00:00"
     },
     {
@@ -5305,9 +5312,9 @@
       "categories": [
         "AI"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
       "status": "error",
-      "error": "TimeoutError",
+      "error": "timeout",
       "discovered_at": "2026-09-24T03:49:54.414936+00:00"
     },
     {
@@ -5316,11 +5323,11 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
       "discovered_at": "2026-09-24T06:17:39.218176+00:00",
       "status": "page_watch",
       "fingerprint": "bbdf25744b2a1a79746fb31a36f57ceee5d6bb6357768fc69b21d471d7a1741d",
-      "last_success_at": "2026-09-24T06:20:11.134556+00:00",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
       "error": null
     },
     {
@@ -5329,10 +5336,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
       "status": "feed",
       "feed_url": "https://blog.samaltman.com/posts.atom",
-      "last_success_at": "2026-09-24T06:20:11.134556+00:00",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -5342,11 +5349,11 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
-      "status": "error",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
+      "status": "feed",
       "feed_url": "https://samenright.substack.com/feed",
-      "last_success_at": "2026-09-24T06:19:10.147956+00:00",
-      "error": "HTTPError",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
+      "error": null,
       "discovered_at": "2026-09-24T06:20:11.134556+00:00"
     },
     {
@@ -5355,11 +5362,11 @@
       "categories": [
         "Finance"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
-      "status": "error",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
+      "status": "feed",
       "feed_url": "https://sgthoughts.substack.com/feed",
-      "last_success_at": "2026-09-24T06:19:10.147956+00:00",
-      "error": "HTTPError",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
+      "error": null,
       "discovered_at": "2026-09-24T06:20:11.134556+00:00"
     },
     {
@@ -5368,11 +5375,11 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
-      "status": "error",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
+      "status": "feed",
       "feed_url": "https://seanzcai.substack.com/feed",
-      "last_success_at": "2026-09-24T06:19:10.147956+00:00",
-      "error": "HTTPError",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
+      "error": null,
       "discovered_at": "2026-09-24T06:20:11.134556+00:00"
     },
     {
@@ -5381,11 +5388,11 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
-      "status": "error",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
+      "status": "feed",
       "feed_url": "https://pjvogt.substack.com/feed",
-      "last_success_at": "2026-09-24T06:19:10.147956+00:00",
-      "error": "HTTPError",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
+      "error": null,
       "discovered_at": "2026-09-24T06:20:11.134556+00:00"
     },
     {
@@ -5394,10 +5401,10 @@
       "categories": [
         "General"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
       "status": "feed",
       "feed_url": "https://semianalysis.com/feed/",
-      "last_success_at": "2026-09-24T06:20:11.134556+00:00",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -5407,11 +5414,11 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
-      "status": "error",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
+      "status": "feed",
       "feed_url": "https://cathyreisenwitz.substack.com/feed",
-      "last_success_at": "2026-09-24T06:19:10.147956+00:00",
-      "error": "HTTPError",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
+      "error": null,
       "discovered_at": "2026-09-24T06:20:11.134556+00:00"
     },
     {
@@ -5420,11 +5427,11 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
-      "status": "error",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
+      "status": "feed",
       "feed_url": "https://signull.substack.com/feed",
-      "last_success_at": "2026-09-24T06:19:10.147956+00:00",
-      "error": "HTTPError",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
+      "error": null,
       "discovered_at": "2026-09-24T06:20:11.134556+00:00"
     },
     {
@@ -5433,10 +5440,10 @@
       "categories": [
         "China"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
       "status": "feed",
       "feed_url": "https://sinocism.com/feed",
-      "last_success_at": "2026-09-24T06:20:11.134556+00:00",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -5446,10 +5453,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
       "status": "feed",
       "feed_url": "https://slatestarcodex.com/feed/",
-      "last_success_at": "2026-09-24T06:20:11.134556+00:00",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -5459,10 +5466,10 @@
       "categories": [
         "Finance"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
       "status": "feed",
       "feed_url": "https://www.sleeperthoughts.com/feed",
-      "last_success_at": "2026-09-24T06:20:11.134556+00:00",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
       "error": null
     },
     {
@@ -5471,10 +5478,10 @@
       "categories": [
         "Newsletters"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
       "status": "feed",
       "feed_url": "https://www.sourcery.vc/feed",
-      "last_success_at": "2026-09-24T06:20:11.134556+00:00",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
       "error": null
     },
     {
@@ -5483,10 +5490,10 @@
       "categories": [
         "Newsletters"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
       "status": "feed",
       "feed_url": "https://blog.southparkcommons.com/feed",
-      "last_success_at": "2026-09-24T06:20:11.134556+00:00",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
       "error": null
     },
     {
@@ -5495,12 +5502,12 @@
       "categories": [
         "Newsletters"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
       "discovered_at": "2026-09-24T03:55:11.066413+00:00",
-      "status": "error",
-      "error": "HTTPError",
+      "status": "feed",
+      "error": null,
       "feed_url": "https://speedrun.substack.com/feed",
-      "last_success_at": "2026-09-24T06:19:10.147956+00:00"
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00"
     },
     {
       "name": "StudioAlpha",
@@ -5508,12 +5515,12 @@
       "categories": [
         "Newsletters"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
       "discovered_at": "2026-09-24T03:55:11.066413+00:00",
-      "status": "error",
-      "error": "HTTPError",
+      "status": "feed",
+      "error": null,
       "feed_url": "https://studioalpha.substack.com/feed",
-      "last_success_at": "2026-09-24T06:19:10.147956+00:00"
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00"
     },
     {
       "name": "SuperJoost Playlist",
@@ -5521,11 +5528,11 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
-      "status": "error",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
+      "status": "feed",
       "feed_url": "https://superjoost.substack.com/feed",
-      "last_success_at": "2026-09-24T06:19:10.147956+00:00",
-      "error": "HTTPError",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
+      "error": null,
       "discovered_at": "2026-09-24T06:20:11.134556+00:00"
     },
     {
@@ -5534,10 +5541,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
       "status": "feed",
       "feed_url": "https://susam.net/feed.xml",
-      "last_success_at": "2026-09-24T06:20:11.134556+00:00",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -5547,10 +5554,10 @@
       "categories": [
         "AI"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
       "status": "feed",
       "feed_url": "https://www.newsletter.swirlai.com/feed",
-      "last_success_at": "2026-09-24T06:20:11.134556+00:00",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
       "error": null
     },
     {
@@ -5559,11 +5566,11 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
-      "status": "error",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
+      "status": "feed",
       "feed_url": "https://taleenvoskuni.substack.com/feed",
-      "last_success_at": "2026-09-24T06:19:10.147956+00:00",
-      "error": "HTTPError",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
+      "error": null,
       "discovered_at": "2026-09-24T06:20:11.134556+00:00"
     },
     {
@@ -5572,12 +5579,12 @@
       "categories": [
         "Newsletters"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
       "discovered_at": "2026-09-24T03:55:11.066413+00:00",
-      "status": "error",
-      "error": "HTTPError",
+      "status": "feed",
+      "error": null,
       "feed_url": "https://tanktalks.substack.com/feed",
-      "last_success_at": "2026-09-24T06:19:10.147956+00:00"
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00"
     },
     {
       "name": "The Asianometry Newsletter | Jon Y | Substack",
@@ -5585,10 +5592,10 @@
       "categories": [
         "China"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
       "status": "feed",
       "feed_url": "https://www.asianometry.com/feed",
-      "last_success_at": "2026-09-24T06:20:11.134556+00:00",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -5598,12 +5605,12 @@
       "categories": [
         "Newsletters"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
       "discovered_at": "2026-09-24T03:55:11.066413+00:00",
-      "status": "error",
-      "error": "HTTPError",
+      "status": "feed",
+      "error": null,
       "feed_url": "https://thegreatamericanpath.substack.com/feed",
-      "last_success_at": "2026-09-24T06:19:10.147956+00:00"
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00"
     },
     {
       "name": "The Growth Stack Mafia \ud83e\udd5e\u2694",
@@ -5611,10 +5618,10 @@
       "categories": [
         "Builders"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
       "status": "feed",
       "feed_url": "https://growthstackmafia.com/feed",
-      "last_success_at": "2026-09-24T06:20:11.134556+00:00",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
       "error": null
     },
     {
@@ -5623,11 +5630,11 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
-      "status": "error",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
+      "status": "feed",
       "feed_url": "https://mariakonnikova.substack.com/feed",
-      "last_success_at": "2026-09-24T06:19:10.147956+00:00",
-      "error": "HTTPError",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
+      "error": null,
       "discovered_at": "2026-09-24T06:20:11.134556+00:00"
     },
     {
@@ -5636,12 +5643,12 @@
       "categories": [
         "Newsletters"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
       "discovered_at": "2026-09-24T03:55:11.066413+00:00",
-      "status": "error",
-      "error": "HTTPError",
+      "status": "feed",
+      "error": null,
       "feed_url": "https://igorpejic.substack.com/feed",
-      "last_success_at": "2026-09-24T06:19:10.147956+00:00"
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00"
     },
     {
       "name": "The Power of And",
@@ -5649,11 +5656,11 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
-      "status": "error",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
+      "status": "feed",
       "feed_url": "https://danilk.substack.com/feed",
-      "last_success_at": "2026-09-24T06:19:10.147956+00:00",
-      "error": "HTTPError",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
+      "error": null,
       "discovered_at": "2026-09-24T06:20:11.134556+00:00"
     },
     {
@@ -5662,10 +5669,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
       "status": "feed",
       "feed_url": "https://newsletter.rootsofprogress.org/feed",
-      "last_success_at": "2026-09-24T06:20:11.134556+00:00",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
       "error": null
     },
     {
@@ -5674,10 +5681,10 @@
       "categories": [
         "Finance"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
       "status": "feed",
       "feed_url": "https://www.thewolfofharcourtstreet.com/feed",
-      "last_success_at": "2026-09-24T06:20:11.134556+00:00",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
       "error": null
     },
     {
@@ -5686,10 +5693,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
       "status": "feed",
       "fingerprint": "fa8b7f5eac12a40b22f7965f7f1466e48e38747255f18cc949cf5831e5ca2350",
-      "last_success_at": "2026-09-24T06:20:11.134556+00:00",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
       "error": null,
       "feed_url": "https://tomtunguz.com/index.xml",
       "discovered_at": "2026-09-24T03:49:54.414936+00:00"
@@ -5700,9 +5707,9 @@
       "categories": [
         "Finance"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
       "status": "feed",
-      "last_success_at": "2026-09-24T06:20:11.134556+00:00",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
       "error": null
     },
     {
@@ -5711,10 +5718,10 @@
       "categories": [
         "AI"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
       "status": "feed",
       "feed_url": "https://towardsdatascience.com/feed/",
-      "last_success_at": "2026-09-24T06:20:11.134556+00:00",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -5724,10 +5731,10 @@
       "categories": [
         "Newsletters"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
       "status": "feed",
       "feed_url": "https://thescienceofhitting.com/feed",
-      "last_success_at": "2026-09-24T06:20:11.134556+00:00",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
       "error": null
     },
     {
@@ -5736,11 +5743,11 @@
       "categories": [
         "Finance"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
-      "status": "error",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
+      "status": "feed",
       "feed_url": "https://ufoholdings.substack.com/feed",
-      "last_success_at": "2026-09-24T06:19:10.147956+00:00",
-      "error": "HTTPError",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
+      "error": null,
       "discovered_at": "2026-09-24T06:20:11.134556+00:00"
     },
     {
@@ -5749,11 +5756,11 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
       "discovered_at": "2026-09-24T06:17:39.218176+00:00",
       "status": "page_watch",
       "fingerprint": "89398a584b142f2e4c1934166c9fe1770376a600c6876308112fac01fe5861e0",
-      "last_success_at": "2026-09-24T06:20:11.134556+00:00",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
       "error": null
     },
     {
@@ -5762,10 +5769,10 @@
       "categories": [
         "Cyber"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
       "status": "feed",
       "feed_url": "https://ventureinsecurity.net/feed",
-      "last_success_at": "2026-09-24T06:20:11.134556+00:00",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
       "error": null
     },
     {
@@ -5774,11 +5781,11 @@
       "categories": [
         "Finance"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
-      "status": "error",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
+      "status": "feed",
       "feed_url": "https://vermilioncliffs.substack.com/feed",
-      "last_success_at": "2026-09-24T06:19:10.147956+00:00",
-      "error": "HTTPError",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
+      "error": null,
       "discovered_at": "2026-09-24T06:20:11.134556+00:00"
     },
     {
@@ -5787,7 +5794,7 @@
       "categories": [
         "Finance"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
       "discovered_at": "2026-09-24T06:17:39.218176+00:00",
       "status": "error",
       "error": "HTTPError"
@@ -5798,11 +5805,11 @@
       "categories": [
         "VC"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
-      "status": "error",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
+      "status": "feed",
       "feed_url": "https://wattfactory.substack.com/feed",
-      "last_success_at": "2026-09-24T06:19:10.147956+00:00",
-      "error": "HTTPError",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
+      "error": null,
       "discovered_at": "2026-09-24T06:20:11.134556+00:00"
     },
     {
@@ -5811,11 +5818,11 @@
       "categories": [
         "VC"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
-      "status": "error",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
+      "status": "feed",
       "feed_url": "https://whoisnnamdi.substack.com/feed",
-      "last_success_at": "2026-09-24T06:19:10.147956+00:00",
-      "error": "HTTPError",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
+      "error": null,
       "discovered_at": "2026-09-24T06:20:11.134556+00:00"
     },
     {
@@ -5825,10 +5832,10 @@
         "Solo blogs",
         "AI"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
       "status": "page_watch",
       "fingerprint": "7326ecdee1523681e63a7ac7b45d57fa034fce8989c94357587b4ddedc6c42d4",
-      "last_success_at": "2026-09-24T06:20:11.134556+00:00",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
       "error": null,
       "discovered_at": "2026-09-24T03:49:54.414936+00:00"
     },
@@ -5838,10 +5845,10 @@
       "categories": [
         "General"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
       "status": "feed",
       "feed_url": "https://worksinprogress.co/rss.xml",
-      "last_success_at": "2026-09-24T06:20:11.134556+00:00",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -5851,10 +5858,10 @@
       "categories": [
         "Cyber"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
       "status": "feed",
       "feed_url": "https://nicholas.carlini.com/writing/feed.xml",
-      "last_success_at": "2026-09-24T06:20:11.134556+00:00",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -5864,10 +5871,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
       "status": "page_watch",
       "fingerprint": "873f26a9d2413dfaa66f1325cfbd473c7e71fbbf6539e36d1362e98086f479f2",
-      "last_success_at": "2026-09-24T06:20:11.134556+00:00",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
       "error": null,
       "discovered_at": "2026-09-24T03:49:54.414936+00:00"
     },
@@ -5877,11 +5884,11 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
       "discovered_at": "2026-09-24T06:17:39.218176+00:00",
       "status": "page_watch",
       "fingerprint": "a71598a5018cae11110cbd7578aeda163b2073708c0ae0bcd1e3021f31eaaa2e",
-      "last_success_at": "2026-09-24T06:20:11.134556+00:00",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
       "error": null
     },
     {
@@ -5890,11 +5897,11 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T06:20:11.134556+00:00",
-      "status": "error",
+      "checked_at": "2026-09-24T06:23:24.839169+00:00",
+      "status": "feed",
       "feed_url": "https://masterofnonewithsunnyc.substack.com/feed",
-      "last_success_at": "2026-09-24T06:19:10.147956+00:00",
-      "error": "HTTPError",
+      "last_success_at": "2026-09-24T06:23:24.839169+00:00",
+      "error": null,
       "discovered_at": "2026-09-24T06:20:11.134556+00:00"
     }
   ],
@@ -5956,20 +5963,6 @@
       "why": "AI & infrastructure; Startups & investing"
     },
     {
-      "url": "https://geeksofthevalley.substack.com/p/venture-capital-rotates-from-ai-models",
-      "title": "Venture Capital Rotates From AI Models to Infrastructure Constraints",
-      "published_at": "2026-09-21T04:38:54+00:00",
-      "kind": "article",
-      "source": "Geeks Of The Valley Newsletter",
-      "source_url": "https://geeksofthevalley.substack.com/",
-      "categories": [
-        "Newsletters"
-      ],
-      "first_seen_at": "2026-09-24T06:17:39.218176+00:00",
-      "score": 66.9,
-      "why": "AI & infrastructure; Startups & investing"
-    },
-    {
       "url": "https://www.newcomer.co/p/war-in-the-middle-east-and-rising",
       "title": "War in the Middle East & Rising Interest Rates Threaten the Funding for AI Build-Out",
       "published_at": "2026-09-18T14:23:49+00:00",
@@ -6010,34 +6003,6 @@
       "first_seen_at": "2026-09-24T03:48:01.272420+00:00",
       "score": 62.1,
       "why": "AI & infrastructure; Security"
-    },
-    {
-      "url": "https://geeksofthevalley.substack.com/p/venture-capital-leaves-software-behind",
-      "title": "Venture Capital Leaves Software Behind to Finance AI's Physical Backbone",
-      "published_at": "2026-08-31T08:47:42+00:00",
-      "kind": "article",
-      "source": "Geeks Of The Valley Newsletter",
-      "source_url": "https://geeksofthevalley.substack.com/",
-      "categories": [
-        "Newsletters"
-      ],
-      "first_seen_at": "2026-09-24T06:17:39.218176+00:00",
-      "score": 50,
-      "why": "AI & infrastructure; Startups & investing"
-    },
-    {
-      "url": "https://geeksofthevalley.substack.com/p/venture-capital-trends-in-ai-quantum",
-      "title": "Venture Capital Trends in AI, Quantum Tech, and Health Innovation",
-      "published_at": "2026-07-27T02:12:08+00:00",
-      "kind": "article",
-      "source": "Geeks Of The Valley Newsletter",
-      "source_url": "https://geeksofthevalley.substack.com/",
-      "categories": [
-        "Newsletters"
-      ],
-      "first_seen_at": "2026-09-24T06:17:39.218176+00:00",
-      "score": 50,
-      "why": "AI & infrastructure; Startups & investing"
     },
     {
       "url": "https://growthstackmafia.com/p/ai-pricing-thoughts",
@@ -6316,7 +6281,7 @@
         "Newsletters"
       ],
       "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
-      "score": 43.6,
+      "score": 43.5,
       "why": "Startups & investing"
     },
     {
@@ -7413,20 +7378,6 @@
       "why": "AI & infrastructure"
     },
     {
-      "url": "https://www.platformer.news/openai-astra-warning-alignment-monitoring-pachocki/",
-      "title": "The AI warnings are coming from inside the lab",
-      "published_at": "2026-09-09T00:20:31+00:00",
-      "kind": "article",
-      "source": "Casey Newton \u2014 Platformer",
-      "source_url": "https://www.platformer.news/",
-      "categories": [
-        "VC"
-      ],
-      "first_seen_at": "2026-09-24T06:17:39.218176+00:00",
-      "score": 29.8,
-      "why": "AI & infrastructure"
-    },
-    {
       "url": "https://cws.substack.com/p/cws-market-review-september-8-2026",
       "title": "CWS Market Review \u2013 September 8, 2026",
       "published_at": "2026-09-08T22:11:18+00:00",
@@ -7455,17 +7406,17 @@
       "why": "AI & infrastructure"
     },
     {
-      "url": "https://www.newcomer.co/p/founders-of-chime-and-town-join-as",
-      "title": "Founders of Chime & Town Join as Speakers + Announcing Our Discussion Group Leaders for the Machine Earning AI Summit",
-      "published_at": "2026-09-08T19:32:37+00:00",
+      "url": "https://www.platformer.news/openai-astra-warning-alignment-monitoring-pachocki/",
+      "title": "The AI warnings are coming from inside the lab",
+      "published_at": "2026-09-09T00:20:31+00:00",
       "kind": "article",
-      "source": "Newcomer",
-      "source_url": "https://newcomer.substack.com/",
+      "source": "Casey Newton \u2014 Platformer",
+      "source_url": "https://www.platformer.news/",
       "categories": [
-        "Newsletters"
+        "VC"
       ],
-      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
-      "score": 29.6,
+      "first_seen_at": "2026-09-24T06:17:39.218176+00:00",
+      "score": 29.7,
       "why": "AI & infrastructure"
     },
     {
@@ -7479,6 +7430,20 @@
         "Newsletters"
       ],
       "first_seen_at": "2026-09-24T06:17:39.218176+00:00",
+      "score": 29.5,
+      "why": "AI & infrastructure"
+    },
+    {
+      "url": "https://www.newcomer.co/p/founders-of-chime-and-town-join-as",
+      "title": "Founders of Chime & Town Join as Speakers + Announcing Our Discussion Group Leaders for the Machine Earning AI Summit",
+      "published_at": "2026-09-08T19:32:37+00:00",
+      "kind": "article",
+      "source": "Newcomer",
+      "source_url": "https://newcomer.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
       "score": 29.5,
       "why": "AI & infrastructure"
     },
@@ -7565,20 +7530,6 @@
       ],
       "first_seen_at": "2026-09-24T06:17:39.218176+00:00",
       "score": 28.1,
-      "why": "AI & infrastructure"
-    },
-    {
-      "url": "https://geeksofthevalley.substack.com/p/ai-infrastructure-becomes-a-standalone",
-      "title": "AI Infrastructure Becomes a Standalone Strategic Asset Class",
-      "published_at": "2026-09-07T03:19:29+00:00",
-      "kind": "article",
-      "source": "Geeks Of The Valley Newsletter",
-      "source_url": "https://geeksofthevalley.substack.com/",
-      "categories": [
-        "Newsletters"
-      ],
-      "first_seen_at": "2026-09-24T06:17:39.218176+00:00",
-      "score": 27.9,
       "why": "AI & infrastructure"
     },
     {
@@ -8405,62 +8356,6 @@
       ],
       "first_seen_at": "2026-09-24T03:48:01.272420+00:00",
       "score": 25.0,
-      "why": "AI & infrastructure"
-    },
-    {
-      "url": "https://geeksofthevalley.substack.com/p/ai-moves-from-model-novelty-to-operating",
-      "title": "AI Moves From Model Novelty to Operating Infrastructure",
-      "published_at": "2026-08-17T03:10:45+00:00",
-      "kind": "article",
-      "source": "Geeks Of The Valley Newsletter",
-      "source_url": "https://geeksofthevalley.substack.com/",
-      "categories": [
-        "Newsletters"
-      ],
-      "first_seen_at": "2026-09-24T06:17:39.218176+00:00",
-      "score": 25,
-      "why": "AI & infrastructure"
-    },
-    {
-      "url": "https://geeksofthevalley.substack.com/p/ai-moves-from-models-toward-operational",
-      "title": "AI Moves From Models Toward Operational Infrastructure",
-      "published_at": "2026-08-24T12:49:52+00:00",
-      "kind": "article",
-      "source": "Geeks Of The Valley Newsletter",
-      "source_url": "https://geeksofthevalley.substack.com/",
-      "categories": [
-        "Newsletters"
-      ],
-      "first_seen_at": "2026-09-24T06:17:39.218176+00:00",
-      "score": 25,
-      "why": "AI & infrastructure"
-    },
-    {
-      "url": "https://geeksofthevalley.substack.com/p/financial-growth-and-strategic-moves",
-      "title": "Financial Growth and Strategic Moves in the Tech Sector",
-      "published_at": "2026-08-10T04:01:46+00:00",
-      "kind": "article",
-      "source": "Geeks Of The Valley Newsletter",
-      "source_url": "https://geeksofthevalley.substack.com/",
-      "categories": [
-        "Newsletters"
-      ],
-      "first_seen_at": "2026-09-24T06:17:39.218176+00:00",
-      "score": 25,
-      "why": "Startups & investing"
-    },
-    {
-      "url": "https://geeksofthevalley.substack.com/p/quantum-computing-and-the-ai-gold",
-      "title": "Quantum Computing and the AI Gold Rush: Strategic Investments Rising",
-      "published_at": "2026-08-03T04:36:09+00:00",
-      "kind": "article",
-      "source": "Geeks Of The Valley Newsletter",
-      "source_url": "https://geeksofthevalley.substack.com/",
-      "categories": [
-        "Newsletters"
-      ],
-      "first_seen_at": "2026-09-24T06:17:39.218176+00:00",
-      "score": 25,
       "why": "AI & infrastructure"
     },
     {
@@ -10402,20 +10297,6 @@
       "why": "From a followed source"
     },
     {
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/dartmouth-provost-okie-dokie.html",
-      "title": "Dartmouth Provost okie-dokie",
-      "published_at": "2026-09-22T12:20:22+00:00",
-      "kind": "article",
-      "source": "Marginal REVOLUTION - Small Steps Toward A Much Better World",
-      "source_url": "https://marginalrevolution.com/",
-      "categories": [
-        "Solo blogs"
-      ],
-      "first_seen_at": "2026-09-24T03:48:01.272420+00:00",
-      "score": 18.3,
-      "why": "From a followed source"
-    },
-    {
       "url": "https://towardsdatascience.com/build-a-speaker-recognition-app-with-claude-code/",
       "title": "Build a Speaker-Recognition App with Claude Code",
       "published_at": "2026-09-22T14:00:02+00:00",
@@ -10468,6 +10349,20 @@
         "Solo blogs"
       ],
       "first_seen_at": "2026-09-24T06:17:39.218176+00:00",
+      "score": 18.2,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/dartmouth-provost-okie-dokie.html",
+      "title": "Dartmouth Provost okie-dokie",
+      "published_at": "2026-09-22T12:20:22+00:00",
+      "kind": "article",
+      "source": "Marginal REVOLUTION - Small Steps Toward A Much Better World",
+      "source_url": "https://marginalrevolution.com/",
+      "categories": [
+        "Solo blogs"
+      ],
+      "first_seen_at": "2026-09-24T03:48:01.272420+00:00",
       "score": 18.2,
       "why": "From a followed source"
     },
@@ -12740,20 +12635,6 @@
       "why": "From a followed source"
     },
     {
-      "url": "https://geeksofthevalley.substack.com/p/the-infrastructure-premium-behind",
-      "title": "The Infrastructure Premium Behind the Next Technology Cycle",
-      "published_at": "2026-09-14T03:00:25+00:00",
-      "kind": "article",
-      "source": "Geeks Of The Valley Newsletter",
-      "source_url": "https://geeksofthevalley.substack.com/",
-      "categories": [
-        "Newsletters"
-      ],
-      "first_seen_at": "2026-09-24T06:17:39.218176+00:00",
-      "score": 9.9,
-      "why": "From a followed source"
-    },
-    {
       "url": "https://www.newsletter.lukesophinos.com/p/linear-194-the-software-map-is-collapsing",
       "title": "Linear #194: The Software Map Is Collapsing Into Three Buckets. But The War Inside the Verticals Is Really Just Starting.",
       "published_at": "2026-09-14T00:02:44+00:00",
@@ -13086,7 +12967,7 @@
         "General"
       ],
       "first_seen_at": "2026-09-24T06:17:39.218176+00:00",
-      "score": 7.7,
+      "score": 7.6,
       "why": "From a followed source"
     },
     {

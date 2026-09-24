@@ -33,3 +33,12 @@ Run `python3 -m unittest discover -s tests` before publishing. Preview with `pyt
 The daily view uses America/Los_Angeles dates, a date picker, search, and compact topic cards in up to four desktop columns and one phone column. All collected articles for the selected day are displayed. Following opens a searchable, alphabetical source directory grouped by topic and shows article-feed, page-watch or failed-check status.
 
 Stars save article snapshots in this browser's localStorage, including articles that later age out of the feed. They do not sync across devices and are lost if site data is cleared. Storage failures show a warning.
+
+
+## Substack profile reconciliation
+
+Reviewed all 92 publications displayed on https://substack.com/@cdpetty/reads on September 23, 2026. After matching custom domains, renamed publications and platform migrations, 87 are represented by tracked sources and five are intentionally excluded: Agentic AI Weekly, Company Launch Tracker, Golden Gate Recruits, next play, and The Substack Post. This is a dated snapshot, not automatic synchronization with the profile.
+
+Added Latent Garage and Rachel Woods’s Newsletter. Their feeds currently contain older posts; daily checks will pick up new posts if publishing resumes. Gwern's Substack feed stops in 2021, so retain the current Gwern.net source instead. Platformer, Garbage Day and Read Max retain their newer destinations. Removed Geeks of the Valley's dealflow newsletter and the PulseMCP directory, and replaced Qasar Younis's external Links page with his Writings page. The directory remains at 184 sources. Stealth Startup Spy remains excluded. Original author analysis, research, interviews and essays are retained, even where an author also links to outside reporting. These website changes do not unsubscribe the email or Substack accounts.
+
+Explicit exclusions are recorded in `editorial_exclusions` in sources.json as guidance for future discovery. Only `sources` entries are collected.
