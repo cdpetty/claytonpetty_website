@@ -1,6 +1,20 @@
 'use strict';
 const $ = id => document.getElementById(id);
-let data;
+let data, starredOnly=false;
+const starKey='reading-stars-v1';
+let stars=new Map();
+try {
+  const saved=JSON.parse(localStorage.getItem(starKey)||'[]');
+  if(Array.isArray(saved)) stars=new Map(saved.filter(i=>i && typeof i.url==='string' && /^https?:\/\//.test(i.url) && typeof i.title==='string').map(i=>[i.url,{...i,source:typeof i.source==='string'?i.source:'',categories:Array.isArray(i.categories)?i.categories:[]}]));
+} catch {}
+function toggleStar(item) {
+  if(stars.has(item.url))stars.delete(item.url);else stars.set(item.url,{url:item.url,title:item.title,source:item.source,categories:item.categories||[],published_at:item.published_at,kind:'article',starred_at:new Date().toISOString()});
+  try {localStorage.setItem(starKey,JSON.stringify([...stars.values()]));$('star-notice').hidden=true;}
+  catch {$('star-notice').textContent='Your browser could not save stars. They will last for this visit only.';$('star-notice').hidden=false;}
+  render();
+  const button=[...document.querySelectorAll('.star')].find(b=>b.dataset.url===item.url);
+  (button||$('starred')).focus({preventScroll:true});
+}
 function el(tag, text, cls) { const node=document.createElement(tag); if(text) node.textContent=text; if(cls) node.className=cls; return node; }
 function link(text,url) { const node=el('a',text); try { const u=new URL(url); if(['https:','http:'].includes(u.protocol)) node.href=u.href; } catch {} node.target='_blank'; node.rel='noopener noreferrer'; return node; }
 const topicRules = [
@@ -28,11 +42,15 @@ function dayOf(value) {
 const today=dayOf(new Date().toISOString());
 function render() {
   const search=$('search').value.toLowerCase().trim(),day=$('day').value;
-  const daily=data.items.filter(i=>i.kind==='article' && dayOf(i.published_at)===day);
+  const daily=starredOnly?[...stars.values()].map(i=>({...i,topic:topicFor(i)})).sort((a,b)=>(b.starred_at||'').localeCompare(a.starred_at||'')):data.items.filter(i=>i.kind==='article' && dayOf(i.published_at)===day);
+  $('starred').setAttribute('aria-pressed',String(starredOnly));
+  $('starred').textContent=starredOnly?'★ Starred':'☆ Starred';
+  $('date-controls').hidden=starredOnly;
+  $('star-help').hidden=!starredOnly;
   const shown=daily.filter(i=>(i.title+' '+i.source+' '+i.topic).toLowerCase().includes(search));
   $('items').replaceChildren();
   $('empty').hidden=shown.length>0;
-  $('empty').textContent=daily.length?'No matching articles.':'No dated articles collected for this day yet. Try an earlier date.';
+  $('empty').textContent=daily.length?'No matching articles.':starredOnly?'Star an article to keep it here.':'No dated articles collected for this day yet. Try an earlier date.';
   $('daily-count').textContent=`${shown.length} article${shown.length===1?'':'s'}`;
   $('next-day').disabled=day>=today;
   for(const topic of topicOrder) {
@@ -43,7 +61,9 @@ function render() {
     const heading=el('h2',topic);heading.id=id+'-title';section.setAttribute('aria-labelledby',heading.id);section.append(heading);
     const list=el('ul');section.append(list);$('items').append(section);
     articles.forEach(item=>{
-      const row=el('li');const article=link(item.title,item.url);article.title=item.source;row.append(article);list.append(row);
+      const row=el('li');const article=link(item.title,item.url);article.title=item.source;
+      const selected=stars.has(item.url),star=el('button',selected?'★':'☆','star');star.type='button';star.dataset.url=item.url;star.setAttribute('aria-pressed',String(selected));star.setAttribute('aria-label',`${selected?'Unstar':'Star'}: ${item.title}`);star.addEventListener('click',()=>toggleStar(item));
+      row.append(star,article);list.append(row);
     });
   }
 }
@@ -58,6 +78,6 @@ fetch('data.json',{cache:'no-cache'}).then(r=>{if(!r.ok)throw Error();return r.j
   const failed=data.sources.filter(s=>s.status==='error');
   $('source-status').textContent=(failed.length?`${failed.length} sources could not be checked; they will retry daily. `:'')+'Dates use Pacific time. Undated articles and general page changes are excluded from the daily view.';
   data.sources.forEach(s=>{const row=el('li');row.append(link(s.name,s.url));if(s.status==='error')row.append(document.createTextNode(' — check failed'));$('sources').append(row);});
-  render();$('search').addEventListener('input',render);$('day').addEventListener('change',()=>{if(!$('day').value || $('day').value>today)$('day').value=today;render();});
+  render();$('starred').addEventListener('click',()=>{starredOnly=!starredOnly;render();});$('search').addEventListener('input',render);$('day').addEventListener('change',()=>{if(!$('day').value || $('day').value>today)$('day').value=today;render();});
   $('previous-day').addEventListener('click',()=>moveDay(-1));$('next-day').addEventListener('click',()=>moveDay(1));$('today').addEventListener('click',()=>{$('day').value=today;render();});
 }).catch(()=>{$('status').textContent='Could not load articles. Please reload.';});

@@ -29,3 +29,7 @@ Articles are grouped into AI & infrastructure, Startups & venture, Security, Fin
 ## Compact daily view
 
 The grid defaults to today in America/Los_Angeles and shows every collected, dated article for the selected day, ordered by priority inside topics. A date picker, day arrows, and Today button navigate the archive. No article pagination, ranks, explanations, or read/save controls are shown. Undated items and page changes are excluded rather than represented as newly published. Desktop uses up to four compact columns; phones use readable 13px links in a single column and larger date/search controls. Source failures remain available in the collapsed Sources footer.
+
+## Stars
+
+A small star on each article saves a snapshot of its title, link, publication, and date in browser localStorage. The Starred toggle shows saved articles across all dates, including ones that age out of the 60-day feed. Stars are private to this browser, do not sync across devices, and are lost if site storage is cleared. Storage failures show a visible warning. No read-status controls or ranking explanations are displayed.
