@@ -1,6 +1,6 @@
 # Daily reading page
 
-The directory follows 184 sources discovered from Reading v2 bookmarks and newsletter inventories. The September 2026 expansion added 100 sources and removed 12 overview/event feeds. Historical delivery demonstrates a subscription or past interest, not necessarily a currently paid subscription.
+The directory follows 183 sources discovered from Reading v2 bookmarks and newsletter inventories. The September 2026 expansion added 100 sources and removed 12 overview/event feeds. Historical delivery demonstrates a subscription or past interest, not necessarily a currently paid subscription.
 
 ## Discovery and editorial policy
 
@@ -37,8 +37,8 @@ Stars save article snapshots in this browser's localStorage, including articles 
 
 ## Substack profile reconciliation
 
-Reviewed all 92 publications displayed on https://substack.com/@cdpetty/reads on September 23, 2026. After matching custom domains, renamed publications and platform migrations, 87 are represented by tracked sources and five are intentionally excluded: Agentic AI Weekly, Company Launch Tracker, Golden Gate Recruits, next play, and The Substack Post. This is a dated snapshot, not automatic synchronization with the profile.
+Reviewed all 92 publications displayed on https://substack.com/@cdpetty/reads on September 23, 2026. After matching custom domains, renamed publications and platform migrations, 86 are represented by tracked sources and six are intentionally excluded: Agentic AI Weekly, Company Launch Tracker, Golden Gate Recruits, next play, The Substack Post, and Rachel Woods’s Newsletter. This is a dated snapshot, not automatic synchronization with the profile.
 
-Added Latent Garage and Rachel Woods’s Newsletter. Their feeds currently contain older posts; daily checks will pick up new posts if publishing resumes. Gwern's Substack feed stops in 2021, so retain the current Gwern.net source instead. Platformer, Garbage Day and Read Max retain their newer destinations. Removed Geeks of the Valley's dealflow newsletter and the PulseMCP directory, and replaced Qasar Younis's external Links page with his Writings page. The directory remains at 184 sources. Stealth Startup Spy remains excluded. Original author analysis, research, interviews and essays are retained, even where an author also links to outside reporting. These website changes do not unsubscribe the email or Substack accounts.
+Added Latent Garage. Its feed currently contains older posts; daily checks will pick up new posts if publishing resumes. Rachel Woods’s Newsletter was subsequently removed at user request. Gwern's Substack feed stops in 2021, so retain the current Gwern.net source instead. Platformer, Garbage Day and Read Max retain their newer destinations. Removed Geeks of the Valley's dealflow newsletter and the PulseMCP directory, and replaced Qasar Younis's external Links page with his Writings page. The directory now contains 183 sources. Stealth Startup Spy remains excluded. Original author analysis, research, interviews and essays are retained, even where an author also links to outside reporting. These website changes do not unsubscribe the email or Substack accounts.
 
 Explicit exclusions are recorded in `editorial_exclusions` in sources.json as guidance for future discovery. Only `sources` entries are collected.

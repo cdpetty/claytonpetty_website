@@ -1494,14 +1494,6 @@
       ]
     },
     {
-      "name": "Rachel Woods — Rachel’s Newsletter",
-      "url": "https://rachelwoods.substack.com/",
-      "feed_url": "https://rachelwoods.substack.com/feed",
-      "categories": [
-        "AI"
-      ]
-    },
-    {
       "name": "Qasar Younis — Writings",
       "url": "https://qy.co/writings/",
       "feed_url": null,
@@ -1547,6 +1539,10 @@
     {
       "name": "Qasar Younis — Links",
       "reason": "External link collection"
+    },
+    {
+      "name": "Rachel Woods — Rachel’s Newsletter",
+      "reason": "Excluded at user request"
     }
   ]
 }
