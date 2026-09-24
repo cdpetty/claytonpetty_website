@@ -22,6 +22,16 @@ class ReadingTests(unittest.TestCase):
         with self.assertRaises(ValueError): reading.parse_feed(b'<!DOCTYPE rss><rss/>','https://example.com')
         self.assertIsNone(reading.canonical('javascript:alert(1)'))
 
+    def test_rss_byline_multiple_creators_and_email_only(self):
+        body=b'<rss xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><item><title>Essay</title><link>https://example.com/a</link><dc:creator>Alice</dc:creator><dc:creator>Bob</dc:creator></item><item><title>Two</title><link>https://example.com/b</link><author>private@example.com (Carol)</author></item><item><title>Three</title><link>https://example.com/c</link><author>private@example.com</author></item></channel></rss>'
+        items=reading.parse_feed(body,'https://example.com/feed')
+        self.assertEqual([i['author'] for i in items],['Alice, Bob','Carol',None])
+
+    def test_atom_entry_author_overrides_feed_author(self):
+        body=b'<feed xmlns="http://www.w3.org/2005/Atom"><author><name>Alice</name><email>private@example.com</email></author><entry><title>One</title><link href="/a"/></entry><entry><title>Two</title><link href="/b"/><author><name>Bob</name><uri>https://example.com/bob</uri></author></entry></feed>'
+        items=reading.parse_feed(body,'https://example.com/feed')
+        self.assertEqual([i['author'] for i in items],['Alice','Bob'])
+
     def test_initial_page_is_baseline_then_change_detected(self):
         source={'name':'Test blog','url':'https://example.com/','categories':['AI']}
         page=b'<html><body><p>' + b'An essay about artificial intelligence and building software. ' * 4 + b'</p></body></html>'

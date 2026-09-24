@@ -8,7 +8,7 @@ try {
   if(Array.isArray(saved)) stars=new Map(saved.filter(i=>i && typeof i.url==='string' && /^https?:\/\//.test(i.url) && typeof i.title==='string').map(i=>[i.url,{...i,source:typeof i.source==='string'?i.source:'',categories:Array.isArray(i.categories)?i.categories:[]}]));
 } catch {}
 function toggleStar(item) {
-  if(stars.has(item.url))stars.delete(item.url);else stars.set(item.url,{url:item.url,title:item.title,source:item.source,categories:item.categories||[],published_at:item.published_at,kind:'article',starred_at:new Date().toISOString()});
+  if(stars.has(item.url))stars.delete(item.url);else stars.set(item.url,{url:item.url,title:item.title,author:item.author||null,source:item.source,categories:item.categories||[],published_at:item.published_at,kind:'article',starred_at:new Date().toISOString()});
   try {localStorage.setItem(starKey,JSON.stringify([...stars.values()]));$('star-notice').hidden=true;}
   catch {$('star-notice').textContent='Your browser could not save stars. They will last for this visit only.';$('star-notice').hidden=false;}
   render();
@@ -47,7 +47,7 @@ function render() {
   $('starred').textContent=starredOnly?'★ Starred':'☆ Starred';
   $('date-controls').hidden=starredOnly;
   $('star-help').hidden=!starredOnly;
-  const shown=daily.filter(i=>(i.title+' '+i.source+' '+i.topic).toLowerCase().includes(search));
+  const shown=daily.filter(i=>(i.title+' '+(i.author||'')+' '+i.source+' '+i.topic).toLowerCase().includes(search));
   $('items').replaceChildren();
   $('empty').hidden=shown.length>0;
   $('empty').textContent=daily.length?'No matching articles.':starredOnly?'Star an article to keep it here.':'No dated articles collected for this day yet. Try an earlier date.';
@@ -63,7 +63,10 @@ function render() {
     articles.forEach(item=>{
       const row=el('li');const article=link(item.title,item.url);article.title=item.source;
       const selected=stars.has(item.url),star=el('button',selected?'★':'☆','star');star.type='button';star.dataset.url=item.url;star.setAttribute('aria-pressed',String(selected));star.setAttribute('aria-label',`${selected?'Unstar':'Star'}: ${item.title}`);star.addEventListener('click',()=>toggleStar(item));
-      row.append(star,article);list.append(row);
+      const copy=el('div','','article-copy');copy.append(article);
+      const byline=el('span',item.author || item.source,'byline');
+      byline.title=item.author?item.source:'Publication; author not supplied';copy.append(byline);
+      row.append(star,copy);list.append(row);
     });
   }
 }
@@ -91,7 +94,8 @@ function renderFollowing() {
   }
 }
 fetch('data.json',{cache:'no-cache'}).then(r=>{if(!r.ok)throw Error();return r.json();}).then(result=>{
-  data=result;data.items.forEach(item=>{item.topic=topicFor(item);});
+  data=result;data.items.forEach(item=>{item.topic=topicFor(item);if(stars.has(item.url)&&item.author)stars.get(item.url).author=item.author;});
+  try {localStorage.setItem(starKey,JSON.stringify([...stars.values()]));} catch {}
   $('day').value=today;$('day').max=today;
   $('status').textContent='Updated '+new Date(data.updated_at).toLocaleString(undefined,{month:'short',day:'numeric',hour:'numeric',minute:'2-digit'});
   const failed=data.sources.filter(s=>s.status==='error');

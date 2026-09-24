@@ -42,3 +42,8 @@ Reviewed all 92 publications displayed on https://substack.com/@cdpetty/reads on
 Added Latent Garage. Its feed currently contains older posts; daily checks will pick up new posts if publishing resumes. Rachel Woods’s Newsletter was subsequently removed at user request. Gwern's Substack feed stops in 2021, so retain the current Gwern.net source instead. Platformer, Garbage Day and Read Max retain their newer destinations. Removed Geeks of the Valley's dealflow newsletter and the PulseMCP directory, and replaced Qasar Younis's external Links page with his Writings page. The directory now contains 183 sources. Stealth Startup Spy remains excluded. Original author analysis, research, interviews and essays are retained, even where an author also links to outside reporting. These website changes do not unsubscribe the email or Substack accounts.
 
 Explicit exclusions are recorded in `editorial_exclusions` in sources.json as guidance for future discovery. Only `sources` entries are collected.
+
+
+## Article bylines
+
+Article cards display the author in a compact second line, with the publication available on hover. Authors come from RSS creator/author fields, Atom entry/feed authors, or Apollo public article metadata. Email addresses in RSS author fields are stripped. If no author is supplied, the publication is shown without inventing a byline. Search includes authors, and new starred snapshots preserve them; older stars gain bylines when their articles are still in the current feed.

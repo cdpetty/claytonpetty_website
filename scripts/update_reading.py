@@ -90,6 +90,17 @@ def parse_feed(body, base):
     local = lambda tag: tag.split("}")[-1]
     if local(root.tag) not in ("rss", "feed", "RDF"): raise ValueError("Not an RSS/Atom feed")
     items = []
+    def authors(parent):
+        names = []
+        for child in parent:
+            if local(child.tag) not in ("author", "creator"): continue
+            nested = [clean(n.text) for n in child if local(n.tag) == "name"]
+            raw = ", ".join(nested) if nested else clean(child.text)
+            # RSS author fields sometimes contain an email address; publish names only.
+            name = re.sub(r"[^\s<>()]+@[^\s<>()]+", "", raw).strip(" <>()")
+            if name and name not in names: names.append(name)
+        return ", ".join(names) or None
+    feed_author = authors(root) if local(root.tag) == "feed" else None
     for node in root.iter():
         if local(node.tag) not in ("item", "entry"): continue
         fields = {}; link = None
@@ -102,7 +113,7 @@ def parse_feed(body, base):
         url = canonical(urljoin(base, link or fields.get("guid", "")))
         title = clean(fields.get("title", ""))
         if not url or not title or not (link or fields.get("guid")): continue
-        items.append({"url": url, "title": title, "published_at": date(fields.get("pubDate") or fields.get("published") or fields.get("updated") or fields.get("date")), "kind": "article"})
+        items.append({"url": url, "title": title, "author": authors(node) or feed_author, "published_at": date(fields.get("pubDate") or fields.get("published") or fields.get("updated") or fields.get("date")), "kind": "article"})
     return items
 
 
@@ -136,7 +147,9 @@ class ApolloArticles(HTMLParser):
             from zoneinfo import ZoneInfo
             published = day.replace(hour=12, tzinfo=ZoneInfo("America/Los_Angeles")).astimezone(timezone.utc).isoformat()
             if url and title and urlsplit(url).netloc == urlsplit(self.base).netloc and "/daily-spark/" in url:
-                self.items[url] = {"url": url, "title": title, "published_at": published, "kind": "article"}
+                author = data.get("aboutTheAuthor") or {}
+                name = clean(" ".join(filter(None, [author.get("firstName"), author.get("lastName")])))
+                self.items[url] = {"url": url, "title": title, "author": name or None, "published_at": published, "kind": "article"}
         except (ValueError, TypeError): pass
 
 
@@ -214,6 +227,7 @@ def main():
             for entry in entries:
                 if not allowed(entry, by_source[state["url"]]): continue
                 prior = prior_items.get(entry["url"], {})
+                entry["author"] = entry.get("author") or prior.get("author")
                 first_seen = seen.get(entry["url"], STAMP) if entry["kind"] == "article" else STAMP
                 seen[entry["url"]] = first_seen
                 entry.update(source=state["name"], source_url=state["url"], categories=state["categories"], first_seen_at=first_seen)
