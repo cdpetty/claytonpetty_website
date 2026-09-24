@@ -1,0 +1,540 @@
+{
+  "lookback_days": 60,
+  "ranking_topics": {
+    "AI & infrastructure": [
+      "artificial intelligence",
+      "AI",
+      "LLM",
+      "agent",
+      "inference",
+      "compute",
+      "GPU",
+      "model",
+      "MCP"
+    ],
+    "Startups & investing": [
+      "startup",
+      "founder",
+      "venture",
+      "funding",
+      "market",
+      "pricing",
+      "growth"
+    ],
+    "Security": [
+      "security",
+      "cyber",
+      "vulnerability",
+      "attack",
+      "malware"
+    ]
+  },
+  "sources": [
+    {
+      "name": "Cybercrime Magazine - Page One For The Cybersecurity Industry",
+      "url": "https://cybersecurityventures.com/",
+      "categories": [
+        "Cyber"
+      ],
+      "feed_url": null
+    },
+    {
+      "name": "Codelivly - Learn Cybersecurity - Codelivly",
+      "url": "https://codelivly.com/",
+      "categories": [
+        "Cyber"
+      ],
+      "feed_url": null
+    },
+    {
+      "name": "Malware Analysis, Phishing, and Email Scams \u2013 Cybersecurity Blog",
+      "url": "https://malwr-analysis.com/",
+      "categories": [
+        "Cyber"
+      ],
+      "feed_url": null
+    },
+    {
+      "name": "Cloud & App Security Product Insights",
+      "url": "https://list.latio.tech/",
+      "categories": [
+        "Cyber",
+        "Solo blogs"
+      ],
+      "feed_url": null
+    },
+    {
+      "name": "Writing | Nicholas Carlini",
+      "url": "https://nicholas.carlini.com/writing/",
+      "categories": [
+        "Cyber"
+      ],
+      "feed_url": null
+    },
+    {
+      "name": "Phil Venables Blog",
+      "url": "https://www.philvenables.com/",
+      "categories": [
+        "Cyber"
+      ],
+      "feed_url": null
+    },
+    {
+      "name": "Embrace The Red \u00b7 Embrace The Red",
+      "url": "https://embracethered.com/blog/",
+      "categories": [
+        "Cyber"
+      ],
+      "feed_url": null
+    },
+    {
+      "name": "Every",
+      "url": "https://every.to/",
+      "categories": [
+        "General"
+      ],
+      "feed_url": null
+    },
+    {
+      "name": "SemiAnalysis \u2013 Bridging the gap between the world's most important industry, semiconductors, and business.",
+      "url": "https://semianalysis.com/",
+      "categories": [
+        "General"
+      ],
+      "feed_url": null
+    },
+    {
+      "name": "Pirate Wires",
+      "url": "https://www.piratewires.com/",
+      "categories": [
+        "General"
+      ],
+      "feed_url": null
+    },
+    {
+      "name": "Works in Progress Magazine",
+      "url": "https://worksinprogress.co/",
+      "categories": [
+        "General"
+      ],
+      "feed_url": null
+    },
+    {
+      "name": "Khosla Ventures",
+      "url": "https://www.khoslaventures.com/",
+      "categories": [
+        "General"
+      ],
+      "feed_url": null
+    },
+    {
+      "name": "Barry's Website",
+      "url": "https://www.barry.ooo/",
+      "categories": [
+        "Solo blogs"
+      ],
+      "feed_url": null
+    },
+    {
+      "name": "Tomasz Tunguz (VC Theory)",
+      "url": "https://tomtunguz.com/",
+      "categories": [
+        "Solo blogs"
+      ],
+      "feed_url": null
+    },
+    {
+      "name": "Benedict Evans",
+      "url": "https://www.ben-evans.com/",
+      "categories": [
+        "Solo blogs"
+      ],
+      "feed_url": null
+    },
+    {
+      "name": "Nishant Hooda \u2014 Website",
+      "url": "https://nishanthooda.com/index.html",
+      "categories": [
+        "Solo blogs"
+      ],
+      "feed_url": null
+    },
+    {
+      "name": "Oliver Gilan",
+      "url": "https://olivergilan.com/blog/",
+      "categories": [
+        "Solo blogs"
+      ],
+      "feed_url": null
+    },
+    {
+      "name": "boz.",
+      "url": "https://boz.com/",
+      "categories": [
+        "Solo blogs"
+      ],
+      "feed_url": null
+    },
+    {
+      "name": "benkuhn.net",
+      "url": "https://www.benkuhn.net/",
+      "categories": [
+        "Solo blogs"
+      ],
+      "feed_url": null
+    },
+    {
+      "name": "Brie Wolfson",
+      "url": "https://www.briewolfson.com/",
+      "categories": [
+        "Solo blogs"
+      ],
+      "feed_url": null
+    },
+    {
+      "name": "Cold Takes",
+      "url": "https://www.cold-takes.com/",
+      "categories": [
+        "Solo blogs"
+      ],
+      "feed_url": null
+    },
+    {
+      "name": "Home - Graham Duncan Blog",
+      "url": "https://grahamduncan.blog/",
+      "categories": [
+        "Solo blogs"
+      ],
+      "feed_url": null
+    },
+    {
+      "name": "Escaping Flatland | Henrik Karlsson | Substack",
+      "url": "https://www.henrikkarlsson.xyz/",
+      "categories": [
+        "Solo blogs"
+      ],
+      "feed_url": null
+    },
+    {
+      "name": "Justin Meiners",
+      "url": "https://www.jmeiners.com/",
+      "categories": [
+        "Solo blogs"
+      ],
+      "feed_url": null
+    },
+    {
+      "name": "James Somers",
+      "url": "https://jsomers.net/",
+      "categories": [
+        "Solo blogs"
+      ],
+      "feed_url": null
+    },
+    {
+      "name": "Marginal REVOLUTION - Small Steps Toward A Much Better World",
+      "url": "https://marginalrevolution.com/",
+      "categories": [
+        "Solo blogs"
+      ],
+      "feed_url": null
+    },
+    {
+      "name": "Max Hodak",
+      "url": "https://maxhodak.com/",
+      "categories": [
+        "Solo blogs"
+      ],
+      "feed_url": null
+    },
+    {
+      "name": "Nadia Asparouhova",
+      "url": "https://nadia.xyz/",
+      "categories": [
+        "Solo blogs"
+      ],
+      "feed_url": null
+    },
+    {
+      "name": "Paul Graham",
+      "url": "https://paulgraham.com/",
+      "categories": [
+        "Solo blogs"
+      ],
+      "feed_url": null
+    },
+    {
+      "name": "Sam Altman",
+      "url": "https://blog.samaltman.com/",
+      "categories": [
+        "Solo blogs"
+      ],
+      "feed_url": null
+    },
+    {
+      "name": "Slate Star Codex",
+      "url": "https://slatestarcodex.com/",
+      "categories": [
+        "Solo blogs"
+      ],
+      "feed_url": null
+    },
+    {
+      "name": "Magnus Financial Group",
+      "url": "https://magnusfinancial.com/",
+      "categories": [
+        "Solo blogs"
+      ],
+      "feed_url": null
+    },
+    {
+      "name": "Links",
+      "url": "https://qy.co/links/",
+      "categories": [
+        "Solo blogs"
+      ],
+      "feed_url": null
+    },
+    {
+      "name": "Susam Pal",
+      "url": "https://susam.net/",
+      "categories": [
+        "Solo blogs"
+      ],
+      "feed_url": null
+    },
+    {
+      "name": "matklad",
+      "url": "https://matklad.github.io/",
+      "categories": [
+        "Solo blogs"
+      ],
+      "feed_url": null
+    },
+    {
+      "name": "Paco Coursey",
+      "url": "https://paco.me/",
+      "categories": [
+        "Solo blogs"
+      ],
+      "feed_url": null
+    },
+    {
+      "name": "Rasmus",
+      "url": "https://rsms.me/",
+      "categories": [
+        "Solo blogs"
+      ],
+      "feed_url": null
+    },
+    {
+      "name": "Will Ye",
+      "url": "https://will-ye.com/",
+      "categories": [
+        "Solo blogs",
+        "AI"
+      ],
+      "feed_url": null
+    },
+    {
+      "name": "Essays \u00b7 Gwern.net",
+      "url": "https://gwern.net/",
+      "categories": [
+        "Solo blogs"
+      ],
+      "feed_url": null
+    },
+    {
+      "name": "Euclid Insights",
+      "url": "https://insights.euclid.vc/",
+      "categories": [
+        "Solo blogs"
+      ],
+      "feed_url": null
+    },
+    {
+      "name": "Jason A. Hoffman \u2013 Industrialist",
+      "url": "https://fullhoffman.com/",
+      "categories": [
+        "Solo blogs"
+      ],
+      "feed_url": null
+    },
+    {
+      "name": "Compound - Home",
+      "url": "https://www.compound.vc/",
+      "categories": [
+        "Solo blogs"
+      ],
+      "feed_url": null
+    },
+    {
+      "name": "find the moat -",
+      "url": "https://findthemoat.com/",
+      "categories": [
+        "Solo blogs"
+      ],
+      "feed_url": null
+    },
+    {
+      "name": "Writings \u2014 Jae Chung",
+      "url": "https://jaechung.net/writings/",
+      "categories": [
+        "Solo blogs"
+      ],
+      "feed_url": null
+    },
+    {
+      "name": "ChinaTalk | Jordan Schneider | Substack",
+      "url": "https://www.chinatalk.media/",
+      "categories": [
+        "China"
+      ],
+      "feed_url": null
+    },
+    {
+      "name": "The Asianometry Newsletter | Jon Y | Substack",
+      "url": "https://www.asianometry.com/",
+      "categories": [
+        "China"
+      ],
+      "feed_url": null
+    },
+    {
+      "name": "Sinocism | Bill Bishop | Substack",
+      "url": "https://sinocism.com/",
+      "categories": [
+        "China"
+      ],
+      "feed_url": null
+    },
+    {
+      "name": "Import AI",
+      "url": "https://jack-clark.net/",
+      "categories": [
+        "AI"
+      ],
+      "feed_url": null
+    },
+    {
+      "name": "Blog - Aleksa Gordi\u0107",
+      "url": "https://www.aleksagordic.com/blog",
+      "categories": [
+        "AI"
+      ],
+      "feed_url": null
+    },
+    {
+      "name": "Daft Blog",
+      "url": "https://www.daft.ai/blog",
+      "categories": [
+        "AI"
+      ],
+      "feed_url": null
+    },
+    {
+      "name": "Runebook",
+      "url": "https://blog.runebook.ai/",
+      "categories": [
+        "AI"
+      ],
+      "feed_url": null
+    },
+    {
+      "name": "Beren's Blog - Thoughts on AI, Neuroscience, and other things that interest me.",
+      "url": "https://www.beren.io/",
+      "categories": [
+        "AI"
+      ],
+      "feed_url": null
+    },
+    {
+      "name": "Towards Data Science",
+      "url": "https://towardsdatascience.com/",
+      "categories": [
+        "AI"
+      ],
+      "feed_url": null
+    },
+    {
+      "name": "Elliot Arledge",
+      "url": "https://elliotarledge.com/blog",
+      "categories": [
+        "AI"
+      ],
+      "feed_url": null
+    },
+    {
+      "name": "Cognition | Blog",
+      "url": "https://cognition.ai/blog",
+      "categories": [
+        "AI"
+      ],
+      "feed_url": null
+    },
+    {
+      "name": "Rabib Alam",
+      "url": "https://www.workwithrabib.com/",
+      "categories": [
+        "AI"
+      ],
+      "feed_url": null
+    },
+    {
+      "name": "Let\u2019s build your great helper",
+      "url": "https://exowill.com/",
+      "categories": [
+        "AI"
+      ],
+      "feed_url": null
+    },
+    {
+      "name": "INJECT MAGIC",
+      "url": "https://injectmagic.com/",
+      "categories": [
+        "Builders"
+      ],
+      "feed_url": null
+    },
+    {
+      "name": "Riley Walz",
+      "url": "https://walzr.com/",
+      "categories": [
+        "Builders"
+      ],
+      "feed_url": null
+    },
+    {
+      "name": "Home | Sparkline Capital",
+      "url": "https://www.sparklinecapital.com/",
+      "categories": [
+        "Finance"
+      ],
+      "feed_url": null
+    },
+    {
+      "name": "Colossus Magazine - Colossus",
+      "url": "https://joincolossus.com/mag/",
+      "categories": [
+        "Finance"
+      ],
+      "feed_url": null
+    },
+    {
+      "name": "Hacklivly - The Codelivly Community",
+      "url": "https://hacklivly.com/",
+      "categories": [
+        "Cyber"
+      ],
+      "feed_url": null
+    },
+    {
+      "name": "PulseMCP | Keep up-to-date with MCP",
+      "url": "https://www.pulsemcp.com/",
+      "categories": [
+        "AI"
+      ],
+      "feed_url": null
+    }
+  ]
+}

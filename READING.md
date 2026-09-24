@@ -1,0 +1,23 @@
+# Daily reading page
+
+The reading page follows the publishing sources extracted from the **Reading v2** bookmark folder. Personal documents, CRM links, search results, tools, dashboards, social profiles, and event pages are excluded. Duplicate sites are consolidated, retaining their categories. The original bookmark export is not included in this repository.
+
+## Collection
+
+`reading/sources.json` contains the source list and ranking topics. Run `python3 scripts/update_reading.py` to refresh `reading/data.json`. No packages, API keys, or paid services are required.
+
+The collector uses advertised RSS/Atom feeds or probes common feed paths. It checks sites without feeds for visible page changes. The first successful check establishes a baseline; subsequent changes appear as **page updates**, not confirmed new articles. JavaScript-only sites, blocked sites, and inaccessible pages may fail; the page shows their status and retains older collected items. Page watches can flag navigation changes and other noise.
+
+Rankings use title keyword matches plus recency. They are transparent heuristics, not full-text AI judgments. Feed items retain publisher dates where available. Undated items are marked first seen. Items age out after 60 days. Titles are rendered as text, not HTML. Reading and saved state stay in the visitor's browser.
+
+## Publishing and daily schedule
+
+The workflow in `.github/workflows/reading.yml` refreshes at approximately **14:23 UTC daily** (7:23 a.m. Pacific daylight time / 6:23 a.m. Pacific standard time), on pushes to `main`, and on manual runs. GitHub scheduled runs can be delayed; public repository schedules may be disabled after inactivity.
+
+Before activation, set repository **Settings → Pages → Build and deployment → Source → GitHub Actions**. The current site uses legacy publishing from `main`; this setting must change when activating the workflow. Preserve the existing `CNAME`. The workflow commits collection state, then publishes only the homepage, headshot, CNAME, and reading page assets. It needs permission to push collection updates to `main`; branch protection may require a separate state-storage design.
+
+Run `python3 -m unittest discover -s tests` before publishing. Preview with `python3 -m http.server 8000` and visit `/reading/`.
+
+## Inbox integration is pending
+
+This collector currently handles public bookmarks only. Gmail access through the assistant does not provide credentials to GitHub Actions. Daily email ingestion needs separate authorization and a chosen private/public publishing design. No email messages, inbox addresses, message IDs, access tokens, or paid newsletter text are included in this site.
