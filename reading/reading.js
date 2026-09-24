@@ -28,7 +28,8 @@ function topicFor(item) {
   if (match) return match[0];
   return (item.categories || []).map(c=>sourceTopics[c]).find(Boolean) || 'Essays & ideas';
 }
-const expandedTopics = new Set();
+const topicPages = new Map();
+const pageSize = 3;
 function render() {
   const search = $('search').value.toLowerCase(), category = $('category').value, view = $('view').value;
   const shown = data.items.filter(i => (!category || i.topic === category) && (i.title + ' ' + i.source).toLowerCase().includes(search) && (view !== 'unread' || !prefs[i.url]?.read) && (view !== 'saved' || prefs[i.url]?.saved));
@@ -45,9 +46,12 @@ function render() {
     heading.append(el('span', ` ${articles.length}`, 'topic-count'));
     section.setAttribute('aria-labelledby', heading.id); section.append(heading);
     const list = el('ol'); section.append(list); $('items').append(section);
-    const visible = expandedTopics.has(topic) ? articles : articles.slice(0,5);
+    const pageCount = Math.ceil(articles.length / pageSize);
+    const page = Math.min(topicPages.get(topic) || 0, pageCount - 1);
+    topicPages.set(topic,page);
+    const visible = articles.slice(page * pageSize, (page + 1) * pageSize);
     visible.forEach((item, index) => {
-    const row = el('li', '', 'article'), content = el('div'); row.append(el('span', String(index+1).padStart(2,'0'), 'rank'), content);
+    const row = el('li', '', 'article'), content = el('div'); row.append(el('span', String(page * pageSize + index + 1).padStart(2,'0'), 'rank'), content);
     const title = el('h3'); title.append(link(item.title,item.url)); content.append(title);
     content.append(el('p', `${item.source} · ${item.published_at ? formatDate(item.published_at) : 'First seen ' + formatDate(item.first_seen_at)}${item.kind==='page_change' ? ' · Page change' : ''}`, 'meta'));
     content.append(el('p', item.why, 'why'));
@@ -56,12 +60,15 @@ function render() {
     }
     list.append(row);
     });
-    if (articles.length > 5) {
-      const more = el('button', expandedTopics.has(topic) ? 'Show top 5' : `Show all ${articles.length}`);
-      more.type='button'; more.className='show-more'; more.setAttribute('aria-expanded',String(expandedTopics.has(topic)));
-      more.setAttribute('aria-label', `${more.textContent} in ${topic}`);
-      more.addEventListener('click',()=>{expandedTopics.has(topic) ? expandedTopics.delete(topic) : expandedTopics.add(topic);render();document.getElementById(id).querySelector('.show-more').focus({preventScroll:true});});
-      section.append(more);
+    if (pageCount > 1) {
+      const pagination = el('nav', '', 'topic-pagination'); pagination.setAttribute('aria-label', `${topic} pages`);
+      const previous = el('button','← Previous'), next = el('button','Next →');
+      previous.type=next.type='button'; previous.disabled=page===0; next.disabled=page===pageCount-1;
+      previous.setAttribute('aria-label', `Previous articles in ${topic}`); next.setAttribute('aria-label', `Next articles in ${topic}`);
+      const turnPage = delta => {topicPages.set(topic,page+delta);render();const buttons=document.getElementById(id).querySelectorAll('.topic-pagination button');const preferred=buttons[delta>0?1:0];(preferred.disabled ? buttons[delta>0?0:1] : preferred).focus({preventScroll:true});};
+      previous.addEventListener('click',()=>turnPage(-1));next.addEventListener('click',()=>turnPage(1));
+      pagination.append(previous,el('span',`${page*pageSize+1}–${Math.min((page+1)*pageSize,articles.length)} of ${articles.length}`,'page-label'),next);
+      section.append(pagination);
     }
   }
 }
@@ -74,5 +81,5 @@ fetch('data.json', {cache:'no-cache'}).then(r=>{if(!r.ok) throw Error();return r
   topicOrder.filter(topic=>data.items.some(i=>i.topic===topic)).forEach(c=>{const option=el('option',c);option.value=c;$('category').append(option);});
   $('sources-title').textContent=`Followed sources (${data.sources.length})`;
   data.sources.forEach(source=>{const row=el('li');row.append(link(source.name,source.url),el('span',` — ${source.status==='feed'?'Article feed':source.status==='page_watch'?'Page watch':'Check failed'} · ${source.categories.join(', ')}`, 'meta'));$('sources').append(row);});
-  render(); for(const id of ['search','category','view']) $(id).addEventListener('input',render);
+  render(); for(const id of ['search','category','view']) $(id).addEventListener('input',()=>{topicPages.clear();render();});
 }).catch(()=>{$('status').textContent='The reading list could not load. Please try again shortly.';});
