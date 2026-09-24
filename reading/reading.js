@@ -1,16 +1,8 @@
 'use strict';
 const $ = id => document.getElementById(id);
-let data, prefs = {};
-try { prefs = JSON.parse(localStorage.getItem('reading-preferences-v1')) || {}; } catch {}
-function el(tag, text, cls) { const node = document.createElement(tag); if (text) node.textContent = text; if (cls) node.className = cls; return node; }
-function safeLink(url) { try { const u = new URL(url); return ['https:', 'http:'].includes(u.protocol) ? u.href : null; } catch { return null; } }
-function link(text, url) { const node = el('a', text); node.href = safeLink(url) || '#'; node.target = '_blank'; node.rel = 'noopener noreferrer'; return node; }
-function formatDate(value) { return value ? new Date(value).toLocaleDateString(undefined, {month:'short',day:'numeric',year:'numeric'}) : 'Date unavailable'; }
-function toggle(item, key) {
-  prefs[item.url] ||= {}; prefs[item.url][key] = !prefs[item.url][key];
-  try { localStorage.setItem('reading-preferences-v1', JSON.stringify(prefs)); } catch { $('notice').hidden=false; $('notice').textContent='Your browser could not save reading preferences. They will last for this visit only.'; }
-  render();
-}
+let data;
+function el(tag, text, cls) { const node=document.createElement(tag); if(text) node.textContent=text; if(cls) node.className=cls; return node; }
+function link(text,url) { const node=el('a',text); try { const u=new URL(url); if(['https:','http:'].includes(u.protocol)) node.href=u.href; } catch {} node.target='_blank'; node.rel='noopener noreferrer'; return node; }
 const topicRules = [
   ['Security', /\b(cyber\w*|secur\w*|malware|phishing|ransomware|vulnerabil\w*|hacker\w*|hacking|ciso|authentication|prompt injection)\b/i],
   ['AI & infrastructure', /\b(ai|agi|llms?|agents?|agentic|artificial intelligence|machine learning|deep learning|neural|models?|inference|gpu\w*|compute|data ?centers?|mcp|robot\w*|openai|anthropic|deepseek|claude|gemini)\b/i],
@@ -28,58 +20,44 @@ function topicFor(item) {
   if (match) return match[0];
   return (item.categories || []).map(c=>sourceTopics[c]).find(Boolean) || 'Essays & ideas';
 }
-const topicPages = new Map();
-const pageSize = 3;
+function dayOf(value) {
+  if(!value) return null;
+  const date=new Date(value);if(Number.isNaN(date.getTime()))return null;
+  return new Intl.DateTimeFormat('en-CA',{year:'numeric',month:'2-digit',day:'2-digit',timeZone:'America/Los_Angeles'}).format(date);
+}
+const today=dayOf(new Date().toISOString());
 function render() {
-  const search = $('search').value.toLowerCase(), category = $('category').value, view = $('view').value;
-  const shown = data.items.filter(i => (!category || i.topic === category) && (i.title + ' ' + i.source).toLowerCase().includes(search) && (view !== 'unread' || !prefs[i.url]?.read) && (view !== 'saved' || prefs[i.url]?.saved));
-  $('count').textContent = shown.length ? `${shown.length} items` : 'No items match this view.';
+  const search=$('search').value.toLowerCase().trim(),day=$('day').value;
+  const daily=data.items.filter(i=>i.kind==='article' && dayOf(i.published_at)===day);
+  const shown=daily.filter(i=>(i.title+' '+i.source+' '+i.topic).toLowerCase().includes(search));
   $('items').replaceChildren();
-  $('topic-nav').replaceChildren();
-  for (const topic of topicOrder) {
-    const articles = shown.filter(i=>i.topic===topic);
-    if (!articles.length) continue;
-    const id = 'topic-' + topicOrder.indexOf(topic);
-    const jump = el('a', `${topic} (${articles.length})`); jump.href = '#' + id; $('topic-nav').append(jump);
-    const section = el('section', '', 'topic-section'); section.id = id;
-    const heading = el('h2', topic); heading.id = id + '-title';
-    heading.append(el('span', ` ${articles.length}`, 'topic-count'));
-    section.setAttribute('aria-labelledby', heading.id); section.append(heading);
-    const list = el('ol'); section.append(list); $('items').append(section);
-    const pageCount = Math.ceil(articles.length / pageSize);
-    const page = Math.min(topicPages.get(topic) || 0, pageCount - 1);
-    topicPages.set(topic,page);
-    const visible = articles.slice(page * pageSize, (page + 1) * pageSize);
-    visible.forEach((item, index) => {
-    const row = el('li', '', 'article'), content = el('div'); row.append(el('span', String(page * pageSize + index + 1).padStart(2,'0'), 'rank'), content);
-    const title = el('h3'); title.append(link(item.title,item.url)); content.append(title);
-    content.append(el('p', `${item.source} · ${item.published_at ? formatDate(item.published_at) : 'First seen ' + formatDate(item.first_seen_at)}${item.kind==='page_change' ? ' · Page change' : ''}`, 'meta'));
-    content.append(el('p', item.why, 'why'));
-    for (const [key, off, on] of [['read','Mark read','Read ✓'],['saved','Save','Saved ✓']]) {
-      const button = el('button', prefs[item.url]?.[key] ? on : off); button.type='button'; button.setAttribute('aria-pressed',String(!!prefs[item.url]?.[key])); button.setAttribute('aria-label',`${button.textContent}: ${item.title}`); button.addEventListener('click',()=>toggle(item,key)); content.append(button, document.createTextNode(' '));
-    }
-    list.append(row);
+  $('empty').hidden=shown.length>0;
+  $('empty').textContent=daily.length?'No matching articles.':'No dated articles collected for this day yet. Try an earlier date.';
+  $('daily-count').textContent=`${shown.length} article${shown.length===1?'':'s'}`;
+  $('next-day').disabled=day>=today;
+  for(const topic of topicOrder) {
+    const articles=shown.filter(i=>i.topic===topic);
+    if(!articles.length) continue;
+    const id='topic-'+topicOrder.indexOf(topic);
+    const section=el('section','','topic-section');section.id=id;
+    const heading=el('h2',topic);heading.id=id+'-title';section.setAttribute('aria-labelledby',heading.id);section.append(heading);
+    const list=el('ul');section.append(list);$('items').append(section);
+    articles.forEach(item=>{
+      const row=el('li');const article=link(item.title,item.url);article.title=item.source;row.append(article);list.append(row);
     });
-    if (pageCount > 1) {
-      const pagination = el('nav', '', 'topic-pagination'); pagination.setAttribute('aria-label', `${topic} pages`);
-      const previous = el('button','← Previous'), next = el('button','Next →');
-      previous.type=next.type='button'; previous.disabled=page===0; next.disabled=page===pageCount-1;
-      previous.setAttribute('aria-label', `Previous articles in ${topic}`); next.setAttribute('aria-label', `Next articles in ${topic}`);
-      const turnPage = delta => {topicPages.set(topic,page+delta);render();const buttons=document.getElementById(id).querySelectorAll('.topic-pagination button');const preferred=buttons[delta>0?1:0];(preferred.disabled ? buttons[delta>0?0:1] : preferred).focus({preventScroll:true});};
-      previous.addEventListener('click',()=>turnPage(-1));next.addEventListener('click',()=>turnPage(1));
-      pagination.append(previous,el('span',`${page*pageSize+1}–${Math.min((page+1)*pageSize,articles.length)} of ${articles.length}`,'page-label'),next);
-      section.append(pagination);
-    }
   }
 }
-fetch('data.json', {cache:'no-cache'}).then(r=>{if(!r.ok) throw Error();return r.json();}).then(result=>{
-  data = result;
-  data.items.forEach(item=>{item.topic=topicFor(item);});
-  $('status').textContent = `Last checked ${new Date(data.updated_at).toLocaleString()} · ${data.sources.length} sources`;
-  const failed=data.sources.filter(s=>s.status==='error').length, stale=Date.now()-new Date(data.updated_at).getTime()>36*3600000;
-  if(failed || stale){$('notice').hidden=false;$('notice').textContent=(stale?'The latest update is more than 36 hours old. ':'')+(failed?`${failed} sources could not be checked. See source status below.`:'');}
-  topicOrder.filter(topic=>data.items.some(i=>i.topic===topic)).forEach(c=>{const option=el('option',c);option.value=c;$('category').append(option);});
-  $('sources-title').textContent=`Followed sources (${data.sources.length})`;
-  data.sources.forEach(source=>{const row=el('li');row.append(link(source.name,source.url),el('span',` — ${source.status==='feed'?'Article feed':source.status==='page_watch'?'Page watch':'Check failed'} · ${source.categories.join(', ')}`, 'meta'));$('sources').append(row);});
-  render(); for(const id of ['search','category','view']) $(id).addEventListener('input',()=>{topicPages.clear();render();});
-}).catch(()=>{$('status').textContent='The reading list could not load. Please try again shortly.';});
+function moveDay(amount) {
+  const date=new Date($('day').value+'T12:00:00Z');date.setUTCDate(date.getUTCDate()+amount);
+  $('day').value=date.toISOString().slice(0,10);render();
+}
+fetch('data.json',{cache:'no-cache'}).then(r=>{if(!r.ok)throw Error();return r.json();}).then(result=>{
+  data=result;data.items.forEach(item=>{item.topic=topicFor(item);});
+  $('day').value=today;$('day').max=today;
+  $('status').textContent='Updated '+new Date(data.updated_at).toLocaleString(undefined,{month:'short',day:'numeric',hour:'numeric',minute:'2-digit'});
+  const failed=data.sources.filter(s=>s.status==='error');
+  $('source-status').textContent=(failed.length?`${failed.length} sources could not be checked; they will retry daily. `:'')+'Dates use Pacific time. Undated articles and general page changes are excluded from the daily view.';
+  data.sources.forEach(s=>{const row=el('li');row.append(link(s.name,s.url));if(s.status==='error')row.append(document.createTextNode(' — check failed'));$('sources').append(row);});
+  render();$('search').addEventListener('input',render);$('day').addEventListener('change',()=>{if(!$('day').value || $('day').value>today)$('day').value=today;render();});
+  $('previous-day').addEventListener('click',()=>moveDay(-1));$('next-day').addEventListener('click',()=>moveDay(1));$('today').addEventListener('click',()=>{$('day').value=today;render();});
+}).catch(()=>{$('status').textContent='Could not load articles. Please reload.';});

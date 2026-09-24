@@ -8,7 +8,7 @@ The reading page follows 63 publishing sources extracted from the **Reading v2**
 
 The collector uses advertised RSS/Atom feeds or probes common feed paths. It checks sites without feeds for visible page changes. The first successful check establishes a baseline; subsequent changes appear as **page updates**, not confirmed new articles. JavaScript-only sites, blocked sites, and inaccessible pages may fail; the page shows their status and retains older collected items. Page watches can flag navigation changes and other noise.
 
-Rankings use title keyword matches plus recency. They are transparent heuristics, not full-text AI judgments. Feed items retain publisher dates where available. Undated items are marked first seen. Items age out after 60 days. Titles are rendered as text, not HTML. Reading and saved state stay in the visitor's browser.
+Rankings use title keyword matches plus recency. They are transparent heuristics, not full-text AI judgments. Feed items retain publisher dates where available. Undated items are marked first seen. Items age out after 60 days. Titles are rendered as text, not HTML. The interface shows article links and publication names without read/save controls.
 
 ## Publishing and daily schedule
 
@@ -24,4 +24,8 @@ This collector handles public blog and newsletter feeds. The work-inbox inventor
 
 ## Topic organization
 
-Articles are grouped into AI & infrastructure, Startups & venture, Security, Finance & markets, China & geopolitics, Building & engineering, Science & progress, and Essays & ideas. Title-based rules choose one topic, falling back to the source category; page changes appear under Site updates. Topics appear in a responsive card grid: three columns on wide screens, two on medium screens, and one on phones. Each card retains priority order and shows three articles, with Previous/Next controls to browse without expanding the page. Search and saved/unread filters apply across sections. Topic rules live in `reading/reading.js`.
+Articles are grouped into AI & infrastructure, Startups & venture, Security, Finance & markets, China & geopolitics, Building & engineering, Science & progress, and Essays & ideas. Title-based rules choose one topic, falling back to the source category; page changes appear under Site updates. Topics appear in a responsive card grid: three columns on wide screens, two on medium screens, and one on phones. Each card retains priority order and shows three articles, with Previous/Next controls to browse without expanding the page. Search applies across sections. Source diagnostics are tucked into a collapsed footer. Topic rules live in `reading/reading.js`.
+
+## Compact daily view
+
+The grid defaults to today in America/Los_Angeles and shows every collected, dated article for the selected day, ordered by priority inside topics. A date picker, day arrows, and Today button navigate the archive. No article pagination, ranks, explanations, or read/save controls are shown. Undated items and page changes are excluded rather than represented as newly published. Desktop uses up to four compact columns; phones use readable 13px links in a single column and larger date/search controls. Source failures remain available in the collapsed Sources footer.
