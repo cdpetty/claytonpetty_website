@@ -52,3 +52,9 @@ Article cards display the author in a compact second line, with the publication 
 ## Dense layout
 
 Topic cards are packed by measured height into balanced columns, recalculated after filtering, font loading and resizing. Full titles and bylines remain visible; nothing is clipped or paginated. At 1366×768, the September 23 sample of 39 articles fits without scrolling. Smaller screens and larger daily lists may still scroll. Phone text and touch targets stay larger.
+
+## Writer profiles
+
+`reading/people.json` is a curated public profile directory, separate from the daily article collector. The September 24 research pass checked all 183 sources and verified 153 writer/publication profiles across 127 sources, including 36 LinkedIn links. Evidence URLs and verification dates are retained. Substack publication author lists and authors' own profile links are the primary evidence; standalone blogs use their official sites. Some entries represent publications or public pseudonyms. Remaining sources retain their publication links without guessing a person.
+
+Matching is restricted to the article's source and exact normalized author name or verified alias. Guest writers without a verified match remain plain text. Following is searchable by writer and displays professional links; bylines link to a website, LinkedIn, or public author profile. This directory is a research snapshot and is not automatically enriched daily.

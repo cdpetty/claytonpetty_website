@@ -1,6 +1,19 @@
 'use strict';
 const $ = id => document.getElementById(id);
 let data, starredOnly=false;
+let profiles=[];
+const personKey=name=>(name||'').normalize('NFKC').toLowerCase().replace(/[’‘]/g,"'").trim();
+function sourcePeople(url){return profiles.filter(p=>p.source_urls.includes(url));}
+function personFor(name,url){return sourcePeople(url).find(p=>[p.name,...(p.aliases||[])].some(n=>personKey(n)===personKey(name)));}
+function profileUrl(person){return person.website||person.linkedin||person.profile;}
+function authorByline(item){
+  const line=el('span','','byline');line.title=item.source;
+  if(!item.author){line.textContent=item.source;return line;}
+  const exact=personFor(item.author,item.source_url);
+  const names=exact?[item.author]:item.author.split(', ');
+  names.forEach((name,index)=>{if(index)line.append(document.createTextNode(', '));const person=personFor(name,item.source_url);line.append(person?link(name,profileUrl(person)):document.createTextNode(name));});
+  return line;
+}
 const starKey='reading-stars-v1';
 let stars=new Map();
 try {
@@ -8,7 +21,7 @@ try {
   if(Array.isArray(saved)) stars=new Map(saved.filter(i=>i && typeof i.url==='string' && /^https?:\/\//.test(i.url) && typeof i.title==='string').map(i=>[i.url,{...i,source:typeof i.source==='string'?i.source:'',categories:Array.isArray(i.categories)?i.categories:[]}]));
 } catch {}
 function toggleStar(item) {
-  if(stars.has(item.url))stars.delete(item.url);else stars.set(item.url,{url:item.url,title:item.title,author:item.author||null,source:item.source,categories:item.categories||[],published_at:item.published_at,kind:'article',starred_at:new Date().toISOString()});
+  if(stars.has(item.url))stars.delete(item.url);else stars.set(item.url,{url:item.url,title:item.title,author:item.author||null,source_url:item.source_url||null,source:item.source,categories:item.categories||[],published_at:item.published_at,kind:'article',starred_at:new Date().toISOString()});
   try {localStorage.setItem(starKey,JSON.stringify([...stars.values()]));$('star-notice').hidden=true;}
   catch {$('star-notice').textContent='Your browser could not save stars. They will last for this visit only.';$('star-notice').hidden=false;}
   render();
@@ -64,8 +77,7 @@ function render() {
       const row=el('li');const article=link(item.title,item.url);article.title=item.source;
       const selected=stars.has(item.url),star=el('button',selected?'★':'☆','star');star.type='button';star.dataset.url=item.url;star.setAttribute('aria-pressed',String(selected));star.setAttribute('aria-label',`${selected?'Unstar':'Star'}: ${item.title}`);star.addEventListener('click',()=>toggleStar(item));
       const copy=el('div','','article-copy');copy.append(article);
-      const byline=el('span',item.author || item.source,'byline');
-      byline.title=item.author?item.source:'Publication; author not supplied';copy.append(byline);
+      copy.append(authorByline(item));
       row.append(star,copy);list.append(row);
     });
   }
@@ -97,7 +109,7 @@ function sourceGroup(source) {
 }
 function renderFollowing() {
   const query=$('following-search').value.toLowerCase().trim();
-  const shown=data.sources.filter(s=>(s.name+' '+s.url+' '+sourceGroup(s)).toLowerCase().includes(query));
+  const shown=data.sources.filter(s=>(s.name+' '+s.url+' '+sourceGroup(s)+' '+sourcePeople(s.url).map(p=>p.name+' '+(p.aliases||[]).join(' ')).join(' ')).toLowerCase().includes(query));
   $('following-count').textContent=`${shown.length} of ${data.sources.length} sources`;
   $('following-grid').replaceChildren();$('following-empty').hidden=shown.length>0;
   for(const group of followingGroups) {
@@ -105,12 +117,17 @@ function renderFollowing() {
     if(!sources.length)continue;
     const section=el('section','','following-group'),heading=el('h3',group+' · '+sources.length),list=el('ul');
     section.append(heading,list);
-    sources.forEach(source=>{const row=el('li');row.append(link(source.name,source.url));const status=source.status==='feed'?'Article feed':source.status==='page_watch'?'Page watch':'Check failed';row.append(el('span',status,'following-status'));list.append(row);});
+    sources.forEach(source=>{const row=el('li');row.append(link(source.name,source.url));const status=source.status==='feed'?'Article feed':source.status==='page_watch'?'Page watch':'Check failed';row.append(el('span',status,'following-status'));
+      sourcePeople(source.url).forEach(person=>{const info=el('div','','person-links');info.append(link(person.name,profileUrl(person)));if(person.linkedin&&profileUrl(person)!==person.linkedin){info.append(document.createTextNode(' · '),link('LinkedIn',person.linkedin));}row.append(info);});list.append(row);});
     $('following-grid').append(section);
   }
 }
-fetch('data.json',{cache:'no-cache'}).then(r=>{if(!r.ok)throw Error();return r.json();}).then(result=>{
-  data=result;data.items.forEach(item=>{item.topic=topicFor(item);if(stars.has(item.url)&&item.author)stars.get(item.url).author=item.author;});
+Promise.all([
+  fetch('data.json',{cache:'no-cache'}).then(r=>{if(!r.ok)throw Error();return r.json();}),
+  fetch('people.json',{cache:'no-cache'}).then(r=>{if(!r.ok)throw Error();return r.json();}).catch(()=>({profiles:[]}))
+]).then(([result,people])=>{
+  profiles=people.profiles||[];
+  data=result;data.items.forEach(item=>{item.topic=topicFor(item);if(stars.has(item.url)){const saved=stars.get(item.url);if(item.author)saved.author=item.author;saved.source_url=item.source_url;}});
   try {localStorage.setItem(starKey,JSON.stringify([...stars.values()]));} catch {}
   $('day').value=today;$('day').max=today;
   $('status').textContent='Updated '+new Date(data.updated_at).toLocaleString(undefined,{month:'short',day:'numeric',hour:'numeric',minute:'2-digit'});

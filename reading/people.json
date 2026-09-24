@@ -1,0 +1,2885 @@
+{
+  "updated_at": "2026-09-24",
+  "profiles": [
+    {
+      "name": "@HumanInvariant",
+      "aliases": [],
+      "source_urls": [
+        "https://humaninvariant.substack.com/"
+      ],
+      "evidence_urls": [
+        "https://humaninvariant.substack.com/about"
+      ],
+      "verified_at": "2026-09-24",
+      "profile": "https://substack.com/@humaninvariant"
+    },
+    {
+      "name": "a16z",
+      "aliases": [],
+      "source_urls": [
+        "https://a16z.substack.com/"
+      ],
+      "evidence_urls": [
+        "https://www.a16z.news/",
+        "https://substack.com/@a16z"
+      ],
+      "verified_at": "2026-09-24",
+      "website": "http://a16z.com/",
+      "profile": "https://substack.com/@a16z"
+    },
+    {
+      "name": "Aashish Reddy",
+      "aliases": [],
+      "source_urls": [
+        "https://aashishreddy.substack.com/"
+      ],
+      "evidence_urls": [
+        "https://aashishreddy.substack.com/",
+        "https://substack.com/@aashishreddy"
+      ],
+      "verified_at": "2026-09-24",
+      "profile": "https://substack.com/@aashishreddy",
+      "linkedin": "https://www.linkedin.com/in/aashish-reddy-251631231/"
+    },
+    {
+      "name": "Adam Metz",
+      "aliases": [],
+      "source_urls": [
+        "https://metz.substack.com/"
+      ],
+      "evidence_urls": [
+        "https://metz.substack.com/about",
+        "https://substack.com/@metz"
+      ],
+      "verified_at": "2026-09-24",
+      "website": "https://app.lpblueprint.com",
+      "profile": "https://substack.com/@metz",
+      "linkedin": "https://www.linkedin.com/in/adammetz/"
+    },
+    {
+      "name": "Adhi Rajaprabhakaran",
+      "aliases": [],
+      "source_urls": [
+        "https://fiftycentdollars.substack.com/"
+      ],
+      "evidence_urls": [
+        "https://ufoholdings.substack.com/about",
+        "https://substack.com/@eightyhi"
+      ],
+      "verified_at": "2026-09-24",
+      "website": "https://eightyhi.notion.site/fiftycentdollarsconsulting",
+      "profile": "https://substack.com/@eightyhi",
+      "linkedin": "https://www.linkedin.com/in/rajaprab/"
+    },
+    {
+      "name": "Adlin Zainal",
+      "aliases": [],
+      "source_urls": [
+        "https://swyx.substack.com/"
+      ],
+      "evidence_urls": [
+        "https://www.latent.space/about",
+        "https://substack.com/@adlinz"
+      ],
+      "verified_at": "2026-09-24",
+      "profile": "https://substack.com/@adlinz",
+      "linkedin": "https://www.linkedin.com/in/adlinzainal/"
+    },
+    {
+      "name": "Aleksa Gordić",
+      "aliases": [],
+      "source_urls": [
+        "https://www.aleksagordic.com/blog"
+      ],
+      "evidence_urls": [
+        "https://www.aleksagordic.com/blog"
+      ],
+      "verified_at": "2026-09-24",
+      "website": "https://www.aleksagordic.com/blog"
+    },
+    {
+      "name": "Alex Clayton",
+      "aliases": [],
+      "source_urls": [
+        "https://meritech.substack.com/"
+      ],
+      "evidence_urls": [
+        "https://meritech.substack.com/about"
+      ],
+      "verified_at": "2026-09-24",
+      "profile": "https://substack.com/@afc23"
+    },
+    {
+      "name": "Alex Kladov",
+      "aliases": [
+        "matklad"
+      ],
+      "source_urls": [
+        "https://matklad.github.io/"
+      ],
+      "evidence_urls": [
+        "https://matklad.github.io/about"
+      ],
+      "verified_at": "2026-09-24",
+      "website": "https://matklad.github.io/"
+    },
+    {
+      "name": "Alex Tabarrok",
+      "aliases": [],
+      "source_urls": [
+        "https://marginalrevolution.com/"
+      ],
+      "website": "https://alextabarrok.com/",
+      "evidence_urls": [
+        "https://marginalrevolution.com/"
+      ],
+      "verified_at": "2026-09-24"
+    },
+    {
+      "name": "Alex Xu",
+      "aliases": [],
+      "source_urls": [
+        "https://bytebytego.substack.com/"
+      ],
+      "evidence_urls": [
+        "https://blog.bytebytego.com/",
+        "https://substack.com/@bytebytego"
+      ],
+      "verified_at": "2026-09-24",
+      "website": "https://bytebytego.com/",
+      "profile": "https://substack.com/@bytebytego",
+      "linkedin": "https://www.linkedin.com/in/alexxubyte/"
+    },
+    {
+      "name": "Ali Abouelatta",
+      "aliases": [],
+      "source_urls": [
+        "https://first1000.substack.com/"
+      ],
+      "evidence_urls": [
+        "https://read.first1000.co/",
+        "https://substack.com/@alifromfirst100"
+      ],
+      "verified_at": "2026-09-24",
+      "profile": "https://substack.com/@alifromfirst100"
+    },
+    {
+      "name": "Andrew Bosworth",
+      "aliases": [
+        "Boz"
+      ],
+      "source_urls": [
+        "https://boz.com/"
+      ],
+      "evidence_urls": [
+        "https://boz.com/about"
+      ],
+      "verified_at": "2026-09-24",
+      "website": "https://boz.com/"
+    },
+    {
+      "name": "Andrew Brackin",
+      "aliases": [],
+      "source_urls": [
+        "https://gradientvc.substack.com/"
+      ],
+      "evidence_urls": [
+        "https://gradientvc.substack.com/about"
+      ],
+      "verified_at": "2026-09-24",
+      "profile": "https://substack.com/@brackin"
+    },
+    {
+      "name": "Andy",
+      "aliases": [],
+      "source_urls": [
+        "https://studioalpha.substack.com/"
+      ],
+      "evidence_urls": [
+        "https://studioalpha.substack.com/about"
+      ],
+      "verified_at": "2026-09-24",
+      "profile": "https://substack.com/@profandy"
+    },
+    {
+      "name": "Annelies Gamble",
+      "aliases": [],
+      "source_urls": [
+        "https://anneliesgamble.substack.com/"
+      ],
+      "evidence_urls": [
+        "https://www.mixtureofexperts.co/about",
+        "https://substack.com/@anneliesgamble"
+      ],
+      "verified_at": "2026-09-24",
+      "profile": "https://substack.com/@anneliesgamble"
+    },
+    {
+      "name": "Aqib Zakaria",
+      "aliases": [],
+      "source_urls": [
+        "https://www.chinatalk.media/"
+      ],
+      "evidence_urls": [
+        "https://www.chinatalk.media/about",
+        "https://substack.com/@aqibzakaria"
+      ],
+      "verified_at": "2026-09-24",
+      "profile": "https://substack.com/@aqibzakaria",
+      "linkedin": "https://www.linkedin.com/in/aqib-zakaria/"
+    },
+    {
+      "name": "Arya",
+      "aliases": [],
+      "source_urls": [
+        "https://aryadeniz.substack.com/"
+      ],
+      "evidence_urls": [
+        "https://aryadeniz.substack.com/"
+      ],
+      "verified_at": "2026-09-24",
+      "profile": "https://substack.com/@aryadeniz"
+    },
+    {
+      "name": "Ashley Smith",
+      "aliases": [],
+      "source_urls": [
+        "https://vermilioncliffs.substack.com/"
+      ],
+      "evidence_urls": [
+        "https://vermilioncliffs.substack.com/about"
+      ],
+      "verified_at": "2026-09-24",
+      "profile": "https://substack.com/@vermilionashley"
+    },
+    {
+      "name": "Aurimas Griciūnas",
+      "aliases": [],
+      "source_urls": [
+        "https://swirlai.substack.com/"
+      ],
+      "evidence_urls": [
+        "https://www.newsletter.swirlai.com/about"
+      ],
+      "verified_at": "2026-09-24",
+      "profile": "https://substack.com/@swirlai"
+    },
+    {
+      "name": "Barry McCardel",
+      "aliases": [],
+      "source_urls": [
+        "https://www.barry.ooo/"
+      ],
+      "evidence_urls": [
+        "https://www.barry.ooo/"
+      ],
+      "verified_at": "2026-09-24",
+      "website": "https://www.barry.ooo/",
+      "linkedin": "https://www.linkedin.com/in/barrymccardel/"
+    },
+    {
+      "name": "Ben Kuhn",
+      "aliases": [],
+      "source_urls": [
+        "https://www.benkuhn.net/"
+      ],
+      "evidence_urls": [
+        "https://www.benkuhn.net/about/"
+      ],
+      "verified_at": "2026-09-24",
+      "website": "https://www.benkuhn.net/"
+    },
+    {
+      "name": "Ben Thompson",
+      "aliases": [],
+      "source_urls": [
+        "https://stratechery.com/"
+      ],
+      "evidence_urls": [
+        "https://stratechery.com/about/"
+      ],
+      "verified_at": "2026-09-24",
+      "website": "https://stratechery.com/"
+    },
+    {
+      "name": "Benedict Evans",
+      "aliases": [],
+      "source_urls": [
+        "https://www.ben-evans.com/"
+      ],
+      "evidence_urls": [
+        "https://www.ben-evans.com/"
+      ],
+      "verified_at": "2026-09-24",
+      "website": "https://www.ben-evans.com/",
+      "linkedin": "https://www.linkedin.com/in/benedictevans/"
+    },
+    {
+      "name": "Beren Millidge",
+      "aliases": [],
+      "source_urls": [
+        "https://www.beren.io/"
+      ],
+      "evidence_urls": [
+        "https://www.beren.io/"
+      ],
+      "verified_at": "2026-09-24",
+      "website": "https://www.beren.io/"
+    },
+    {
+      "name": "Bilawal Sidhu",
+      "aliases": [],
+      "source_urls": [
+        "https://creativetechnologydigest.substack.com/"
+      ],
+      "evidence_urls": [
+        "https://www.spatialintelligence.ai/about",
+        "https://substack.com/@bilawalsidhu"
+      ],
+      "verified_at": "2026-09-24",
+      "website": "http://bilawal.ai",
+      "profile": "https://substack.com/@bilawalsidhu",
+      "linkedin": "http://linkedin.com/in/bilawalsidhu"
+    },
+    {
+      "name": "Bill Bishop",
+      "aliases": [],
+      "source_urls": [
+        "https://sinocism.com/"
+      ],
+      "evidence_urls": [
+        "https://sinocism.com/about"
+      ],
+      "verified_at": "2026-09-24",
+      "profile": "https://substack.com/@sinocism"
+    },
+    {
+      "name": "Brett Caughran",
+      "aliases": [],
+      "source_urls": [
+        "https://fundamentedge.com/"
+      ],
+      "evidence_urls": [
+        "https://www.fundamentedge.com/about"
+      ],
+      "verified_at": "2026-09-24",
+      "website": "https://fundamentedge.com/"
+    },
+    {
+      "name": "Brie Wolfson",
+      "aliases": [],
+      "source_urls": [
+        "https://www.briewolfson.com/"
+      ],
+      "evidence_urls": [
+        "https://www.briewolfson.com/"
+      ],
+      "verified_at": "2026-09-24",
+      "website": "https://www.briewolfson.com/"
+    },
+    {
+      "name": "Bristlemoon Capital",
+      "aliases": [],
+      "source_urls": [
+        "https://bristlemoon.substack.com/"
+      ],
+      "evidence_urls": [
+        "https://www.bristlemoonresearch.com/about",
+        "https://substack.com/@bristlemoon"
+      ],
+      "verified_at": "2026-09-24",
+      "website": "https://www.bristlemoon.com",
+      "profile": "https://substack.com/@bristlemoon"
+    },
+    {
+      "name": "Britt Harris",
+      "aliases": [],
+      "source_urls": [
+        "https://oewadvisors.beehiiv.com/"
+      ],
+      "evidence_urls": [
+        "https://www.oewadvisors.com/founder"
+      ],
+      "verified_at": "2026-09-24",
+      "website": "https://www.oewadvisors.com/founder"
+    },
+    {
+      "name": "Byrne Hobart",
+      "aliases": [],
+      "source_urls": [
+        "https://www.thediff.co/"
+      ],
+      "evidence_urls": [
+        "https://www.thediff.co/about/"
+      ],
+      "verified_at": "2026-09-24",
+      "website": "https://www.thediff.co/"
+    },
+    {
+      "name": "carrynointerest",
+      "aliases": [],
+      "source_urls": [
+        "https://carriednointerest.substack.com/"
+      ],
+      "evidence_urls": [
+        "https://carriednointerest.substack.com/about",
+        "https://substack.com/@carrynointerest"
+      ],
+      "verified_at": "2026-09-24",
+      "profile": "https://substack.com/@carrynointerest"
+    },
+    {
+      "name": "Cartoons Hate Her",
+      "aliases": [],
+      "source_urls": [
+        "https://cartoonshateher.substack.com/"
+      ],
+      "evidence_urls": [
+        "https://www.cartoonshateher.com/",
+        "https://substack.com/@cartoonshateher"
+      ],
+      "verified_at": "2026-09-24",
+      "profile": "https://substack.com/@cartoonshateher"
+    },
+    {
+      "name": "Casey Newton",
+      "aliases": [],
+      "source_urls": [
+        "https://www.platformer.news/"
+      ],
+      "evidence_urls": [
+        "https://www.platformer.news/about/"
+      ],
+      "verified_at": "2026-09-24",
+      "website": "https://www.platformer.news/",
+      "linkedin": "https://www.linkedin.com/in/caseynewton1"
+    },
+    {
+      "name": "Clayton Petty",
+      "aliases": [],
+      "source_urls": [
+        "https://gradientvc.substack.com/"
+      ],
+      "evidence_urls": [
+        "https://gradientvc.substack.com/about"
+      ],
+      "verified_at": "2026-09-24",
+      "profile": "https://substack.com/@cdpetty"
+    },
+    {
+      "name": "Compounding Dividends",
+      "aliases": [],
+      "source_urls": [
+        "https://compoundingdividends.substack.com/"
+      ],
+      "evidence_urls": [
+        "https://www.compoundingdividends.net/about"
+      ],
+      "verified_at": "2026-09-24",
+      "profile": "https://substack.com/@compoundingdividends"
+    },
+    {
+      "name": "Compounding Quality",
+      "aliases": [],
+      "source_urls": [
+        "https://qualitycompounding.substack.com/"
+      ],
+      "evidence_urls": [
+        "https://www.compoundingquality.net/about",
+        "https://substack.com/@compoundingquality"
+      ],
+      "verified_at": "2026-09-24",
+      "profile": "https://substack.com/@compoundingquality"
+    },
+    {
+      "name": "Connor O'Brien",
+      "aliases": [],
+      "source_urls": [
+        "https://regions.substack.com/"
+      ],
+      "evidence_urls": [
+        "https://www.cojobrien.com/",
+        "https://substack.com/@cojobrien"
+      ],
+      "verified_at": "2026-09-24",
+      "profile": "https://substack.com/@cojobrien"
+    },
+    {
+      "name": "Contrary",
+      "aliases": [],
+      "source_urls": [
+        "https://contraryresearch.substack.com/"
+      ],
+      "evidence_urls": [
+        "https://contraryresearch.substack.com/about",
+        "https://substack.com/@contraryrsch"
+      ],
+      "verified_at": "2026-09-24",
+      "website": "https://research.contrary.com/",
+      "profile": "https://substack.com/@contraryrsch"
+    },
+    {
+      "name": "Darian Shirazi",
+      "aliases": [],
+      "source_urls": [
+        "https://gradientvc.substack.com/"
+      ],
+      "evidence_urls": [
+        "https://gradientvc.substack.com/about",
+        "https://substack.com/@darian314"
+      ],
+      "verified_at": "2026-09-24",
+      "website": "https://gradient.com",
+      "profile": "https://substack.com/@darian314",
+      "linkedin": "https://linkedin.com/in/darian314"
+    },
+    {
+      "name": "David Politis",
+      "aliases": [],
+      "source_urls": [
+        "https://notanotherceo.substack.com/"
+      ],
+      "evidence_urls": [
+        "https://notanotherceo.substack.com/about",
+        "https://substack.com/@dpolitis"
+      ],
+      "verified_at": "2026-09-24",
+      "profile": "https://substack.com/@dpolitis",
+      "linkedin": "https://www.linkedin.com/in/davidpolitis/"
+    },
+    {
+      "name": "DB",
+      "aliases": [],
+      "source_urls": [
+        "https://softwaremusings.substack.com/"
+      ],
+      "evidence_urls": [
+        "https://softwaremusings.substack.com/about",
+        "https://substack.com/@softwaremusings"
+      ],
+      "verified_at": "2026-09-24",
+      "profile": "https://substack.com/@softwaremusings"
+    },
+    {
+      "name": "Denise Teng",
+      "aliases": [],
+      "source_urls": [
+        "https://gradientvc.substack.com/"
+      ],
+      "evidence_urls": [
+        "https://gradientvc.substack.com/about"
+      ],
+      "verified_at": "2026-09-24",
+      "profile": "https://substack.com/@theknees10"
+    },
+    {
+      "name": "Dwarkesh Patel",
+      "aliases": [],
+      "source_urls": [
+        "https://dwarkesh.substack.com/"
+      ],
+      "evidence_urls": [
+        "https://www.dwarkesh.com/about",
+        "https://substack.com/@dwarkesh"
+      ],
+      "verified_at": "2026-09-24",
+      "profile": "https://substack.com/@dwarkesh"
+    },
+    {
+      "name": "Eddy Elfenbein",
+      "aliases": [],
+      "source_urls": [
+        "https://cws.substack.com/"
+      ],
+      "evidence_urls": [
+        "https://cws.substack.com/about"
+      ],
+      "verified_at": "2026-09-24",
+      "profile": "https://substack.com/@cws"
+    },
+    {
+      "name": "Elad Gil",
+      "aliases": [],
+      "source_urls": [
+        "https://eladgil.substack.com/"
+      ],
+      "evidence_urls": [
+        "https://blog.eladgil.com/",
+        "https://substack.com/@eladgil"
+      ],
+      "verified_at": "2026-09-24",
+      "profile": "https://substack.com/@eladgil"
+    },
+    {
+      "name": "Elliot Arledge",
+      "aliases": [],
+      "source_urls": [
+        "https://elliotarledge.com/blog"
+      ],
+      "evidence_urls": [
+        "https://elliotarledge.com/blog"
+      ],
+      "verified_at": "2026-09-24",
+      "website": "https://elliotarledge.com/blog",
+      "linkedin": "https://www.linkedin.com/in/elliot-arledge-a392b7243/"
+    },
+    {
+      "name": "Eric Newcomer",
+      "aliases": [],
+      "source_urls": [
+        "https://newcomer.substack.com/"
+      ],
+      "evidence_urls": [
+        "https://www.newcomer.co/about",
+        "https://substack.com/@newcomer"
+      ],
+      "verified_at": "2026-09-24",
+      "profile": "https://substack.com/@newcomer"
+    },
+    {
+      "name": "Euclid Ventures",
+      "aliases": [],
+      "source_urls": [
+        "https://insights.euclid.vc/"
+      ],
+      "evidence_urls": [
+        "https://insights.euclid.vc/about",
+        "https://substack.com/@euclid"
+      ],
+      "verified_at": "2026-09-24",
+      "website": "https://www.euclid.vc",
+      "profile": "https://substack.com/@euclid"
+    },
+    {
+      "name": "Everywhere Ventures",
+      "aliases": [],
+      "source_urls": [
+        "https://everywherevc.substack.com/"
+      ],
+      "evidence_urls": [
+        "https://ideas.everywhere.vc/about"
+      ],
+      "verified_at": "2026-09-24",
+      "profile": "https://substack.com/@everywherevc"
+    },
+    {
+      "name": "Fabian Hediger",
+      "aliases": [],
+      "source_urls": [
+        "https://studioalpha.substack.com/"
+      ],
+      "evidence_urls": [
+        "https://studioalpha.substack.com/about",
+        "https://substack.com/@studioalphabyfabian"
+      ],
+      "verified_at": "2026-09-24",
+      "website": "https://www.studioalpha.capital",
+      "profile": "https://substack.com/@studioalphabyfabian",
+      "linkedin": "https://www.linkedin.com/in/fabianhediger/"
+    },
+    {
+      "name": "Fraser",
+      "aliases": [],
+      "source_urls": [
+        "https://moreentropy.substack.com/"
+      ],
+      "evidence_urls": [
+        "https://www.moreentropy.com/about",
+        "https://substack.com/@moreentropy"
+      ],
+      "verified_at": "2026-09-24",
+      "profile": "https://substack.com/@moreentropy"
+    },
+    {
+      "name": "Glen Turley",
+      "aliases": [],
+      "source_urls": [
+        "https://wattfactory.substack.com/"
+      ],
+      "evidence_urls": [
+        "https://wattfactory.substack.com/"
+      ],
+      "verified_at": "2026-09-24",
+      "profile": "https://substack.com/@wattfactory"
+    },
+    {
+      "name": "gradient",
+      "aliases": [],
+      "source_urls": [
+        "https://gradientvc.substack.com/"
+      ],
+      "evidence_urls": [
+        "https://gradientvc.substack.com/about",
+        "https://substack.com/@gradientvc"
+      ],
+      "verified_at": "2026-09-24",
+      "website": "https://gradient.com",
+      "profile": "https://substack.com/@gradientvc"
+    },
+    {
+      "name": "Graham Duncan",
+      "aliases": [],
+      "source_urls": [
+        "https://grahamduncan.blog/"
+      ],
+      "evidence_urls": [
+        "https://grahamduncan.blog/about/"
+      ],
+      "verified_at": "2026-09-24",
+      "website": "https://grahamduncan.blog/",
+      "linkedin": "https://www.linkedin.com/in/grahamduncan/"
+    },
+    {
+      "name": "Gwern",
+      "aliases": [],
+      "source_urls": [
+        "https://gwern.net/"
+      ],
+      "evidence_urls": [
+        "https://gwern.net/about"
+      ],
+      "verified_at": "2026-09-24",
+      "website": "https://gwern.net/"
+    },
+    {
+      "name": "Henrik Karlsson",
+      "aliases": [],
+      "source_urls": [
+        "https://www.henrikkarlsson.xyz/"
+      ],
+      "evidence_urls": [
+        "https://www.henrikkarlsson.xyz/about",
+        "https://substack.com/@henrikkarlsson"
+      ],
+      "verified_at": "2026-09-24",
+      "profile": "https://substack.com/@henrikkarlsson"
+    },
+    {
+      "name": "Hidden Market Gems",
+      "aliases": [],
+      "source_urls": [
+        "https://sbeautiful.substack.com/"
+      ],
+      "evidence_urls": [
+        "https://sbeautiful.substack.com/about",
+        "https://substack.com/@hiddenmarketgems"
+      ],
+      "verified_at": "2026-09-24",
+      "profile": "https://substack.com/@hiddenmarketgems"
+    },
+    {
+      "name": "Holden Karnofsky",
+      "aliases": [],
+      "source_urls": [
+        "https://www.cold-takes.com/"
+      ],
+      "evidence_urls": [
+        "https://www.cold-takes.com/about/"
+      ],
+      "verified_at": "2026-09-24",
+      "website": "https://www.cold-takes.com/"
+    },
+    {
+      "name": "Igor Pejic",
+      "aliases": [],
+      "source_urls": [
+        "https://igorpejic.substack.com/"
+      ],
+      "evidence_urls": [
+        "https://igorpejic.substack.com/about"
+      ],
+      "verified_at": "2026-09-24",
+      "profile": "https://substack.com/@igorpejic"
+    },
+    {
+      "name": "Irene Zhang",
+      "aliases": [],
+      "source_urls": [
+        "https://www.chinatalk.media/"
+      ],
+      "evidence_urls": [
+        "https://www.chinatalk.media/about",
+        "https://substack.com/@irenezhang"
+      ],
+      "verified_at": "2026-09-24",
+      "profile": "https://substack.com/@irenezhang",
+      "linkedin": "https://www.linkedin.com/in/irenearzhang/"
+    },
+    {
+      "name": "Iris Labx",
+      "aliases": [],
+      "source_urls": [
+        "https://humiris.substack.com/"
+      ],
+      "evidence_urls": [
+        "https://humiris.substack.com/about",
+        "https://substack.com/@irislabx"
+      ],
+      "verified_at": "2026-09-24",
+      "website": "https://www.irislabx.com/",
+      "profile": "https://substack.com/@irislabx"
+    },
+    {
+      "name": "Irrational Analysis",
+      "aliases": [],
+      "source_urls": [
+        "https://irrationalanalysis.substack.com/"
+      ],
+      "evidence_urls": [
+        "https://irrationalanalysis.substack.com/",
+        "https://substack.com/@irrationalanalysis"
+      ],
+      "verified_at": "2026-09-24",
+      "profile": "https://substack.com/@irrationalanalysis"
+    },
+    {
+      "name": "Jack Clark",
+      "aliases": [],
+      "source_urls": [
+        "https://jack-clark.net/"
+      ],
+      "evidence_urls": [
+        "https://jack-clark.net/about/"
+      ],
+      "verified_at": "2026-09-24",
+      "website": "https://jack-clark.net/"
+    },
+    {
+      "name": "Jack Naglieri",
+      "aliases": [],
+      "source_urls": [
+        "https://jacknaglieri.substack.com/"
+      ],
+      "evidence_urls": [
+        "https://www.detectionatscale.com/",
+        "https://substack.com/@jacknaglieri"
+      ],
+      "verified_at": "2026-09-24",
+      "website": "http://www.panther.com",
+      "profile": "https://substack.com/@jacknaglieri",
+      "linkedin": "https://www.linkedin.com/in/jacknaglieri/"
+    },
+    {
+      "name": "Jae Chung",
+      "aliases": [],
+      "source_urls": [
+        "https://jaechung.net/writings/"
+      ],
+      "evidence_urls": [
+        "https://jaechung.net/about"
+      ],
+      "verified_at": "2026-09-24",
+      "website": "https://jaechung.net/writings/"
+    },
+    {
+      "name": "James Kaplan",
+      "aliases": [],
+      "source_urls": [
+        "https://prosaictimes.substack.com/"
+      ],
+      "evidence_urls": [
+        "https://www.prosaictimes.com/about"
+      ],
+      "verified_at": "2026-09-24",
+      "profile": "https://substack.com/@jmk37"
+    },
+    {
+      "name": "James Somers",
+      "aliases": [],
+      "source_urls": [
+        "https://jsomers.net/"
+      ],
+      "evidence_urls": [
+        "https://jsomers.net/"
+      ],
+      "verified_at": "2026-09-24",
+      "website": "https://jsomers.net/"
+    },
+    {
+      "name": "Jamin Ball",
+      "aliases": [],
+      "source_urls": [
+        "https://cloudedjudgement.substack.com/"
+      ],
+      "evidence_urls": [
+        "https://cloudedjudgement.substack.com/about"
+      ],
+      "verified_at": "2026-09-24",
+      "profile": "https://substack.com/@cloudedjudgement"
+    },
+    {
+      "name": "Jared Sleeper",
+      "aliases": [],
+      "source_urls": [
+        "https://sleeperthoughts.substack.com/"
+      ],
+      "evidence_urls": [
+        "https://www.sleeperthoughts.com/about",
+        "https://substack.com/@jaredsleeper"
+      ],
+      "verified_at": "2026-09-24",
+      "profile": "https://substack.com/@jaredsleeper",
+      "linkedin": "https://www.linkedin.com/in/jaredsleeper/"
+    },
+    {
+      "name": "Jason A. Hoffman",
+      "aliases": [],
+      "source_urls": [
+        "https://fullhoffman.com/"
+      ],
+      "evidence_urls": [
+        "https://fullhoffman.com/about/"
+      ],
+      "verified_at": "2026-09-24",
+      "website": "https://fullhoffman.com/"
+    },
+    {
+      "name": "Jason Crawford",
+      "aliases": [],
+      "source_urls": [
+        "https://rootsofprogress.substack.com/"
+      ],
+      "evidence_urls": [
+        "https://newsletter.rootsofprogress.org/",
+        "https://substack.com/@jasoncrawford"
+      ],
+      "verified_at": "2026-09-24",
+      "profile": "https://substack.com/@jasoncrawford"
+    },
+    {
+      "name": "Jason Mikula",
+      "aliases": [],
+      "source_urls": [
+        "https://fintechbusinessweekly.substack.com/"
+      ],
+      "evidence_urls": [
+        "https://fintechbusinessweekly.substack.com/about",
+        "https://substack.com/@fintechbusinessweekly"
+      ],
+      "verified_at": "2026-09-24",
+      "profile": "https://substack.com/@fintechbusinessweekly",
+      "linkedin": "https://www.linkedin.com/in/jasonmikula/"
+    },
+    {
+      "name": "Jon Y",
+      "aliases": [],
+      "source_urls": [
+        "https://www.asianometry.com/"
+      ],
+      "evidence_urls": [
+        "https://www.asianometry.com/about"
+      ],
+      "verified_at": "2026-09-24",
+      "profile": "https://substack.com/@asianometry"
+    },
+    {
+      "name": "Jonathan Weber",
+      "aliases": [],
+      "source_urls": [
+        "https://newcomer.substack.com/"
+      ],
+      "evidence_urls": [
+        "https://www.newcomer.co/about"
+      ],
+      "verified_at": "2026-09-24",
+      "profile": "https://substack.com/@jonathansf"
+    },
+    {
+      "name": "Joost van Dreunen",
+      "aliases": [],
+      "source_urls": [
+        "https://superjoost.substack.com/"
+      ],
+      "evidence_urls": [
+        "https://superjoost.substack.com/"
+      ],
+      "verified_at": "2026-09-24",
+      "profile": "https://substack.com/@superjoost"
+    },
+    {
+      "name": "Jordan Schneider",
+      "aliases": [],
+      "source_urls": [
+        "https://www.chinatalk.media/"
+      ],
+      "evidence_urls": [
+        "https://www.chinatalk.media/about",
+        "https://substack.com/@chinatalk"
+      ],
+      "verified_at": "2026-09-24",
+      "profile": "https://substack.com/@chinatalk",
+      "linkedin": "https://www.linkedin.com/in/jorschneider"
+    },
+    {
+      "name": "Justin Meiners",
+      "aliases": [],
+      "source_urls": [
+        "https://www.jmeiners.com/"
+      ],
+      "evidence_urls": [
+        "https://www.jmeiners.com/"
+      ],
+      "verified_at": "2026-09-24",
+      "website": "https://www.jmeiners.com/"
+    },
+    {
+      "name": "Kanishk Patel",
+      "aliases": [],
+      "source_urls": [
+        "https://learnagentic.substack.com/"
+      ],
+      "evidence_urls": [
+        "https://learnagentic.substack.com/about",
+        "https://substack.com/@kanishkpatel"
+      ],
+      "verified_at": "2026-09-24",
+      "profile": "https://substack.com/@kanishkpatel",
+      "linkedin": "https://www.linkedin.com/in/kanishk-patel/"
+    },
+    {
+      "name": "Kenn So",
+      "aliases": [],
+      "source_urls": [
+        "https://generational.substack.com/"
+      ],
+      "evidence_urls": [
+        "https://www.generational.pub/",
+        "https://substack.com/@kennso"
+      ],
+      "verified_at": "2026-09-24",
+      "profile": "https://substack.com/@kennso",
+      "linkedin": "https://www.linkedin.com/in/kenndanielso"
+    },
+    {
+      "name": "Kyle Harrison",
+      "aliases": [],
+      "source_urls": [
+        "https://investing101.substack.com/"
+      ],
+      "evidence_urls": [
+        "https://investing101.substack.com/about",
+        "https://substack.com/@kwharrison13"
+      ],
+      "verified_at": "2026-09-24",
+      "profile": "https://substack.com/@kwharrison13"
+    },
+    {
+      "name": "Latent.Space",
+      "aliases": [],
+      "source_urls": [
+        "https://swyx.substack.com/"
+      ],
+      "evidence_urls": [
+        "https://www.latent.space/about",
+        "https://substack.com/@swyx"
+      ],
+      "verified_at": "2026-09-24",
+      "website": "https://swyx.io",
+      "profile": "https://substack.com/@swyx"
+    },
+    {
+      "name": "Lenny Rachitsky",
+      "aliases": [],
+      "source_urls": [
+        "https://lenny.substack.com/"
+      ],
+      "evidence_urls": [
+        "https://www.lennysnewsletter.com/",
+        "https://substack.com/@lenny"
+      ],
+      "verified_at": "2026-09-24",
+      "website": "https://www.lennyrachitsky.com/",
+      "profile": "https://substack.com/@lenny"
+    },
+    {
+      "name": "Lily Ottinger",
+      "aliases": [],
+      "source_urls": [
+        "https://www.chinatalk.media/"
+      ],
+      "evidence_urls": [
+        "https://www.chinatalk.media/about"
+      ],
+      "verified_at": "2026-09-24",
+      "profile": "https://substack.com/@voidpoliticstaiwan"
+    },
+    {
+      "name": "Lukas Rüfenacht",
+      "aliases": [],
+      "source_urls": [
+        "https://studioalpha.substack.com/"
+      ],
+      "evidence_urls": [
+        "https://studioalpha.substack.com/about",
+        "https://substack.com/@deluk"
+      ],
+      "verified_at": "2026-09-24",
+      "website": "https://deluk.ch/",
+      "profile": "https://substack.com/@deluk"
+    },
+    {
+      "name": "Luke Sophinos",
+      "aliases": [],
+      "source_urls": [
+        "https://lukesophinos.substack.com/"
+      ],
+      "evidence_urls": [
+        "https://www.newsletter.lukesophinos.com/",
+        "https://substack.com/@lukesophinos"
+      ],
+      "verified_at": "2026-09-24",
+      "profile": "https://substack.com/@lukesophinos",
+      "linkedin": "https://linkedin.com/in/lukesophinos"
+    },
+    {
+      "name": "Madeline Renbarger",
+      "aliases": [],
+      "source_urls": [
+        "https://newcomer.substack.com/"
+      ],
+      "evidence_urls": [
+        "https://www.newcomer.co/about"
+      ],
+      "verified_at": "2026-09-24",
+      "profile": "https://substack.com/@maddierenbarger"
+    },
+    {
+      "name": "Magdalene J. Taylor",
+      "aliases": [],
+      "source_urls": [
+        "https://magdalene.substack.com/"
+      ],
+      "evidence_urls": [
+        "https://www.sexual-culture.com/",
+        "https://substack.com/@magdalene"
+      ],
+      "verified_at": "2026-09-24",
+      "website": "https://magdalenetaylor.com",
+      "profile": "https://substack.com/@magdalene"
+    },
+    {
+      "name": "Marc Rubinstein",
+      "aliases": [],
+      "source_urls": [
+        "https://netinterest.substack.com/"
+      ],
+      "evidence_urls": [
+        "https://www.netinterest.co/about",
+        "https://substack.com/@netinterest"
+      ],
+      "verified_at": "2026-09-24",
+      "website": "https://www.netinterest.co/",
+      "profile": "https://substack.com/@netinterest",
+      "linkedin": "https://www.linkedin.com/in/marc-rubinstein/"
+    },
+    {
+      "name": "Maria Konnikova",
+      "aliases": [],
+      "source_urls": [
+        "https://mariakonnikova.substack.com/"
+      ],
+      "evidence_urls": [
+        "https://mariakonnikova.substack.com/",
+        "https://substack.com/@mariakonnikova"
+      ],
+      "verified_at": "2026-09-24",
+      "website": "https://www.mariakonnikova.com",
+      "profile": "https://substack.com/@mariakonnikova"
+    },
+    {
+      "name": "Matt Levine",
+      "aliases": [],
+      "source_urls": [
+        "https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine"
+      ],
+      "evidence_urls": [
+        "https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine"
+      ],
+      "verified_at": "2026-09-24",
+      "website": "https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine"
+    },
+    {
+      "name": "Max Hodak",
+      "aliases": [],
+      "source_urls": [
+        "https://maxhodak.com/"
+      ],
+      "evidence_urls": [
+        "https://maxhodak.com/about"
+      ],
+      "verified_at": "2026-09-24",
+      "website": "https://maxhodak.com/"
+    },
+    {
+      "name": "Max Read",
+      "aliases": [],
+      "source_urls": [
+        "https://www.patreon.com/cw/MaxRead/posts"
+      ],
+      "evidence_urls": [
+        "https://www.patreon.com/cw/MaxRead"
+      ],
+      "verified_at": "2026-09-24",
+      "website": "https://www.patreon.com/cw/MaxRead"
+    },
+    {
+      "name": "MaxDividends",
+      "aliases": [],
+      "source_urls": [
+        "https://www.maxdividends.com/"
+      ],
+      "evidence_urls": [
+        "https://www.maxdividends.com/",
+        "https://substack.com/@maxdividends"
+      ],
+      "verified_at": "2026-09-24",
+      "website": "https://maxdividends.app/auth",
+      "profile": "https://substack.com/@maxdividends"
+    },
+    {
+      "name": "Meghan Murphy",
+      "aliases": [],
+      "source_urls": [
+        "https://vermilioncliffs.substack.com/"
+      ],
+      "evidence_urls": [
+        "https://vermilioncliffs.substack.com/about"
+      ],
+      "verified_at": "2026-09-24",
+      "profile": "https://substack.com/@therealmegmurph"
+    },
+    {
+      "name": "Meritech Capital",
+      "aliases": [],
+      "source_urls": [
+        "https://meritech.substack.com/"
+      ],
+      "evidence_urls": [
+        "https://meritech.substack.com/about"
+      ],
+      "verified_at": "2026-09-24",
+      "profile": "https://substack.com/@meritech"
+    },
+    {
+      "name": "Molly O’Shea",
+      "aliases": [],
+      "source_urls": [
+        "https://mollysoshea.substack.com/"
+      ],
+      "evidence_urls": [
+        "https://www.sourcery.vc/about"
+      ],
+      "verified_at": "2026-09-24",
+      "profile": "https://substack.com/@mollysoshea",
+      "linkedin": "https://www.linkedin.com/in/mollysoshea/"
+    },
+    {
+      "name": "My Weekly Stock",
+      "aliases": [],
+      "source_urls": [
+        "https://myweeklystock.substack.com/"
+      ],
+      "evidence_urls": [
+        "https://myweeklystock.substack.com/",
+        "https://substack.com/@myweeklystock"
+      ],
+      "verified_at": "2026-09-24",
+      "profile": "https://substack.com/@myweeklystock"
+    },
+    {
+      "name": "Myles Snider",
+      "aliases": [],
+      "source_urls": [
+        "https://mylescooks.substack.com/"
+      ],
+      "evidence_urls": [
+        "https://mylescooks.substack.com/",
+        "https://substack.com/@mylessnider"
+      ],
+      "verified_at": "2026-09-24",
+      "website": "https://mylessnider.com/",
+      "profile": "https://substack.com/@mylessnider"
+    },
+    {
+      "name": "Nadia Asparouhova",
+      "aliases": [],
+      "source_urls": [
+        "https://nadia.xyz/"
+      ],
+      "evidence_urls": [
+        "https://nadia.xyz/"
+      ],
+      "verified_at": "2026-09-24",
+      "website": "https://nadia.xyz/"
+    },
+    {
+      "name": "Nicholas Carlini",
+      "aliases": [],
+      "source_urls": [
+        "https://nicholas.carlini.com/writing/"
+      ],
+      "evidence_urls": [
+        "https://nicholas.carlini.com/writing/"
+      ],
+      "verified_at": "2026-09-24",
+      "website": "https://nicholas.carlini.com/writing/"
+    },
+    {
+      "name": "Nicholas Freund",
+      "aliases": [],
+      "source_urls": [
+        "https://notanotherceo.substack.com/"
+      ],
+      "evidence_urls": [
+        "https://notanotherceo.substack.com/about",
+        "https://substack.com/@nicholasfreund"
+      ],
+      "verified_at": "2026-09-24",
+      "website": "https://notanotherceo.com",
+      "profile": "https://substack.com/@nicholasfreund",
+      "linkedin": "https://www.linkedin.com/in/nicholas-freund/"
+    },
+    {
+      "name": "Nick Corvino",
+      "aliases": [],
+      "source_urls": [
+        "https://www.chinatalk.media/"
+      ],
+      "evidence_urls": [
+        "https://www.chinatalk.media/about",
+        "https://substack.com/@nickcorvino"
+      ],
+      "verified_at": "2026-09-24",
+      "profile": "https://substack.com/@nickcorvino",
+      "linkedin": "https://www.linkedin.com/in/nick-corvino-730901174/"
+    },
+    {
+      "name": "Nick Nemeth",
+      "aliases": [],
+      "source_urls": [
+        "https://mispricedassets.substack.com/"
+      ],
+      "evidence_urls": [
+        "https://mispricedassets.substack.com/about",
+        "https://substack.com/@nemonomics"
+      ],
+      "verified_at": "2026-09-24",
+      "website": "https://linktr.ee/nemonomics",
+      "profile": "https://substack.com/@nemonomics",
+      "linkedin": "https://www.linkedin.com/in/nick-nemeth"
+    },
+    {
+      "name": "Nishant Hooda",
+      "aliases": [],
+      "source_urls": [
+        "https://nishanthooda.com/index.html"
+      ],
+      "evidence_urls": [
+        "https://nishanthooda.com/index.html"
+      ],
+      "verified_at": "2026-09-24",
+      "website": "https://nishanthooda.com/index.html",
+      "linkedin": "https://linkedin.com/in/nishant-h"
+    },
+    {
+      "name": "Noah Smith",
+      "aliases": [],
+      "source_urls": [
+        "https://noahpinion.substack.com/"
+      ],
+      "evidence_urls": [
+        "https://www.noahpinion.blog/",
+        "https://substack.com/@noahpinion"
+      ],
+      "verified_at": "2026-09-24",
+      "profile": "https://substack.com/@noahpinion"
+    },
+    {
+      "name": "Omar Elayat",
+      "aliases": [],
+      "source_urls": [
+        "https://insights.euclid.vc/"
+      ],
+      "evidence_urls": [
+        "https://insights.euclid.vc/about",
+        "https://substack.com/@oelayat"
+      ],
+      "verified_at": "2026-09-24",
+      "profile": "https://substack.com/@oelayat",
+      "linkedin": "https://www.linkedin.com/in/oelayat/"
+    },
+    {
+      "name": "OnlyCFO",
+      "aliases": [],
+      "source_urls": [
+        "https://onlycfo.substack.com/"
+      ],
+      "evidence_urls": [
+        "https://www.onlycfo.io/about",
+        "https://substack.com/@onlycfo"
+      ],
+      "verified_at": "2026-09-24",
+      "website": "https://onlycfo.io",
+      "profile": "https://substack.com/@onlycfo"
+    },
+    {
+      "name": "Packy McCormick",
+      "aliases": [],
+      "source_urls": [
+        "https://notboring.substack.com/"
+      ],
+      "evidence_urls": [
+        "https://www.notboring.co/"
+      ],
+      "verified_at": "2026-09-24",
+      "profile": "https://substack.com/@notboring"
+    },
+    {
+      "name": "Paco Coursey",
+      "aliases": [],
+      "source_urls": [
+        "https://paco.me/"
+      ],
+      "evidence_urls": [
+        "https://paco.me/"
+      ],
+      "verified_at": "2026-09-24",
+      "website": "https://paco.me/"
+    },
+    {
+      "name": "Paul Graham",
+      "aliases": [],
+      "source_urls": [
+        "https://paulgraham.com/"
+      ],
+      "evidence_urls": [
+        "https://paulgraham.com/"
+      ],
+      "verified_at": "2026-09-24",
+      "website": "https://paulgraham.com/"
+    },
+    {
+      "name": "Phil Venables",
+      "aliases": [],
+      "source_urls": [
+        "https://www.philvenables.com/"
+      ],
+      "evidence_urls": [
+        "https://www.philvenables.com/about"
+      ],
+      "verified_at": "2026-09-24",
+      "website": "https://www.philvenables.com/",
+      "linkedin": "https://www.linkedin.com/in/philvenables/"
+    },
+    {
+      "name": "PJ Vogt",
+      "aliases": [],
+      "source_urls": [
+        "https://pjvogt.substack.com/"
+      ],
+      "evidence_urls": [
+        "https://pjvogt.substack.com/",
+        "https://substack.com/@pjvogt"
+      ],
+      "verified_at": "2026-09-24",
+      "profile": "https://substack.com/@pjvogt"
+    },
+    {
+      "name": "Provenance Watches",
+      "aliases": [],
+      "source_urls": [
+        "https://provenancewatches.substack.com/"
+      ],
+      "evidence_urls": [
+        "https://provenancewatches.substack.com/"
+      ],
+      "verified_at": "2026-09-24",
+      "profile": "https://substack.com/@provenancewatches"
+    },
+    {
+      "name": "Qasar Younis",
+      "aliases": [],
+      "source_urls": [
+        "https://qy.co/writings/"
+      ],
+      "evidence_urls": [
+        "https://qy.co/about/"
+      ],
+      "verified_at": "2026-09-24",
+      "website": "https://qy.co/writings/"
+    },
+    {
+      "name": "Rabib Alam",
+      "aliases": [],
+      "source_urls": [
+        "https://www.workwithrabib.com/"
+      ],
+      "evidence_urls": [
+        "https://www.workwithrabib.com/about"
+      ],
+      "verified_at": "2026-09-24",
+      "website": "https://www.workwithrabib.com/"
+    },
+    {
+      "name": "Rasmus Andersson",
+      "aliases": [],
+      "source_urls": [
+        "https://rsms.me/"
+      ],
+      "evidence_urls": [
+        "https://rsms.me/about/"
+      ],
+      "verified_at": "2026-09-24",
+      "website": "https://rsms.me/"
+    },
+    {
+      "name": "Ray Myers",
+      "aliases": [],
+      "source_urls": [
+        "https://equitybriefing.substack.com/"
+      ],
+      "evidence_urls": [
+        "https://www.globalequitybriefing.com/about"
+      ],
+      "verified_at": "2026-09-24",
+      "profile": "https://substack.com/@theraymyers"
+    },
+    {
+      "name": "Richard MacManus",
+      "aliases": [],
+      "source_urls": [
+        "https://swyx.substack.com/"
+      ],
+      "evidence_urls": [
+        "https://www.latent.space/about"
+      ],
+      "verified_at": "2026-09-24",
+      "profile": "https://substack.com/@ricmac"
+    },
+    {
+      "name": "Riley Konsella",
+      "aliases": [],
+      "source_urls": [
+        "https://newcomer.substack.com/"
+      ],
+      "evidence_urls": [
+        "https://www.newcomer.co/about"
+      ],
+      "verified_at": "2026-09-24",
+      "profile": "https://substack.com/@rileykonsella"
+    },
+    {
+      "name": "Riley Walz",
+      "aliases": [],
+      "source_urls": [
+        "https://walzr.com/"
+      ],
+      "evidence_urls": [
+        "https://walzr.com/"
+      ],
+      "verified_at": "2026-09-24",
+      "website": "https://walzr.com/"
+    },
+    {
+      "name": "Ripple Ventures",
+      "aliases": [],
+      "source_urls": [
+        "https://tanktalks.substack.com/"
+      ],
+      "evidence_urls": [
+        "https://tanktalks.substack.com/about"
+      ],
+      "verified_at": "2026-09-24",
+      "profile": "https://substack.com/@tanktalks"
+    },
+    {
+      "name": "Ross Haleliuk",
+      "aliases": [],
+      "source_urls": [
+        "https://ventureinsecurity.substack.com/"
+      ],
+      "evidence_urls": [
+        "https://ventureinsecurity.net/about"
+      ],
+      "verified_at": "2026-09-24",
+      "profile": "https://substack.com/@ventureinsecurity",
+      "linkedin": "https://www.linkedin.com/in/rosshaleliuk/"
+    },
+    {
+      "name": "Ryan Broderick",
+      "aliases": [],
+      "source_urls": [
+        "https://www.garbageday.email/"
+      ],
+      "evidence_urls": [
+        "https://www.garbageday.email/authors/1446b1d3-a839-42aa-80ea-4bfce65092ad"
+      ],
+      "verified_at": "2026-09-24",
+      "website": "https://www.garbageday.email/authors/1446b1d3-a839-42aa-80ea-4bfce65092ad"
+    },
+    {
+      "name": "Ryan Shannon",
+      "aliases": [],
+      "source_urls": [
+        "https://ryanshannon.substack.com/"
+      ],
+      "evidence_urls": [
+        "https://ryanshannon.substack.com/about"
+      ],
+      "verified_at": "2026-09-24",
+      "profile": "https://substack.com/@ryanshannon",
+      "linkedin": "https://www.linkedin.com/in/ryan-shannon-1b3a7884/"
+    },
+    {
+      "name": "Sam Altman",
+      "aliases": [],
+      "source_urls": [
+        "https://blog.samaltman.com/"
+      ],
+      "evidence_urls": [
+        "https://blog.samaltman.com/"
+      ],
+      "verified_at": "2026-09-24",
+      "website": "https://blog.samaltman.com/"
+    },
+    {
+      "name": "Saurabh Gupta",
+      "aliases": [],
+      "source_urls": [
+        "https://sgthoughts.substack.com/"
+      ],
+      "evidence_urls": [
+        "https://sgthoughts.substack.com/about"
+      ],
+      "verified_at": "2026-09-24",
+      "profile": "https://substack.com/@saurabhgupta650235"
+    },
+    {
+      "name": "Scott Alexander",
+      "aliases": [],
+      "source_urls": [
+        "https://slatestarcodex.com/"
+      ],
+      "evidence_urls": [
+        "https://slatestarcodex.com/about/"
+      ],
+      "verified_at": "2026-09-24",
+      "website": "https://slatestarcodex.com/"
+    },
+    {
+      "name": "Sean Cai",
+      "aliases": [],
+      "source_urls": [
+        "https://seanzcai.substack.com/"
+      ],
+      "evidence_urls": [
+        "https://seanzcai.substack.com/"
+      ],
+      "verified_at": "2026-09-24",
+      "profile": "https://substack.com/@seanzcai"
+    },
+    {
+      "name": "Sergey",
+      "aliases": [],
+      "source_urls": [
+        "https://sergeycyw.substack.com/"
+      ],
+      "evidence_urls": [
+        "https://sergeycyw.substack.com/about",
+        "https://substack.com/@sergeycyw"
+      ],
+      "verified_at": "2026-09-24",
+      "profile": "https://substack.com/@sergeycyw",
+      "linkedin": "https://www.linkedin.com/in/sergey-o-341931184/"
+    },
+    {
+      "name": "signull",
+      "aliases": [],
+      "source_urls": [
+        "https://signull.substack.com/"
+      ],
+      "evidence_urls": [
+        "https://signull.substack.com/"
+      ],
+      "verified_at": "2026-09-24",
+      "profile": "https://substack.com/@signull"
+    },
+    {
+      "name": "South Park Commons",
+      "aliases": [],
+      "source_urls": [
+        "https://southparkcommons.substack.com/"
+      ],
+      "evidence_urls": [
+        "https://blog.southparkcommons.com/about"
+      ],
+      "verified_at": "2026-09-24",
+      "profile": "https://substack.com/@southparkcommons"
+    },
+    {
+      "name": "speedrun",
+      "aliases": [],
+      "source_urls": [
+        "https://speedrun.substack.com/"
+      ],
+      "evidence_urls": [
+        "https://speedrun.substack.com/about"
+      ],
+      "verified_at": "2026-09-24",
+      "profile": "https://substack.com/@speedrun"
+    },
+    {
+      "name": "Stan",
+      "aliases": [],
+      "source_urls": [
+        "https://thegreatamericanpath.substack.com/"
+      ],
+      "evidence_urls": [
+        "https://thegreatamericanpath.substack.com/about"
+      ],
+      "verified_at": "2026-09-24",
+      "profile": "https://substack.com/@thegreatamericanpath"
+    },
+    {
+      "name": "StudioAlpha",
+      "aliases": [],
+      "source_urls": [
+        "https://studioalpha.substack.com/"
+      ],
+      "evidence_urls": [
+        "https://studioalpha.substack.com/about"
+      ],
+      "verified_at": "2026-09-24",
+      "profile": "https://substack.com/@studioalpha"
+    },
+    {
+      "name": "Sunny",
+      "aliases": [],
+      "source_urls": [
+        "https://masterofnonewithsunnyc.substack.com/"
+      ],
+      "evidence_urls": [
+        "https://masterofnonewithsunnyc.substack.com/",
+        "https://substack.com/@masterofnonewithsunnyc"
+      ],
+      "verified_at": "2026-09-24",
+      "website": "https://portaly.cc/sunny.tpe",
+      "profile": "https://substack.com/@masterofnonewithsunnyc"
+    },
+    {
+      "name": "Susam Pal",
+      "aliases": [],
+      "source_urls": [
+        "https://susam.net/"
+      ],
+      "evidence_urls": [
+        "https://susam.net/about.html"
+      ],
+      "verified_at": "2026-09-24",
+      "website": "https://susam.net/"
+    },
+    {
+      "name": "Thomas Reiner",
+      "aliases": [],
+      "source_urls": [
+        "https://platformaeronaut.substack.com/"
+      ],
+      "evidence_urls": [
+        "https://www.platformaeronaut.com/"
+      ],
+      "verified_at": "2026-09-24",
+      "profile": "https://substack.com/@platformaeronaut"
+    },
+    {
+      "name": "TJ Terwilliger",
+      "aliases": [],
+      "source_urls": [
+        "https://compoundingdividends.substack.com/",
+        "https://qualitycompounding.substack.com/"
+      ],
+      "evidence_urls": [
+        "https://www.compoundingdividends.net/about",
+        "https://www.compoundingquality.net/about"
+      ],
+      "verified_at": "2026-09-24",
+      "profile": "https://substack.com/@tjterwilliger"
+    },
+    {
+      "name": "Tom Dotan",
+      "aliases": [],
+      "source_urls": [
+        "https://newcomer.substack.com/"
+      ],
+      "evidence_urls": [
+        "https://www.newcomer.co/about"
+      ],
+      "verified_at": "2026-09-24",
+      "profile": "https://substack.com/@tdotan"
+    },
+    {
+      "name": "Tomasz Tunguz",
+      "aliases": [],
+      "source_urls": [
+        "https://tomtunguz.com/"
+      ],
+      "evidence_urls": [
+        "https://tomtunguz.com/about"
+      ],
+      "verified_at": "2026-09-24",
+      "website": "https://tomtunguz.com/",
+      "linkedin": "https://www.linkedin.com/in/tomasztunguz/"
+    },
+    {
+      "name": "Torsten Slok",
+      "aliases": [],
+      "source_urls": [
+        "https://www.apollo.com/wealth/insights-news/insights/daily-spark"
+      ],
+      "evidence_urls": [
+        "https://www.apollo.com/wealth/aboutus/leadership-and-people/torsten-slok"
+      ],
+      "verified_at": "2026-09-24",
+      "website": "https://www.apollo.com/wealth/aboutus/leadership-and-people/torsten-slok"
+    },
+    {
+      "name": "Trista Li",
+      "aliases": [],
+      "source_urls": [
+        "https://deploy95.substack.com/"
+      ],
+      "evidence_urls": [
+        "https://deploy95.substack.com/about"
+      ],
+      "verified_at": "2026-09-24",
+      "profile": "https://substack.com/@tristali"
+    },
+    {
+      "name": "TSOH Investment Research",
+      "aliases": [],
+      "source_urls": [
+        "https://thescienceofhitting.substack.com/"
+      ],
+      "evidence_urls": [
+        "https://thescienceofhitting.com/about",
+        "https://substack.com/@tsoh"
+      ],
+      "verified_at": "2026-09-24",
+      "profile": "https://substack.com/@tsoh"
+    },
+    {
+      "name": "Tyler Cowen",
+      "aliases": [],
+      "source_urls": [
+        "https://marginalrevolution.com/"
+      ],
+      "website": "https://publicchoice.gmu.edu/tylercowen",
+      "evidence_urls": [
+        "https://marginalrevolution.com/"
+      ],
+      "verified_at": "2026-09-24"
+    },
+    {
+      "name": "Vig Sachidananda",
+      "aliases": [],
+      "source_urls": [
+        "https://gradientvc.substack.com/"
+      ],
+      "evidence_urls": [
+        "https://gradientvc.substack.com/about"
+      ],
+      "verified_at": "2026-09-24",
+      "profile": "https://substack.com/@vigsachi"
+    },
+    {
+      "name": "Will Ye",
+      "aliases": [],
+      "source_urls": [
+        "https://will-ye.com/"
+      ],
+      "evidence_urls": [
+        "https://will-ye.com/about/"
+      ],
+      "verified_at": "2026-09-24",
+      "website": "https://will-ye.com/"
+    },
+    {
+      "name": "Willem Verstrepen",
+      "aliases": [],
+      "source_urls": [
+        "https://qualitycompounding.substack.com/"
+      ],
+      "evidence_urls": [
+        "https://www.compoundingquality.net/about"
+      ],
+      "verified_at": "2026-09-24",
+      "profile": "https://substack.com/@dekwaliteitsbelegger"
+    },
+    {
+      "name": "Wolf of Harcourt Street",
+      "aliases": [],
+      "source_urls": [
+        "https://wolfofharcourtstreet.substack.com/"
+      ],
+      "evidence_urls": [
+        "https://www.thewolfofharcourtstreet.com/about",
+        "https://substack.com/@wolfofharcourtstreet"
+      ],
+      "verified_at": "2026-09-24",
+      "profile": "https://substack.com/@wolfofharcourtstreet"
+    },
+    {
+      "name": "YoungHamilton",
+      "aliases": [],
+      "source_urls": [
+        "https://yhamiltonblog.substack.com/"
+      ],
+      "evidence_urls": [
+        "https://yhamiltonblog.substack.com/about"
+      ],
+      "verified_at": "2026-09-24",
+      "profile": "https://substack.com/@yhamiltonblog"
+    },
+    {
+      "name": "Zach",
+      "aliases": [],
+      "source_urls": [
+        "https://gradientvc.substack.com/"
+      ],
+      "evidence_urls": [
+        "https://gradientvc.substack.com/about"
+      ],
+      "verified_at": "2026-09-24",
+      "profile": "https://substack.com/@thezbg"
+    },
+    {
+      "name": "Zehra Naqvi",
+      "aliases": [],
+      "source_urls": [
+        "https://fanbehavior.beehiiv.com/"
+      ],
+      "evidence_urls": [
+        "https://fanbehavior.beehiiv.com/"
+      ],
+      "verified_at": "2026-09-24",
+      "website": "https://fanbehavior.beehiiv.com/",
+      "linkedin": "https://linkedin.com/in/zehranaqvinyc"
+    }
+  ],
+  "reviewed_sources": [
+    {
+      "url": "https://cybersecurityventures.com/",
+      "status": "publication_only",
+      "evidence_url": "https://cybersecurityventures.com/about/"
+    },
+    {
+      "url": "https://codelivly.com/",
+      "status": "publication_only",
+      "evidence_url": "https://codelivly.com/about"
+    },
+    {
+      "url": "https://malwr-analysis.com/",
+      "status": "publication_only",
+      "evidence_url": "https://malwr-analysis.com/about/"
+    },
+    {
+      "url": "https://list.latio.tech/",
+      "status": "publication_only",
+      "evidence_url": "https://www.latio.com/about"
+    },
+    {
+      "url": "https://nicholas.carlini.com/writing/",
+      "status": "profile_verified",
+      "evidence_url": "https://nicholas.carlini.com/writing/"
+    },
+    {
+      "url": "https://www.philvenables.com/",
+      "status": "profile_verified",
+      "evidence_url": "https://www.philvenables.com/about"
+    },
+    {
+      "url": "https://embracethered.com/blog/",
+      "status": "publication_only",
+      "evidence_url": "https://embracethered.com/blog/"
+    },
+    {
+      "url": "https://every.to/",
+      "status": "publication_only",
+      "evidence_url": "https://every.to/about"
+    },
+    {
+      "url": "https://semianalysis.com/",
+      "status": "publication_only",
+      "evidence_url": "https://semianalysis.com/about/"
+    },
+    {
+      "url": "https://www.piratewires.com/",
+      "status": "publication_only",
+      "evidence_url": "https://www.piratewires.com/"
+    },
+    {
+      "url": "https://worksinprogress.co/",
+      "status": "publication_only",
+      "evidence_url": "https://worksinprogress.co/about/"
+    },
+    {
+      "url": "https://www.khoslaventures.com/",
+      "status": "publication_only",
+      "evidence_url": "https://www.khoslaventures.com/about"
+    },
+    {
+      "url": "https://www.barry.ooo/",
+      "status": "profile_verified",
+      "evidence_url": "https://www.barry.ooo/"
+    },
+    {
+      "url": "https://tomtunguz.com/",
+      "status": "profile_verified",
+      "evidence_url": "https://tomtunguz.com/about"
+    },
+    {
+      "url": "https://www.ben-evans.com/",
+      "status": "profile_verified",
+      "evidence_url": "https://www.ben-evans.com/"
+    },
+    {
+      "url": "https://nishanthooda.com/index.html",
+      "status": "profile_verified",
+      "evidence_url": "https://nishanthooda.com/index.html"
+    },
+    {
+      "url": "https://olivergilan.com/blog/",
+      "status": "publication_only",
+      "evidence_url": "https://olivergilan.com/blog/"
+    },
+    {
+      "url": "https://boz.com/",
+      "status": "profile_verified",
+      "evidence_url": "https://boz.com/about"
+    },
+    {
+      "url": "https://www.benkuhn.net/",
+      "status": "profile_verified",
+      "evidence_url": "https://www.benkuhn.net/about/"
+    },
+    {
+      "url": "https://www.briewolfson.com/",
+      "status": "profile_verified",
+      "evidence_url": "https://www.briewolfson.com/"
+    },
+    {
+      "url": "https://www.cold-takes.com/",
+      "status": "profile_verified",
+      "evidence_url": "https://www.cold-takes.com/about/"
+    },
+    {
+      "url": "https://grahamduncan.blog/",
+      "status": "profile_verified",
+      "evidence_url": "https://grahamduncan.blog/about/"
+    },
+    {
+      "url": "https://www.henrikkarlsson.xyz/",
+      "status": "profile_verified",
+      "evidence_url": "https://www.henrikkarlsson.xyz/about"
+    },
+    {
+      "url": "https://www.jmeiners.com/",
+      "status": "profile_verified",
+      "evidence_url": "https://www.jmeiners.com/"
+    },
+    {
+      "url": "https://jsomers.net/",
+      "status": "profile_verified",
+      "evidence_url": "https://jsomers.net/"
+    },
+    {
+      "url": "https://marginalrevolution.com/",
+      "status": "profile_verified",
+      "evidence_url": "https://marginalrevolution.com/"
+    },
+    {
+      "url": "https://maxhodak.com/",
+      "status": "profile_verified",
+      "evidence_url": "https://maxhodak.com/about"
+    },
+    {
+      "url": "https://nadia.xyz/",
+      "status": "profile_verified",
+      "evidence_url": "https://nadia.xyz/"
+    },
+    {
+      "url": "https://paulgraham.com/",
+      "status": "profile_verified",
+      "evidence_url": "https://paulgraham.com/"
+    },
+    {
+      "url": "https://blog.samaltman.com/",
+      "status": "profile_verified",
+      "evidence_url": "https://blog.samaltman.com/"
+    },
+    {
+      "url": "https://slatestarcodex.com/",
+      "status": "profile_verified",
+      "evidence_url": "https://slatestarcodex.com/about/"
+    },
+    {
+      "url": "https://magnusfinancial.com/",
+      "status": "publication_only",
+      "evidence_url": "https://magnusfinancial.com/about-us/"
+    },
+    {
+      "url": "https://susam.net/",
+      "status": "profile_verified",
+      "evidence_url": "https://susam.net/about.html"
+    },
+    {
+      "url": "https://matklad.github.io/",
+      "status": "profile_verified",
+      "evidence_url": "https://matklad.github.io/about"
+    },
+    {
+      "url": "https://paco.me/",
+      "status": "profile_verified",
+      "evidence_url": "https://paco.me/"
+    },
+    {
+      "url": "https://rsms.me/",
+      "status": "profile_verified",
+      "evidence_url": "https://rsms.me/about/"
+    },
+    {
+      "url": "https://will-ye.com/",
+      "status": "profile_verified",
+      "evidence_url": "https://will-ye.com/about/"
+    },
+    {
+      "url": "https://gwern.net/",
+      "status": "profile_verified",
+      "evidence_url": "https://gwern.net/about"
+    },
+    {
+      "url": "https://insights.euclid.vc/",
+      "status": "profile_verified",
+      "evidence_url": "https://insights.euclid.vc/about"
+    },
+    {
+      "url": "https://fullhoffman.com/",
+      "status": "profile_verified",
+      "evidence_url": "https://fullhoffman.com/about/"
+    },
+    {
+      "url": "https://www.compound.vc/",
+      "status": "publication_only",
+      "evidence_url": "https://www.compound.vc/about"
+    },
+    {
+      "url": "https://findthemoat.com/",
+      "status": "publication_only",
+      "evidence_url": "https://findthemoat.com/about/"
+    },
+    {
+      "url": "https://jaechung.net/writings/",
+      "status": "profile_verified",
+      "evidence_url": "https://jaechung.net/about"
+    },
+    {
+      "url": "https://www.chinatalk.media/",
+      "status": "profile_verified",
+      "evidence_url": "https://www.chinatalk.media/about"
+    },
+    {
+      "url": "https://www.asianometry.com/",
+      "status": "profile_verified",
+      "evidence_url": "https://www.asianometry.com/about"
+    },
+    {
+      "url": "https://sinocism.com/",
+      "status": "profile_verified",
+      "evidence_url": "https://sinocism.com/about"
+    },
+    {
+      "url": "https://jack-clark.net/",
+      "status": "profile_verified",
+      "evidence_url": "https://jack-clark.net/about/"
+    },
+    {
+      "url": "https://www.aleksagordic.com/blog",
+      "status": "profile_verified",
+      "evidence_url": "https://www.aleksagordic.com/blog"
+    },
+    {
+      "url": "https://www.daft.ai/blog",
+      "status": "publication_only",
+      "evidence_url": "https://www.daft.ai/blog"
+    },
+    {
+      "url": "https://blog.runebook.ai/",
+      "status": "publication_only",
+      "evidence_url": "https://blog.runebook.ai/"
+    },
+    {
+      "url": "https://www.beren.io/",
+      "status": "profile_verified",
+      "evidence_url": "https://www.beren.io/"
+    },
+    {
+      "url": "https://towardsdatascience.com/",
+      "status": "publication_only",
+      "evidence_url": "https://towardsdatascience.com/"
+    },
+    {
+      "url": "https://elliotarledge.com/blog",
+      "status": "profile_verified",
+      "evidence_url": "https://elliotarledge.com/blog"
+    },
+    {
+      "url": "https://cognition.ai/blog",
+      "status": "publication_only",
+      "evidence_url": "https://cognition.com/about"
+    },
+    {
+      "url": "https://www.workwithrabib.com/",
+      "status": "profile_verified",
+      "evidence_url": "https://www.workwithrabib.com/about"
+    },
+    {
+      "url": "https://exowill.com/",
+      "status": "publication_only",
+      "evidence_url": "https://exowill.com/about"
+    },
+    {
+      "url": "https://injectmagic.com/",
+      "status": "publication_only",
+      "evidence_url": "https://injectmagic.com/"
+    },
+    {
+      "url": "https://walzr.com/",
+      "status": "profile_verified",
+      "evidence_url": "https://walzr.com/"
+    },
+    {
+      "url": "https://www.sparklinecapital.com/",
+      "status": "publication_only",
+      "evidence_url": "https://www.sparklinecapital.com/about"
+    },
+    {
+      "url": "https://joincolossus.com/mag/",
+      "status": "publication_only",
+      "evidence_url": "https://colossus.com/about-us/"
+    },
+    {
+      "url": "https://hacklivly.com/",
+      "status": "publication_only",
+      "evidence_url": "https://hacklivly.com/"
+    },
+    {
+      "url": "https://newcomer.substack.com/",
+      "status": "profile_verified",
+      "evidence_url": "https://www.newcomer.co/about"
+    },
+    {
+      "url": "https://mollysoshea.substack.com/",
+      "status": "profile_verified",
+      "evidence_url": "https://www.sourcery.vc/about"
+    },
+    {
+      "url": "https://thescienceofhitting.substack.com/",
+      "status": "profile_verified",
+      "evidence_url": "https://thescienceofhitting.com/about"
+    },
+    {
+      "url": "https://everywherevc.substack.com/",
+      "status": "profile_verified",
+      "evidence_url": "https://ideas.everywhere.vc/about"
+    },
+    {
+      "url": "https://learnagentic.substack.com/",
+      "status": "profile_verified",
+      "evidence_url": "https://learnagentic.substack.com/about"
+    },
+    {
+      "url": "https://notanotherceo.substack.com/",
+      "status": "profile_verified",
+      "evidence_url": "https://notanotherceo.substack.com/about"
+    },
+    {
+      "url": "https://igorpejic.substack.com/",
+      "status": "profile_verified",
+      "evidence_url": "https://igorpejic.substack.com/about"
+    },
+    {
+      "url": "https://humiris.substack.com/",
+      "status": "profile_verified",
+      "evidence_url": "https://humiris.substack.com/about"
+    },
+    {
+      "url": "https://prosaictimes.substack.com/",
+      "status": "profile_verified",
+      "evidence_url": "https://www.prosaictimes.com/about"
+    },
+    {
+      "url": "https://creativetechnologydigest.substack.com/",
+      "status": "profile_verified",
+      "evidence_url": "https://www.spatialintelligence.ai/about"
+    },
+    {
+      "url": "https://contraryresearch.substack.com/",
+      "status": "profile_verified",
+      "evidence_url": "https://contraryresearch.substack.com/about"
+    },
+    {
+      "url": "https://studioalpha.substack.com/",
+      "status": "profile_verified",
+      "evidence_url": "https://studioalpha.substack.com/about"
+    },
+    {
+      "url": "https://gradientvc.substack.com/",
+      "status": "profile_verified",
+      "evidence_url": "https://gradientvc.substack.com/about"
+    },
+    {
+      "url": "https://dwarkesh.substack.com/",
+      "status": "profile_verified",
+      "evidence_url": "https://www.dwarkesh.com/about"
+    },
+    {
+      "url": "https://tanktalks.substack.com/",
+      "status": "profile_verified",
+      "evidence_url": "https://tanktalks.substack.com/about"
+    },
+    {
+      "url": "https://speedrun.substack.com/",
+      "status": "profile_verified",
+      "evidence_url": "https://speedrun.substack.com/about"
+    },
+    {
+      "url": "https://southparkcommons.substack.com/",
+      "status": "profile_verified",
+      "evidence_url": "https://blog.southparkcommons.com/about"
+    },
+    {
+      "url": "https://fintechbusinessweekly.substack.com/",
+      "status": "profile_verified",
+      "evidence_url": "https://fintechbusinessweekly.substack.com/about"
+    },
+    {
+      "url": "https://metz.substack.com/",
+      "status": "profile_verified",
+      "evidence_url": "https://metz.substack.com/about"
+    },
+    {
+      "url": "https://thegreatamericanpath.substack.com/",
+      "status": "profile_verified",
+      "evidence_url": "https://thegreatamericanpath.substack.com/about"
+    },
+    {
+      "url": "https://compoundingdividends.substack.com/",
+      "status": "profile_verified",
+      "evidence_url": "https://www.compoundingdividends.net/about"
+    },
+    {
+      "url": "https://onlycfo.substack.com/",
+      "status": "profile_verified",
+      "evidence_url": "https://www.onlycfo.io/about"
+    },
+    {
+      "url": "https://equitybriefing.substack.com/",
+      "status": "profile_verified",
+      "evidence_url": "https://www.globalequitybriefing.com/about"
+    },
+    {
+      "url": "https://mispricedassets.substack.com/",
+      "status": "profile_verified",
+      "evidence_url": "https://mispricedassets.substack.com/about"
+    },
+    {
+      "url": "https://cws.substack.com/",
+      "status": "profile_verified",
+      "evidence_url": "https://cws.substack.com/about"
+    },
+    {
+      "url": "https://sbeautiful.substack.com/",
+      "status": "profile_verified",
+      "evidence_url": "https://sbeautiful.substack.com/about"
+    },
+    {
+      "url": "https://qualitycompounding.substack.com/",
+      "status": "profile_verified",
+      "evidence_url": "https://www.compoundingquality.net/about"
+    },
+    {
+      "url": "https://investing101.substack.com/",
+      "status": "profile_verified",
+      "evidence_url": "https://investing101.substack.com/about"
+    },
+    {
+      "url": "https://sergeycyw.substack.com/",
+      "status": "profile_verified",
+      "evidence_url": "https://sergeycyw.substack.com/about"
+    },
+    {
+      "url": "https://netinterest.substack.com/",
+      "status": "profile_verified",
+      "evidence_url": "https://www.netinterest.co/about"
+    },
+    {
+      "url": "https://yhamiltonblog.substack.com/",
+      "status": "profile_verified",
+      "evidence_url": "https://yhamiltonblog.substack.com/about"
+    },
+    {
+      "url": "https://cloudedjudgement.substack.com/",
+      "status": "profile_verified",
+      "evidence_url": "https://cloudedjudgement.substack.com/about"
+    },
+    {
+      "url": "https://meritech.substack.com/",
+      "status": "profile_verified",
+      "evidence_url": "https://meritech.substack.com/about"
+    },
+    {
+      "url": "https://vermilioncliffs.substack.com/",
+      "status": "profile_verified",
+      "evidence_url": "https://vermilioncliffs.substack.com/about"
+    },
+    {
+      "url": "https://ryanshannon.substack.com/",
+      "status": "profile_verified",
+      "evidence_url": "https://ryanshannon.substack.com/about"
+    },
+    {
+      "url": "https://wolfofharcourtstreet.substack.com/",
+      "status": "profile_verified",
+      "evidence_url": "https://www.thewolfofharcourtstreet.com/about"
+    },
+    {
+      "url": "https://bristlemoon.substack.com/",
+      "status": "profile_verified",
+      "evidence_url": "https://www.bristlemoonresearch.com/about"
+    },
+    {
+      "url": "https://softwaremusings.substack.com/",
+      "status": "profile_verified",
+      "evidence_url": "https://softwaremusings.substack.com/about"
+    },
+    {
+      "url": "https://sgthoughts.substack.com/",
+      "status": "profile_verified",
+      "evidence_url": "https://sgthoughts.substack.com/about"
+    },
+    {
+      "url": "https://sleeperthoughts.substack.com/",
+      "status": "profile_verified",
+      "evidence_url": "https://www.sleeperthoughts.com/about"
+    },
+    {
+      "url": "https://fiftycentdollars.substack.com/",
+      "status": "profile_verified",
+      "evidence_url": "https://ufoholdings.substack.com/about"
+    },
+    {
+      "url": "https://carriednointerest.substack.com/",
+      "status": "profile_verified",
+      "evidence_url": "https://carriednointerest.substack.com/about"
+    },
+    {
+      "url": "https://swyx.substack.com/",
+      "status": "profile_verified",
+      "evidence_url": "https://www.latent.space/about"
+    },
+    {
+      "url": "https://anneliesgamble.substack.com/",
+      "status": "profile_verified",
+      "evidence_url": "https://www.mixtureofexperts.co/about"
+    },
+    {
+      "url": "https://deploy95.substack.com/",
+      "status": "profile_verified",
+      "evidence_url": "https://deploy95.substack.com/about"
+    },
+    {
+      "url": "https://swirlai.substack.com/",
+      "status": "profile_verified",
+      "evidence_url": "https://www.newsletter.swirlai.com/about"
+    },
+    {
+      "url": "https://humaninvariant.substack.com/",
+      "status": "profile_verified",
+      "evidence_url": "https://humaninvariant.substack.com/about"
+    },
+    {
+      "url": "https://moreintelligent.substack.com/",
+      "status": "publication_only",
+      "evidence_url": "https://moreintelligent.substack.com/"
+    },
+    {
+      "url": "https://moreentropy.substack.com/",
+      "status": "profile_verified",
+      "evidence_url": "https://www.moreentropy.com/about"
+    },
+    {
+      "url": "https://ventureinsecurity.substack.com/",
+      "status": "profile_verified",
+      "evidence_url": "https://ventureinsecurity.net/about"
+    },
+    {
+      "url": "https://oaksecurity.substack.com/",
+      "status": "publication_only",
+      "evidence_url": "https://oaksecurity.substack.com/"
+    },
+    {
+      "url": "https://jacknaglieri.substack.com/",
+      "status": "profile_verified",
+      "evidence_url": "https://www.detectionatscale.com/"
+    },
+    {
+      "url": "https://bytebytego.substack.com/",
+      "status": "profile_verified",
+      "evidence_url": "https://blog.bytebytego.com/"
+    },
+    {
+      "url": "https://hardwarefyi.substack.com/",
+      "status": "publication_only",
+      "evidence_url": "https://hardwarefyi.substack.com/"
+    },
+    {
+      "url": "https://insightsbykp.substack.com/",
+      "status": "publication_only",
+      "evidence_url": "https://insightsbykp.substack.com/"
+    },
+    {
+      "url": "https://austinhay.substack.com/",
+      "status": "publication_only",
+      "evidence_url": "https://austinhay.substack.com/"
+    },
+    {
+      "url": "https://buckonsoftware.substack.com/",
+      "status": "publication_only",
+      "evidence_url": "https://buckonsoftware.substack.com/"
+    },
+    {
+      "url": "https://lukesophinos.substack.com/",
+      "status": "profile_verified",
+      "evidence_url": "https://www.newsletter.lukesophinos.com/"
+    },
+    {
+      "url": "https://a16z.substack.com/",
+      "status": "profile_verified",
+      "evidence_url": "https://www.a16z.news/"
+    },
+    {
+      "url": "https://notboring.substack.com/",
+      "status": "profile_verified",
+      "evidence_url": "https://www.notboring.co/"
+    },
+    {
+      "url": "https://platformaeronaut.substack.com/",
+      "status": "profile_verified",
+      "evidence_url": "https://www.platformaeronaut.com/"
+    },
+    {
+      "url": "https://abcbyd.substack.com/",
+      "status": "publication_only",
+      "evidence_url": "https://abcbyd.substack.com/"
+    },
+    {
+      "url": "https://wattfactory.substack.com/",
+      "status": "profile_verified",
+      "evidence_url": "https://wattfactory.substack.com/"
+    },
+    {
+      "url": "https://first1000.substack.com/",
+      "status": "profile_verified",
+      "evidence_url": "https://read.first1000.co/"
+    },
+    {
+      "url": "https://digitalnative.substack.com/",
+      "status": "publication_only",
+      "evidence_url": "https://digitalnative.substack.com/"
+    },
+    {
+      "url": "https://1517.substack.com/",
+      "status": "publication_only",
+      "evidence_url": "https://1517.substack.com/"
+    },
+    {
+      "url": "https://whoisnnamdi.substack.com/",
+      "status": "publication_only",
+      "evidence_url": "https://whoisnnamdi.substack.com/"
+    },
+    {
+      "url": "https://eladgil.substack.com/",
+      "status": "profile_verified",
+      "evidence_url": "https://blog.eladgil.com/"
+    },
+    {
+      "url": "https://generational.substack.com/",
+      "status": "profile_verified",
+      "evidence_url": "https://www.generational.pub/"
+    },
+    {
+      "url": "https://runrate.substack.com/",
+      "status": "publication_only",
+      "evidence_url": "https://runrate.substack.com/"
+    },
+    {
+      "url": "https://thefoundingjourney.substack.com/",
+      "status": "publication_only",
+      "evidence_url": "https://thefoundingjourney.substack.com/"
+    },
+    {
+      "url": "https://superjoost.substack.com/",
+      "status": "profile_verified",
+      "evidence_url": "https://superjoost.substack.com/"
+    },
+    {
+      "url": "https://afterschool.substack.com/",
+      "status": "publication_only",
+      "evidence_url": "https://afterschool.substack.com/"
+    },
+    {
+      "url": "https://cathyreisenwitz.substack.com/",
+      "status": "publication_only",
+      "evidence_url": "https://cathyreisenwitz.substack.com/"
+    },
+    {
+      "url": "https://cartoonshateher.substack.com/",
+      "status": "profile_verified",
+      "evidence_url": "https://www.cartoonshateher.com/"
+    },
+    {
+      "url": "https://magdalene.substack.com/",
+      "status": "profile_verified",
+      "evidence_url": "https://www.sexual-culture.com/"
+    },
+    {
+      "url": "https://aryadeniz.substack.com/",
+      "status": "profile_verified",
+      "evidence_url": "https://aryadeniz.substack.com/"
+    },
+    {
+      "url": "https://noahpinion.substack.com/",
+      "status": "profile_verified",
+      "evidence_url": "https://www.noahpinion.blog/"
+    },
+    {
+      "url": "https://mariakonnikova.substack.com/",
+      "status": "profile_verified",
+      "evidence_url": "https://mariakonnikova.substack.com/"
+    },
+    {
+      "url": "https://conkstack.substack.com/",
+      "status": "publication_only",
+      "evidence_url": "https://conkstack.substack.com/"
+    },
+    {
+      "url": "https://samenright.substack.com/",
+      "status": "publication_only",
+      "evidence_url": "https://samenright.substack.com/"
+    },
+    {
+      "url": "https://provenancewatches.substack.com/",
+      "status": "profile_verified",
+      "evidence_url": "https://provenancewatches.substack.com/"
+    },
+    {
+      "url": "https://aashishreddy.substack.com/",
+      "status": "profile_verified",
+      "evidence_url": "https://aashishreddy.substack.com/"
+    },
+    {
+      "url": "https://mylescooks.substack.com/",
+      "status": "profile_verified",
+      "evidence_url": "https://mylescooks.substack.com/"
+    },
+    {
+      "url": "https://halfcourthoops.substack.com/",
+      "status": "publication_only",
+      "evidence_url": "https://halfcourthoops.substack.com/"
+    },
+    {
+      "url": "https://rootsofprogress.substack.com/",
+      "status": "profile_verified",
+      "evidence_url": "https://newsletter.rootsofprogress.org/"
+    },
+    {
+      "url": "https://masterofnonewithsunnyc.substack.com/",
+      "status": "profile_verified",
+      "evidence_url": "https://masterofnonewithsunnyc.substack.com/"
+    },
+    {
+      "url": "https://arbesman.substack.com/",
+      "status": "publication_only",
+      "evidence_url": "https://arbesman.substack.com/"
+    },
+    {
+      "url": "https://milknosugar.substack.com/",
+      "status": "publication_only",
+      "evidence_url": "https://milknosugar.substack.com/"
+    },
+    {
+      "url": "https://loeber.substack.com/",
+      "status": "publication_only",
+      "evidence_url": "https://loeber.substack.com/"
+    },
+    {
+      "url": "https://seanzcai.substack.com/",
+      "status": "profile_verified",
+      "evidence_url": "https://seanzcai.substack.com/"
+    },
+    {
+      "url": "https://chasingcuriosity0.substack.com/",
+      "status": "publication_only",
+      "evidence_url": "https://chasingcuriosity0.substack.com/"
+    },
+    {
+      "url": "https://pjvogt.substack.com/",
+      "status": "profile_verified",
+      "evidence_url": "https://pjvogt.substack.com/"
+    },
+    {
+      "url": "https://danilk.substack.com/",
+      "status": "publication_only",
+      "evidence_url": "https://danilk.substack.com/"
+    },
+    {
+      "url": "https://taleenvoskuni.substack.com/",
+      "status": "publication_only",
+      "evidence_url": "https://taleenvoskuni.substack.com/"
+    },
+    {
+      "url": "https://postcardsfromistanbul.substack.com/",
+      "status": "publication_only",
+      "evidence_url": "https://postcardsfromistanbul.substack.com/"
+    },
+    {
+      "url": "https://signull.substack.com/",
+      "status": "profile_verified",
+      "evidence_url": "https://signull.substack.com/"
+    },
+    {
+      "url": "https://regions.substack.com/",
+      "status": "profile_verified",
+      "evidence_url": "https://www.cojobrien.com/"
+    },
+    {
+      "url": "https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine",
+      "status": "profile_verified",
+      "evidence_url": "https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine"
+    },
+    {
+      "url": "https://stratechery.com/",
+      "status": "profile_verified",
+      "evidence_url": "https://stratechery.com/about/"
+    },
+    {
+      "url": "https://www.thediff.co/",
+      "status": "profile_verified",
+      "evidence_url": "https://www.thediff.co/about/"
+    },
+    {
+      "url": "https://www.platformer.news/",
+      "status": "profile_verified",
+      "evidence_url": "https://www.platformer.news/about/"
+    },
+    {
+      "url": "https://lenny.substack.com/",
+      "status": "profile_verified",
+      "evidence_url": "https://www.lennysnewsletter.com/"
+    },
+    {
+      "url": "https://hhhypergrowth.com/",
+      "status": "publication_only",
+      "evidence_url": "https://hhhypergrowth.com/about/"
+    },
+    {
+      "url": "https://aeon.co/",
+      "status": "publication_only",
+      "evidence_url": "https://aeon.co/about"
+    },
+    {
+      "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark",
+      "status": "profile_verified",
+      "evidence_url": "https://www.apollo.com/aboutus?source=redirect"
+    },
+    {
+      "url": "https://kagansblog.com/",
+      "status": "publication_only",
+      "evidence_url": "https://kagansblog.com/2012/04/about-last-night/"
+    },
+    {
+      "url": "https://irrationalanalysis.substack.com/",
+      "status": "profile_verified",
+      "evidence_url": "https://irrationalanalysis.substack.com/"
+    },
+    {
+      "url": "https://victaurs.substack.com/",
+      "status": "publication_only",
+      "evidence_url": "https://victaurs.substack.com/"
+    },
+    {
+      "url": "https://www.garbageday.email/",
+      "status": "profile_verified",
+      "evidence_url": "https://www.garbageday.email/about"
+    },
+    {
+      "url": "https://restructuringnewsletter.com/",
+      "status": "publication_only",
+      "evidence_url": "https://restructuringnewsletter.com/about"
+    },
+    {
+      "url": "https://oewadvisors.beehiiv.com/",
+      "status": "profile_verified",
+      "evidence_url": "https://oewadvisors.beehiiv.com/"
+    },
+    {
+      "url": "https://fanbehavior.beehiiv.com/",
+      "status": "profile_verified",
+      "evidence_url": "https://fanbehavior.beehiiv.com/"
+    },
+    {
+      "url": "https://unherd.com/",
+      "status": "publication_only",
+      "evidence_url": "https://unherd.com/about-unherd/?edition=us"
+    },
+    {
+      "url": "https://www.patreon.com/cw/MaxRead/posts",
+      "status": "profile_verified",
+      "evidence_url": "https://www.patreon.com/about"
+    },
+    {
+      "url": "https://www.maxdividends.com/",
+      "status": "profile_verified",
+      "evidence_url": "https://www.maxdividends.com/"
+    },
+    {
+      "url": "https://myweeklystock.substack.com/",
+      "status": "profile_verified",
+      "evidence_url": "https://myweeklystock.substack.com/"
+    },
+    {
+      "url": "https://panteracapital.com/blockchain-letter/",
+      "status": "publication_only",
+      "evidence_url": "https://panteracapital.com/blockchain-letter/"
+    },
+    {
+      "url": "https://fundamentedge.com/",
+      "status": "profile_verified",
+      "evidence_url": "https://www.fundamentedge.com/about"
+    },
+    {
+      "url": "https://www.goingvc.com/",
+      "status": "publication_only",
+      "evidence_url": "https://www.goingvc.com/about"
+    },
+    {
+      "url": "https://latent.substack.com/",
+      "status": "publication_only",
+      "evidence_url": "https://latent.substack.com/"
+    },
+    {
+      "url": "https://qy.co/writings/",
+      "status": "profile_verified",
+      "evidence_url": "https://qy.co/about/"
+    }
+  ]
+}
