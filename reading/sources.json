@@ -412,7 +412,8 @@
       "name": "Import AI",
       "url": "https://jack-clark.net/",
       "categories": [
-        "AI"
+        "AI",
+        "Newsletters"
       ],
       "feed_url": null
     },
@@ -535,6 +536,270 @@
         "AI"
       ],
       "feed_url": null
+    },
+    {
+      "name": "Bay Area Founders Club",
+      "url": "https://bayareafoundersclub.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "feed_url": "https://bayareafoundersclub.substack.com/feed"
+    },
+    {
+      "name": "Newcomer",
+      "url": "https://newcomer.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "feed_url": "https://www.newcomer.co/feed"
+    },
+    {
+      "name": "JJLake\u2019s Substack",
+      "url": "https://jjlake.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "feed_url": "https://jjlake.substack.com/feed"
+    },
+    {
+      "name": "AI+ Community",
+      "url": "https://aiplusfounderscommunity.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "feed_url": "https://aiplusfounderscommunity.substack.com/feed"
+    },
+    {
+      "name": "Sourcery",
+      "url": "https://mollysoshea.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "feed_url": "https://www.sourcery.vc/feed"
+    },
+    {
+      "name": "TSOH Investment Research",
+      "url": "https://thescienceofhitting.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "feed_url": "https://thescienceofhitting.com/feed"
+    },
+    {
+      "name": "Everywhere VC",
+      "url": "https://everywherevc.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "feed_url": "https://ideas.everywhere.vc/feed"
+    },
+    {
+      "name": "Learn Agentic AI",
+      "url": "https://learnagentic.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "feed_url": "https://learnagentic.substack.com/feed"
+    },
+    {
+      "name": "Ben's Bites",
+      "url": "https://bensbites.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "feed_url": "https://www.bensbites.com/feed"
+    },
+    {
+      "name": "AMP (Formerly: The AI Exchange)",
+      "url": "https://theaiexchange.beehiiv.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "feed_url": "https://rss.beehiiv.com/feeds/bMmoLYZLBJ.xml"
+    },
+    {
+      "name": "Not Another CEO",
+      "url": "https://notanotherceo.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "feed_url": "https://notanotherceo.substack.com/feed"
+    },
+    {
+      "name": "TechWalk Newsletter",
+      "url": "https://techwalk.beehiiv.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "feed_url": "https://rss.beehiiv.com/feeds/YSbcm1WDrI.xml"
+    },
+    {
+      "name": "Stealth Startup Spy",
+      "url": "https://stealthstartupspy.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "feed_url": "https://stealthstartupspy.substack.com/feed"
+    },
+    {
+      "name": "The New Frontier",
+      "url": "https://igorpejic.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "feed_url": "https://igorpejic.substack.com/feed"
+    },
+    {
+      "name": "gm NYC",
+      "url": "https://gmnyc.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "feed_url": "https://www.gmnyc.com/feed"
+    },
+    {
+      "name": "Iris",
+      "url": "https://humiris.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "feed_url": "https://humiris.substack.com/feed"
+    },
+    {
+      "name": "Geeks Of The Valley Newsletter",
+      "url": "https://geeksofthevalley.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "feed_url": "https://geeksofthevalley.substack.com/feed"
+    },
+    {
+      "name": "Cryptonite Weekly Rap",
+      "url": "https://cryptoniteventures.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "feed_url": "https://cryptoniteventures.substack.com/feed"
+    },
+    {
+      "name": "Prosaic Times",
+      "url": "https://prosaictimes.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "feed_url": "https://www.prosaictimes.com/feed"
+    },
+    {
+      "name": "Map the World by Bilawal Sidhu",
+      "url": "https://creativetechnologydigest.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "feed_url": "https://www.spatialintelligence.ai/feed"
+    },
+    {
+      "name": "Contrary Research",
+      "url": "https://contraryresearch.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "feed_url": "https://contraryresearch.substack.com/feed"
+    },
+    {
+      "name": "StudioAlpha",
+      "url": "https://studioalpha.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "feed_url": "https://studioalpha.substack.com/feed"
+    },
+    {
+      "name": "Gradient",
+      "url": "https://gradientvc.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "feed_url": "https://gradientvc.substack.com/feed"
+    },
+    {
+      "name": "Dwarkesh Podcast",
+      "url": "https://dwarkesh.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "feed_url": "https://www.dwarkesh.com/feed"
+    },
+    {
+      "name": "Tank Talks with Matt Cohen",
+      "url": "https://tanktalks.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "feed_url": "https://tanktalks.substack.com/feed"
+    },
+    {
+      "name": "FounderCoHo",
+      "url": "https://foundercoho.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "feed_url": "https://foundercoho.substack.com/feed"
+    },
+    {
+      "name": "speedrun",
+      "url": "https://speedrun.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "feed_url": "https://speedrun.substack.com/feed"
+    },
+    {
+      "name": "South Park Commons",
+      "url": "https://southparkcommons.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "feed_url": "https://blog.southparkcommons.com/feed"
+    },
+    {
+      "name": "Fintech Business Weekly",
+      "url": "https://fintechbusinessweekly.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "feed_url": "https://fintechbusinessweekly.substack.com/feed"
+    },
+    {
+      "name": "LP Blueprint",
+      "url": "https://metz.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "feed_url": "https://metz.substack.com/feed"
+    },
+    {
+      "name": "Early Stage Founders (poach.vc)",
+      "url": "https://poach.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "feed_url": "https://news.poach.vc/feed"
+    },
+    {
+      "name": "NYC B2B",
+      "url": "https://nycb2b.beehiiv.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "feed_url": "https://rss.beehiiv.com/feeds/fh86e58Ctb.xml"
+    },
+    {
+      "name": "The Great American Path",
+      "url": "https://thegreatamericanpath.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "feed_url": "https://thegreatamericanpath.substack.com/feed"
     }
   ]
 }

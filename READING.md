@@ -1,6 +1,6 @@
 # Daily reading page
 
-The reading page follows the publishing sources extracted from the **Reading v2** bookmark folder. Personal documents, CRM links, search results, tools, dashboards, social profiles, and event pages are excluded. Duplicate sites are consolidated, retaining their categories. The original bookmark export is not included in this repository.
+The reading page follows 63 publishing sources extracted from the **Reading v2** bookmark folder, plus 33 additional verified public newsletter feeds identified from the work-inbox inventory. Import AI appears in both inventories and is tracked once. Personal documents, CRM links, search results, tools, dashboards, social profiles, and event pages are excluded. Duplicate sites are consolidated, retaining their categories. The original bookmark export is not included in this repository.
 
 ## Collection
 
@@ -20,4 +20,4 @@ Run `python3 -m unittest discover -s tests` before publishing. Preview with `pyt
 
 ## Inbox integration is pending
 
-This collector currently handles public bookmarks only. Gmail access through the assistant does not provide credentials to GitHub Actions. Daily email ingestion needs separate authorization and a chosen private/public publishing design. No email messages, inbox addresses, message IDs, access tokens, or paid newsletter text are included in this site.
+This collector handles public blog and newsletter feeds. The work-inbox inventory was used only to discover public publication feeds; email data is not published. Newly subscribed newsletters are not automatically discovered. Personal-inbox discovery remains pending. Gmail access through the assistant does not provide credentials to GitHub Actions. Daily email ingestion needs separate authorization and a chosen private/public publishing design. No email messages, inbox addresses, message IDs, access tokens, or paid newsletter text are included in this site.
