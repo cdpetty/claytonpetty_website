@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T05:26:32.889645+00:00",
+  "updated_at": "2026-09-24T05:28:28.869942+00:00",
   "ranking": "Title topic matches and recency; no AI analysis or full article content.",
   "first_seen": {
     "https://tomtunguz.com/the-most-important-market-in-ai-is-the-middle/": "2026-09-24T03:49:54.414936+00:00",
@@ -1712,7 +1712,8 @@
     "https://nycb2b.beehiiv.com/p/nyc-startup-events-for-founders-operators-6-2-6-30": "2026-09-24T03:55:11.066413+00:00",
     "https://nycb2b.beehiiv.com/p/nyc-startup-events-for-founders-operators-5-27-6-30": "2026-09-24T03:55:11.066413+00:00",
     "https://nycb2b.beehiiv.com/p/nyc-startup-events-for-founders-operators-5-20-6-30": "2026-09-24T03:55:11.066413+00:00",
-    "https://marginalrevolution.com/marginalrevolution/2026/09/my-economics-rich-conversation-with-gita-gopinath.html": "2026-09-24T05:26:32.889645+00:00"
+    "https://marginalrevolution.com/marginalrevolution/2026/09/my-economics-rich-conversation-with-gita-gopinath.html": "2026-09-24T05:26:32.889645+00:00",
+    "https://www.daft.ai/blog": "2026-09-24T05:28:28.869942+00:00"
   },
   "sources": [
     {
@@ -1721,7 +1722,7 @@
       "categories": [
         "Newsletters"
       ],
-      "checked_at": "2026-09-24T05:26:32.889645+00:00",
+      "checked_at": "2026-09-24T05:28:28.869942+00:00",
       "discovered_at": "2026-09-24T03:55:11.066413+00:00",
       "status": "error",
       "error": "HTTPError"
@@ -1732,10 +1733,10 @@
       "categories": [
         "Newsletters"
       ],
-      "checked_at": "2026-09-24T05:26:32.889645+00:00",
+      "checked_at": "2026-09-24T05:28:28.869942+00:00",
       "status": "feed",
       "feed_url": "https://rss.beehiiv.com/feeds/bMmoLYZLBJ.xml",
-      "last_success_at": "2026-09-24T05:26:32.889645+00:00",
+      "last_success_at": "2026-09-24T05:28:28.869942+00:00",
       "error": null
     },
     {
@@ -1744,10 +1745,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T05:26:32.889645+00:00",
+      "checked_at": "2026-09-24T05:28:28.869942+00:00",
       "status": "page_watch",
       "fingerprint": "1497fd3376bdd786f4ae8c7569220f179a7c0757abab933956b2645b227566a8",
-      "last_success_at": "2026-09-24T05:26:32.889645+00:00",
+      "last_success_at": "2026-09-24T05:28:28.869942+00:00",
       "error": null,
       "discovered_at": "2026-09-24T03:49:54.414936+00:00"
     },
@@ -1757,7 +1758,7 @@
       "categories": [
         "Newsletters"
       ],
-      "checked_at": "2026-09-24T05:26:32.889645+00:00",
+      "checked_at": "2026-09-24T05:28:28.869942+00:00",
       "discovered_at": "2026-09-24T03:55:11.066413+00:00",
       "status": "error",
       "error": "HTTPError"
@@ -1768,10 +1769,10 @@
       "categories": [
         "Newsletters"
       ],
-      "checked_at": "2026-09-24T05:26:32.889645+00:00",
+      "checked_at": "2026-09-24T05:28:28.869942+00:00",
       "status": "feed",
       "feed_url": "https://www.bensbites.com/feed",
-      "last_success_at": "2026-09-24T05:26:32.889645+00:00",
+      "last_success_at": "2026-09-24T05:28:28.869942+00:00",
       "error": null
     },
     {
@@ -1780,10 +1781,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T05:26:32.889645+00:00",
+      "checked_at": "2026-09-24T05:28:28.869942+00:00",
       "status": "page_watch",
       "fingerprint": "a79900bfe8704325f8081c9d7bc96f376fa218137b5df1cf07a38fc3780e91d7",
-      "last_success_at": "2026-09-24T05:26:32.889645+00:00",
+      "last_success_at": "2026-09-24T05:28:28.869942+00:00",
       "error": null,
       "discovered_at": "2026-09-24T03:49:54.414936+00:00"
     },
@@ -1793,10 +1794,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T05:26:32.889645+00:00",
+      "checked_at": "2026-09-24T05:28:28.869942+00:00",
       "status": "feed",
       "feed_url": "https://www.benkuhn.net/index.xml",
-      "last_success_at": "2026-09-24T05:26:32.889645+00:00",
+      "last_success_at": "2026-09-24T05:28:28.869942+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -1806,10 +1807,10 @@
       "categories": [
         "AI"
       ],
-      "checked_at": "2026-09-24T05:26:32.889645+00:00",
+      "checked_at": "2026-09-24T05:28:28.869942+00:00",
       "status": "feed",
       "feed_url": "https://www.beren.io/feed.xml",
-      "last_success_at": "2026-09-24T05:26:32.889645+00:00",
+      "last_success_at": "2026-09-24T05:28:28.869942+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -1819,10 +1820,10 @@
       "categories": [
         "AI"
       ],
-      "checked_at": "2026-09-24T05:26:32.889645+00:00",
+      "checked_at": "2026-09-24T05:28:28.869942+00:00",
       "status": "feed",
       "feed_url": "https://www.aleksagordic.com/feed.xml",
-      "last_success_at": "2026-09-24T05:26:32.889645+00:00",
+      "last_success_at": "2026-09-24T05:28:28.869942+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -1832,10 +1833,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T05:26:32.889645+00:00",
+      "checked_at": "2026-09-24T05:28:28.869942+00:00",
       "status": "feed",
       "feed_url": "https://boz.com/rss.xml",
-      "last_success_at": "2026-09-24T05:26:32.889645+00:00",
+      "last_success_at": "2026-09-24T05:28:28.869942+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -1845,10 +1846,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T05:26:32.889645+00:00",
+      "checked_at": "2026-09-24T05:28:28.869942+00:00",
       "status": "page_watch",
       "fingerprint": "542c24b8b68eb39167bb812f132dec758a3ab4c0f19b1c384e13fd630e12b2d4",
-      "last_success_at": "2026-09-24T05:26:32.889645+00:00",
+      "last_success_at": "2026-09-24T05:28:28.869942+00:00",
       "error": null,
       "discovered_at": "2026-09-24T03:49:54.414936+00:00"
     },
@@ -1858,10 +1859,10 @@
       "categories": [
         "China"
       ],
-      "checked_at": "2026-09-24T05:26:32.889645+00:00",
+      "checked_at": "2026-09-24T05:28:28.869942+00:00",
       "status": "feed",
       "feed_url": "https://www.chinatalk.media/feed",
-      "last_success_at": "2026-09-24T05:26:32.889645+00:00",
+      "last_success_at": "2026-09-24T05:28:28.869942+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -1872,7 +1873,7 @@
         "Cyber",
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T05:26:32.889645+00:00",
+      "checked_at": "2026-09-24T05:28:28.869942+00:00",
       "status": "error",
       "fingerprint": "e40c7d84bc4e624b0b4f3aa9d48e22f65c4dadbfcb31e977cc69562318d5fc3d",
       "last_success_at": "2026-09-24T03:48:01.272420+00:00",
@@ -1885,10 +1886,10 @@
       "categories": [
         "Cyber"
       ],
-      "checked_at": "2026-09-24T05:26:32.889645+00:00",
+      "checked_at": "2026-09-24T05:28:28.869942+00:00",
       "status": "page_watch",
       "fingerprint": "6a02e958bbaf04c3b603b830254abbca16ff273ce9bfef9f7b075809d4f8130a",
-      "last_success_at": "2026-09-24T05:26:32.889645+00:00",
+      "last_success_at": "2026-09-24T05:28:28.869942+00:00",
       "error": null,
       "discovered_at": "2026-09-24T03:49:54.414936+00:00"
     },
@@ -1898,10 +1899,10 @@
       "categories": [
         "AI"
       ],
-      "checked_at": "2026-09-24T05:26:32.889645+00:00",
+      "checked_at": "2026-09-24T05:28:28.869942+00:00",
       "status": "page_watch",
       "fingerprint": "cab214c4dbf1fa1c38b98d9e9dabf0fe21d031c6d6b72d41a5c6d311c554587b",
-      "last_success_at": "2026-09-24T05:26:32.889645+00:00",
+      "last_success_at": "2026-09-24T05:28:28.869942+00:00",
       "error": null,
       "discovered_at": "2026-09-24T03:49:54.414936+00:00"
     },
@@ -1911,10 +1912,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T05:26:32.889645+00:00",
+      "checked_at": "2026-09-24T05:28:28.869942+00:00",
       "status": "feed",
       "feed_url": "https://www.cold-takes.com/rss/",
-      "last_success_at": "2026-09-24T05:26:32.889645+00:00",
+      "last_success_at": "2026-09-24T05:28:28.869942+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -1924,10 +1925,10 @@
       "categories": [
         "Finance"
       ],
-      "checked_at": "2026-09-24T05:26:32.889645+00:00",
+      "checked_at": "2026-09-24T05:28:28.869942+00:00",
       "status": "page_watch",
       "fingerprint": "222cb2bbc555655ed4d1e0dcea983e3dfc57e3d778e95f8a5ec3d2739c591911",
-      "last_success_at": "2026-09-24T05:26:32.889645+00:00",
+      "last_success_at": "2026-09-24T05:28:28.869942+00:00",
       "error": null,
       "discovered_at": "2026-09-24T03:49:54.414936+00:00"
     },
@@ -1937,10 +1938,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T05:26:32.889645+00:00",
+      "checked_at": "2026-09-24T05:28:28.869942+00:00",
       "status": "page_watch",
       "fingerprint": "8b6979729bf2143214e51d459c100cc97703e25c2d623ffd3faccd40724a3103",
-      "last_success_at": "2026-09-24T05:26:32.889645+00:00",
+      "last_success_at": "2026-09-24T05:28:28.869942+00:00",
       "error": null,
       "discovered_at": "2026-09-24T03:49:54.414936+00:00"
     },
@@ -1950,7 +1951,7 @@
       "categories": [
         "Newsletters"
       ],
-      "checked_at": "2026-09-24T05:26:32.889645+00:00",
+      "checked_at": "2026-09-24T05:28:28.869942+00:00",
       "discovered_at": "2026-09-24T03:55:11.066413+00:00",
       "status": "error",
       "error": "HTTPError"
@@ -1961,7 +1962,7 @@
       "categories": [
         "Newsletters"
       ],
-      "checked_at": "2026-09-24T05:26:32.889645+00:00",
+      "checked_at": "2026-09-24T05:28:28.869942+00:00",
       "discovered_at": "2026-09-24T03:55:11.066413+00:00",
       "status": "error",
       "error": "HTTPError"
@@ -1972,10 +1973,10 @@
       "categories": [
         "Cyber"
       ],
-      "checked_at": "2026-09-24T05:26:32.889645+00:00",
+      "checked_at": "2026-09-24T05:28:28.869942+00:00",
       "status": "feed",
       "feed_url": "https://cybersecurityventures.com/feed/",
-      "last_success_at": "2026-09-24T05:26:32.889645+00:00",
+      "last_success_at": "2026-09-24T05:28:28.869942+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -1985,12 +1986,12 @@
       "categories": [
         "AI"
       ],
-      "checked_at": "2026-09-24T05:26:32.889645+00:00",
+      "checked_at": "2026-09-24T05:28:28.869942+00:00",
       "status": "page_watch",
       "error": null,
       "discovered_at": "2026-09-24T03:49:54.414936+00:00",
-      "fingerprint": "5df51225ee547a034664be4c2a5f82f3bbff06a463691c913ce1033c9fa4e20d",
-      "last_success_at": "2026-09-24T05:26:32.889645+00:00"
+      "fingerprint": "4c897d8c899c4a0bb2c1c4f108c55546f9705415e53bde487e182d4176738724",
+      "last_success_at": "2026-09-24T05:28:28.869942+00:00"
     },
     {
       "name": "Dwarkesh Podcast",
@@ -1998,10 +1999,10 @@
       "categories": [
         "Newsletters"
       ],
-      "checked_at": "2026-09-24T05:26:32.889645+00:00",
+      "checked_at": "2026-09-24T05:28:28.869942+00:00",
       "status": "feed",
       "feed_url": "https://www.dwarkesh.com/feed",
-      "last_success_at": "2026-09-24T05:26:32.889645+00:00",
+      "last_success_at": "2026-09-24T05:28:28.869942+00:00",
       "error": null
     },
     {
@@ -2010,10 +2011,10 @@
       "categories": [
         "Newsletters"
       ],
-      "checked_at": "2026-09-24T05:26:32.889645+00:00",
+      "checked_at": "2026-09-24T05:28:28.869942+00:00",
       "status": "feed",
       "feed_url": "https://news.poach.vc/feed",
-      "last_success_at": "2026-09-24T05:26:32.889645+00:00",
+      "last_success_at": "2026-09-24T05:28:28.869942+00:00",
       "error": null
     },
     {
@@ -2022,10 +2023,10 @@
       "categories": [
         "AI"
       ],
-      "checked_at": "2026-09-24T05:26:32.889645+00:00",
+      "checked_at": "2026-09-24T05:28:28.869942+00:00",
       "status": "page_watch",
       "fingerprint": "a582747353d0bd8aba0b3fa43063c1bbf443adb401ab87a036dc951bcaec43e0",
-      "last_success_at": "2026-09-24T05:26:32.889645+00:00",
+      "last_success_at": "2026-09-24T05:28:28.869942+00:00",
       "error": null,
       "discovered_at": "2026-09-24T03:49:54.414936+00:00"
     },
@@ -2035,10 +2036,10 @@
       "categories": [
         "Cyber"
       ],
-      "checked_at": "2026-09-24T05:26:32.889645+00:00",
+      "checked_at": "2026-09-24T05:28:28.869942+00:00",
       "status": "feed",
       "fingerprint": "3b386860baee7ef1360ad41f8759481c6d2ac304e383e403d7526c239c722ce9",
-      "last_success_at": "2026-09-24T05:26:32.889645+00:00",
+      "last_success_at": "2026-09-24T05:28:28.869942+00:00",
       "error": null,
       "feed_url": "https://embracethered.com/blog/index.xml",
       "discovered_at": "2026-09-24T03:49:54.414936+00:00"
@@ -2049,10 +2050,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T05:26:32.889645+00:00",
+      "checked_at": "2026-09-24T05:28:28.869942+00:00",
       "status": "feed",
       "feed_url": "https://www.henrikkarlsson.xyz/feed",
-      "last_success_at": "2026-09-24T05:26:32.889645+00:00",
+      "last_success_at": "2026-09-24T05:28:28.869942+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -2062,10 +2063,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T05:26:32.889645+00:00",
+      "checked_at": "2026-09-24T05:28:28.869942+00:00",
       "status": "page_watch",
       "feed_url": "https://gwern.substack.com/feed",
-      "last_success_at": "2026-09-24T05:26:32.889645+00:00",
+      "last_success_at": "2026-09-24T05:28:28.869942+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null,
       "fingerprint": "36e4d5a3730ccc917e986c0c8a7ecd35d4bd26cb3379027f6c12fc26424f3727"
@@ -2076,10 +2077,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T05:26:32.889645+00:00",
+      "checked_at": "2026-09-24T05:28:28.869942+00:00",
       "status": "feed",
       "feed_url": "https://insights.euclid.vc/feed",
-      "last_success_at": "2026-09-24T05:26:32.889645+00:00",
+      "last_success_at": "2026-09-24T05:28:28.869942+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -2089,10 +2090,10 @@
       "categories": [
         "General"
       ],
-      "checked_at": "2026-09-24T05:26:32.889645+00:00",
+      "checked_at": "2026-09-24T05:28:28.869942+00:00",
       "status": "page_watch",
       "fingerprint": "0e54f811ff384c363417ba5a8279c7370afd7b51d4d7fc69a35b5fc1a442aabc",
-      "last_success_at": "2026-09-24T05:26:32.889645+00:00",
+      "last_success_at": "2026-09-24T05:28:28.869942+00:00",
       "error": null,
       "discovered_at": "2026-09-24T03:49:54.414936+00:00"
     },
@@ -2102,10 +2103,10 @@
       "categories": [
         "Newsletters"
       ],
-      "checked_at": "2026-09-24T05:26:32.889645+00:00",
+      "checked_at": "2026-09-24T05:28:28.869942+00:00",
       "status": "feed",
       "feed_url": "https://ideas.everywhere.vc/feed",
-      "last_success_at": "2026-09-24T05:26:32.889645+00:00",
+      "last_success_at": "2026-09-24T05:28:28.869942+00:00",
       "error": null
     },
     {
@@ -2114,10 +2115,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T05:26:32.889645+00:00",
+      "checked_at": "2026-09-24T05:28:28.869942+00:00",
       "status": "feed",
       "feed_url": "https://findthemoat.com/feed/",
-      "last_success_at": "2026-09-24T05:26:32.889645+00:00",
+      "last_success_at": "2026-09-24T05:28:28.869942+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -2127,7 +2128,7 @@
       "categories": [
         "Newsletters"
       ],
-      "checked_at": "2026-09-24T05:26:32.889645+00:00",
+      "checked_at": "2026-09-24T05:28:28.869942+00:00",
       "discovered_at": "2026-09-24T03:55:11.066413+00:00",
       "status": "error",
       "error": "HTTPError"
@@ -2138,7 +2139,7 @@
       "categories": [
         "Newsletters"
       ],
-      "checked_at": "2026-09-24T05:26:32.889645+00:00",
+      "checked_at": "2026-09-24T05:28:28.869942+00:00",
       "discovered_at": "2026-09-24T03:55:11.066413+00:00",
       "status": "error",
       "error": "HTTPError"
@@ -2149,7 +2150,7 @@
       "categories": [
         "Newsletters"
       ],
-      "checked_at": "2026-09-24T05:26:32.889645+00:00",
+      "checked_at": "2026-09-24T05:28:28.869942+00:00",
       "discovered_at": "2026-09-24T03:55:11.066413+00:00",
       "status": "error",
       "error": "HTTPError"
@@ -2160,10 +2161,10 @@
       "categories": [
         "Newsletters"
       ],
-      "checked_at": "2026-09-24T05:26:32.889645+00:00",
+      "checked_at": "2026-09-24T05:28:28.869942+00:00",
       "status": "feed",
       "feed_url": "https://www.gmnyc.com/feed",
-      "last_success_at": "2026-09-24T05:26:32.889645+00:00",
+      "last_success_at": "2026-09-24T05:28:28.869942+00:00",
       "error": null
     },
     {
@@ -2172,7 +2173,7 @@
       "categories": [
         "Newsletters"
       ],
-      "checked_at": "2026-09-24T05:26:32.889645+00:00",
+      "checked_at": "2026-09-24T05:28:28.869942+00:00",
       "discovered_at": "2026-09-24T03:55:11.066413+00:00",
       "status": "error",
       "error": "HTTPError"
@@ -2183,7 +2184,7 @@
       "categories": [
         "Cyber"
       ],
-      "checked_at": "2026-09-24T05:26:32.889645+00:00",
+      "checked_at": "2026-09-24T05:28:28.869942+00:00",
       "discovered_at": "2026-09-24T03:49:54.414936+00:00",
       "status": "error",
       "error": "URLError"
@@ -2194,10 +2195,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T05:26:32.889645+00:00",
+      "checked_at": "2026-09-24T05:28:28.869942+00:00",
       "status": "feed",
       "feed_url": "https://grahamduncan.blog/feed/",
-      "last_success_at": "2026-09-24T05:26:32.889645+00:00",
+      "last_success_at": "2026-09-24T05:28:28.869942+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -2207,10 +2208,10 @@
       "categories": [
         "Finance"
       ],
-      "checked_at": "2026-09-24T05:26:32.889645+00:00",
+      "checked_at": "2026-09-24T05:28:28.869942+00:00",
       "status": "page_watch",
       "fingerprint": "fca5ebe3f0b78df8838f4cc26ceb9a6b4d7eceeb99d6d7d4d392ca382c9e68a3",
-      "last_success_at": "2026-09-24T05:26:32.889645+00:00",
+      "last_success_at": "2026-09-24T05:28:28.869942+00:00",
       "error": null,
       "discovered_at": "2026-09-24T03:49:54.414936+00:00"
     },
@@ -2221,10 +2222,10 @@
         "AI",
         "Newsletters"
       ],
-      "checked_at": "2026-09-24T05:26:32.889645+00:00",
+      "checked_at": "2026-09-24T05:28:28.869942+00:00",
       "status": "feed",
       "feed_url": "https://jack-clark.net/feed/",
-      "last_success_at": "2026-09-24T05:26:32.889645+00:00",
+      "last_success_at": "2026-09-24T05:28:28.869942+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -2234,10 +2235,10 @@
       "categories": [
         "Builders"
       ],
-      "checked_at": "2026-09-24T05:26:32.889645+00:00",
+      "checked_at": "2026-09-24T05:28:28.869942+00:00",
       "status": "page_watch",
       "fingerprint": "ba2546cec03cd602857dc2c155af0ee60cd481a3c7313feaecb1fd214faa637d",
-      "last_success_at": "2026-09-24T05:26:32.889645+00:00",
+      "last_success_at": "2026-09-24T05:28:28.869942+00:00",
       "error": null,
       "discovered_at": "2026-09-24T03:49:54.414936+00:00"
     },
@@ -2247,7 +2248,7 @@
       "categories": [
         "Newsletters"
       ],
-      "checked_at": "2026-09-24T05:26:32.889645+00:00",
+      "checked_at": "2026-09-24T05:28:28.869942+00:00",
       "discovered_at": "2026-09-24T03:55:11.066413+00:00",
       "status": "error",
       "error": "HTTPError"
@@ -2258,10 +2259,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T05:26:32.889645+00:00",
+      "checked_at": "2026-09-24T05:28:28.869942+00:00",
       "status": "feed",
       "feed_url": "https://jsomers.net/blog/feed",
-      "last_success_at": "2026-09-24T05:26:32.889645+00:00",
+      "last_success_at": "2026-09-24T05:28:28.869942+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -2271,10 +2272,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T05:26:32.889645+00:00",
+      "checked_at": "2026-09-24T05:28:28.869942+00:00",
       "status": "feed",
       "feed_url": "https://fullhoffman.com/feed/",
-      "last_success_at": "2026-09-24T05:26:32.889645+00:00",
+      "last_success_at": "2026-09-24T05:28:28.869942+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -2284,7 +2285,7 @@
       "categories": [
         "Newsletters"
       ],
-      "checked_at": "2026-09-24T05:26:32.889645+00:00",
+      "checked_at": "2026-09-24T05:28:28.869942+00:00",
       "discovered_at": "2026-09-24T03:55:11.066413+00:00",
       "status": "error",
       "error": "HTTPError"
@@ -2295,10 +2296,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T05:26:32.889645+00:00",
+      "checked_at": "2026-09-24T05:28:28.869942+00:00",
       "status": "feed",
       "feed_url": "https://www.jmeiners.com/feed.xml",
-      "last_success_at": "2026-09-24T05:26:32.889645+00:00",
+      "last_success_at": "2026-09-24T05:28:28.869942+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -2308,10 +2309,10 @@
       "categories": [
         "General"
       ],
-      "checked_at": "2026-09-24T05:26:32.889645+00:00",
+      "checked_at": "2026-09-24T05:28:28.869942+00:00",
       "status": "page_watch",
       "fingerprint": "4dc36184e2117a315d6addb4ee1093384dddb508e49bfa9afdef3379b10dab7c",
-      "last_success_at": "2026-09-24T05:26:32.889645+00:00",
+      "last_success_at": "2026-09-24T05:28:28.869942+00:00",
       "error": null,
       "discovered_at": "2026-09-24T03:49:54.414936+00:00"
     },
@@ -2321,7 +2322,7 @@
       "categories": [
         "Newsletters"
       ],
-      "checked_at": "2026-09-24T05:26:32.889645+00:00",
+      "checked_at": "2026-09-24T05:28:28.869942+00:00",
       "discovered_at": "2026-09-24T03:55:11.066413+00:00",
       "status": "error",
       "error": "HTTPError"
@@ -2332,10 +2333,10 @@
       "categories": [
         "AI"
       ],
-      "checked_at": "2026-09-24T05:26:32.889645+00:00",
+      "checked_at": "2026-09-24T05:28:28.869942+00:00",
       "status": "page_watch",
       "fingerprint": "7b326d5bd068f2c7bff5936724c56f5865c0ecb80641f4bf4c12b96ce6de5c37",
-      "last_success_at": "2026-09-24T05:26:32.889645+00:00",
+      "last_success_at": "2026-09-24T05:28:28.869942+00:00",
       "error": null,
       "discovered_at": "2026-09-24T03:49:54.414936+00:00"
     },
@@ -2345,10 +2346,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T05:26:32.889645+00:00",
+      "checked_at": "2026-09-24T05:28:28.869942+00:00",
       "status": "feed",
       "feed_url": "https://qy.co/feed.xml",
-      "last_success_at": "2026-09-24T05:26:32.889645+00:00",
+      "last_success_at": "2026-09-24T05:28:28.869942+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -2358,7 +2359,7 @@
       "categories": [
         "Newsletters"
       ],
-      "checked_at": "2026-09-24T05:26:32.889645+00:00",
+      "checked_at": "2026-09-24T05:28:28.869942+00:00",
       "discovered_at": "2026-09-24T03:55:11.066413+00:00",
       "status": "error",
       "error": "HTTPError"
@@ -2369,10 +2370,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T05:26:32.889645+00:00",
+      "checked_at": "2026-09-24T05:28:28.869942+00:00",
       "status": "feed",
       "feed_url": "https://magnusfinancial.com/feed/",
-      "last_success_at": "2026-09-24T05:26:32.889645+00:00",
+      "last_success_at": "2026-09-24T05:28:28.869942+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -2382,10 +2383,10 @@
       "categories": [
         "Cyber"
       ],
-      "checked_at": "2026-09-24T05:26:32.889645+00:00",
+      "checked_at": "2026-09-24T05:28:28.869942+00:00",
       "status": "feed",
       "feed_url": "https://malwr-analysis.com/feed/",
-      "last_success_at": "2026-09-24T05:26:32.889645+00:00",
+      "last_success_at": "2026-09-24T05:28:28.869942+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -2395,10 +2396,10 @@
       "categories": [
         "Newsletters"
       ],
-      "checked_at": "2026-09-24T05:26:32.889645+00:00",
+      "checked_at": "2026-09-24T05:28:28.869942+00:00",
       "status": "feed",
       "feed_url": "https://www.spatialintelligence.ai/feed",
-      "last_success_at": "2026-09-24T05:26:32.889645+00:00",
+      "last_success_at": "2026-09-24T05:28:28.869942+00:00",
       "error": null
     },
     {
@@ -2407,10 +2408,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T05:26:32.889645+00:00",
+      "checked_at": "2026-09-24T05:28:28.869942+00:00",
       "status": "feed",
       "feed_url": "https://marginalrevolution.com/feed",
-      "last_success_at": "2026-09-24T05:26:32.889645+00:00",
+      "last_success_at": "2026-09-24T05:28:28.869942+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -2420,10 +2421,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T05:26:32.889645+00:00",
+      "checked_at": "2026-09-24T05:28:28.869942+00:00",
       "status": "feed",
       "feed_url": "https://matklad.github.io/feed.xml",
-      "last_success_at": "2026-09-24T05:26:32.889645+00:00",
+      "last_success_at": "2026-09-24T05:28:28.869942+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -2433,10 +2434,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T05:26:32.889645+00:00",
+      "checked_at": "2026-09-24T05:28:28.869942+00:00",
       "status": "feed",
       "feed_url": "https://maxhodak.com/writings.xml",
-      "last_success_at": "2026-09-24T05:26:32.889645+00:00",
+      "last_success_at": "2026-09-24T05:28:28.869942+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -2446,10 +2447,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T05:26:32.889645+00:00",
+      "checked_at": "2026-09-24T05:28:28.869942+00:00",
       "status": "feed",
       "feed_url": "https://nadia.xyz/feed",
-      "last_success_at": "2026-09-24T05:26:32.889645+00:00",
+      "last_success_at": "2026-09-24T05:28:28.869942+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -2459,10 +2460,10 @@
       "categories": [
         "Newsletters"
       ],
-      "checked_at": "2026-09-24T05:26:32.889645+00:00",
+      "checked_at": "2026-09-24T05:28:28.869942+00:00",
       "status": "feed",
       "feed_url": "https://www.newcomer.co/feed",
-      "last_success_at": "2026-09-24T05:26:32.889645+00:00",
+      "last_success_at": "2026-09-24T05:28:28.869942+00:00",
       "error": null
     },
     {
@@ -2471,10 +2472,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T05:26:32.889645+00:00",
+      "checked_at": "2026-09-24T05:28:28.869942+00:00",
       "status": "page_watch",
       "fingerprint": "193281cb4f511f085cdfe8ab074bd6063986152c10209f07ab9ccebbd0ae5061",
-      "last_success_at": "2026-09-24T05:26:32.889645+00:00",
+      "last_success_at": "2026-09-24T05:28:28.869942+00:00",
       "error": null,
       "discovered_at": "2026-09-24T03:49:54.414936+00:00"
     },
@@ -2484,7 +2485,7 @@
       "categories": [
         "Newsletters"
       ],
-      "checked_at": "2026-09-24T05:26:32.889645+00:00",
+      "checked_at": "2026-09-24T05:28:28.869942+00:00",
       "discovered_at": "2026-09-24T03:55:11.066413+00:00",
       "status": "error",
       "error": "HTTPError"
@@ -2495,10 +2496,10 @@
       "categories": [
         "Newsletters"
       ],
-      "checked_at": "2026-09-24T05:26:32.889645+00:00",
+      "checked_at": "2026-09-24T05:28:28.869942+00:00",
       "status": "feed",
       "feed_url": "https://rss.beehiiv.com/feeds/fh86e58Ctb.xml",
-      "last_success_at": "2026-09-24T05:26:32.889645+00:00",
+      "last_success_at": "2026-09-24T05:28:28.869942+00:00",
       "error": null
     },
     {
@@ -2507,7 +2508,7 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T05:26:32.889645+00:00",
+      "checked_at": "2026-09-24T05:28:28.869942+00:00",
       "status": "error",
       "error": "HTTPError",
       "discovered_at": "2026-09-24T03:49:54.414936+00:00"
@@ -2518,10 +2519,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T05:26:32.889645+00:00",
+      "checked_at": "2026-09-24T05:28:28.869942+00:00",
       "status": "feed",
       "feed_url": "https://paco.me/feed.xml",
-      "last_success_at": "2026-09-24T05:26:32.889645+00:00",
+      "last_success_at": "2026-09-24T05:28:28.869942+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -2531,10 +2532,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T05:26:32.889645+00:00",
+      "checked_at": "2026-09-24T05:28:28.869942+00:00",
       "status": "feed",
       "feed_url": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
-      "last_success_at": "2026-09-24T05:26:32.889645+00:00",
+      "last_success_at": "2026-09-24T05:28:28.869942+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -2544,10 +2545,10 @@
       "categories": [
         "Cyber"
       ],
-      "checked_at": "2026-09-24T05:26:32.889645+00:00",
+      "checked_at": "2026-09-24T05:28:28.869942+00:00",
       "status": "feed",
       "feed_url": "https://www.philvenables.com/blog-feed.xml",
-      "last_success_at": "2026-09-24T05:26:32.889645+00:00",
+      "last_success_at": "2026-09-24T05:28:28.869942+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -2557,7 +2558,7 @@
       "categories": [
         "General"
       ],
-      "checked_at": "2026-09-24T05:26:32.889645+00:00",
+      "checked_at": "2026-09-24T05:28:28.869942+00:00",
       "status": "error",
       "error": "HTTPError",
       "discovered_at": "2026-09-24T03:49:54.414936+00:00"
@@ -2568,10 +2569,10 @@
       "categories": [
         "Newsletters"
       ],
-      "checked_at": "2026-09-24T05:26:32.889645+00:00",
+      "checked_at": "2026-09-24T05:28:28.869942+00:00",
       "status": "feed",
       "feed_url": "https://www.prosaictimes.com/feed",
-      "last_success_at": "2026-09-24T05:26:32.889645+00:00",
+      "last_success_at": "2026-09-24T05:28:28.869942+00:00",
       "error": null
     },
     {
@@ -2580,12 +2581,12 @@
       "categories": [
         "AI"
       ],
-      "checked_at": "2026-09-24T05:26:32.889645+00:00",
+      "checked_at": "2026-09-24T05:28:28.869942+00:00",
       "discovered_at": "2026-09-24T03:49:54.414936+00:00",
       "status": "page_watch",
       "error": null,
       "fingerprint": "ced3e07f9dea3cabfe087518dd703265b5ef7dc0a543e7992c78fe5fcfa977a3",
-      "last_success_at": "2026-09-24T05:26:32.889645+00:00"
+      "last_success_at": "2026-09-24T05:28:28.869942+00:00"
     },
     {
       "name": "Rabib Alam",
@@ -2593,7 +2594,7 @@
       "categories": [
         "AI"
       ],
-      "checked_at": "2026-09-24T05:26:32.889645+00:00",
+      "checked_at": "2026-09-24T05:28:28.869942+00:00",
       "status": "error",
       "fingerprint": "a5e4bf6b562cb2e02c99900128b0573738f658d04d96535c98881acb8134886b",
       "last_success_at": "2026-09-24T03:48:01.272420+00:00",
@@ -2606,10 +2607,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T05:26:32.889645+00:00",
+      "checked_at": "2026-09-24T05:28:28.869942+00:00",
       "status": "feed",
       "feed_url": "https://rsms.me/atom.xml",
-      "last_success_at": "2026-09-24T05:26:32.889645+00:00",
+      "last_success_at": "2026-09-24T05:28:28.869942+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -2619,10 +2620,10 @@
       "categories": [
         "Builders"
       ],
-      "checked_at": "2026-09-24T05:26:32.889645+00:00",
+      "checked_at": "2026-09-24T05:28:28.869942+00:00",
       "status": "page_watch",
       "fingerprint": "a835884ff255d1f73c62b1563188d75a7631a2ffab21b5853dc4574e93d4cba2",
-      "last_success_at": "2026-09-24T05:26:32.889645+00:00",
+      "last_success_at": "2026-09-24T05:28:28.869942+00:00",
       "error": null,
       "discovered_at": "2026-09-24T03:49:54.414936+00:00"
     },
@@ -2632,7 +2633,7 @@
       "categories": [
         "AI"
       ],
-      "checked_at": "2026-09-24T05:26:32.889645+00:00",
+      "checked_at": "2026-09-24T05:28:28.869942+00:00",
       "status": "error",
       "error": "TimeoutError",
       "discovered_at": "2026-09-24T03:49:54.414936+00:00"
@@ -2643,10 +2644,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T05:26:32.889645+00:00",
+      "checked_at": "2026-09-24T05:28:28.869942+00:00",
       "status": "feed",
       "feed_url": "https://blog.samaltman.com/posts.atom",
-      "last_success_at": "2026-09-24T05:26:32.889645+00:00",
+      "last_success_at": "2026-09-24T05:28:28.869942+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -2656,10 +2657,10 @@
       "categories": [
         "General"
       ],
-      "checked_at": "2026-09-24T05:26:32.889645+00:00",
+      "checked_at": "2026-09-24T05:28:28.869942+00:00",
       "status": "feed",
       "feed_url": "https://semianalysis.com/feed/",
-      "last_success_at": "2026-09-24T05:26:32.889645+00:00",
+      "last_success_at": "2026-09-24T05:28:28.869942+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -2669,10 +2670,10 @@
       "categories": [
         "China"
       ],
-      "checked_at": "2026-09-24T05:26:32.889645+00:00",
+      "checked_at": "2026-09-24T05:28:28.869942+00:00",
       "status": "feed",
       "feed_url": "https://sinocism.com/feed",
-      "last_success_at": "2026-09-24T05:26:32.889645+00:00",
+      "last_success_at": "2026-09-24T05:28:28.869942+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -2682,10 +2683,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T05:26:32.889645+00:00",
+      "checked_at": "2026-09-24T05:28:28.869942+00:00",
       "status": "feed",
       "feed_url": "https://slatestarcodex.com/feed/",
-      "last_success_at": "2026-09-24T05:26:32.889645+00:00",
+      "last_success_at": "2026-09-24T05:28:28.869942+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -2695,10 +2696,10 @@
       "categories": [
         "Newsletters"
       ],
-      "checked_at": "2026-09-24T05:26:32.889645+00:00",
+      "checked_at": "2026-09-24T05:28:28.869942+00:00",
       "status": "feed",
       "feed_url": "https://www.sourcery.vc/feed",
-      "last_success_at": "2026-09-24T05:26:32.889645+00:00",
+      "last_success_at": "2026-09-24T05:28:28.869942+00:00",
       "error": null
     },
     {
@@ -2707,10 +2708,10 @@
       "categories": [
         "Newsletters"
       ],
-      "checked_at": "2026-09-24T05:26:32.889645+00:00",
+      "checked_at": "2026-09-24T05:28:28.869942+00:00",
       "status": "feed",
       "feed_url": "https://blog.southparkcommons.com/feed",
-      "last_success_at": "2026-09-24T05:26:32.889645+00:00",
+      "last_success_at": "2026-09-24T05:28:28.869942+00:00",
       "error": null
     },
     {
@@ -2719,7 +2720,7 @@
       "categories": [
         "Newsletters"
       ],
-      "checked_at": "2026-09-24T05:26:32.889645+00:00",
+      "checked_at": "2026-09-24T05:28:28.869942+00:00",
       "discovered_at": "2026-09-24T03:55:11.066413+00:00",
       "status": "error",
       "error": "HTTPError"
@@ -2730,7 +2731,7 @@
       "categories": [
         "Newsletters"
       ],
-      "checked_at": "2026-09-24T05:26:32.889645+00:00",
+      "checked_at": "2026-09-24T05:28:28.869942+00:00",
       "discovered_at": "2026-09-24T03:55:11.066413+00:00",
       "status": "error",
       "error": "HTTPError"
@@ -2741,7 +2742,7 @@
       "categories": [
         "Newsletters"
       ],
-      "checked_at": "2026-09-24T05:26:32.889645+00:00",
+      "checked_at": "2026-09-24T05:28:28.869942+00:00",
       "discovered_at": "2026-09-24T03:55:11.066413+00:00",
       "status": "error",
       "error": "HTTPError"
@@ -2752,10 +2753,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T05:26:32.889645+00:00",
+      "checked_at": "2026-09-24T05:28:28.869942+00:00",
       "status": "feed",
       "feed_url": "https://susam.net/feed.xml",
-      "last_success_at": "2026-09-24T05:26:32.889645+00:00",
+      "last_success_at": "2026-09-24T05:28:28.869942+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -2765,7 +2766,7 @@
       "categories": [
         "Newsletters"
       ],
-      "checked_at": "2026-09-24T05:26:32.889645+00:00",
+      "checked_at": "2026-09-24T05:28:28.869942+00:00",
       "discovered_at": "2026-09-24T03:55:11.066413+00:00",
       "status": "error",
       "error": "HTTPError"
@@ -2776,10 +2777,10 @@
       "categories": [
         "Newsletters"
       ],
-      "checked_at": "2026-09-24T05:26:32.889645+00:00",
+      "checked_at": "2026-09-24T05:28:28.869942+00:00",
       "status": "feed",
       "feed_url": "https://rss.beehiiv.com/feeds/YSbcm1WDrI.xml",
-      "last_success_at": "2026-09-24T05:26:32.889645+00:00",
+      "last_success_at": "2026-09-24T05:28:28.869942+00:00",
       "error": null
     },
     {
@@ -2788,10 +2789,10 @@
       "categories": [
         "China"
       ],
-      "checked_at": "2026-09-24T05:26:32.889645+00:00",
+      "checked_at": "2026-09-24T05:28:28.869942+00:00",
       "status": "feed",
       "feed_url": "https://www.asianometry.com/feed",
-      "last_success_at": "2026-09-24T05:26:32.889645+00:00",
+      "last_success_at": "2026-09-24T05:28:28.869942+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -2801,7 +2802,7 @@
       "categories": [
         "Newsletters"
       ],
-      "checked_at": "2026-09-24T05:26:32.889645+00:00",
+      "checked_at": "2026-09-24T05:28:28.869942+00:00",
       "discovered_at": "2026-09-24T03:55:11.066413+00:00",
       "status": "error",
       "error": "HTTPError"
@@ -2812,7 +2813,7 @@
       "categories": [
         "Newsletters"
       ],
-      "checked_at": "2026-09-24T05:26:32.889645+00:00",
+      "checked_at": "2026-09-24T05:28:28.869942+00:00",
       "discovered_at": "2026-09-24T03:55:11.066413+00:00",
       "status": "error",
       "error": "HTTPError"
@@ -2823,10 +2824,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T05:26:32.889645+00:00",
+      "checked_at": "2026-09-24T05:28:28.869942+00:00",
       "status": "feed",
       "fingerprint": "fa8b7f5eac12a40b22f7965f7f1466e48e38747255f18cc949cf5831e5ca2350",
-      "last_success_at": "2026-09-24T05:26:32.889645+00:00",
+      "last_success_at": "2026-09-24T05:28:28.869942+00:00",
       "error": null,
       "feed_url": "https://tomtunguz.com/index.xml",
       "discovered_at": "2026-09-24T03:49:54.414936+00:00"
@@ -2837,10 +2838,10 @@
       "categories": [
         "AI"
       ],
-      "checked_at": "2026-09-24T05:26:32.889645+00:00",
+      "checked_at": "2026-09-24T05:28:28.869942+00:00",
       "status": "feed",
       "feed_url": "https://towardsdatascience.com/feed/",
-      "last_success_at": "2026-09-24T05:26:32.889645+00:00",
+      "last_success_at": "2026-09-24T05:28:28.869942+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -2850,10 +2851,10 @@
       "categories": [
         "Newsletters"
       ],
-      "checked_at": "2026-09-24T05:26:32.889645+00:00",
+      "checked_at": "2026-09-24T05:28:28.869942+00:00",
       "status": "feed",
       "feed_url": "https://thescienceofhitting.com/feed",
-      "last_success_at": "2026-09-24T05:26:32.889645+00:00",
+      "last_success_at": "2026-09-24T05:28:28.869942+00:00",
       "error": null
     },
     {
@@ -2863,10 +2864,10 @@
         "Solo blogs",
         "AI"
       ],
-      "checked_at": "2026-09-24T05:26:32.889645+00:00",
+      "checked_at": "2026-09-24T05:28:28.869942+00:00",
       "status": "page_watch",
       "fingerprint": "7326ecdee1523681e63a7ac7b45d57fa034fce8989c94357587b4ddedc6c42d4",
-      "last_success_at": "2026-09-24T05:26:32.889645+00:00",
+      "last_success_at": "2026-09-24T05:28:28.869942+00:00",
       "error": null,
       "discovered_at": "2026-09-24T03:49:54.414936+00:00"
     },
@@ -2876,10 +2877,10 @@
       "categories": [
         "General"
       ],
-      "checked_at": "2026-09-24T05:26:32.889645+00:00",
+      "checked_at": "2026-09-24T05:28:28.869942+00:00",
       "status": "feed",
       "feed_url": "https://worksinprogress.co/rss.xml",
-      "last_success_at": "2026-09-24T05:26:32.889645+00:00",
+      "last_success_at": "2026-09-24T05:28:28.869942+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -2889,10 +2890,10 @@
       "categories": [
         "Cyber"
       ],
-      "checked_at": "2026-09-24T05:26:32.889645+00:00",
+      "checked_at": "2026-09-24T05:28:28.869942+00:00",
       "status": "feed",
       "feed_url": "https://nicholas.carlini.com/writing/feed.xml",
-      "last_success_at": "2026-09-24T05:26:32.889645+00:00",
+      "last_success_at": "2026-09-24T05:28:28.869942+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -2902,10 +2903,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T05:26:32.889645+00:00",
+      "checked_at": "2026-09-24T05:28:28.869942+00:00",
       "status": "page_watch",
       "fingerprint": "873f26a9d2413dfaa66f1325cfbd473c7e71fbbf6539e36d1362e98086f479f2",
-      "last_success_at": "2026-09-24T05:26:32.889645+00:00",
+      "last_success_at": "2026-09-24T05:28:28.869942+00:00",
       "error": null,
       "discovered_at": "2026-09-24T03:49:54.414936+00:00"
     }
@@ -10030,6 +10031,20 @@
       "first_seen_at": "2026-09-24T03:48:01.272420+00:00",
       "score": 0,
       "why": "From a followed source"
+    },
+    {
+      "title": "Daft Blog \u2014 page updated",
+      "url": "https://www.daft.ai/blog",
+      "published_at": null,
+      "kind": "page_change",
+      "source": "Daft Blog",
+      "source_url": "https://www.daft.ai/blog",
+      "categories": [
+        "AI"
+      ],
+      "first_seen_at": "2026-09-24T05:28:28.869942+00:00",
+      "score": 0,
+      "why": "Page content changed; may not be a new article"
     },
     {
       "url": "https://www.dwarkesh.com/p/era-of-continual-learning",
