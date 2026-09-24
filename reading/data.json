@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T03:53:42.080765+00:00",
+  "updated_at": "2026-09-24T03:55:11.066413+00:00",
   "ranking": "Title topic matches and recency; no AI analysis or full article content.",
   "first_seen": {
     "https://tomtunguz.com/the-most-important-market-in-ai-is-the-middle/": "2026-09-24T03:49:54.414936+00:00",
@@ -1431,21 +1431,347 @@
     "https://findthemoat.com/2017/06/09/debundling-the-newspaper/": "2026-09-24T03:53:42.080765+00:00",
     "https://findthemoat.com/2017/05/17/dominos-valuation-arbitrage/": "2026-09-24T03:53:42.080765+00:00",
     "https://findthemoat.com/2017/04/13/dissecting-afterpay/": "2026-09-24T03:53:42.080765+00:00",
-    "https://findthemoat.com/2017/02/14/dominos-pizza/": "2026-09-24T03:53:42.080765+00:00"
+    "https://findthemoat.com/2017/02/14/dominos-pizza/": "2026-09-24T03:53:42.080765+00:00",
+    "https://www.newcomer.co/p/crusoe-is-on-track-for-2-billion": "2026-09-24T03:55:11.066413+00:00",
+    "https://www.newcomer.co/p/less-than-one-week-until-the-machine": "2026-09-24T03:55:11.066413+00:00",
+    "https://www.newcomer.co/p/introducing-newcomers-vc-sentiment": "2026-09-24T03:55:11.066413+00:00",
+    "https://www.newcomer.co/p/war-in-the-middle-east-and-rising": "2026-09-24T03:55:11.066413+00:00",
+    "https://www.newcomer.co/p/market-map-89-vc-backed-startups": "2026-09-24T03:55:11.066413+00:00",
+    "https://www.newcomer.co/p/for-startups-facing-the-ai-safety": "2026-09-24T03:55:11.066413+00:00",
+    "https://www.newcomer.co/p/exclusive-tech-reporter-alex-heath": "2026-09-24T03:55:11.066413+00:00",
+    "https://www.newcomer.co/p/founders-of-chime-and-town-join-as": "2026-09-24T03:55:11.066413+00:00",
+    "https://www.newcomer.co/p/tim-cook-was-a-great-ceo-the-tech": "2026-09-24T03:55:11.066413+00:00",
+    "https://www.newcomer.co/p/india-quotient-shows-how-the-vc-power": "2026-09-24T03:55:11.066413+00:00",
+    "https://www.newcomer.co/p/investors-are-betting-on-agents-that": "2026-09-24T03:55:11.066413+00:00",
+    "https://www.newcomer.co/p/nvidia-is-carrying-the-ai-economy": "2026-09-24T03:55:11.066413+00:00",
+    "https://www.newcomer.co/p/amid-personal-assistant-investor": "2026-09-24T03:55:11.066413+00:00",
+    "https://www.newcomer.co/p/a16zs-martin-casado-bullish-on-ai": "2026-09-24T03:55:11.066413+00:00",
+    "https://www.newcomer.co/p/two-huge-exits-show-the-power-of": "2026-09-24T03:55:11.066413+00:00",
+    "https://www.newcomer.co/p/sources-poolside-strikes-6-billion": "2026-09-24T03:55:11.066413+00:00",
+    "https://www.newcomer.co/p/the-story-of-a-cap-table-openrouter": "2026-09-24T03:55:11.066413+00:00",
+    "https://www.newcomer.co/p/is-ains-the-next-saas": "2026-09-24T03:55:11.066413+00:00",
+    "https://www.newcomer.co/p/thrive-capital-finds-its-lane-as": "2026-09-24T03:55:11.066413+00:00",
+    "https://www.newcomer.co/p/ai-frenzy-brings-dual-valuation-deals": "2026-09-24T03:55:11.066413+00:00",
+    "https://thescienceofhitting.com/p/going-through-some-pain": "2026-09-24T03:55:11.066413+00:00",
+    "https://thescienceofhitting.com/p/tsoh-weekly-roundup-09182026": "2026-09-24T03:55:11.066413+00:00",
+    "https://thescienceofhitting.com/p/fever-tree-beyond-tonics": "2026-09-24T03:55:11.066413+00:00",
+    "https://thescienceofhitting.com/p/alarmcom-false-alarm": "2026-09-24T03:55:11.066413+00:00",
+    "https://thescienceofhitting.com/p/tsoh-weekly-roundup-09112026": "2026-09-24T03:55:11.066413+00:00",
+    "https://thescienceofhitting.com/p/celsius-the-pepsi-put": "2026-09-24T03:55:11.066413+00:00",
+    "https://thescienceofhitting.com/p/tsoh-weekly-roundup-09042026": "2026-09-24T03:55:11.066413+00:00",
+    "https://thescienceofhitting.com/p/selling-where-they-aint": "2026-09-24T03:55:11.066413+00:00",
+    "https://thescienceofhitting.com/p/dollar-tree-weathering-the-storm": "2026-09-24T03:55:11.066413+00:00",
+    "https://thescienceofhitting.com/p/tsoh-weekly-roundup-08282026": "2026-09-24T03:55:11.066413+00:00",
+    "https://thescienceofhitting.com/p/portillos-strategic-reset": "2026-09-24T03:55:11.066413+00:00",
+    "https://thescienceofhitting.com/p/tsoh-weekly-roundup-08212026": "2026-09-24T03:55:11.066413+00:00",
+    "https://thescienceofhitting.com/p/portfolio-change-08202026": "2026-09-24T03:55:11.066413+00:00",
+    "https://thescienceofhitting.com/p/roblox-accepting-uncertainty": "2026-09-24T03:55:11.066413+00:00",
+    "https://thescienceofhitting.com/p/the-airbnb-blueprint": "2026-09-24T03:55:11.066413+00:00",
+    "https://thescienceofhitting.com/p/tsoh-weekly-roundup-08142026": "2026-09-24T03:55:11.066413+00:00",
+    "https://thescienceofhitting.com/p/peloton-subscriber-squeeze": "2026-09-24T03:55:11.066413+00:00",
+    "https://thescienceofhitting.com/p/tsoh-weekly-roundup-08072026": "2026-09-24T03:55:11.066413+00:00",
+    "https://thescienceofhitting.com/p/meta-in-limbo": "2026-09-24T03:55:11.066413+00:00",
+    "https://thescienceofhitting.com/p/microsoft-control-your-destiny": "2026-09-24T03:55:11.066413+00:00",
+    "https://www.bensbites.com/p/what-can-you-build-with-jev": "2026-09-24T03:55:11.066413+00:00",
+    "https://www.bensbites.com/p/new-home-for-cowork": "2026-09-24T03:55:11.066413+00:00",
+    "https://www.bensbites.com/p/good-luck-slowing-this-down": "2026-09-24T03:55:11.066413+00:00",
+    "https://www.bensbites.com/p/telling-ai-to-design-is-hard": "2026-09-24T03:55:11.066413+00:00",
+    "https://www.bensbites.com/p/everyone-needs-a-muse": "2026-09-24T03:55:11.066413+00:00",
+    "https://www.bensbites.com/p/the-first-gpt-6-model": "2026-09-24T03:55:11.066413+00:00",
+    "https://www.bensbites.com/p/scraping-107m-rows-of-data-to-build": "2026-09-24T03:55:11.066413+00:00",
+    "https://www.bensbites.com/p/fable-51": "2026-09-24T03:55:11.066413+00:00",
+    "https://www.bensbites.com/p/build-your-ideas": "2026-09-24T03:55:11.066413+00:00",
+    "https://www.bensbites.com/p/how-i-built-this-21f": "2026-09-24T03:55:11.066413+00:00",
+    "https://www.bensbites.com/p/who-let-the-agents-in": "2026-09-24T03:55:11.066413+00:00",
+    "https://www.bensbites.com/p/agents-on-your-mobile": "2026-09-24T03:55:11.066413+00:00",
+    "https://www.bensbites.com/p/how-i-built-this": "2026-09-24T03:55:11.066413+00:00",
+    "https://www.bensbites.com/p/simple-agents": "2026-09-24T03:55:11.066413+00:00",
+    "https://www.bensbites.com/p/do-you-use-a-personal-agent": "2026-09-24T03:55:11.066413+00:00",
+    "https://www.bensbites.com/p/bens-session-2": "2026-09-24T03:55:11.066413+00:00",
+    "https://www.bensbites.com/p/grok-bot-is-not-what-you-think": "2026-09-24T03:55:11.066413+00:00",
+    "https://www.bensbites.com/p/make-it-readable": "2026-09-24T03:55:11.066413+00:00",
+    "https://www.bensbites.com/p/bens-session": "2026-09-24T03:55:11.066413+00:00",
+    "https://www.bensbites.com/p/im-using-a-new-agent-app": "2026-09-24T03:55:11.066413+00:00",
+    "https://www.sourcery.vc/p/icymi-brad-gerstner-and-rob-goldberg": "2026-09-24T03:55:11.066413+00:00",
+    "https://www.sourcery.vc/p/breaking-a16z-launches-a-school": "2026-09-24T03:55:11.066413+00:00",
+    "https://www.sourcery.vc/p/icymi-how-bending-spoons-works": "2026-09-24T03:55:11.066413+00:00",
+    "https://www.sourcery.vc/p/breaking-luca-ferrari-ceo-of-bending": "2026-09-24T03:55:11.066413+00:00",
+    "https://www.sourcery.vc/p/breaking-inside-bending-spoons-bsp": "2026-09-24T03:55:11.066413+00:00",
+    "https://www.sourcery.vc/p/breaking-all-4-saronic-co-founders": "2026-09-24T03:55:11.066413+00:00",
+    "https://www.sourcery.vc/p/breaking-saronic-ceo-dino-mavrookas": "2026-09-24T03:55:11.066413+00:00",
+    "https://www.sourcery.vc/p/breaking-saronic-hq-factory-tour": "2026-09-24T03:55:11.066413+00:00",
+    "https://www.sourcery.vc/p/breaking-northwood-spaces-new-185k": "2026-09-24T03:55:11.066413+00:00",
+    "https://www.sourcery.vc/p/breaking-rocket-labs-engine-development": "2026-09-24T03:55:11.066413+00:00",
+    "https://www.sourcery.vc/p/breaking-rocket-lab-hq-tour": "2026-09-24T03:55:11.066413+00:00",
+    "https://www.sourcery.vc/p/breaking-inside-rocket-lab-rklb": "2026-09-24T03:55:11.066413+00:00",
+    "https://www.sourcery.vc/p/breaking-inside-12b-colossal-biosciences": "2026-09-24T03:55:11.066413+00:00",
+    "https://www.sourcery.vc/p/breaking-nikesh-arora-palo-alto-networks": "2026-09-24T03:55:11.066413+00:00",
+    "https://www.sourcery.vc/p/breaking-inside-applovins-100b-ad": "2026-09-24T03:55:11.066413+00:00",
+    "https://www.sourcery.vc/p/breaking-inside-neros-factory": "2026-09-24T03:55:11.066413+00:00",
+    "https://www.sourcery.vc/p/breaking-neros-hits-25b-valuation": "2026-09-24T03:55:11.066413+00:00",
+    "https://www.sourcery.vc/p/breaking-base-power-hits-13b-on-1b": "2026-09-24T03:55:11.066413+00:00",
+    "https://www.sourcery.vc/p/icymi-leopold-space-lasers-devin": "2026-09-24T03:55:11.066413+00:00",
+    "https://www.sourcery.vc/p/breaking-voice-ai-is-dominating": "2026-09-24T03:55:11.066413+00:00",
+    "https://news.theaiexchange.com/p/somebody-on-your-team-is-fixing-the-same-ai-mistake-every-week": "2026-09-24T03:55:11.066413+00:00",
+    "https://news.theaiexchange.com/p/gpt-6-can-do-the-work-can-your-instructions-survive-it": "2026-09-24T03:55:11.066413+00:00",
+    "https://news.theaiexchange.com/p/30-of-companies-diy-d-an-ai-tool-vs-buying-software-this-year": "2026-09-24T03:55:11.066413+00:00",
+    "https://news.theaiexchange.com/p/why-stripe-is-betting-7b-it-won-t-matter-which-ai-you-use": "2026-09-24T03:55:11.066413+00:00",
+    "https://news.theaiexchange.com/p/working-with-ai-just-became-a-legal-requirement": "2026-09-24T03:55:11.066413+00:00",
+    "https://news.theaiexchange.com/p/our-ai-watched-a-zoom-call-nobody-asked-it-to": "2026-09-24T03:55:11.066413+00:00",
+    "https://news.theaiexchange.com/p/doctors-just-built-a-test-for-whether-ai-knows-it-s-wrong": "2026-09-24T03:55:11.066413+00:00",
+    "https://news.theaiexchange.com/p/97-of-companies-deployed-ai-agents-most-can-t-get-value": "2026-09-24T03:55:11.066413+00:00",
+    "https://news.theaiexchange.com/p/make-the-world-s-smartest-ai-train-its-replacement": "2026-09-24T03:55:11.066413+00:00",
+    "https://news.theaiexchange.com/p/a-ceo-offered-to-pay-for-the-ai-training-then-came-the-catch": "2026-09-24T03:55:11.066413+00:00",
+    "https://news.theaiexchange.com/p/if-you-got-sick-tomorrow-would-all-your-work-still-get-done": "2026-09-24T03:55:11.066413+00:00",
+    "https://news.theaiexchange.com/p/everyone-s-arguing-about-the-wrong-part-of-the-fable-shutdown": "2026-09-24T03:55:11.066413+00:00",
+    "https://news.theaiexchange.com/p/the-ai-adoption-double-standard": "2026-09-24T03:55:11.066413+00:00",
+    "https://news.theaiexchange.com/p/who-is-actually-winning-claude-or-chatgpt": "2026-09-24T03:55:11.066413+00:00",
+    "https://news.theaiexchange.com/p/special-edition-we-analyzed-24-000-job-postings": "2026-09-24T03:55:11.066413+00:00",
+    "https://news.theaiexchange.com/p/your-ai-stack-doesn-t-matter-as-much-as-you-think": "2026-09-24T03:55:11.066413+00:00",
+    "https://news.theaiexchange.com/p/same-ai-7-2x-less-value-what": "2026-09-24T03:55:11.066413+00:00",
+    "https://news.theaiexchange.com/p/the-mit-study-everyone-s-reading-wrong": "2026-09-24T03:55:11.066413+00:00",
+    "https://news.theaiexchange.com/p/i-didn-t-realize-how-far-this-would-push-my-ai-usage": "2026-09-24T03:55:11.066413+00:00",
+    "https://news.theaiexchange.com/p/1st-cohort-sold-out-2nd-cohort-open-now": "2026-09-24T03:55:11.066413+00:00",
+    "https://ideas.everywhere.vc/p/m7-health-joins-ascend-learning": "2026-09-24T03:55:11.066413+00:00",
+    "https://ideas.everywhere.vc/p/stockpress-jessica-storry-founders-everywhere": "2026-09-24T03:55:11.066413+00:00",
+    "https://ideas.everywhere.vc/p/segwise-brijesh-bharadwaj-founders-everywhere": "2026-09-24T03:55:11.066413+00:00",
+    "https://ideas.everywhere.vc/p/axo-longevity-raises-oversubscribed": "2026-09-24T03:55:11.066413+00:00",
+    "https://ideas.everywhere.vc/p/boomeranghr-emerges-from-stealth": "2026-09-24T03:55:11.066413+00:00",
+    "https://ideas.everywhere.vc/p/attend-aaron-holland-founders-everywhere": "2026-09-24T03:55:11.066413+00:00",
+    "https://ideas.everywhere.vc/p/mito-dr-inaki-berenguer-founders-everywhere": "2026-09-24T03:55:11.066413+00:00",
+    "https://ideas.everywhere.vc/p/tsuwan-joins-anthropics-model-hardware": "2026-09-24T03:55:11.066413+00:00",
+    "https://ideas.everywhere.vc/p/onelot-named-to-forbes-asias-100": "2026-09-24T03:55:11.066413+00:00",
+    "https://ideas.everywhere.vc/p/agree-will-hubbard-founders-everywhere": "2026-09-24T03:55:11.066413+00:00",
+    "https://ideas.everywhere.vc/p/starcloud-raises-250m-to-build-orbital": "2026-09-24T03:55:11.066413+00:00",
+    "https://ideas.everywhere.vc/p/fishwife-brings-tinned-fish-to-the": "2026-09-24T03:55:11.066413+00:00",
+    "https://ideas.everywhere.vc/p/handl-health-ria-shah-founders-everywhere": "2026-09-24T03:55:11.066413+00:00",
+    "https://ideas.everywhere.vc/p/yumari-is-building-the-data-layer": "2026-09-24T03:55:11.066413+00:00",
+    "https://ideas.everywhere.vc/p/eudia-partners-with-microsoft-to": "2026-09-24T03:55:11.066413+00:00",
+    "https://ideas.everywhere.vc/p/tim-hsia-on-the-veteran-transition": "2026-09-24T03:55:11.066413+00:00",
+    "https://ideas.everywhere.vc/p/wallbreakers-and-scientists-todays": "2026-09-24T03:55:11.066413+00:00",
+    "https://ideas.everywhere.vc/p/operant-ai-named-one-of-crns-hottest": "2026-09-24T03:55:11.066413+00:00",
+    "https://ideas.everywhere.vc/p/north-cloud-yassine-acoine-founders-everywhere": "2026-09-24T03:55:11.066413+00:00",
+    "https://ideas.everywhere.vc/p/jenny-fielding-on-standards-as-signal": "2026-09-24T03:55:11.066413+00:00",
+    "https://techwalk.beehiiv.com/p/hi-from-tw-ai-doom-token-techwalks-sf-la": "2026-09-24T03:55:11.066413+00:00",
+    "https://techwalk.beehiiv.com/p/hi-from-tw-walk-the-brooklyn-bridge-with-vonage-rupa-hits-100-walks": "2026-09-24T03:55:11.066413+00:00",
+    "https://techwalk.beehiiv.com/p/hi-from-techwalk-ask-a-recruiter-plus-new-speaking-opportunities": "2026-09-24T03:55:11.066413+00:00",
+    "https://techwalk.beehiiv.com/p/hi-from-tw-forward-this-to-your-friend-in-sf-new-jobs-at-rippling": "2026-09-24T03:55:11.066413+00:00",
+    "https://techwalk.beehiiv.com/p/hi-from-tw-vibeathon-4-teams-announced-2-days-left-to-apply": "2026-09-24T03:55:11.066413+00:00",
+    "https://techwalk.beehiiv.com/p/hi-from-tw-sydney-says-you-can-panic-or-you-can-walk-with-us-ny-techweek-kickoff": "2026-09-24T03:55:11.066413+00:00",
+    "https://techwalk.beehiiv.com/p/hi-from-tw-17-days-left-to-apply-meet-your-plus-one-at-our-techweek-events-croissants": "2026-09-24T03:55:11.066413+00:00",
+    "https://techwalk.beehiiv.com/p/hi-from-tw-layoff-go-bag-or-layoff-baggage": "2026-09-24T03:55:11.066413+00:00",
+    "https://techwalk.beehiiv.com/p/hi-from-tw-judgey-much-swagata-wants-to-chat": "2026-09-24T03:55:11.066413+00:00",
+    "https://techwalk.beehiiv.com/p/hi-from-tw-janet-s-inviting-you-to-compete-in-a-vibeathon": "2026-09-24T03:55:11.066413+00:00",
+    "https://techwalk.beehiiv.com/p/hi-from-tw-kubota-needs-event-planning-advice": "2026-09-24T03:55:11.066413+00:00",
+    "https://techwalk.beehiiv.com/p/hi-from-tw-join-brittny-s-agentic-walk-in-3-days": "2026-09-24T03:55:11.066413+00:00",
+    "https://techwalk.beehiiv.com/p/hi-from-tw-nigel-s-hiring-at-betterment": "2026-09-24T03:55:11.066413+00:00",
+    "https://techwalk.beehiiv.com/p/hi-from-techwalk-new-brooklyn-chapter-director-gylianne-s-looking-for-you": "2026-09-24T03:55:11.066413+00:00",
+    "https://techwalk.beehiiv.com/p/hi-from-techwalk-john-s-ready-to-share-a-techwalk-secret": "2026-09-24T03:55:11.066413+00:00",
+    "https://techwalk.beehiiv.com/p/hi-from-techwalk-open-to-speaking-opportunities-free-tix-to-lovable-workshop-tennis-for-founders": "2026-09-24T03:55:11.066413+00:00",
+    "https://techwalk.beehiiv.com/p/hi-from-techwalk-aaand-we-re-back-with-jobs-tix-and-a-new-chapter": "2026-09-24T03:55:11.066413+00:00",
+    "https://techwalk.beehiiv.com/p/hi-from-techwalk-doubling-down-on-a-depreciating-degree-try-this-instead": "2026-09-24T03:55:11.066413+00:00",
+    "https://techwalk.beehiiv.com/p/hi-from-techwalk-quiet-quitting-job-hugging-quiet-firing-private-equity-event-tix": "2026-09-24T03:55:11.066413+00:00",
+    "https://techwalk.beehiiv.com/p/hi-from-techwalk-connect-w-hiring-managers-irl-comp-tix": "2026-09-24T03:55:11.066413+00:00",
+    "https://www.gmnyc.com/p/gm-nyc-2ec": "2026-09-24T03:55:11.066413+00:00",
+    "https://www.gmnyc.com/p/jobs-at-cognition-highstock-evvy": "2026-09-24T03:55:11.066413+00:00",
+    "https://www.gmnyc.com/p/gm-nyc-18e": "2026-09-24T03:55:11.066413+00:00",
+    "https://www.gmnyc.com/p/jobs-at-hugging-face-blee-222-and": "2026-09-24T03:55:11.066413+00:00",
+    "https://www.gmnyc.com/p/gm-nyc-62d": "2026-09-24T03:55:11.066413+00:00",
+    "https://www.gmnyc.com/p/jobs-at-openai-cursor-general-intuition": "2026-09-24T03:55:11.066413+00:00",
+    "https://www.gmnyc.com/p/gm-nyc-3cc": "2026-09-24T03:55:11.066413+00:00",
+    "https://www.gmnyc.com/p/jobs-at-phoebe-pinecone-blank-street": "2026-09-24T03:55:11.066413+00:00",
+    "https://www.gmnyc.com/p/gm-nyc-601": "2026-09-24T03:55:11.066413+00:00",
+    "https://www.gmnyc.com/p/jobs-at-malachyte-blacksmith-alphasense": "2026-09-24T03:55:11.066413+00:00",
+    "https://www.gmnyc.com/p/gm-nyc-515": "2026-09-24T03:55:11.066413+00:00",
+    "https://www.gmnyc.com/p/jobs-at-fireblocks-braze-fin-and": "2026-09-24T03:55:11.066413+00:00",
+    "https://www.gmnyc.com/p/gm-nyc-de9": "2026-09-24T03:55:11.066413+00:00",
+    "https://www.gmnyc.com/p/jobs-at-figma-datadog-stripe-and": "2026-09-24T03:55:11.066413+00:00",
+    "https://www.gmnyc.com/p/gm-nyc-d53": "2026-09-24T03:55:11.066413+00:00",
+    "https://www.gmnyc.com/p/jobs-at-runlayer-notion-coreweave": "2026-09-24T03:55:11.066413+00:00",
+    "https://www.gmnyc.com/p/gm-nyc-603": "2026-09-24T03:55:11.066413+00:00",
+    "https://www.gmnyc.com/p/gm-nyc-23a": "2026-09-24T03:55:11.066413+00:00",
+    "https://www.gmnyc.com/p/jobs-at-modal-basis-permitflow-and": "2026-09-24T03:55:11.066413+00:00",
+    "https://www.gmnyc.com/p/gm-nyc-b16": "2026-09-24T03:55:11.066413+00:00",
+    "https://www.spatialintelligence.ai/p/gods-eye-view-blew-up-then-astra": "2026-09-24T03:55:11.066413+00:00",
+    "https://www.spatialintelligence.ai/p/i-open-sourced-gods-eye-view": "2026-09-24T03:55:11.066413+00:00",
+    "https://www.spatialintelligence.ai/p/radio-frequency-sensing-ai-without-cameras": "2026-09-24T03:55:11.066413+00:00",
+    "https://www.spatialintelligence.ai/p/ironsight-turning-2d-videos-into": "2026-09-24T03:55:11.066413+00:00",
+    "https://www.spatialintelligence.ai/p/the-secret-camera-that-can-rewind": "2026-09-24T03:55:11.066413+00:00",
+    "https://www.spatialintelligence.ai/p/a-circle-on-a-map-can-unmask-you": "2026-09-24T03:55:11.066413+00:00",
+    "https://www.spatialintelligence.ai/p/google-just-turned-street-view-into": "2026-09-24T03:55:11.066413+00:00",
+    "https://www.spatialintelligence.ai/p/building-a-3d-model-of-the-world": "2026-09-24T03:55:11.066413+00:00",
+    "https://www.spatialintelligence.ai/p/your-smart-tv-shares-everything-you": "2026-09-24T03:55:11.066413+00:00",
+    "https://www.spatialintelligence.ai/p/inside-palantirs-maven-smart-system": "2026-09-24T03:55:11.066413+00:00",
+    "https://www.spatialintelligence.ai/p/how-to-see-through-walls-with-off": "2026-09-24T03:55:11.066413+00:00",
+    "https://www.spatialintelligence.ai/p/how-these-satellites-see-what-cameras": "2026-09-24T03:55:11.066413+00:00",
+    "https://www.spatialintelligence.ai/p/the-ceasefire-that-wasnt": "2026-09-24T03:55:11.066413+00:00",
+    "https://www.spatialintelligence.ai/p/one-chokepoint-controls-everything": "2026-09-24T03:55:11.066413+00:00",
+    "https://www.spatialintelligence.ai/p/pokemon-go-built-a-secret-3d-map": "2026-09-24T03:55:11.066413+00:00",
+    "https://www.spatialintelligence.ai/p/your-wifi-can-see-you-heres-how": "2026-09-24T03:55:11.066413+00:00",
+    "https://www.spatialintelligence.ai/p/the-intelligence-monopoly-is-over": "2026-09-24T03:55:11.066413+00:00",
+    "https://www.spatialintelligence.ai/p/i-built-a-spy-satellite-simulator": "2026-09-24T03:55:11.066413+00:00",
+    "https://www.spatialintelligence.ai/p/why-china-is-winning-ai-video-and": "2026-09-24T03:55:11.066413+00:00",
+    "https://www.spatialintelligence.ai/p/the-600-seat-that-isnt-at-the-stadium": "2026-09-24T03:55:11.066413+00:00",
+    "https://www.prosaictimes.com/p/you-cant-learn-much-without-wasting": "2026-09-24T03:55:11.066413+00:00",
+    "https://www.prosaictimes.com/p/the-rise-of-the-stupid-model": "2026-09-24T03:55:11.066413+00:00",
+    "https://www.prosaictimes.com/p/i-found-my-people-on-college-hill": "2026-09-24T03:55:11.066413+00:00",
+    "https://www.prosaictimes.com/p/context-graphs-raise-the-waterline": "2026-09-24T03:55:11.066413+00:00",
+    "https://www.prosaictimes.com/p/the-harness-the-model-and-the-worm": "2026-09-24T03:55:11.066413+00:00",
+    "https://www.prosaictimes.com/p/letter-to-a-vibe-coder": "2026-09-24T03:55:11.066413+00:00",
+    "https://www.prosaictimes.com/p/does-vibe-coding-have-to-mean-technical": "2026-09-24T03:55:11.066413+00:00",
+    "https://www.prosaictimes.com/p/hunting-for-entropy-to-find-ai-value": "2026-09-24T03:55:11.066413+00:00",
+    "https://www.prosaictimes.com/p/what-kalashnikov-and-heisenberg-understood": "2026-09-24T03:55:11.066413+00:00",
+    "https://www.prosaictimes.com/p/legacy-code-is-a-map-of-your-business": "2026-09-24T03:55:11.066413+00:00",
+    "https://www.prosaictimes.com/p/every-decision-you-make-rests-on": "2026-09-24T03:55:11.066413+00:00",
+    "https://www.prosaictimes.com/p/not-2007-anymore-what-vcs-have-to": "2026-09-24T03:55:11.066413+00:00",
+    "https://www.prosaictimes.com/p/is-mythos-the-sputnik-moment-for-b8a": "2026-09-24T03:55:11.066413+00:00",
+    "https://www.prosaictimes.com/p/the-world-is-entropic-and-deterministic-060": "2026-09-24T03:55:11.066413+00:00",
+    "https://www.prosaictimes.com/p/knowing-the-data-knowing-the-people": "2026-09-24T03:55:11.066413+00:00",
+    "https://www.prosaictimes.com/p/10-beliefs-on-how-to-get-value-from": "2026-09-24T03:55:11.066413+00:00",
+    "https://www.prosaictimes.com/p/context-is-the-new-code": "2026-09-24T03:55:11.066413+00:00",
+    "https://www.prosaictimes.com/p/the-world-is-entropic-and-deterministic": "2026-09-24T03:55:11.066413+00:00",
+    "https://www.prosaictimes.com/p/using-confidential-computing-to-secure": "2026-09-24T03:55:11.066413+00:00",
+    "https://www.prosaictimes.com/p/trading-bad-inefficiency-for-good": "2026-09-24T03:55:11.066413+00:00",
+    "https://www.dwarkesh.com/p/noam-brown": "2026-09-24T03:55:11.066413+00:00",
+    "https://www.dwarkesh.com/p/john-beren-charlie": "2026-09-24T03:55:11.066413+00:00",
+    "https://www.dwarkesh.com/p/pretraining-progress-is-mostly-data": "2026-09-24T03:55:11.066413+00:00",
+    "https://www.dwarkesh.com/p/ajeya-cotra": "2026-09-24T03:55:11.066413+00:00",
+    "https://www.dwarkesh.com/p/openai-huggingface-narration": "2026-09-24T03:55:11.066413+00:00",
+    "https://www.dwarkesh.com/p/openai-huggingface": "2026-09-24T03:55:11.066413+00:00",
+    "https://www.dwarkesh.com/p/dylan-patel-3": "2026-09-24T03:55:11.066413+00:00",
+    "https://www.dwarkesh.com/p/ryan-greenblatt": "2026-09-24T03:55:11.066413+00:00",
+    "https://www.dwarkesh.com/p/era-of-continual-learning": "2026-09-24T03:55:11.066413+00:00",
+    "https://www.dwarkesh.com/p/why-compute-might-get-10x-more-expensive-video": "2026-09-24T03:55:11.066413+00:00",
+    "https://www.dwarkesh.com/p/why-compute-might-get-10x-more-expensive": "2026-09-24T03:55:11.066413+00:00",
+    "https://www.dwarkesh.com/p/adam-brown-gr": "2026-09-24T03:55:11.066413+00:00",
+    "https://www.dwarkesh.com/p/blog-prize-winners": "2026-09-24T03:55:11.066413+00:00",
+    "https://www.dwarkesh.com/p/grant-sanderson-2": "2026-09-24T03:55:11.066413+00:00",
+    "https://www.dwarkesh.com/p/the-next-paradigm": "2026-09-24T03:55:11.066413+00:00",
+    "https://www.dwarkesh.com/p/the-sample-efficiency-black-hole": "2026-09-24T03:55:11.066413+00:00",
+    "https://www.dwarkesh.com/p/ada-palmer-2": "2026-09-24T03:55:11.066413+00:00",
+    "https://www.dwarkesh.com/p/alex-imas-phil-trammell": "2026-09-24T03:55:11.066413+00:00",
+    "https://www.dwarkesh.com/p/reiner-pope-2": "2026-09-24T03:55:11.066413+00:00",
+    "https://www.dwarkesh.com/p/the-mistake-of-conflating-intelligence": "2026-09-24T03:55:11.066413+00:00",
+    "https://blog.southparkcommons.com/p/the-case-for-talent-density-in-1": "2026-09-24T03:55:11.066413+00:00",
+    "https://blog.southparkcommons.com/p/what-is-minus-1-to-0": "2026-09-24T03:55:11.066413+00:00",
+    "https://blog.southparkcommons.com/p/august-2026-update": "2026-09-24T03:55:11.066413+00:00",
+    "https://blog.southparkcommons.com/p/the-secret-superpower-of-great-founders": "2026-09-24T03:55:11.066413+00:00",
+    "https://blog.southparkcommons.com/p/what-is-reward-hacking-and-can-we": "2026-09-24T03:55:11.066413+00:00",
+    "https://blog.southparkcommons.com/p/the-map-begins-here": "2026-09-24T03:55:11.066413+00:00",
+    "https://blog.southparkcommons.com/p/announcing-spcs-575m-fund-iv": "2026-09-24T03:55:11.066413+00:00",
+    "https://blog.southparkcommons.com/p/july-2026-update": "2026-09-24T03:55:11.066413+00:00",
+    "https://blog.southparkcommons.com/p/recapping-spcs-summer-2026-demo-faire": "2026-09-24T03:55:11.066413+00:00",
+    "https://blog.southparkcommons.com/p/how-to-get-the-most-out-of-claude": "2026-09-24T03:55:11.066413+00:00",
+    "https://blog.southparkcommons.com/p/applications-open-spc-founder-fellowship": "2026-09-24T03:55:11.066413+00:00",
+    "https://blog.southparkcommons.com/p/june-2026-update": "2026-09-24T03:55:11.066413+00:00",
+    "https://blog.southparkcommons.com/p/trusting-your-agent-is-overrated": "2026-09-24T03:55:11.066413+00:00",
+    "https://blog.southparkcommons.com/p/requests-for-curiosity-summer-2026": "2026-09-24T03:55:11.066413+00:00",
+    "https://blog.southparkcommons.com/p/ryan-atkins-joins-spc-as-partner": "2026-09-24T03:55:11.066413+00:00",
+    "https://blog.southparkcommons.com/p/why-great-ai-companies-are-moving": "2026-09-24T03:55:11.066413+00:00",
+    "https://blog.southparkcommons.com/p/harshit-madan-and-rohan-choudhary": "2026-09-24T03:55:11.066413+00:00",
+    "https://blog.southparkcommons.com/p/may-2026-update": "2026-09-24T03:55:11.066413+00:00",
+    "https://blog.southparkcommons.com/p/the-ai-cybersecurity-crisis-is-here": "2026-09-24T03:55:11.066413+00:00",
+    "https://blog.southparkcommons.com/p/the-fast-lane-to-mediocrity": "2026-09-24T03:55:11.066413+00:00",
+    "https://news.poach.vc/p/0191-ex-rippling-ex-tesla-and-a-rhodes": "2026-09-24T03:55:11.066413+00:00",
+    "https://news.poach.vc/p/0190-1x-robot-hands-lead-comfyui": "2026-09-24T03:55:11.066413+00:00",
+    "https://news.poach.vc/p/0189-ex-nvidia-ex-jetbrains-and-a": "2026-09-24T03:55:11.066413+00:00",
+    "https://news.poach.vc/p/0188-ex-apple-ex-shopify-and-midjourney": "2026-09-24T03:55:11.066413+00:00",
+    "https://news.poach.vc/p/0187-ex-google-ex-tesla-and-an-ex": "2026-09-24T03:55:11.066413+00:00",
+    "https://news.poach.vc/p/0186-ex-blackrock-quant-a-counter": "2026-09-24T03:55:11.066413+00:00",
+    "https://news.poach.vc/p/0185-synthetic-blood-maintenance": "2026-09-24T03:55:11.066413+00:00",
+    "https://news.poach.vc/p/0184-ex-tesla-cybertruck-engineer": "2026-09-24T03:55:11.066413+00:00",
+    "https://news.poach.vc/p/0183-ex-jetbrains-ex-amazon-and-a": "2026-09-24T03:55:11.066413+00:00",
+    "https://news.poach.vc/p/0182-investor-turned-founder-ex-deepmind": "2026-09-24T03:55:11.066413+00:00",
+    "https://news.poach.vc/p/0181-stealth-founders-from-meta-saronic": "2026-09-24T03:55:11.066413+00:00",
+    "https://news.poach.vc/p/0180-ex-xai-scale-and-palantir-founders": "2026-09-24T03:55:11.066413+00:00",
+    "https://news.poach.vc/p/0179-ex-google-gemini-ex-airbnb-and": "2026-09-24T03:55:11.066413+00:00",
+    "https://news.poach.vc/p/0178-ex-blizzard-design-lead-ex-hubspot": "2026-09-24T03:55:11.066413+00:00",
+    "https://news.poach.vc/p/0177-ex-spacex-rocket-engineer-ex": "2026-09-24T03:55:11.066413+00:00",
+    "https://news.poach.vc/p/0176-ex-deepmind-iterable-co-founder": "2026-09-24T03:55:11.066413+00:00",
+    "https://news.poach.vc/p/0175-ex-palantir-microsoft-research": "2026-09-24T03:55:11.066413+00:00",
+    "https://news.poach.vc/p/0174-cisco-exits-next-gen-cpus-and": "2026-09-24T03:55:11.066413+00:00",
+    "https://news.poach.vc/p/0173-ex-grammarly-ceo-in-stealth": "2026-09-24T03:55:11.066413+00:00",
+    "https://news.poach.vc/p/0172-meet-the-deepmind-and-stanford": "2026-09-24T03:55:11.066413+00:00",
+    "https://nycb2b.beehiiv.com/p/nyc-startup-events-for-founders-operators-9-16-11-19": "2026-09-24T03:55:11.066413+00:00",
+    "https://nycb2b.beehiiv.com/p/nyc-startup-events-for-founders-operators-9-9-11-19": "2026-09-24T03:55:11.066413+00:00",
+    "https://nycb2b.beehiiv.com/p/nyc-startup-events-for-founders-operators-9-1-11-10": "2026-09-24T03:55:11.066413+00:00",
+    "https://nycb2b.beehiiv.com/p/nyc-startup-events-for-founders-operators-8-26-11-10": "2026-09-24T03:55:11.066413+00:00",
+    "https://nycb2b.beehiiv.com/p/nyc-startup-events-for-founders-operators-8-19-11-10": "2026-09-24T03:55:11.066413+00:00",
+    "https://nycb2b.beehiiv.com/p/nyc-startup-events-for-founders-operators-8-13-11-10": "2026-09-24T03:55:11.066413+00:00",
+    "https://nycb2b.beehiiv.com/p/nyc-startup-events-for-founders-operators-8-6-11-10": "2026-09-24T03:55:11.066413+00:00",
+    "https://nycb2b.beehiiv.com/p/the-pre-seed-seed-list-30-b2b-founders-raising-now-40fa": "2026-09-24T03:55:11.066413+00:00",
+    "https://nycb2b.beehiiv.com/p/nyc-startup-events-for-founders-operators-7-29-11-5": "2026-09-24T03:55:11.066413+00:00",
+    "https://nycb2b.beehiiv.com/p/tribeca-club-next-cohort-is-now-open": "2026-09-24T03:55:11.066413+00:00",
+    "https://nycb2b.beehiiv.com/p/nyc-startup-events-for-founders-operators-7-22-11-5": "2026-09-24T03:55:11.066413+00:00",
+    "https://nycb2b.beehiiv.com/p/nyc-startup-events-for-founders-operators-7-15-9-24": "2026-09-24T03:55:11.066413+00:00",
+    "https://nycb2b.beehiiv.com/p/nyc-startup-events-for-founders-operators-7-9-9-24": "2026-09-24T03:55:11.066413+00:00",
+    "https://nycb2b.beehiiv.com/p/nyc-startup-events-for-founders-operators-6-24-8-13": "2026-09-24T03:55:11.066413+00:00",
+    "https://nycb2b.beehiiv.com/p/nyc-startup-events-for-founders-operators-6-17-8-13": "2026-09-24T03:55:11.066413+00:00",
+    "https://nycb2b.beehiiv.com/p/nyc-startup-events-for-founders-operators-6-11-7-29": "2026-09-24T03:55:11.066413+00:00",
+    "https://nycb2b.beehiiv.com/p/tribeca-club-founding-cohort-is-now-open": "2026-09-24T03:55:11.066413+00:00",
+    "https://nycb2b.beehiiv.com/p/nyc-startup-events-for-founders-operators-6-2-6-30": "2026-09-24T03:55:11.066413+00:00",
+    "https://nycb2b.beehiiv.com/p/nyc-startup-events-for-founders-operators-5-27-6-30": "2026-09-24T03:55:11.066413+00:00",
+    "https://nycb2b.beehiiv.com/p/nyc-startup-events-for-founders-operators-5-20-6-30": "2026-09-24T03:55:11.066413+00:00"
   },
   "sources": [
+    {
+      "name": "AI+ Community",
+      "url": "https://aiplusfounderscommunity.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "checked_at": "2026-09-24T03:55:11.066413+00:00",
+      "discovered_at": "2026-09-24T03:55:11.066413+00:00",
+      "status": "error",
+      "error": "HTTPError"
+    },
+    {
+      "name": "AMP (Formerly: The AI Exchange)",
+      "url": "https://theaiexchange.beehiiv.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "checked_at": "2026-09-24T03:55:11.066413+00:00",
+      "status": "feed",
+      "feed_url": "https://rss.beehiiv.com/feeds/bMmoLYZLBJ.xml",
+      "last_success_at": "2026-09-24T03:55:11.066413+00:00",
+      "error": null
+    },
     {
       "name": "Barry's Website",
       "url": "https://www.barry.ooo/",
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T03:53:42.080765+00:00",
+      "checked_at": "2026-09-24T03:55:11.066413+00:00",
       "status": "page_watch",
       "fingerprint": "1497fd3376bdd786f4ae8c7569220f179a7c0757abab933956b2645b227566a8",
-      "last_success_at": "2026-09-24T03:53:42.080765+00:00",
+      "last_success_at": "2026-09-24T03:55:11.066413+00:00",
       "error": null,
       "discovered_at": "2026-09-24T03:49:54.414936+00:00"
+    },
+    {
+      "name": "Bay Area Founders Club",
+      "url": "https://bayareafoundersclub.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "checked_at": "2026-09-24T03:55:11.066413+00:00",
+      "discovered_at": "2026-09-24T03:55:11.066413+00:00",
+      "status": "error",
+      "error": "HTTPError"
+    },
+    {
+      "name": "Ben's Bites",
+      "url": "https://bensbites.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "checked_at": "2026-09-24T03:55:11.066413+00:00",
+      "status": "feed",
+      "feed_url": "https://www.bensbites.com/feed",
+      "last_success_at": "2026-09-24T03:55:11.066413+00:00",
+      "error": null
     },
     {
       "name": "Benedict Evans",
@@ -1453,10 +1779,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T03:53:42.080765+00:00",
+      "checked_at": "2026-09-24T03:55:11.066413+00:00",
       "status": "page_watch",
       "fingerprint": "a79900bfe8704325f8081c9d7bc96f376fa218137b5df1cf07a38fc3780e91d7",
-      "last_success_at": "2026-09-24T03:53:42.080765+00:00",
+      "last_success_at": "2026-09-24T03:55:11.066413+00:00",
       "error": null,
       "discovered_at": "2026-09-24T03:49:54.414936+00:00"
     },
@@ -1466,10 +1792,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T03:53:42.080765+00:00",
+      "checked_at": "2026-09-24T03:55:11.066413+00:00",
       "status": "feed",
       "feed_url": "https://www.benkuhn.net/index.xml",
-      "last_success_at": "2026-09-24T03:53:42.080765+00:00",
+      "last_success_at": "2026-09-24T03:55:11.066413+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -1479,10 +1805,10 @@
       "categories": [
         "AI"
       ],
-      "checked_at": "2026-09-24T03:53:42.080765+00:00",
+      "checked_at": "2026-09-24T03:55:11.066413+00:00",
       "status": "feed",
       "feed_url": "https://www.beren.io/feed.xml",
-      "last_success_at": "2026-09-24T03:53:42.080765+00:00",
+      "last_success_at": "2026-09-24T03:55:11.066413+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -1492,10 +1818,10 @@
       "categories": [
         "AI"
       ],
-      "checked_at": "2026-09-24T03:53:42.080765+00:00",
+      "checked_at": "2026-09-24T03:55:11.066413+00:00",
       "status": "feed",
       "feed_url": "https://www.aleksagordic.com/feed.xml",
-      "last_success_at": "2026-09-24T03:53:42.080765+00:00",
+      "last_success_at": "2026-09-24T03:55:11.066413+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -1505,10 +1831,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T03:53:42.080765+00:00",
+      "checked_at": "2026-09-24T03:55:11.066413+00:00",
       "status": "feed",
       "feed_url": "https://boz.com/rss.xml",
-      "last_success_at": "2026-09-24T03:53:42.080765+00:00",
+      "last_success_at": "2026-09-24T03:55:11.066413+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -1518,10 +1844,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T03:53:42.080765+00:00",
+      "checked_at": "2026-09-24T03:55:11.066413+00:00",
       "status": "page_watch",
       "fingerprint": "542c24b8b68eb39167bb812f132dec758a3ab4c0f19b1c384e13fd630e12b2d4",
-      "last_success_at": "2026-09-24T03:53:42.080765+00:00",
+      "last_success_at": "2026-09-24T03:55:11.066413+00:00",
       "error": null,
       "discovered_at": "2026-09-24T03:49:54.414936+00:00"
     },
@@ -1531,10 +1857,10 @@
       "categories": [
         "China"
       ],
-      "checked_at": "2026-09-24T03:53:42.080765+00:00",
+      "checked_at": "2026-09-24T03:55:11.066413+00:00",
       "status": "feed",
       "feed_url": "https://www.chinatalk.media/feed",
-      "last_success_at": "2026-09-24T03:53:42.080765+00:00",
+      "last_success_at": "2026-09-24T03:55:11.066413+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -1545,7 +1871,7 @@
         "Cyber",
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T03:53:42.080765+00:00",
+      "checked_at": "2026-09-24T03:55:11.066413+00:00",
       "status": "error",
       "fingerprint": "e40c7d84bc4e624b0b4f3aa9d48e22f65c4dadbfcb31e977cc69562318d5fc3d",
       "last_success_at": "2026-09-24T03:48:01.272420+00:00",
@@ -1558,10 +1884,10 @@
       "categories": [
         "Cyber"
       ],
-      "checked_at": "2026-09-24T03:53:42.080765+00:00",
+      "checked_at": "2026-09-24T03:55:11.066413+00:00",
       "status": "page_watch",
       "fingerprint": "6a02e958bbaf04c3b603b830254abbca16ff273ce9bfef9f7b075809d4f8130a",
-      "last_success_at": "2026-09-24T03:53:42.080765+00:00",
+      "last_success_at": "2026-09-24T03:55:11.066413+00:00",
       "error": null,
       "discovered_at": "2026-09-24T03:49:54.414936+00:00"
     },
@@ -1571,10 +1897,10 @@
       "categories": [
         "AI"
       ],
-      "checked_at": "2026-09-24T03:53:42.080765+00:00",
+      "checked_at": "2026-09-24T03:55:11.066413+00:00",
       "status": "page_watch",
       "fingerprint": "cab214c4dbf1fa1c38b98d9e9dabf0fe21d031c6d6b72d41a5c6d311c554587b",
-      "last_success_at": "2026-09-24T03:53:42.080765+00:00",
+      "last_success_at": "2026-09-24T03:55:11.066413+00:00",
       "error": null,
       "discovered_at": "2026-09-24T03:49:54.414936+00:00"
     },
@@ -1584,10 +1910,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T03:53:42.080765+00:00",
+      "checked_at": "2026-09-24T03:55:11.066413+00:00",
       "status": "feed",
       "feed_url": "https://www.cold-takes.com/rss/",
-      "last_success_at": "2026-09-24T03:53:42.080765+00:00",
+      "last_success_at": "2026-09-24T03:55:11.066413+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -1597,10 +1923,10 @@
       "categories": [
         "Finance"
       ],
-      "checked_at": "2026-09-24T03:53:42.080765+00:00",
+      "checked_at": "2026-09-24T03:55:11.066413+00:00",
       "status": "page_watch",
       "fingerprint": "222cb2bbc555655ed4d1e0dcea983e3dfc57e3d778e95f8a5ec3d2739c591911",
-      "last_success_at": "2026-09-24T03:53:42.080765+00:00",
+      "last_success_at": "2026-09-24T03:55:11.066413+00:00",
       "error": null,
       "discovered_at": "2026-09-24T03:49:54.414936+00:00"
     },
@@ -1610,12 +1936,34 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T03:53:42.080765+00:00",
+      "checked_at": "2026-09-24T03:55:11.066413+00:00",
       "status": "page_watch",
       "fingerprint": "8b6979729bf2143214e51d459c100cc97703e25c2d623ffd3faccd40724a3103",
-      "last_success_at": "2026-09-24T03:53:42.080765+00:00",
+      "last_success_at": "2026-09-24T03:55:11.066413+00:00",
       "error": null,
       "discovered_at": "2026-09-24T03:49:54.414936+00:00"
+    },
+    {
+      "name": "Contrary Research",
+      "url": "https://contraryresearch.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "checked_at": "2026-09-24T03:55:11.066413+00:00",
+      "discovered_at": "2026-09-24T03:55:11.066413+00:00",
+      "status": "error",
+      "error": "HTTPError"
+    },
+    {
+      "name": "Cryptonite Weekly Rap",
+      "url": "https://cryptoniteventures.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "checked_at": "2026-09-24T03:55:11.066413+00:00",
+      "discovered_at": "2026-09-24T03:55:11.066413+00:00",
+      "status": "error",
+      "error": "HTTPError"
     },
     {
       "name": "Cybercrime Magazine - Page One For The Cybersecurity Industry",
@@ -1623,10 +1971,10 @@
       "categories": [
         "Cyber"
       ],
-      "checked_at": "2026-09-24T03:53:42.080765+00:00",
+      "checked_at": "2026-09-24T03:55:11.066413+00:00",
       "status": "feed",
       "feed_url": "https://cybersecurityventures.com/feed/",
-      "last_success_at": "2026-09-24T03:53:42.080765+00:00",
+      "last_success_at": "2026-09-24T03:55:11.066413+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -1636,12 +1984,36 @@
       "categories": [
         "AI"
       ],
-      "checked_at": "2026-09-24T03:53:42.080765+00:00",
+      "checked_at": "2026-09-24T03:55:11.066413+00:00",
       "status": "page_watch",
       "error": null,
       "discovered_at": "2026-09-24T03:49:54.414936+00:00",
       "fingerprint": "5df51225ee547a034664be4c2a5f82f3bbff06a463691c913ce1033c9fa4e20d",
-      "last_success_at": "2026-09-24T03:53:42.080765+00:00"
+      "last_success_at": "2026-09-24T03:55:11.066413+00:00"
+    },
+    {
+      "name": "Dwarkesh Podcast",
+      "url": "https://dwarkesh.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "checked_at": "2026-09-24T03:55:11.066413+00:00",
+      "status": "feed",
+      "feed_url": "https://www.dwarkesh.com/feed",
+      "last_success_at": "2026-09-24T03:55:11.066413+00:00",
+      "error": null
+    },
+    {
+      "name": "Early Stage Founders (poach.vc)",
+      "url": "https://poach.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "checked_at": "2026-09-24T03:55:11.066413+00:00",
+      "status": "feed",
+      "feed_url": "https://news.poach.vc/feed",
+      "last_success_at": "2026-09-24T03:55:11.066413+00:00",
+      "error": null
     },
     {
       "name": "Elliot Arledge",
@@ -1649,10 +2021,10 @@
       "categories": [
         "AI"
       ],
-      "checked_at": "2026-09-24T03:53:42.080765+00:00",
+      "checked_at": "2026-09-24T03:55:11.066413+00:00",
       "status": "page_watch",
       "fingerprint": "a582747353d0bd8aba0b3fa43063c1bbf443adb401ab87a036dc951bcaec43e0",
-      "last_success_at": "2026-09-24T03:53:42.080765+00:00",
+      "last_success_at": "2026-09-24T03:55:11.066413+00:00",
       "error": null,
       "discovered_at": "2026-09-24T03:49:54.414936+00:00"
     },
@@ -1662,10 +2034,10 @@
       "categories": [
         "Cyber"
       ],
-      "checked_at": "2026-09-24T03:53:42.080765+00:00",
+      "checked_at": "2026-09-24T03:55:11.066413+00:00",
       "status": "feed",
       "fingerprint": "3b386860baee7ef1360ad41f8759481c6d2ac304e383e403d7526c239c722ce9",
-      "last_success_at": "2026-09-24T03:53:42.080765+00:00",
+      "last_success_at": "2026-09-24T03:55:11.066413+00:00",
       "error": null,
       "feed_url": "https://embracethered.com/blog/index.xml",
       "discovered_at": "2026-09-24T03:49:54.414936+00:00"
@@ -1676,10 +2048,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T03:53:42.080765+00:00",
+      "checked_at": "2026-09-24T03:55:11.066413+00:00",
       "status": "feed",
       "feed_url": "https://www.henrikkarlsson.xyz/feed",
-      "last_success_at": "2026-09-24T03:53:42.080765+00:00",
+      "last_success_at": "2026-09-24T03:55:11.066413+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -1689,10 +2061,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T03:53:42.080765+00:00",
+      "checked_at": "2026-09-24T03:55:11.066413+00:00",
       "status": "page_watch",
       "feed_url": "https://gwern.substack.com/feed",
-      "last_success_at": "2026-09-24T03:53:42.080765+00:00",
+      "last_success_at": "2026-09-24T03:55:11.066413+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null,
       "fingerprint": "36e4d5a3730ccc917e986c0c8a7ecd35d4bd26cb3379027f6c12fc26424f3727"
@@ -1703,10 +2075,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T03:53:42.080765+00:00",
+      "checked_at": "2026-09-24T03:55:11.066413+00:00",
       "status": "feed",
       "feed_url": "https://insights.euclid.vc/feed",
-      "last_success_at": "2026-09-24T03:53:42.080765+00:00",
+      "last_success_at": "2026-09-24T03:55:11.066413+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -1716,12 +2088,24 @@
       "categories": [
         "General"
       ],
-      "checked_at": "2026-09-24T03:53:42.080765+00:00",
+      "checked_at": "2026-09-24T03:55:11.066413+00:00",
       "status": "page_watch",
       "fingerprint": "0e54f811ff384c363417ba5a8279c7370afd7b51d4d7fc69a35b5fc1a442aabc",
-      "last_success_at": "2026-09-24T03:53:42.080765+00:00",
+      "last_success_at": "2026-09-24T03:55:11.066413+00:00",
       "error": null,
       "discovered_at": "2026-09-24T03:49:54.414936+00:00"
+    },
+    {
+      "name": "Everywhere VC",
+      "url": "https://everywherevc.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "checked_at": "2026-09-24T03:55:11.066413+00:00",
+      "status": "feed",
+      "feed_url": "https://ideas.everywhere.vc/feed",
+      "last_success_at": "2026-09-24T03:55:11.066413+00:00",
+      "error": null
     },
     {
       "name": "find the moat -",
@@ -1729,12 +2113,68 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T03:53:42.080765+00:00",
+      "checked_at": "2026-09-24T03:55:11.066413+00:00",
       "status": "feed",
       "feed_url": "https://findthemoat.com/feed/",
-      "last_success_at": "2026-09-24T03:53:42.080765+00:00",
+      "last_success_at": "2026-09-24T03:55:11.066413+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
+    },
+    {
+      "name": "Fintech Business Weekly",
+      "url": "https://fintechbusinessweekly.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "checked_at": "2026-09-24T03:55:11.066413+00:00",
+      "discovered_at": "2026-09-24T03:55:11.066413+00:00",
+      "status": "error",
+      "error": "HTTPError"
+    },
+    {
+      "name": "FounderCoHo",
+      "url": "https://foundercoho.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "checked_at": "2026-09-24T03:55:11.066413+00:00",
+      "discovered_at": "2026-09-24T03:55:11.066413+00:00",
+      "status": "error",
+      "error": "HTTPError"
+    },
+    {
+      "name": "Geeks Of The Valley Newsletter",
+      "url": "https://geeksofthevalley.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "checked_at": "2026-09-24T03:55:11.066413+00:00",
+      "discovered_at": "2026-09-24T03:55:11.066413+00:00",
+      "status": "error",
+      "error": "HTTPError"
+    },
+    {
+      "name": "gm NYC",
+      "url": "https://gmnyc.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "checked_at": "2026-09-24T03:55:11.066413+00:00",
+      "status": "feed",
+      "feed_url": "https://www.gmnyc.com/feed",
+      "last_success_at": "2026-09-24T03:55:11.066413+00:00",
+      "error": null
+    },
+    {
+      "name": "Gradient",
+      "url": "https://gradientvc.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "checked_at": "2026-09-24T03:55:11.066413+00:00",
+      "discovered_at": "2026-09-24T03:55:11.066413+00:00",
+      "status": "error",
+      "error": "HTTPError"
     },
     {
       "name": "Hacklivly - The Codelivly Community",
@@ -1742,7 +2182,7 @@
       "categories": [
         "Cyber"
       ],
-      "checked_at": "2026-09-24T03:53:42.080765+00:00",
+      "checked_at": "2026-09-24T03:55:11.066413+00:00",
       "discovered_at": "2026-09-24T03:49:54.414936+00:00",
       "status": "error",
       "error": "URLError"
@@ -1753,10 +2193,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T03:53:42.080765+00:00",
+      "checked_at": "2026-09-24T03:55:11.066413+00:00",
       "status": "feed",
       "feed_url": "https://grahamduncan.blog/feed/",
-      "last_success_at": "2026-09-24T03:53:42.080765+00:00",
+      "last_success_at": "2026-09-24T03:55:11.066413+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -1766,10 +2206,10 @@
       "categories": [
         "Finance"
       ],
-      "checked_at": "2026-09-24T03:53:42.080765+00:00",
+      "checked_at": "2026-09-24T03:55:11.066413+00:00",
       "status": "page_watch",
       "fingerprint": "fca5ebe3f0b78df8838f4cc26ceb9a6b4d7eceeb99d6d7d4d392ca382c9e68a3",
-      "last_success_at": "2026-09-24T03:53:42.080765+00:00",
+      "last_success_at": "2026-09-24T03:55:11.066413+00:00",
       "error": null,
       "discovered_at": "2026-09-24T03:49:54.414936+00:00"
     },
@@ -1777,12 +2217,13 @@
       "name": "Import AI",
       "url": "https://jack-clark.net/",
       "categories": [
-        "AI"
+        "AI",
+        "Newsletters"
       ],
-      "checked_at": "2026-09-24T03:53:42.080765+00:00",
+      "checked_at": "2026-09-24T03:55:11.066413+00:00",
       "status": "feed",
       "feed_url": "https://jack-clark.net/feed/",
-      "last_success_at": "2026-09-24T03:53:42.080765+00:00",
+      "last_success_at": "2026-09-24T03:55:11.066413+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -1792,12 +2233,23 @@
       "categories": [
         "Builders"
       ],
-      "checked_at": "2026-09-24T03:53:42.080765+00:00",
+      "checked_at": "2026-09-24T03:55:11.066413+00:00",
       "status": "page_watch",
       "fingerprint": "ba2546cec03cd602857dc2c155af0ee60cd481a3c7313feaecb1fd214faa637d",
-      "last_success_at": "2026-09-24T03:53:42.080765+00:00",
+      "last_success_at": "2026-09-24T03:55:11.066413+00:00",
       "error": null,
       "discovered_at": "2026-09-24T03:49:54.414936+00:00"
+    },
+    {
+      "name": "Iris",
+      "url": "https://humiris.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "checked_at": "2026-09-24T03:55:11.066413+00:00",
+      "discovered_at": "2026-09-24T03:55:11.066413+00:00",
+      "status": "error",
+      "error": "HTTPError"
     },
     {
       "name": "James Somers",
@@ -1805,10 +2257,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T03:53:42.080765+00:00",
+      "checked_at": "2026-09-24T03:55:11.066413+00:00",
       "status": "feed",
       "feed_url": "https://jsomers.net/blog/feed",
-      "last_success_at": "2026-09-24T03:53:42.080765+00:00",
+      "last_success_at": "2026-09-24T03:55:11.066413+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -1818,12 +2270,23 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T03:53:42.080765+00:00",
+      "checked_at": "2026-09-24T03:55:11.066413+00:00",
       "status": "feed",
       "feed_url": "https://fullhoffman.com/feed/",
-      "last_success_at": "2026-09-24T03:53:42.080765+00:00",
+      "last_success_at": "2026-09-24T03:55:11.066413+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
+    },
+    {
+      "name": "JJLake\u2019s Substack",
+      "url": "https://jjlake.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "checked_at": "2026-09-24T03:55:11.066413+00:00",
+      "discovered_at": "2026-09-24T03:55:11.066413+00:00",
+      "status": "error",
+      "error": "HTTPError"
     },
     {
       "name": "Justin Meiners",
@@ -1831,10 +2294,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T03:53:42.080765+00:00",
+      "checked_at": "2026-09-24T03:55:11.066413+00:00",
       "status": "feed",
       "feed_url": "https://www.jmeiners.com/feed.xml",
-      "last_success_at": "2026-09-24T03:53:42.080765+00:00",
+      "last_success_at": "2026-09-24T03:55:11.066413+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -1844,12 +2307,23 @@
       "categories": [
         "General"
       ],
-      "checked_at": "2026-09-24T03:53:42.080765+00:00",
+      "checked_at": "2026-09-24T03:55:11.066413+00:00",
       "status": "page_watch",
       "fingerprint": "4dc36184e2117a315d6addb4ee1093384dddb508e49bfa9afdef3379b10dab7c",
-      "last_success_at": "2026-09-24T03:53:42.080765+00:00",
+      "last_success_at": "2026-09-24T03:55:11.066413+00:00",
       "error": null,
       "discovered_at": "2026-09-24T03:49:54.414936+00:00"
+    },
+    {
+      "name": "Learn Agentic AI",
+      "url": "https://learnagentic.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "checked_at": "2026-09-24T03:55:11.066413+00:00",
+      "discovered_at": "2026-09-24T03:55:11.066413+00:00",
+      "status": "error",
+      "error": "HTTPError"
     },
     {
       "name": "Let\u2019s build your great helper",
@@ -1857,10 +2331,10 @@
       "categories": [
         "AI"
       ],
-      "checked_at": "2026-09-24T03:53:42.080765+00:00",
+      "checked_at": "2026-09-24T03:55:11.066413+00:00",
       "status": "page_watch",
       "fingerprint": "7b326d5bd068f2c7bff5936724c56f5865c0ecb80641f4bf4c12b96ce6de5c37",
-      "last_success_at": "2026-09-24T03:53:42.080765+00:00",
+      "last_success_at": "2026-09-24T03:55:11.066413+00:00",
       "error": null,
       "discovered_at": "2026-09-24T03:49:54.414936+00:00"
     },
@@ -1870,12 +2344,23 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T03:53:42.080765+00:00",
+      "checked_at": "2026-09-24T03:55:11.066413+00:00",
       "status": "feed",
       "feed_url": "https://qy.co/feed.xml",
-      "last_success_at": "2026-09-24T03:53:42.080765+00:00",
+      "last_success_at": "2026-09-24T03:55:11.066413+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
+    },
+    {
+      "name": "LP Blueprint",
+      "url": "https://metz.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "checked_at": "2026-09-24T03:55:11.066413+00:00",
+      "discovered_at": "2026-09-24T03:55:11.066413+00:00",
+      "status": "error",
+      "error": "HTTPError"
     },
     {
       "name": "Magnus Financial Group",
@@ -1883,10 +2368,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T03:53:42.080765+00:00",
+      "checked_at": "2026-09-24T03:55:11.066413+00:00",
       "status": "feed",
       "feed_url": "https://magnusfinancial.com/feed/",
-      "last_success_at": "2026-09-24T03:53:42.080765+00:00",
+      "last_success_at": "2026-09-24T03:55:11.066413+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -1896,11 +2381,23 @@
       "categories": [
         "Cyber"
       ],
-      "checked_at": "2026-09-24T03:53:42.080765+00:00",
+      "checked_at": "2026-09-24T03:55:11.066413+00:00",
       "status": "feed",
       "feed_url": "https://malwr-analysis.com/feed/",
-      "last_success_at": "2026-09-24T03:53:42.080765+00:00",
+      "last_success_at": "2026-09-24T03:55:11.066413+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
+      "error": null
+    },
+    {
+      "name": "Map the World by Bilawal Sidhu",
+      "url": "https://creativetechnologydigest.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "checked_at": "2026-09-24T03:55:11.066413+00:00",
+      "status": "feed",
+      "feed_url": "https://www.spatialintelligence.ai/feed",
+      "last_success_at": "2026-09-24T03:55:11.066413+00:00",
       "error": null
     },
     {
@@ -1909,10 +2406,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T03:53:42.080765+00:00",
+      "checked_at": "2026-09-24T03:55:11.066413+00:00",
       "status": "feed",
       "feed_url": "https://marginalrevolution.com/feed",
-      "last_success_at": "2026-09-24T03:53:42.080765+00:00",
+      "last_success_at": "2026-09-24T03:55:11.066413+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -1922,10 +2419,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T03:53:42.080765+00:00",
+      "checked_at": "2026-09-24T03:55:11.066413+00:00",
       "status": "feed",
       "feed_url": "https://matklad.github.io/feed.xml",
-      "last_success_at": "2026-09-24T03:53:42.080765+00:00",
+      "last_success_at": "2026-09-24T03:55:11.066413+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -1935,10 +2432,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T03:53:42.080765+00:00",
+      "checked_at": "2026-09-24T03:55:11.066413+00:00",
       "status": "feed",
       "feed_url": "https://maxhodak.com/writings.xml",
-      "last_success_at": "2026-09-24T03:53:42.080765+00:00",
+      "last_success_at": "2026-09-24T03:55:11.066413+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -1948,11 +2445,23 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T03:53:42.080765+00:00",
+      "checked_at": "2026-09-24T03:55:11.066413+00:00",
       "status": "feed",
       "feed_url": "https://nadia.xyz/feed",
-      "last_success_at": "2026-09-24T03:53:42.080765+00:00",
+      "last_success_at": "2026-09-24T03:55:11.066413+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
+      "error": null
+    },
+    {
+      "name": "Newcomer",
+      "url": "https://newcomer.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "checked_at": "2026-09-24T03:55:11.066413+00:00",
+      "status": "feed",
+      "feed_url": "https://www.newcomer.co/feed",
+      "last_success_at": "2026-09-24T03:55:11.066413+00:00",
       "error": null
     },
     {
@@ -1961,12 +2470,35 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T03:53:42.080765+00:00",
+      "checked_at": "2026-09-24T03:55:11.066413+00:00",
       "status": "page_watch",
       "fingerprint": "193281cb4f511f085cdfe8ab074bd6063986152c10209f07ab9ccebbd0ae5061",
-      "last_success_at": "2026-09-24T03:53:42.080765+00:00",
+      "last_success_at": "2026-09-24T03:55:11.066413+00:00",
       "error": null,
       "discovered_at": "2026-09-24T03:49:54.414936+00:00"
+    },
+    {
+      "name": "Not Another CEO",
+      "url": "https://notanotherceo.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "checked_at": "2026-09-24T03:55:11.066413+00:00",
+      "discovered_at": "2026-09-24T03:55:11.066413+00:00",
+      "status": "error",
+      "error": "HTTPError"
+    },
+    {
+      "name": "NYC B2B",
+      "url": "https://nycb2b.beehiiv.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "checked_at": "2026-09-24T03:55:11.066413+00:00",
+      "status": "feed",
+      "feed_url": "https://rss.beehiiv.com/feeds/fh86e58Ctb.xml",
+      "last_success_at": "2026-09-24T03:55:11.066413+00:00",
+      "error": null
     },
     {
       "name": "Oliver Gilan",
@@ -1974,7 +2506,7 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T03:53:42.080765+00:00",
+      "checked_at": "2026-09-24T03:55:11.066413+00:00",
       "status": "error",
       "error": "HTTPError",
       "discovered_at": "2026-09-24T03:49:54.414936+00:00"
@@ -1985,10 +2517,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T03:53:42.080765+00:00",
+      "checked_at": "2026-09-24T03:55:11.066413+00:00",
       "status": "feed",
       "feed_url": "https://paco.me/feed.xml",
-      "last_success_at": "2026-09-24T03:53:42.080765+00:00",
+      "last_success_at": "2026-09-24T03:55:11.066413+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -1998,10 +2530,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T03:53:42.080765+00:00",
+      "checked_at": "2026-09-24T03:55:11.066413+00:00",
       "status": "feed",
       "feed_url": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
-      "last_success_at": "2026-09-24T03:53:42.080765+00:00",
+      "last_success_at": "2026-09-24T03:55:11.066413+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -2011,10 +2543,10 @@
       "categories": [
         "Cyber"
       ],
-      "checked_at": "2026-09-24T03:53:42.080765+00:00",
+      "checked_at": "2026-09-24T03:55:11.066413+00:00",
       "status": "feed",
       "feed_url": "https://www.philvenables.com/blog-feed.xml",
-      "last_success_at": "2026-09-24T03:53:42.080765+00:00",
+      "last_success_at": "2026-09-24T03:55:11.066413+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -2024,10 +2556,22 @@
       "categories": [
         "General"
       ],
-      "checked_at": "2026-09-24T03:53:42.080765+00:00",
+      "checked_at": "2026-09-24T03:55:11.066413+00:00",
       "status": "error",
       "error": "HTTPError",
       "discovered_at": "2026-09-24T03:49:54.414936+00:00"
+    },
+    {
+      "name": "Prosaic Times",
+      "url": "https://prosaictimes.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "checked_at": "2026-09-24T03:55:11.066413+00:00",
+      "status": "feed",
+      "feed_url": "https://www.prosaictimes.com/feed",
+      "last_success_at": "2026-09-24T03:55:11.066413+00:00",
+      "error": null
     },
     {
       "name": "PulseMCP | Keep up-to-date with MCP",
@@ -2035,12 +2579,12 @@
       "categories": [
         "AI"
       ],
-      "checked_at": "2026-09-24T03:53:42.080765+00:00",
+      "checked_at": "2026-09-24T03:55:11.066413+00:00",
       "discovered_at": "2026-09-24T03:49:54.414936+00:00",
       "status": "page_watch",
       "error": null,
       "fingerprint": "ced3e07f9dea3cabfe087518dd703265b5ef7dc0a543e7992c78fe5fcfa977a3",
-      "last_success_at": "2026-09-24T03:53:42.080765+00:00"
+      "last_success_at": "2026-09-24T03:55:11.066413+00:00"
     },
     {
       "name": "Rabib Alam",
@@ -2048,7 +2592,7 @@
       "categories": [
         "AI"
       ],
-      "checked_at": "2026-09-24T03:53:42.080765+00:00",
+      "checked_at": "2026-09-24T03:55:11.066413+00:00",
       "status": "error",
       "fingerprint": "a5e4bf6b562cb2e02c99900128b0573738f658d04d96535c98881acb8134886b",
       "last_success_at": "2026-09-24T03:48:01.272420+00:00",
@@ -2061,10 +2605,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T03:53:42.080765+00:00",
+      "checked_at": "2026-09-24T03:55:11.066413+00:00",
       "status": "feed",
       "feed_url": "https://rsms.me/atom.xml",
-      "last_success_at": "2026-09-24T03:53:42.080765+00:00",
+      "last_success_at": "2026-09-24T03:55:11.066413+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -2074,10 +2618,10 @@
       "categories": [
         "Builders"
       ],
-      "checked_at": "2026-09-24T03:53:42.080765+00:00",
+      "checked_at": "2026-09-24T03:55:11.066413+00:00",
       "status": "page_watch",
       "fingerprint": "a835884ff255d1f73c62b1563188d75a7631a2ffab21b5853dc4574e93d4cba2",
-      "last_success_at": "2026-09-24T03:53:42.080765+00:00",
+      "last_success_at": "2026-09-24T03:55:11.066413+00:00",
       "error": null,
       "discovered_at": "2026-09-24T03:49:54.414936+00:00"
     },
@@ -2087,7 +2631,7 @@
       "categories": [
         "AI"
       ],
-      "checked_at": "2026-09-24T03:53:42.080765+00:00",
+      "checked_at": "2026-09-24T03:55:11.066413+00:00",
       "status": "error",
       "error": "TimeoutError",
       "discovered_at": "2026-09-24T03:49:54.414936+00:00"
@@ -2098,10 +2642,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T03:53:42.080765+00:00",
+      "checked_at": "2026-09-24T03:55:11.066413+00:00",
       "status": "feed",
       "feed_url": "https://blog.samaltman.com/posts.atom",
-      "last_success_at": "2026-09-24T03:53:42.080765+00:00",
+      "last_success_at": "2026-09-24T03:55:11.066413+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -2111,10 +2655,10 @@
       "categories": [
         "General"
       ],
-      "checked_at": "2026-09-24T03:53:42.080765+00:00",
+      "checked_at": "2026-09-24T03:55:11.066413+00:00",
       "status": "feed",
       "feed_url": "https://semianalysis.com/feed/",
-      "last_success_at": "2026-09-24T03:53:42.080765+00:00",
+      "last_success_at": "2026-09-24T03:55:11.066413+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -2124,10 +2668,10 @@
       "categories": [
         "China"
       ],
-      "checked_at": "2026-09-24T03:53:42.080765+00:00",
+      "checked_at": "2026-09-24T03:55:11.066413+00:00",
       "status": "feed",
       "feed_url": "https://sinocism.com/feed",
-      "last_success_at": "2026-09-24T03:53:42.080765+00:00",
+      "last_success_at": "2026-09-24T03:55:11.066413+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -2137,12 +2681,69 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T03:53:42.080765+00:00",
+      "checked_at": "2026-09-24T03:55:11.066413+00:00",
       "status": "feed",
       "feed_url": "https://slatestarcodex.com/feed/",
-      "last_success_at": "2026-09-24T03:53:42.080765+00:00",
+      "last_success_at": "2026-09-24T03:55:11.066413+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
+    },
+    {
+      "name": "Sourcery",
+      "url": "https://mollysoshea.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "checked_at": "2026-09-24T03:55:11.066413+00:00",
+      "status": "feed",
+      "feed_url": "https://www.sourcery.vc/feed",
+      "last_success_at": "2026-09-24T03:55:11.066413+00:00",
+      "error": null
+    },
+    {
+      "name": "South Park Commons",
+      "url": "https://southparkcommons.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "checked_at": "2026-09-24T03:55:11.066413+00:00",
+      "status": "feed",
+      "feed_url": "https://blog.southparkcommons.com/feed",
+      "last_success_at": "2026-09-24T03:55:11.066413+00:00",
+      "error": null
+    },
+    {
+      "name": "speedrun",
+      "url": "https://speedrun.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "checked_at": "2026-09-24T03:55:11.066413+00:00",
+      "discovered_at": "2026-09-24T03:55:11.066413+00:00",
+      "status": "error",
+      "error": "HTTPError"
+    },
+    {
+      "name": "Stealth Startup Spy",
+      "url": "https://stealthstartupspy.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "checked_at": "2026-09-24T03:55:11.066413+00:00",
+      "discovered_at": "2026-09-24T03:55:11.066413+00:00",
+      "status": "error",
+      "error": "HTTPError"
+    },
+    {
+      "name": "StudioAlpha",
+      "url": "https://studioalpha.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "checked_at": "2026-09-24T03:55:11.066413+00:00",
+      "discovered_at": "2026-09-24T03:55:11.066413+00:00",
+      "status": "error",
+      "error": "HTTPError"
     },
     {
       "name": "Susam Pal",
@@ -2150,11 +2751,34 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T03:53:42.080765+00:00",
+      "checked_at": "2026-09-24T03:55:11.066413+00:00",
       "status": "feed",
       "feed_url": "https://susam.net/feed.xml",
-      "last_success_at": "2026-09-24T03:53:42.080765+00:00",
+      "last_success_at": "2026-09-24T03:55:11.066413+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
+      "error": null
+    },
+    {
+      "name": "Tank Talks with Matt Cohen",
+      "url": "https://tanktalks.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "checked_at": "2026-09-24T03:55:11.066413+00:00",
+      "discovered_at": "2026-09-24T03:55:11.066413+00:00",
+      "status": "error",
+      "error": "HTTPError"
+    },
+    {
+      "name": "TechWalk Newsletter",
+      "url": "https://techwalk.beehiiv.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "checked_at": "2026-09-24T03:55:11.066413+00:00",
+      "status": "feed",
+      "feed_url": "https://rss.beehiiv.com/feeds/YSbcm1WDrI.xml",
+      "last_success_at": "2026-09-24T03:55:11.066413+00:00",
       "error": null
     },
     {
@@ -2163,12 +2787,34 @@
       "categories": [
         "China"
       ],
-      "checked_at": "2026-09-24T03:53:42.080765+00:00",
+      "checked_at": "2026-09-24T03:55:11.066413+00:00",
       "status": "feed",
       "feed_url": "https://www.asianometry.com/feed",
-      "last_success_at": "2026-09-24T03:53:42.080765+00:00",
+      "last_success_at": "2026-09-24T03:55:11.066413+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
+    },
+    {
+      "name": "The Great American Path",
+      "url": "https://thegreatamericanpath.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "checked_at": "2026-09-24T03:55:11.066413+00:00",
+      "discovered_at": "2026-09-24T03:55:11.066413+00:00",
+      "status": "error",
+      "error": "HTTPError"
+    },
+    {
+      "name": "The New Frontier",
+      "url": "https://igorpejic.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "checked_at": "2026-09-24T03:55:11.066413+00:00",
+      "discovered_at": "2026-09-24T03:55:11.066413+00:00",
+      "status": "error",
+      "error": "HTTPError"
     },
     {
       "name": "Tomasz Tunguz (VC Theory)",
@@ -2176,10 +2822,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T03:53:42.080765+00:00",
+      "checked_at": "2026-09-24T03:55:11.066413+00:00",
       "status": "feed",
       "fingerprint": "fa8b7f5eac12a40b22f7965f7f1466e48e38747255f18cc949cf5831e5ca2350",
-      "last_success_at": "2026-09-24T03:53:42.080765+00:00",
+      "last_success_at": "2026-09-24T03:55:11.066413+00:00",
       "error": null,
       "feed_url": "https://tomtunguz.com/index.xml",
       "discovered_at": "2026-09-24T03:49:54.414936+00:00"
@@ -2190,11 +2836,23 @@
       "categories": [
         "AI"
       ],
-      "checked_at": "2026-09-24T03:53:42.080765+00:00",
+      "checked_at": "2026-09-24T03:55:11.066413+00:00",
       "status": "feed",
       "feed_url": "https://towardsdatascience.com/feed/",
-      "last_success_at": "2026-09-24T03:53:42.080765+00:00",
+      "last_success_at": "2026-09-24T03:55:11.066413+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
+      "error": null
+    },
+    {
+      "name": "TSOH Investment Research",
+      "url": "https://thescienceofhitting.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "checked_at": "2026-09-24T03:55:11.066413+00:00",
+      "status": "feed",
+      "feed_url": "https://thescienceofhitting.com/feed",
+      "last_success_at": "2026-09-24T03:55:11.066413+00:00",
       "error": null
     },
     {
@@ -2204,10 +2862,10 @@
         "Solo blogs",
         "AI"
       ],
-      "checked_at": "2026-09-24T03:53:42.080765+00:00",
+      "checked_at": "2026-09-24T03:55:11.066413+00:00",
       "status": "page_watch",
       "fingerprint": "7326ecdee1523681e63a7ac7b45d57fa034fce8989c94357587b4ddedc6c42d4",
-      "last_success_at": "2026-09-24T03:53:42.080765+00:00",
+      "last_success_at": "2026-09-24T03:55:11.066413+00:00",
       "error": null,
       "discovered_at": "2026-09-24T03:49:54.414936+00:00"
     },
@@ -2217,10 +2875,10 @@
       "categories": [
         "General"
       ],
-      "checked_at": "2026-09-24T03:53:42.080765+00:00",
+      "checked_at": "2026-09-24T03:55:11.066413+00:00",
       "status": "feed",
       "feed_url": "https://worksinprogress.co/rss.xml",
-      "last_success_at": "2026-09-24T03:53:42.080765+00:00",
+      "last_success_at": "2026-09-24T03:55:11.066413+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -2230,10 +2888,10 @@
       "categories": [
         "Cyber"
       ],
-      "checked_at": "2026-09-24T03:53:42.080765+00:00",
+      "checked_at": "2026-09-24T03:55:11.066413+00:00",
       "status": "feed",
       "feed_url": "https://nicholas.carlini.com/writing/feed.xml",
-      "last_success_at": "2026-09-24T03:53:42.080765+00:00",
+      "last_success_at": "2026-09-24T03:55:11.066413+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -2243,10 +2901,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-09-24T03:53:42.080765+00:00",
+      "checked_at": "2026-09-24T03:55:11.066413+00:00",
       "status": "page_watch",
       "fingerprint": "873f26a9d2413dfaa66f1325cfbd473c7e71fbbf6539e36d1362e98086f479f2",
-      "last_success_at": "2026-09-24T03:53:42.080765+00:00",
+      "last_success_at": "2026-09-24T03:55:11.066413+00:00",
       "error": null,
       "discovered_at": "2026-09-24T03:49:54.414936+00:00"
     }
@@ -2281,6 +2939,20 @@
       "why": "AI & infrastructure; Startups & investing"
     },
     {
+      "url": "https://www.newcomer.co/p/war-in-the-middle-east-and-rising",
+      "title": "War in the Middle East & Rising Interest Rates Threaten the Funding for AI Build-Out",
+      "published_at": "2026-09-18T14:23:49+00:00",
+      "kind": "article",
+      "source": "Newcomer",
+      "source_url": "https://newcomer.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 64.4,
+      "why": "AI & infrastructure; Startups & investing"
+    },
+    {
       "url": "https://sinocism.com/p/sharp-china-the-limited-potential",
       "title": "Sharp China: The Limited Potential for a Pacing Deal; MSS on PRC AI Risks; Distillation and Data Security; The Party's Approach to Social Media",
       "published_at": "2026-09-16T09:01:18+00:00",
@@ -2295,6 +2967,20 @@
       "why": "AI & infrastructure; Security"
     },
     {
+      "url": "https://ideas.everywhere.vc/p/operant-ai-named-one-of-crns-hottest",
+      "title": "Operant AI Named One of CRN's Hottest AI Security Startups of 2026",
+      "published_at": "2026-08-07T02:43:50+00:00",
+      "kind": "article",
+      "source": "Everywhere VC",
+      "source_url": "https://everywherevc.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 50,
+      "why": "AI & infrastructure; Security"
+    },
+    {
       "url": "https://marginalrevolution.com/marginalrevolution/2026/09/optimal-liability-for-offensive-and-defensive-ai.html",
       "title": "Optimal liability for offensive and defensive AI",
       "published_at": "2026-09-23T18:03:36+00:00",
@@ -2305,6 +2991,20 @@
         "Solo blogs"
       ],
       "first_seen_at": "2026-09-24T03:48:01.272420+00:00",
+      "score": 44.6,
+      "why": "AI & infrastructure"
+    },
+    {
+      "url": "https://www.newcomer.co/p/less-than-one-week-until-the-machine",
+      "title": "Less than One Week Until the Machine Earning AI Summit: See Our Speakers & Discussion Group Leaders",
+      "published_at": "2026-09-23T18:51:21+00:00",
+      "kind": "article",
+      "source": "Newcomer",
+      "source_url": "https://newcomer.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
       "score": 44.6,
       "why": "AI & infrastructure"
     },
@@ -2334,6 +3034,34 @@
       ],
       "first_seen_at": "2026-09-24T03:48:01.272420+00:00",
       "score": 43.8,
+      "why": "AI & infrastructure"
+    },
+    {
+      "url": "https://www.newcomer.co/p/introducing-newcomers-vc-sentiment",
+      "title": "Introducing Newcomer\u2019s VC Sentiment Report: Unfiltered Insights from Silicon Valley\u2019s Top Venture Capitalists",
+      "published_at": "2026-09-22T19:33:14+00:00",
+      "kind": "article",
+      "source": "Newcomer",
+      "source_url": "https://newcomer.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 43.7,
+      "why": "Startups & investing"
+    },
+    {
+      "url": "https://news.theaiexchange.com/p/somebody-on-your-team-is-fixing-the-same-ai-mistake-every-week",
+      "title": "Somebody on your team is fixing the same AI mistake every week",
+      "published_at": "2026-09-22T13:00:00+00:00",
+      "kind": "article",
+      "source": "AMP (Formerly: The AI Exchange)",
+      "source_url": "https://theaiexchange.beehiiv.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 43.4,
       "why": "AI & infrastructure"
     },
     {
@@ -2379,6 +3107,20 @@
       "why": "AI & infrastructure"
     },
     {
+      "url": "https://techwalk.beehiiv.com/p/hi-from-tw-ai-doom-token-techwalks-sf-la",
+      "title": "\ud83e\udd16 Hi from TW: Is AI going to kill us all? TokenTechWalks in SF and LA, 7 open roles",
+      "published_at": "2026-09-21T18:50:49+00:00",
+      "kind": "article",
+      "source": "TechWalk Newsletter",
+      "source_url": "https://techwalk.beehiiv.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 42.6,
+      "why": "AI & infrastructure"
+    },
+    {
       "url": "https://towardsdatascience.com/a-new-kind-of-model-for-ai-decision-making/",
       "title": "A New Kind of Model for AI Decision-Making?",
       "published_at": "2026-09-21T15:30:02+00:00",
@@ -2414,7 +3156,8 @@
       "source": "Import AI",
       "source_url": "https://jack-clark.net/",
       "categories": [
-        "AI"
+        "AI",
+        "Newsletters"
       ],
       "first_seen_at": "2026-09-24T03:48:01.272420+00:00",
       "score": 42.4,
@@ -2589,6 +3332,20 @@
       "why": "AI & infrastructure"
     },
     {
+      "url": "https://www.dwarkesh.com/p/noam-brown",
+      "title": "Noam Brown \u2013 Agent swarms, alignment, & recursive self-improvement",
+      "published_at": "2026-09-17T15:38:13+00:00",
+      "kind": "article",
+      "source": "Dwarkesh Podcast",
+      "source_url": "https://dwarkesh.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 38.5,
+      "why": "AI & infrastructure"
+    },
+    {
       "url": "https://cybersecurityventures.com/ai-hackers-are-dumb-and-they-can-wreak-havoc/",
       "title": "AI Hackers Are Dumb And They Can Wreak Havoc",
       "published_at": "2026-09-17T13:28:03+00:00",
@@ -2615,6 +3372,34 @@
       "first_seen_at": "2026-09-24T03:48:01.272420+00:00",
       "score": 37.8,
       "why": "AI & infrastructure"
+    },
+    {
+      "url": "https://www.newcomer.co/p/market-map-89-vc-backed-startups",
+      "title": "MARKET MAP: 89 VC-Backed Startups Changing Finance, Audits, Banking & Compliance",
+      "published_at": "2026-09-16T21:45:16+00:00",
+      "kind": "article",
+      "source": "Newcomer",
+      "source_url": "https://newcomer.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 37.7,
+      "why": "Startups & investing"
+    },
+    {
+      "url": "https://nycb2b.beehiiv.com/p/nyc-startup-events-for-founders-operators-9-16-11-19",
+      "title": "\ud83d\uddfd NYC Startup Events for Founders + Operators [9/16 - 11/19] \ud83d\ude80",
+      "published_at": "2026-09-16T13:00:00+00:00",
+      "kind": "article",
+      "source": "NYC B2B",
+      "source_url": "https://nycb2b.beehiiv.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 37.4,
+      "why": "Startups & investing"
     },
     {
       "url": "https://sinocism.com/p/us-china-strategic-ai-dialogue-said",
@@ -2659,6 +3444,34 @@
       "why": "AI & infrastructure"
     },
     {
+      "url": "https://www.dwarkesh.com/p/john-beren-charlie",
+      "title": "AI researchers debate how close we are to recursive self-improvement",
+      "published_at": "2026-09-11T16:28:11+00:00",
+      "kind": "article",
+      "source": "Dwarkesh Podcast",
+      "source_url": "https://dwarkesh.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 32.5,
+      "why": "AI & infrastructure"
+    },
+    {
+      "url": "https://www.newcomer.co/p/for-startups-facing-the-ai-safety",
+      "title": "For Startups Facing the AI Safety Uproar, Cybersecurity Looms Larger than Existential Risk",
+      "published_at": "2026-09-11T14:53:12+00:00",
+      "kind": "article",
+      "source": "Newcomer",
+      "source_url": "https://newcomer.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 32.5,
+      "why": "AI & infrastructure"
+    },
+    {
       "url": "https://cybersecurityventures.com/digital-executive-protection-agentic-powered-external-identity-security/",
       "title": "Digital Executive Protection: Agentic Powered External Identity Security",
       "published_at": "2026-09-11T12:56:26+00:00",
@@ -2671,6 +3484,20 @@
       "first_seen_at": "2026-09-24T03:48:01.272420+00:00",
       "score": 32.4,
       "why": "Security"
+    },
+    {
+      "url": "https://www.bensbites.com/p/telling-ai-to-design-is-hard",
+      "title": "Telling AI to design is hard",
+      "published_at": "2026-09-11T13:07:26+00:00",
+      "kind": "article",
+      "source": "Ben's Bites",
+      "source_url": "https://bensbites.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 32.4,
+      "why": "AI & infrastructure"
     },
     {
       "url": "https://magnusfinancial.com/market-commentary-august-2026/",
@@ -2715,6 +3542,20 @@
       "why": "AI & infrastructure"
     },
     {
+      "url": "https://nycb2b.beehiiv.com/p/nyc-startup-events-for-founders-operators-9-9-11-19",
+      "title": "\ud83d\uddfd NYC Startup Events for Founders + Operators [9/9 - 11/19] \ud83d\ude80",
+      "published_at": "2026-09-09T13:00:00+00:00",
+      "kind": "article",
+      "source": "NYC B2B",
+      "source_url": "https://nycb2b.beehiiv.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 30.4,
+      "why": "Startups & investing"
+    },
+    {
       "url": "https://sinocism.com/p/august-trade-data-capital-boost-for",
       "title": "August trade data; Capital boost for state financial firms; Xi\u2019s DC visit and US-China AI",
       "published_at": "2026-09-08T22:18:52+00:00",
@@ -2729,6 +3570,34 @@
       "why": "AI & infrastructure"
     },
     {
+      "url": "https://www.newcomer.co/p/founders-of-chime-and-town-join-as",
+      "title": "Founders of Chime & Town Join as Speakers + Announcing Our Discussion Group Leaders for the Machine Earning AI Summit",
+      "published_at": "2026-09-08T19:32:37+00:00",
+      "kind": "article",
+      "source": "Newcomer",
+      "source_url": "https://newcomer.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 29.7,
+      "why": "AI & infrastructure"
+    },
+    {
+      "url": "https://www.bensbites.com/p/the-first-gpt-6-model",
+      "title": "The first GPT-6 model",
+      "published_at": "2026-09-08T13:03:52+00:00",
+      "kind": "article",
+      "source": "Ben's Bites",
+      "source_url": "https://bensbites.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 29.4,
+      "why": "AI & infrastructure"
+    },
+    {
       "url": "https://jack-clark.net/2026/09/07/import-ai-472-deepminds-cheating-math-agents-populist-ai-policies-and-forethought-theorizes-a-nightwatchman/",
       "title": "Import AI 472: DeepMind\u2019s cheating math agents; populist AI policies; and Forethought theorizes a nightwatchman",
       "published_at": "2026-09-07T12:26:31+00:00",
@@ -2736,7 +3605,8 @@
       "source": "Import AI",
       "source_url": "https://jack-clark.net/",
       "categories": [
-        "AI"
+        "AI",
+        "Newsletters"
       ],
       "first_seen_at": "2026-09-24T03:48:01.272420+00:00",
       "score": 28.4,
@@ -3135,6 +4005,48 @@
       "why": "AI & infrastructure"
     },
     {
+      "url": "https://ideas.everywhere.vc/p/eudia-partners-with-microsoft-to",
+      "title": "Eudia Partners with Microsoft to Bring Enterprise AI Into the Flow of Work",
+      "published_at": "2026-08-18T03:06:19+00:00",
+      "kind": "article",
+      "source": "Everywhere VC",
+      "source_url": "https://everywherevc.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 25,
+      "why": "AI & infrastructure"
+    },
+    {
+      "url": "https://ideas.everywhere.vc/p/tsuwan-joins-anthropics-model-hardware",
+      "title": "Tetsuwan Joins Anthropic\u2019s Model Hardware Standard Research Preview",
+      "published_at": "2026-08-31T13:27:49+00:00",
+      "kind": "article",
+      "source": "Everywhere VC",
+      "source_url": "https://everywherevc.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 25,
+      "why": "AI & infrastructure"
+    },
+    {
+      "url": "https://ideas.everywhere.vc/p/wallbreakers-and-scientists-todays",
+      "title": "Wallbreakers and Scientists: Today\u2019s Founder Archetypes",
+      "published_at": "2026-08-12T13:31:09+00:00",
+      "kind": "article",
+      "source": "Everywhere VC",
+      "source_url": "https://everywherevc.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 25,
+      "why": "Startups & investing"
+    },
+    {
       "url": "https://insights.euclid.vc/p/venture-capitals-blackstone-problem-rick-zullo-equal-ventures",
       "title": "Venture Capital's Blackstone Problem",
       "published_at": "2026-08-05T17:31:22+00:00",
@@ -3170,7 +4082,8 @@
       "source": "Import AI",
       "source_url": "https://jack-clark.net/",
       "categories": [
-        "AI"
+        "AI",
+        "Newsletters"
       ],
       "first_seen_at": "2026-09-24T03:48:01.272420+00:00",
       "score": 25,
@@ -3184,7 +4097,8 @@
       "source": "Import AI",
       "source_url": "https://jack-clark.net/",
       "categories": [
-        "AI"
+        "AI",
+        "Newsletters"
       ],
       "first_seen_at": "2026-09-24T03:48:01.272420+00:00",
       "score": 25,
@@ -3198,7 +4112,8 @@
       "source": "Import AI",
       "source_url": "https://jack-clark.net/",
       "categories": [
-        "AI"
+        "AI",
+        "Newsletters"
       ],
       "first_seen_at": "2026-09-24T03:48:01.272420+00:00",
       "score": 25,
@@ -3212,7 +4127,8 @@
       "source": "Import AI",
       "source_url": "https://jack-clark.net/",
       "categories": [
-        "AI"
+        "AI",
+        "Newsletters"
       ],
       "first_seen_at": "2026-09-24T03:48:01.272420+00:00",
       "score": 25,
@@ -3226,7 +4142,8 @@
       "source": "Import AI",
       "source_url": "https://jack-clark.net/",
       "categories": [
-        "AI"
+        "AI",
+        "Newsletters"
       ],
       "first_seen_at": "2026-09-24T03:48:01.272420+00:00",
       "score": 25,
@@ -3240,7 +4157,8 @@
       "source": "Import AI",
       "source_url": "https://jack-clark.net/",
       "categories": [
-        "AI"
+        "AI",
+        "Newsletters"
       ],
       "first_seen_at": "2026-09-24T03:48:01.272420+00:00",
       "score": 25,
@@ -3257,6 +4175,160 @@
         "Solo blogs"
       ],
       "first_seen_at": "2026-09-24T03:48:01.272420+00:00",
+      "score": 25,
+      "why": "Startups & investing"
+    },
+    {
+      "url": "https://news.poach.vc/p/0190-1x-robot-hands-lead-comfyui",
+      "title": "(0190) 1X Robot Hands Lead, ComfyUI Co-Founder & Jane Street to Anthropic",
+      "published_at": "2026-08-27T22:00:11+00:00",
+      "kind": "article",
+      "source": "Early Stage Founders (poach.vc)",
+      "source_url": "https://poach.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 25,
+      "why": "Startups & investing"
+    },
+    {
+      "url": "https://news.theaiexchange.com/p/30-of-companies-diy-d-an-ai-tool-vs-buying-software-this-year",
+      "title": "30% of companies DIY'd an AI tool vs buying software this year",
+      "published_at": "2026-09-01T13:11:36+00:00",
+      "kind": "article",
+      "source": "AMP (Formerly: The AI Exchange)",
+      "source_url": "https://theaiexchange.beehiiv.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 25,
+      "why": "AI & infrastructure"
+    },
+    {
+      "url": "https://news.theaiexchange.com/p/our-ai-watched-a-zoom-call-nobody-asked-it-to",
+      "title": "Our AI watched a zoom call. Nobody asked it to.",
+      "published_at": "2026-07-28T13:00:00+00:00",
+      "kind": "article",
+      "source": "AMP (Formerly: The AI Exchange)",
+      "source_url": "https://theaiexchange.beehiiv.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 25,
+      "why": "AI & infrastructure"
+    },
+    {
+      "url": "https://news.theaiexchange.com/p/why-stripe-is-betting-7b-it-won-t-matter-which-ai-you-use",
+      "title": "Why Stripe is betting $7B it won't matter which AI you use",
+      "published_at": "2026-08-18T13:00:00+00:00",
+      "kind": "article",
+      "source": "AMP (Formerly: The AI Exchange)",
+      "source_url": "https://theaiexchange.beehiiv.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 25,
+      "why": "AI & infrastructure"
+    },
+    {
+      "url": "https://news.theaiexchange.com/p/working-with-ai-just-became-a-legal-requirement",
+      "title": "Working with AI just became a legal requirement",
+      "published_at": "2026-08-11T12:54:57+00:00",
+      "kind": "article",
+      "source": "AMP (Formerly: The AI Exchange)",
+      "source_url": "https://theaiexchange.beehiiv.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 25,
+      "why": "AI & infrastructure"
+    },
+    {
+      "url": "https://nycb2b.beehiiv.com/p/nyc-startup-events-for-founders-operators-7-29-11-5",
+      "title": "\ud83d\uddfd NYC Startup Events for Founders + Operators [7/29 - 11/5] \ud83d\ude80",
+      "published_at": "2026-07-29T13:00:00+00:00",
+      "kind": "article",
+      "source": "NYC B2B",
+      "source_url": "https://nycb2b.beehiiv.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 25,
+      "why": "Startups & investing"
+    },
+    {
+      "url": "https://nycb2b.beehiiv.com/p/nyc-startup-events-for-founders-operators-8-13-11-10",
+      "title": "\ud83d\uddfd NYC Startup Events for Founders + Operators [8/13 - 11/10] \ud83d\ude80",
+      "published_at": "2026-08-13T13:00:00+00:00",
+      "kind": "article",
+      "source": "NYC B2B",
+      "source_url": "https://nycb2b.beehiiv.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 25,
+      "why": "Startups & investing"
+    },
+    {
+      "url": "https://nycb2b.beehiiv.com/p/nyc-startup-events-for-founders-operators-8-19-11-10",
+      "title": "\ud83d\uddfd NYC Startup Events for Founders + Operators [8/19 - 11/10] \ud83d\ude80",
+      "published_at": "2026-08-19T13:00:00+00:00",
+      "kind": "article",
+      "source": "NYC B2B",
+      "source_url": "https://nycb2b.beehiiv.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 25,
+      "why": "Startups & investing"
+    },
+    {
+      "url": "https://nycb2b.beehiiv.com/p/nyc-startup-events-for-founders-operators-8-26-11-10",
+      "title": "\ud83d\uddfd NYC Startup Events for Founders + Operators [8/26 - 11/10] \ud83d\ude80",
+      "published_at": "2026-08-26T13:00:00+00:00",
+      "kind": "article",
+      "source": "NYC B2B",
+      "source_url": "https://nycb2b.beehiiv.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 25,
+      "why": "Startups & investing"
+    },
+    {
+      "url": "https://nycb2b.beehiiv.com/p/nyc-startup-events-for-founders-operators-8-6-11-10",
+      "title": "\ud83d\uddfd NYC Startup Events for Founders + Operators [8/6 - 11/10] \ud83d\ude80",
+      "published_at": "2026-08-06T13:00:00+00:00",
+      "kind": "article",
+      "source": "NYC B2B",
+      "source_url": "https://nycb2b.beehiiv.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 25,
+      "why": "Startups & investing"
+    },
+    {
+      "url": "https://nycb2b.beehiiv.com/p/nyc-startup-events-for-founders-operators-9-1-11-10",
+      "title": "\ud83d\uddfd NYC Startup Events for Founders + Operators [9/1 - 11/10] \ud83d\ude80",
+      "published_at": "2026-09-01T13:00:00+00:00",
+      "kind": "article",
+      "source": "NYC B2B",
+      "source_url": "https://nycb2b.beehiiv.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
       "score": 25,
       "why": "Startups & investing"
     },
@@ -3285,6 +4357,34 @@
         "China"
       ],
       "first_seen_at": "2026-09-24T03:48:01.272420+00:00",
+      "score": 25,
+      "why": "AI & infrastructure"
+    },
+    {
+      "url": "https://www.bensbites.com/p/do-you-use-a-personal-agent",
+      "title": "Do you use a personal agent?",
+      "published_at": "2026-08-18T13:01:18+00:00",
+      "kind": "article",
+      "source": "Ben's Bites",
+      "source_url": "https://bensbites.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 25,
+      "why": "AI & infrastructure"
+    },
+    {
+      "url": "https://www.bensbites.com/p/im-using-a-new-agent-app",
+      "title": "I'm using a new agent app",
+      "published_at": "2026-08-06T13:03:28+00:00",
+      "kind": "article",
+      "source": "Ben's Bites",
+      "source_url": "https://bensbites.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
       "score": 25,
       "why": "AI & infrastructure"
     },
@@ -3345,6 +4445,230 @@
       "why": "AI & infrastructure"
     },
     {
+      "url": "https://www.dwarkesh.com/p/ajeya-cotra",
+      "title": "Ajeya Cotra \u2013 Inside the OpenAI agent swarm that hacked Hugging Face",
+      "published_at": "2026-09-01T15:41:06+00:00",
+      "kind": "article",
+      "source": "Dwarkesh Podcast",
+      "source_url": "https://dwarkesh.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 25,
+      "why": "AI & infrastructure"
+    },
+    {
+      "url": "https://www.dwarkesh.com/p/dylan-patel-3",
+      "title": "Dylan Patel \u2013 Anthropic & OpenAI will have most of the world\u2019s compute by 2028",
+      "published_at": "2026-08-25T15:32:57+00:00",
+      "kind": "article",
+      "source": "Dwarkesh Podcast",
+      "source_url": "https://dwarkesh.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 25,
+      "why": "AI & infrastructure"
+    },
+    {
+      "url": "https://www.dwarkesh.com/p/openai-huggingface",
+      "title": "The Rise and Fall of Agent Civilizations",
+      "published_at": "2026-08-29T22:47:53+00:00",
+      "kind": "article",
+      "source": "Dwarkesh Podcast",
+      "source_url": "https://dwarkesh.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 25,
+      "why": "AI & infrastructure"
+    },
+    {
+      "url": "https://www.dwarkesh.com/p/openai-huggingface-narration",
+      "title": "The rise and fall of agent civilizations",
+      "published_at": "2026-08-31T20:36:53+00:00",
+      "kind": "article",
+      "source": "Dwarkesh Podcast",
+      "source_url": "https://dwarkesh.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 25,
+      "why": "AI & infrastructure"
+    },
+    {
+      "url": "https://www.dwarkesh.com/p/ryan-greenblatt",
+      "title": "Ryan Greenblatt \u2013 What happens once AI can automate AI research?",
+      "published_at": "2026-08-11T16:31:23+00:00",
+      "kind": "article",
+      "source": "Dwarkesh Podcast",
+      "source_url": "https://dwarkesh.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 25,
+      "why": "AI & infrastructure"
+    },
+    {
+      "url": "https://www.dwarkesh.com/p/why-compute-might-get-10x-more-expensive",
+      "title": "Why compute might get 10x+ more expensive in coming years",
+      "published_at": "2026-07-29T15:01:35+00:00",
+      "kind": "article",
+      "source": "Dwarkesh Podcast",
+      "source_url": "https://dwarkesh.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 25,
+      "why": "AI & infrastructure"
+    },
+    {
+      "url": "https://www.dwarkesh.com/p/why-compute-might-get-10x-more-expensive-video",
+      "title": "Why smarter AI models could drive up compute prices 10x",
+      "published_at": "2026-08-03T17:32:13+00:00",
+      "kind": "article",
+      "source": "Dwarkesh Podcast",
+      "source_url": "https://dwarkesh.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 25,
+      "why": "AI & infrastructure"
+    },
+    {
+      "url": "https://www.newcomer.co/p/a16zs-martin-casado-bullish-on-ai",
+      "title": "A16z\u2019s Martin Casado: Bullish on AI Apps, Bearish on Lone Ranger VCs",
+      "published_at": "2026-08-26T15:59:38+00:00",
+      "kind": "article",
+      "source": "Newcomer",
+      "source_url": "https://newcomer.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 25,
+      "why": "AI & infrastructure"
+    },
+    {
+      "url": "https://www.newcomer.co/p/ai-frenzy-brings-dual-valuation-deals",
+      "title": "AI Frenzy Brings Dual Valuation Deals into the Mainstream",
+      "published_at": "2026-08-13T14:09:39+00:00",
+      "kind": "article",
+      "source": "Newcomer",
+      "source_url": "https://newcomer.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 25,
+      "why": "AI & infrastructure"
+    },
+    {
+      "url": "https://www.newcomer.co/p/nvidia-is-carrying-the-ai-economy",
+      "title": "Nvidia Is Carrying the AI Economy. Is That a Problem?",
+      "published_at": "2026-08-28T14:58:48+00:00",
+      "kind": "article",
+      "source": "Newcomer",
+      "source_url": "https://newcomer.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 25,
+      "why": "AI & infrastructure"
+    },
+    {
+      "url": "https://www.newcomer.co/p/thrive-capital-finds-its-lane-as",
+      "title": "Thrive Capital Finds its Lane as a New Kind of Venture Investor",
+      "published_at": "2026-08-14T15:23:43+00:00",
+      "kind": "article",
+      "source": "Newcomer",
+      "source_url": "https://newcomer.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 25,
+      "why": "Startups & investing"
+    },
+    {
+      "url": "https://www.newcomer.co/p/two-huge-exits-show-the-power-of",
+      "title": "Two Huge Exits Show the Power of a16z\u2019s Megafund Model",
+      "published_at": "2026-08-21T15:18:54+00:00",
+      "kind": "article",
+      "source": "Newcomer",
+      "source_url": "https://newcomer.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 25,
+      "why": "AI & infrastructure"
+    },
+    {
+      "url": "https://www.prosaictimes.com/p/i-found-my-people-on-college-hill",
+      "title": "I found my people on College Hill -- let\u2019s hope they find value in AI there",
+      "published_at": "2026-08-23T22:39:38+00:00",
+      "kind": "article",
+      "source": "Prosaic Times",
+      "source_url": "https://prosaictimes.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 25,
+      "why": "AI & infrastructure"
+    },
+    {
+      "url": "https://www.prosaictimes.com/p/the-harness-the-model-and-the-worm",
+      "title": "The Harness, the Model, and the Worm",
+      "published_at": "2026-08-09T21:30:29+00:00",
+      "kind": "article",
+      "source": "Prosaic Times",
+      "source_url": "https://prosaictimes.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 25,
+      "why": "AI & infrastructure"
+    },
+    {
+      "url": "https://www.prosaictimes.com/p/the-rise-of-the-stupid-model",
+      "title": "The rise of the stupid model?",
+      "published_at": "2026-08-30T22:45:26+00:00",
+      "kind": "article",
+      "source": "Prosaic Times",
+      "source_url": "https://prosaictimes.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 25,
+      "why": "AI & infrastructure"
+    },
+    {
+      "url": "https://www.sourcery.vc/p/breaking-voice-ai-is-dominating",
+      "title": "BREAKING: Voice AI is Dominating",
+      "published_at": "2026-08-02T14:26:53+00:00",
+      "kind": "article",
+      "source": "Sourcery",
+      "source_url": "https://mollysoshea.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 25,
+      "why": "AI & infrastructure"
+    },
+    {
       "url": "https://sinocism.com/p/xi-arrives-in-dc-pla-daily-editorial",
       "title": "Xi arrives in DC; PLA Daily editorial on Zhang Youxia and Liu Zhenli; ODI; Nuclear weapons",
       "published_at": "2026-09-23T22:28:05+00:00",
@@ -3359,6 +4683,20 @@
       "why": "From a followed source"
     },
     {
+      "url": "https://ideas.everywhere.vc/p/m7-health-joins-ascend-learning",
+      "title": "M7 Health Joins Ascend Learning",
+      "published_at": "2026-09-23T20:20:28+00:00",
+      "kind": "article",
+      "source": "Everywhere VC",
+      "source_url": "https://everywherevc.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 19.7,
+      "why": "From a followed source"
+    },
+    {
       "url": "https://marginalrevolution.com/marginalrevolution/2026/09/from-the-master-of-industrial-organization.html",
       "title": "From the Master of Industrial Organization",
       "published_at": "2026-09-23T21:40:20+00:00",
@@ -3370,6 +4708,34 @@
       ],
       "first_seen_at": "2026-09-24T03:48:01.272420+00:00",
       "score": 19.7,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://www.newcomer.co/p/crusoe-is-on-track-for-2-billion",
+      "title": "Crusoe Is on Track for $2 Billion in Revenue as the Data Center Backlash Builds",
+      "published_at": "2026-09-23T20:38:48+00:00",
+      "kind": "article",
+      "source": "Newcomer",
+      "source_url": "https://newcomer.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 19.7,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://www.sourcery.vc/p/icymi-brad-gerstner-and-rob-goldberg",
+      "title": "ICYMI: Brad Gerstner & Rob Goldberg on the #1 Test for Heart Disease Prevention (You Probably Haven\u2019t Taken)",
+      "published_at": "2026-09-23T17:12:30+00:00",
+      "kind": "article",
+      "source": "Sourcery",
+      "source_url": "https://mollysoshea.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 19.6,
       "why": "From a followed source"
     },
     {
@@ -3411,6 +4777,20 @@
         "Cyber"
       ],
       "first_seen_at": "2026-09-24T03:48:01.272420+00:00",
+      "score": 19.4,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://ideas.everywhere.vc/p/stockpress-jessica-storry-founders-everywhere",
+      "title": "Founders Everywhere: Jessica Storry",
+      "published_at": "2026-09-23T13:31:32+00:00",
+      "kind": "article",
+      "source": "Everywhere VC",
+      "source_url": "https://everywherevc.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
       "score": 19.4,
       "why": "From a followed source"
     },
@@ -3481,7 +4861,7 @@
         "China"
       ],
       "first_seen_at": "2026-09-24T03:48:01.272420+00:00",
-      "score": 19.3,
+      "score": 19.2,
       "why": "From a followed source"
     },
     {
@@ -3555,6 +4935,20 @@
       "why": "From a followed source"
     },
     {
+      "url": "https://www.sourcery.vc/p/breaking-a16z-launches-a-school",
+      "title": "BREAKING: a16z Launches a School",
+      "published_at": "2026-09-22T16:09:30+00:00",
+      "kind": "article",
+      "source": "Sourcery",
+      "source_url": "https://mollysoshea.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 18.5,
+      "why": "From a followed source"
+    },
+    {
       "url": "https://cybersecurityventures.com/ctrl-alt-hacked-at-gdc-festival-of-gaming-mar-1-5-2027/",
       "title": "CTRL, ALT, HACKED at GDC Festival of Gaming, Mar. 1-5, 2027",
       "published_at": "2026-09-22T12:44:20+00:00",
@@ -3593,6 +4987,20 @@
         "AI"
       ],
       "first_seen_at": "2026-09-24T03:48:01.272420+00:00",
+      "score": 18.4,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://www.bensbites.com/p/what-can-you-build-with-jev",
+      "title": "What can you build with Jev",
+      "published_at": "2026-09-22T13:01:13+00:00",
+      "kind": "article",
+      "source": "Ben's Bites",
+      "source_url": "https://bensbites.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
       "score": 18.4,
       "why": "From a followed source"
     },
@@ -3681,6 +5089,34 @@
       "why": "From a followed source"
     },
     {
+      "url": "https://thescienceofhitting.com/p/going-through-some-pain",
+      "title": "\u201cGoing Through Some Pain\u201d",
+      "published_at": "2026-09-21T10:31:03+00:00",
+      "kind": "article",
+      "source": "TSOH Investment Research",
+      "source_url": "https://thescienceofhitting.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 17.3,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://www.gmnyc.com/p/gm-nyc-2ec",
+      "title": "\u02dc*\uff65\u0f13 gm nyc \u0f13\uff65*",
+      "published_at": "2026-09-21T10:53:44+00:00",
+      "kind": "article",
+      "source": "gm NYC",
+      "source_url": "https://gmnyc.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 17.3,
+      "why": "From a followed source"
+    },
+    {
       "url": "https://marginalrevolution.com/marginalrevolution/2026/09/sunday-assorted-links-583.html",
       "title": "Sunday assorted links",
       "published_at": "2026-09-20T17:42:50+00:00",
@@ -3691,6 +5127,20 @@
         "Solo blogs"
       ],
       "first_seen_at": "2026-09-24T03:48:01.272420+00:00",
+      "score": 16.6,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://www.prosaictimes.com/p/you-cant-learn-much-without-wasting",
+      "title": "You can\u2019t learn much without wasting time",
+      "published_at": "2026-09-20T18:27:03+00:00",
+      "kind": "article",
+      "source": "Prosaic Times",
+      "source_url": "https://prosaictimes.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
       "score": 16.6,
       "why": "From a followed source"
     },
@@ -3737,6 +5187,20 @@
       "why": "From a followed source"
     },
     {
+      "url": "https://www.sourcery.vc/p/icymi-how-bending-spoons-works",
+      "title": "ICYMI: How Bending Spoons Works",
+      "published_at": "2026-09-20T14:11:01+00:00",
+      "kind": "article",
+      "source": "Sourcery",
+      "source_url": "https://mollysoshea.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 16.4,
+      "why": "From a followed source"
+    },
+    {
       "url": "https://www.chinatalk.media/p/i-went-to-kyrgyzstan-to-find-chinas",
       "title": "I Went to Kyrgyzstan to Find China\u2019s Silent Nomads",
       "published_at": "2026-09-20T11:53:42+00:00",
@@ -3765,6 +5229,20 @@
       "why": "From a followed source"
     },
     {
+      "url": "https://www.spatialintelligence.ai/p/gods-eye-view-blew-up-then-astra",
+      "title": "God\u2019s Eye View Blew Up. Then Astra Showed Up.",
+      "published_at": "2026-09-19T17:38:45+00:00",
+      "kind": "article",
+      "source": "Map the World by Bilawal Sidhu",
+      "source_url": "https://creativetechnologydigest.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 15.6,
+      "why": "From a followed source"
+    },
+    {
       "url": "https://towardsdatascience.com/one-vendor-four-spellings-how-deterministic-stages-beat-similarity-scores/",
       "title": "One Vendor, Four Spellings: How Deterministic Stages Beat Similarity Scores",
       "published_at": "2026-09-19T15:00:01+00:00",
@@ -3779,6 +5257,20 @@
       "why": "From a followed source"
     },
     {
+      "url": "https://www.sourcery.vc/p/breaking-luca-ferrari-ceo-of-bending",
+      "title": "BREAKING: Luca Ferrari CEO of Bending Spoons",
+      "published_at": "2026-09-19T14:16:48+00:00",
+      "kind": "article",
+      "source": "Sourcery",
+      "source_url": "https://mollysoshea.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 15.4,
+      "why": "From a followed source"
+    },
+    {
       "url": "https://matklad.github.io/2026/09/19/finding-bugs.html",
       "title": "Finding Bugs",
       "published_at": "2026-09-19T00:00:00+00:00",
@@ -3790,6 +5282,20 @@
       ],
       "first_seen_at": "2026-09-24T03:48:01.272420+00:00",
       "score": 14.8,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://thescienceofhitting.com/p/tsoh-weekly-roundup-09182026",
+      "title": "TSOH Weekly Roundup (09/18/2026)",
+      "published_at": "2026-09-18T15:04:08+00:00",
+      "kind": "article",
+      "source": "TSOH Investment Research",
+      "source_url": "https://thescienceofhitting.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 14.5,
       "why": "From a followed source"
     },
     {
@@ -3821,6 +5327,62 @@
       "why": "From a followed source"
     },
     {
+      "url": "https://www.bensbites.com/p/new-home-for-cowork",
+      "title": "New home for Cowork",
+      "published_at": "2026-09-17T13:02:21+00:00",
+      "kind": "article",
+      "source": "Ben's Bites",
+      "source_url": "https://bensbites.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 13.4,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://thescienceofhitting.com/p/fever-tree-beyond-tonics",
+      "title": "Fever-Tree: Beyond Tonics",
+      "published_at": "2026-09-17T10:31:39+00:00",
+      "kind": "article",
+      "source": "TSOH Investment Research",
+      "source_url": "https://thescienceofhitting.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 13.3,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://www.gmnyc.com/p/jobs-at-cognition-highstock-evvy",
+      "title": "\u02dc*\uff65\u0f13 jobs at cognition, highstock, evvy, and more \u0f13\uff65*",
+      "published_at": "2026-09-17T10:52:43+00:00",
+      "kind": "article",
+      "source": "gm NYC",
+      "source_url": "https://gmnyc.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 13.3,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://blog.southparkcommons.com/p/the-case-for-talent-density-in-1",
+      "title": "The Case for Talent Density in -1 to 0",
+      "published_at": "2026-09-16T16:06:54+00:00",
+      "kind": "article",
+      "source": "South Park Commons",
+      "source_url": "https://southparkcommons.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 12.5,
+      "why": "From a followed source"
+    },
+    {
       "url": "https://cybersecurityventures.com/blake-benthall-aka-defcon-former-operator-of-silk-road-2-0-tells-his-story/",
       "title": "Blake Benthall aka \u201cDefcon\u201d, Former Operator of Silk Road 2.0, Tells His Story",
       "published_at": "2026-09-16T13:19:01+00:00",
@@ -3832,6 +5394,20 @@
       ],
       "first_seen_at": "2026-09-24T03:48:01.272420+00:00",
       "score": 12.4,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://ideas.everywhere.vc/p/segwise-brijesh-bharadwaj-founders-everywhere",
+      "title": "Founders Everywhere: Brijesh Bharadwaj",
+      "published_at": "2026-09-16T12:14:49+00:00",
+      "kind": "article",
+      "source": "Everywhere VC",
+      "source_url": "https://everywherevc.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 12.3,
       "why": "From a followed source"
     },
     {
@@ -3877,6 +5453,20 @@
       "why": "From a followed source"
     },
     {
+      "url": "https://ideas.everywhere.vc/p/axo-longevity-raises-oversubscribed",
+      "title": "Axo Longevity Raises Oversubscribed $5M Seed Round",
+      "published_at": "2026-09-15T19:06:28+00:00",
+      "kind": "article",
+      "source": "Everywhere VC",
+      "source_url": "https://everywherevc.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 11.6,
+      "why": "From a followed source"
+    },
+    {
       "url": "https://cybersecurityventures.com/6-of-the-best-autonomous-penetration-testing-companies-in-2026/",
       "title": "6 of the Best Autonomous Penetration Testing Companies in 2026",
       "published_at": "2026-09-15T12:49:39+00:00",
@@ -3887,6 +5477,20 @@
         "Cyber"
       ],
       "first_seen_at": "2026-09-24T03:48:01.272420+00:00",
+      "score": 11.4,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://www.bensbites.com/p/good-luck-slowing-this-down",
+      "title": "Good luck slowing this down",
+      "published_at": "2026-09-15T13:02:52+00:00",
+      "kind": "article",
+      "source": "Ben's Bites",
+      "source_url": "https://bensbites.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
       "score": 11.4,
       "why": "From a followed source"
     },
@@ -3905,6 +5509,34 @@
       "why": "From a followed source"
     },
     {
+      "url": "https://news.poach.vc/p/0191-ex-rippling-ex-tesla-and-a-rhodes",
+      "title": "(0191) Ex-Rippling, Ex-Tesla & a Rhodes Scholar Doctor in Stealth",
+      "published_at": "2026-09-14T19:12:06+00:00",
+      "kind": "article",
+      "source": "Early Stage Founders (poach.vc)",
+      "source_url": "https://poach.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 10.6,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://ideas.everywhere.vc/p/boomeranghr-emerges-from-stealth",
+      "title": "BoomerangHR Emerges From Stealth With $12.7M Seed Round",
+      "published_at": "2026-09-14T16:55:00+00:00",
+      "kind": "article",
+      "source": "Everywhere VC",
+      "source_url": "https://everywherevc.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 10.5,
+      "why": "From a followed source"
+    },
+    {
       "url": "https://cybersecurityventures.com/the-ciso-gap-is-a-huge-smb-cybersecurity-opportunity-for-mssps/",
       "title": "The CISO Gap Is A Huge SMB Cybersecurity Opportunity For MSSPs",
       "published_at": "2026-09-14T12:52:15+00:00",
@@ -3916,6 +5548,48 @@
       ],
       "first_seen_at": "2026-09-24T03:48:01.272420+00:00",
       "score": 10.4,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://www.sourcery.vc/p/breaking-inside-bending-spoons-bsp",
+      "title": "BREAKING: Inside Bending Spoons ($BSP)",
+      "published_at": "2026-09-14T13:50:31+00:00",
+      "kind": "article",
+      "source": "Sourcery",
+      "source_url": "https://mollysoshea.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 10.4,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://thescienceofhitting.com/p/alarmcom-false-alarm",
+      "title": "Alarm.com: False Alarm?",
+      "published_at": "2026-09-14T10:31:35+00:00",
+      "kind": "article",
+      "source": "TSOH Investment Research",
+      "source_url": "https://thescienceofhitting.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 10.3,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://www.gmnyc.com/p/gm-nyc-18e",
+      "title": "\u02dc*\uff65\u0f13 gm nyc \u0f13\uff65*",
+      "published_at": "2026-09-14T10:44:41+00:00",
+      "kind": "article",
+      "source": "gm NYC",
+      "source_url": "https://gmnyc.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 10.3,
       "why": "From a followed source"
     },
     {
@@ -3933,6 +5607,62 @@
       "why": "From a followed source"
     },
     {
+      "url": "https://www.sourcery.vc/p/breaking-all-4-saronic-co-founders",
+      "title": "BREAKING: All 4 Saronic Co-Founders (Part III)",
+      "published_at": "2026-09-11T16:28:40+00:00",
+      "kind": "article",
+      "source": "Sourcery",
+      "source_url": "https://mollysoshea.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 7.5,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://www.sourcery.vc/p/breaking-saronic-ceo-dino-mavrookas",
+      "title": "BREAKING: Saronic CEO Dino Mavrookas (Part II)",
+      "published_at": "2026-09-11T16:14:19+00:00",
+      "kind": "article",
+      "source": "Sourcery",
+      "source_url": "https://mollysoshea.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 7.5,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://www.sourcery.vc/p/breaking-saronic-hq-factory-tour",
+      "title": "BREAKING: Saronic HQ + Factory Tour (Part I)",
+      "published_at": "2026-09-11T16:11:41+00:00",
+      "kind": "article",
+      "source": "Sourcery",
+      "source_url": "https://mollysoshea.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 7.5,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://thescienceofhitting.com/p/tsoh-weekly-roundup-09112026",
+      "title": "TSOH Weekly Roundup (09/11/2026)",
+      "published_at": "2026-09-11T13:00:22+00:00",
+      "kind": "article",
+      "source": "TSOH Investment Research",
+      "source_url": "https://thescienceofhitting.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 7.4,
+      "why": "From a followed source"
+    },
+    {
       "url": "https://worksinprogress.co/issue/do-people-prefer-traditional-architecture/",
       "title": "Do people prefer traditional architecture?",
       "published_at": "2026-09-11T10:51:45+00:00",
@@ -3947,6 +5677,34 @@
       "why": "From a followed source"
     },
     {
+      "url": "https://www.newcomer.co/p/exclusive-tech-reporter-alex-heath",
+      "title": "EXCLUSIVE: Tech Reporter Alex Heath Turns VC, Joins Sound Ventures",
+      "published_at": "2026-09-10T15:01:46+00:00",
+      "kind": "article",
+      "source": "Newcomer",
+      "source_url": "https://newcomer.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 6.5,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://www.bensbites.com/p/everyone-needs-a-muse",
+      "title": "Everyone needs a Muse",
+      "published_at": "2026-09-10T13:03:34+00:00",
+      "kind": "article",
+      "source": "Ben's Bites",
+      "source_url": "https://bensbites.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 6.4,
+      "why": "From a followed source"
+    },
+    {
       "url": "https://www.chinatalk.media/p/the-king-of-unitree",
       "title": "The King of Unitree",
       "published_at": "2026-09-10T11:08:46+00:00",
@@ -3957,6 +5715,20 @@
         "China"
       ],
       "first_seen_at": "2026-09-24T03:48:01.272420+00:00",
+      "score": 6.3,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://www.gmnyc.com/p/jobs-at-hugging-face-blee-222-and",
+      "title": "\u02dc*\uff65\u0f13 jobs at hugging face, blee, 222, and more \u0f13\uff65*",
+      "published_at": "2026-09-10T10:58:35+00:00",
+      "kind": "article",
+      "source": "gm NYC",
+      "source_url": "https://gmnyc.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
       "score": 6.3,
       "why": "From a followed source"
     },
@@ -3989,6 +5761,20 @@
       "why": "From a followed source"
     },
     {
+      "url": "https://ideas.everywhere.vc/p/attend-aaron-holland-founders-everywhere",
+      "title": "Founders Everywhere: Aaron Holland",
+      "published_at": "2026-09-09T13:36:18+00:00",
+      "kind": "article",
+      "source": "Everywhere VC",
+      "source_url": "https://everywherevc.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 5.4,
+      "why": "From a followed source"
+    },
+    {
       "url": "https://www.chinatalk.media/p/can-taiwan-build-drones",
       "title": "Can Taiwan Build Drones?",
       "published_at": "2026-09-09T12:54:44+00:00",
@@ -4014,6 +5800,34 @@
       ],
       "first_seen_at": "2026-09-24T03:48:01.272420+00:00",
       "score": 5.1,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://www.dwarkesh.com/p/pretraining-progress-is-mostly-data",
+      "title": "Pretraining progress is mostly coming from data",
+      "published_at": "2026-09-08T16:10:16+00:00",
+      "kind": "article",
+      "source": "Dwarkesh Podcast",
+      "source_url": "https://dwarkesh.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 4.5,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://news.theaiexchange.com/p/gpt-6-can-do-the-work-can-your-instructions-survive-it",
+      "title": "GPT-6 can do the work. Can your instructions survive it?",
+      "published_at": "2026-09-08T13:00:00+00:00",
+      "kind": "article",
+      "source": "AMP (Formerly: The AI Exchange)",
+      "source_url": "https://theaiexchange.beehiiv.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 4.4,
       "why": "From a followed source"
     },
     {
@@ -4059,6 +5873,34 @@
       "why": "From a followed source"
     },
     {
+      "url": "https://thescienceofhitting.com/p/celsius-the-pepsi-put",
+      "title": "Celsius: The Pepsi Put",
+      "published_at": "2026-09-07T10:30:13+00:00",
+      "kind": "article",
+      "source": "TSOH Investment Research",
+      "source_url": "https://thescienceofhitting.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 3.3,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://www.gmnyc.com/p/gm-nyc-62d",
+      "title": "\u02dc*\uff65\u0f13 gm nyc \u0f13\uff65*",
+      "published_at": "2026-09-07T10:59:33+00:00",
+      "kind": "article",
+      "source": "gm NYC",
+      "source_url": "https://gmnyc.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 3.3,
+      "why": "From a followed source"
+    },
+    {
       "url": "https://www.beren.io/2026-09-06-Math-Capabilities-Could-Be-Differentially-Good-For-Alignment/",
       "title": "Math Capabilities could be Differentially Good for Alignment",
       "published_at": "2026-09-06T07:00:00+00:00",
@@ -4084,6 +5926,48 @@
       ],
       "first_seen_at": "2026-09-24T03:48:01.272420+00:00",
       "score": 1.5,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://thescienceofhitting.com/p/tsoh-weekly-roundup-09042026",
+      "title": "TSOH Weekly Roundup (09/04/2026)",
+      "published_at": "2026-09-04T15:03:02+00:00",
+      "kind": "article",
+      "source": "TSOH Investment Research",
+      "source_url": "https://thescienceofhitting.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 0.5,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://www.bensbites.com/p/scraping-107m-rows-of-data-to-build",
+      "title": "Scraping 107M rows of data to build this",
+      "published_at": "2026-09-04T14:56:17+00:00",
+      "kind": "article",
+      "source": "Ben's Bites",
+      "source_url": "https://bensbites.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 0.5,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://www.newcomer.co/p/tim-cook-was-a-great-ceo-the-tech",
+      "title": "Tim Cook Was a Great CEO. The Tech Industry Needs a Statesman.",
+      "published_at": "2026-09-04T15:47:36+00:00",
+      "kind": "article",
+      "source": "Newcomer",
+      "source_url": "https://newcomer.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 0.5,
       "why": "From a followed source"
     },
     {
@@ -6901,6 +8785,118 @@
       "why": "From a followed source; publication date unknown"
     },
     {
+      "url": "https://blog.southparkcommons.com/p/announcing-spcs-575m-fund-iv",
+      "title": "Announcing SPC\u2019s $575M Fund IV",
+      "published_at": "2026-08-05T19:07:55+00:00",
+      "kind": "article",
+      "source": "South Park Commons",
+      "source_url": "https://southparkcommons.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 0,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://blog.southparkcommons.com/p/august-2026-update",
+      "title": "August 2026 Update",
+      "published_at": "2026-08-28T19:23:37+00:00",
+      "kind": "article",
+      "source": "South Park Commons",
+      "source_url": "https://southparkcommons.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 0,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://blog.southparkcommons.com/p/july-2026-update",
+      "title": "July 2026 Update",
+      "published_at": "2026-07-31T18:25:01+00:00",
+      "kind": "article",
+      "source": "South Park Commons",
+      "source_url": "https://southparkcommons.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 0,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://blog.southparkcommons.com/p/recapping-spcs-summer-2026-demo-faire",
+      "title": "Recapping SPC's Summer 2026 Demo Faire",
+      "published_at": "2026-07-29T21:53:32+00:00",
+      "kind": "article",
+      "source": "South Park Commons",
+      "source_url": "https://southparkcommons.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 0,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://blog.southparkcommons.com/p/the-map-begins-here",
+      "title": "The Map Begins Here",
+      "published_at": "2026-08-12T02:47:12+00:00",
+      "kind": "article",
+      "source": "South Park Commons",
+      "source_url": "https://southparkcommons.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 0,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://blog.southparkcommons.com/p/the-secret-superpower-of-great-founders",
+      "title": "The Secret Superpower of Great Founders",
+      "published_at": "2026-08-27T19:03:40+00:00",
+      "kind": "article",
+      "source": "South Park Commons",
+      "source_url": "https://southparkcommons.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 0,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://blog.southparkcommons.com/p/what-is-minus-1-to-0",
+      "title": "What is -1 to 0?",
+      "published_at": "2026-08-31T18:19:47+00:00",
+      "kind": "article",
+      "source": "South Park Commons",
+      "source_url": "https://southparkcommons.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 0,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://blog.southparkcommons.com/p/what-is-reward-hacking-and-can-we",
+      "title": "What Is Reward Hacking and Can We Stop It?",
+      "published_at": "2026-08-20T22:34:37+00:00",
+      "kind": "article",
+      "source": "South Park Commons",
+      "source_url": "https://southparkcommons.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 0,
+      "why": "From a followed source"
+    },
+    {
       "url": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/",
       "title": "Breaking Claude Code Opus 5 Auto Mode",
       "published_at": "2026-08-27T04:00:00+00:00",
@@ -6967,6 +8963,146 @@
         "Solo blogs"
       ],
       "first_seen_at": "2026-09-24T03:48:01.272420+00:00",
+      "score": 0,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://ideas.everywhere.vc/p/agree-will-hubbard-founders-everywhere",
+      "title": "Founders Everywhere: Will Hubbard",
+      "published_at": "2026-08-26T13:26:25+00:00",
+      "kind": "article",
+      "source": "Everywhere VC",
+      "source_url": "https://everywherevc.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 0,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://ideas.everywhere.vc/p/fishwife-brings-tinned-fish-to-the",
+      "title": "Fishwife Brings Tinned Fish to the Sweetgreen Lunch Line",
+      "published_at": "2026-08-20T13:35:31+00:00",
+      "kind": "article",
+      "source": "Everywhere VC",
+      "source_url": "https://everywherevc.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 0,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://ideas.everywhere.vc/p/handl-health-ria-shah-founders-everywhere",
+      "title": "Founders Everywhere: Ria Shah",
+      "published_at": "2026-08-19T13:00:06+00:00",
+      "kind": "article",
+      "source": "Everywhere VC",
+      "source_url": "https://everywherevc.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 0,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://ideas.everywhere.vc/p/jenny-fielding-on-standards-as-signal",
+      "title": "Jenny Fielding on Standards as Signal",
+      "published_at": "2026-07-31T13:30:58+00:00",
+      "kind": "article",
+      "source": "Everywhere VC",
+      "source_url": "https://everywherevc.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 0,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://ideas.everywhere.vc/p/mito-dr-inaki-berenguer-founders-everywhere",
+      "title": "Founders Everywhere: Dr. I\u00f1aki Berenguer",
+      "published_at": "2026-09-02T13:30:16+00:00",
+      "kind": "article",
+      "source": "Everywhere VC",
+      "source_url": "https://everywherevc.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 0,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://ideas.everywhere.vc/p/north-cloud-yassine-acoine-founders-everywhere",
+      "title": "Founders Everywhere: Yassine A\u00e7oine",
+      "published_at": "2026-08-05T13:42:23+00:00",
+      "kind": "article",
+      "source": "Everywhere VC",
+      "source_url": "https://everywherevc.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 0,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://ideas.everywhere.vc/p/onelot-named-to-forbes-asias-100",
+      "title": "OneLot Named to Forbes Asia\u2019s 100 to Watch List",
+      "published_at": "2026-08-27T12:50:58+00:00",
+      "kind": "article",
+      "source": "Everywhere VC",
+      "source_url": "https://everywherevc.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 0,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://ideas.everywhere.vc/p/starcloud-raises-250m-to-build-orbital",
+      "title": "Starcloud Raises $250M to Build Orbital Data Centers",
+      "published_at": "2026-08-24T13:38:41+00:00",
+      "kind": "article",
+      "source": "Everywhere VC",
+      "source_url": "https://everywherevc.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 0,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://ideas.everywhere.vc/p/tim-hsia-on-the-veteran-transition",
+      "title": "Tim Hsia on the Veteran Transition Into Entrepreneurship",
+      "published_at": "2026-08-13T13:41:50+00:00",
+      "kind": "article",
+      "source": "Everywhere VC",
+      "source_url": "https://everywherevc.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 0,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://ideas.everywhere.vc/p/yumari-is-building-the-data-layer",
+      "title": "Yumari Is Building the Data Layer for Nearshoring in the Americas",
+      "published_at": "2026-08-18T15:44:11+00:00",
+      "kind": "article",
+      "source": "Everywhere VC",
+      "source_url": "https://everywherevc.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
       "score": 0,
       "why": "From a followed source"
     },
@@ -7139,6 +9275,48 @@
       "why": "From a followed source"
     },
     {
+      "url": "https://news.poach.vc/p/0188-ex-apple-ex-shopify-and-midjourney",
+      "title": "(0188) Ex-Apple, Ex-Shopify & Midjourney Hardware Founders",
+      "published_at": "2026-08-06T17:27:06+00:00",
+      "kind": "article",
+      "source": "Early Stage Founders (poach.vc)",
+      "source_url": "https://poach.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 0,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://news.poach.vc/p/0189-ex-nvidia-ex-jetbrains-and-a",
+      "title": "(0189) Ex-NVIDIA, Ex-JetBrains & a $950K/yr App with Zero Employees",
+      "published_at": "2026-08-21T22:43:37+00:00",
+      "kind": "article",
+      "source": "Early Stage Founders (poach.vc)",
+      "source_url": "https://poach.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 0,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://nycb2b.beehiiv.com/p/the-pre-seed-seed-list-30-b2b-founders-raising-now-40fa",
+      "title": "The Pre-Seed/Seed List: 30+ B2B Founders Raising Now \ud83d\ude80",
+      "published_at": "2026-08-03T13:00:00+00:00",
+      "kind": "article",
+      "source": "NYC B2B",
+      "source_url": "https://nycb2b.beehiiv.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 0,
+      "why": "From a followed source"
+    },
+    {
       "url": "https://sinocism.com/p/changes-unseen-strategies-uncharted",
       "title": "Changes Unseen, Strategies Uncharted | Sinification: August 2026",
       "published_at": "2026-08-30T22:23:14+00:00",
@@ -7191,6 +9369,188 @@
         "China"
       ],
       "first_seen_at": "2026-09-24T03:48:01.272420+00:00",
+      "score": 0,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://thescienceofhitting.com/p/dollar-tree-weathering-the-storm",
+      "title": "Dollar Tree: Weathering The Storm",
+      "published_at": "2026-08-31T10:30:38+00:00",
+      "kind": "article",
+      "source": "TSOH Investment Research",
+      "source_url": "https://thescienceofhitting.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 0,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://thescienceofhitting.com/p/meta-in-limbo",
+      "title": "Meta: In Limbo",
+      "published_at": "2026-08-06T10:31:14+00:00",
+      "kind": "article",
+      "source": "TSOH Investment Research",
+      "source_url": "https://thescienceofhitting.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 0,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://thescienceofhitting.com/p/microsoft-control-your-destiny",
+      "title": "Microsoft: Control Your Destiny",
+      "published_at": "2026-08-03T10:31:13+00:00",
+      "kind": "article",
+      "source": "TSOH Investment Research",
+      "source_url": "https://thescienceofhitting.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 0,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://thescienceofhitting.com/p/peloton-subscriber-squeeze",
+      "title": "Peloton: Subscriber Squeeze",
+      "published_at": "2026-08-10T10:30:44+00:00",
+      "kind": "article",
+      "source": "TSOH Investment Research",
+      "source_url": "https://thescienceofhitting.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 0,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://thescienceofhitting.com/p/portfolio-change-08202026",
+      "title": "Portfolio Change - 08/20/2026",
+      "published_at": "2026-08-20T13:01:25+00:00",
+      "kind": "article",
+      "source": "TSOH Investment Research",
+      "source_url": "https://thescienceofhitting.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 0,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://thescienceofhitting.com/p/portillos-strategic-reset",
+      "title": "Portillo\u2019s: Strategic Reset",
+      "published_at": "2026-08-24T10:31:14+00:00",
+      "kind": "article",
+      "source": "TSOH Investment Research",
+      "source_url": "https://thescienceofhitting.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 0,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://thescienceofhitting.com/p/roblox-accepting-uncertainty",
+      "title": "Roblox: Accepting Uncertainty",
+      "published_at": "2026-08-20T10:30:27+00:00",
+      "kind": "article",
+      "source": "TSOH Investment Research",
+      "source_url": "https://thescienceofhitting.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 0,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://thescienceofhitting.com/p/selling-where-they-aint",
+      "title": "Selling Where They Ain\u2019t",
+      "published_at": "2026-09-03T10:30:10+00:00",
+      "kind": "article",
+      "source": "TSOH Investment Research",
+      "source_url": "https://thescienceofhitting.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 0,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://thescienceofhitting.com/p/the-airbnb-blueprint",
+      "title": "The Airbnb Blueprint",
+      "published_at": "2026-08-17T10:32:06+00:00",
+      "kind": "article",
+      "source": "TSOH Investment Research",
+      "source_url": "https://thescienceofhitting.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 0,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://thescienceofhitting.com/p/tsoh-weekly-roundup-08072026",
+      "title": "TSOH Weekly Roundup (08/07/2026)",
+      "published_at": "2026-08-07T15:02:34+00:00",
+      "kind": "article",
+      "source": "TSOH Investment Research",
+      "source_url": "https://thescienceofhitting.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 0,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://thescienceofhitting.com/p/tsoh-weekly-roundup-08142026",
+      "title": "TSOH Weekly Roundup (08/14/2026)",
+      "published_at": "2026-08-14T15:02:06+00:00",
+      "kind": "article",
+      "source": "TSOH Investment Research",
+      "source_url": "https://thescienceofhitting.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 0,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://thescienceofhitting.com/p/tsoh-weekly-roundup-08212026",
+      "title": "TSOH Weekly Roundup (08/21/2026)",
+      "published_at": "2026-08-21T15:01:52+00:00",
+      "kind": "article",
+      "source": "TSOH Investment Research",
+      "source_url": "https://thescienceofhitting.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 0,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://thescienceofhitting.com/p/tsoh-weekly-roundup-08282026",
+      "title": "TSOH Weekly Roundup (08/28/2026)",
+      "published_at": "2026-08-28T15:01:34+00:00",
+      "kind": "article",
+      "source": "TSOH Investment Research",
+      "source_url": "https://thescienceofhitting.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
       "score": 0,
       "why": "From a followed source"
     },
@@ -7349,6 +9709,160 @@
       "why": "From a followed source"
     },
     {
+      "url": "https://www.bensbites.com/p/agents-on-your-mobile",
+      "title": "Agents on your mobile",
+      "published_at": "2026-08-25T13:03:32+00:00",
+      "kind": "article",
+      "source": "Ben's Bites",
+      "source_url": "https://bensbites.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 0,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://www.bensbites.com/p/bens-session",
+      "title": "Ben's session",
+      "published_at": "2026-08-07T12:58:51+00:00",
+      "kind": "article",
+      "source": "Ben's Bites",
+      "source_url": "https://bensbites.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 0,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://www.bensbites.com/p/bens-session-2",
+      "title": "Ben's session #2",
+      "published_at": "2026-08-14T13:04:03+00:00",
+      "kind": "article",
+      "source": "Ben's Bites",
+      "source_url": "https://bensbites.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 0,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://www.bensbites.com/p/build-your-ideas",
+      "title": "Build your ideas",
+      "published_at": "2026-09-01T13:04:30+00:00",
+      "kind": "article",
+      "source": "Ben's Bites",
+      "source_url": "https://bensbites.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 0,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://www.bensbites.com/p/fable-51",
+      "title": "Fable 5.1",
+      "published_at": "2026-09-03T13:03:56+00:00",
+      "kind": "article",
+      "source": "Ben's Bites",
+      "source_url": "https://bensbites.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 0,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://www.bensbites.com/p/grok-bot-is-not-what-you-think",
+      "title": "Grok Bot is not what you think",
+      "published_at": "2026-08-13T13:02:39+00:00",
+      "kind": "article",
+      "source": "Ben's Bites",
+      "source_url": "https://bensbites.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 0,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://www.bensbites.com/p/how-i-built-this",
+      "title": "How I built this",
+      "published_at": "2026-08-21T14:08:34+00:00",
+      "kind": "article",
+      "source": "Ben's Bites",
+      "source_url": "https://bensbites.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 0,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://www.bensbites.com/p/how-i-built-this-21f",
+      "title": "How I built this",
+      "published_at": "2026-08-28T12:14:10+00:00",
+      "kind": "article",
+      "source": "Ben's Bites",
+      "source_url": "https://bensbites.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 0,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://www.bensbites.com/p/make-it-readable",
+      "title": "Make it readable",
+      "published_at": "2026-08-11T13:03:29+00:00",
+      "kind": "article",
+      "source": "Ben's Bites",
+      "source_url": "https://bensbites.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 0,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://www.bensbites.com/p/simple-agents",
+      "title": "Simple agents",
+      "published_at": "2026-08-20T13:03:38+00:00",
+      "kind": "article",
+      "source": "Ben's Bites",
+      "source_url": "https://bensbites.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 0,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://www.bensbites.com/p/who-let-the-agents-in",
+      "title": "Who let the agents in",
+      "published_at": "2026-08-27T13:03:42+00:00",
+      "kind": "article",
+      "source": "Ben's Bites",
+      "source_url": "https://bensbites.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 0,
+      "why": "From a followed source"
+    },
+    {
       "url": "https://www.beren.io/2026-08-01-The-Probe/",
       "title": "The Probe",
       "published_at": "2026-08-01T07:00:00+00:00",
@@ -7503,6 +10017,188 @@
       "why": "From a followed source"
     },
     {
+      "url": "https://www.dwarkesh.com/p/era-of-continual-learning",
+      "title": "8 Predictions for the Era of Continual Learning",
+      "published_at": "2026-08-07T17:17:40+00:00",
+      "kind": "article",
+      "source": "Dwarkesh Podcast",
+      "source_url": "https://dwarkesh.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 0,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://www.gmnyc.com/p/gm-nyc-3cc",
+      "title": "\u02dc*\uff65\u0f13 gm nyc \u0f13\uff65*",
+      "published_at": "2026-08-31T10:29:31+00:00",
+      "kind": "article",
+      "source": "gm NYC",
+      "source_url": "https://gmnyc.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 0,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://www.gmnyc.com/p/gm-nyc-515",
+      "title": "\u02dc*\uff65\u0f13 gm nyc \u0f13\uff65*",
+      "published_at": "2026-08-17T10:08:23+00:00",
+      "kind": "article",
+      "source": "gm NYC",
+      "source_url": "https://gmnyc.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 0,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://www.gmnyc.com/p/gm-nyc-601",
+      "title": "\u02dc*\uff65\u0f13 gm nyc \u0f13\uff65*",
+      "published_at": "2026-08-24T12:57:05+00:00",
+      "kind": "article",
+      "source": "gm NYC",
+      "source_url": "https://gmnyc.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 0,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://www.gmnyc.com/p/gm-nyc-603",
+      "title": "\u02dc*\uff65\u0f13 gm nyc \u0f13\uff65*",
+      "published_at": "2026-07-27T13:00:15+00:00",
+      "kind": "article",
+      "source": "gm NYC",
+      "source_url": "https://gmnyc.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 0,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://www.gmnyc.com/p/gm-nyc-d53",
+      "title": "\u02dc*\uff65\u0f13 gm nyc \u0f13\uff65*",
+      "published_at": "2026-08-03T10:38:04+00:00",
+      "kind": "article",
+      "source": "gm NYC",
+      "source_url": "https://gmnyc.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 0,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://www.gmnyc.com/p/gm-nyc-de9",
+      "title": "\u02dc*\uff65\u0f13 gm nyc \u0f13\uff65*",
+      "published_at": "2026-08-10T10:14:37+00:00",
+      "kind": "article",
+      "source": "gm NYC",
+      "source_url": "https://gmnyc.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 0,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://www.gmnyc.com/p/jobs-at-figma-datadog-stripe-and",
+      "title": "\u02dc*\uff65\u0f13 jobs at figma, datadog, stripe and more \u0f13\uff65*",
+      "published_at": "2026-08-06T10:57:05+00:00",
+      "kind": "article",
+      "source": "gm NYC",
+      "source_url": "https://gmnyc.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 0,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://www.gmnyc.com/p/jobs-at-fireblocks-braze-fin-and",
+      "title": "\u02dc*\uff65\u0f13 jobs at fireblocks, braze, fin and more \u0f13\uff65*",
+      "published_at": "2026-08-13T10:14:22+00:00",
+      "kind": "article",
+      "source": "gm NYC",
+      "source_url": "https://gmnyc.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 0,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://www.gmnyc.com/p/jobs-at-malachyte-blacksmith-alphasense",
+      "title": "\u02dc*\uff65\u0f13 jobs at malachyte, blacksmith, alphasense, and more \u0f13\uff65*",
+      "published_at": "2026-08-20T10:30:21+00:00",
+      "kind": "article",
+      "source": "gm NYC",
+      "source_url": "https://gmnyc.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 0,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://www.gmnyc.com/p/jobs-at-openai-cursor-general-intuition",
+      "title": "\u02dc*\uff65\u0f13 jobs at openai, cursor, general intuition, and more \u0f13\uff65*",
+      "published_at": "2026-09-03T10:44:03+00:00",
+      "kind": "article",
+      "source": "gm NYC",
+      "source_url": "https://gmnyc.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 0,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://www.gmnyc.com/p/jobs-at-phoebe-pinecone-blank-street",
+      "title": "\u02dc*\uff65\u0f13 jobs at phoebe, pinecone, blank street, and more \u0f13\uff65*",
+      "published_at": "2026-08-27T10:10:15+00:00",
+      "kind": "article",
+      "source": "gm NYC",
+      "source_url": "https://gmnyc.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 0,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://www.gmnyc.com/p/jobs-at-runlayer-notion-coreweave",
+      "title": "\u02dc*\uff65\u0f13 jobs at runlayer, notion, coreweave and more \u0f13\uff65*",
+      "published_at": "2026-07-30T10:49:04+00:00",
+      "kind": "article",
+      "source": "gm NYC",
+      "source_url": "https://gmnyc.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 0,
+      "why": "From a followed source"
+    },
+    {
       "url": "https://www.henrikkarlsson.xyz/p/child-birth",
       "title": "On child birth",
       "published_at": "2026-07-29T09:55:08+00:00",
@@ -7545,6 +10241,90 @@
       "why": "From a followed source"
     },
     {
+      "url": "https://www.newcomer.co/p/amid-personal-assistant-investor",
+      "title": "Amid Personal Assistant Investor Frenzy, Town Nears $1 Billion Valuation in Round Led by Instinct-Backer Index Ventures",
+      "published_at": "2026-08-27T21:41:08+00:00",
+      "kind": "article",
+      "source": "Newcomer",
+      "source_url": "https://newcomer.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 0,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://www.newcomer.co/p/india-quotient-shows-how-the-vc-power",
+      "title": "India Quotient Shows How the VC Power Law Can Make or Break a Fund",
+      "published_at": "2026-09-03T19:33:45+00:00",
+      "kind": "article",
+      "source": "Newcomer",
+      "source_url": "https://newcomer.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 0,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://www.newcomer.co/p/investors-are-betting-on-agents-that",
+      "title": "Investors Are Betting on Agents That Shop for You. Here Are the Startups They\u2019re Backing.",
+      "published_at": "2026-09-03T14:07:30+00:00",
+      "kind": "article",
+      "source": "Newcomer",
+      "source_url": "https://newcomer.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 0,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://www.newcomer.co/p/is-ains-the-next-saas",
+      "title": "Is AINS the Next SaaS?",
+      "published_at": "2026-08-19T17:32:09+00:00",
+      "kind": "article",
+      "source": "Newcomer",
+      "source_url": "https://newcomer.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 0,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://www.newcomer.co/p/sources-poolside-strikes-6-billion",
+      "title": "SOURCES: Poolside Strikes $6 Billion Licensing Deal with Nvidia & Raises $1 Billion for Remaining Company at $12 Billion Valuation",
+      "published_at": "2026-08-20T19:20:32+00:00",
+      "kind": "article",
+      "source": "Newcomer",
+      "source_url": "https://newcomer.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 0,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://www.newcomer.co/p/the-story-of-a-cap-table-openrouter",
+      "title": "The Story of a Cap Table: OpenRouter",
+      "published_at": "2026-08-20T17:19:21+00:00",
+      "kind": "article",
+      "source": "Newcomer",
+      "source_url": "https://newcomer.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 0,
+      "why": "From a followed source"
+    },
+    {
       "url": "https://www.philvenables.com/post/a-coming-incident-crisis",
       "title": "A Coming Incident Crisis?",
       "published_at": "2026-08-08T14:58:15+00:00",
@@ -7569,6 +10349,230 @@
         "Cyber"
       ],
       "first_seen_at": "2026-09-24T03:48:01.272420+00:00",
+      "score": 0,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://www.prosaictimes.com/p/context-graphs-raise-the-waterline",
+      "title": "Context graphs raise the waterline for machine judgement",
+      "published_at": "2026-08-16T21:41:10+00:00",
+      "kind": "article",
+      "source": "Prosaic Times",
+      "source_url": "https://prosaictimes.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 0,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://www.prosaictimes.com/p/does-vibe-coding-have-to-mean-technical",
+      "title": "Does vibe coding have to mean technical debt?",
+      "published_at": "2026-07-26T20:53:15+00:00",
+      "kind": "article",
+      "source": "Prosaic Times",
+      "source_url": "https://prosaictimes.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 0,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://www.prosaictimes.com/p/letter-to-a-vibe-coder",
+      "title": "Letter to a vibe coder",
+      "published_at": "2026-08-02T21:30:12+00:00",
+      "kind": "article",
+      "source": "Prosaic Times",
+      "source_url": "https://prosaictimes.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 0,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://www.sourcery.vc/p/breaking-base-power-hits-13b-on-1b",
+      "title": "BREAKING: Base Power Hits $13B on $1B Series D",
+      "published_at": "2026-08-03T14:10:04+00:00",
+      "kind": "article",
+      "source": "Sourcery",
+      "source_url": "https://mollysoshea.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 0,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://www.sourcery.vc/p/breaking-inside-12b-colossal-biosciences",
+      "title": "BREAKING: Inside $12B Colossal Biosciences",
+      "published_at": "2026-08-21T09:57:19+00:00",
+      "kind": "article",
+      "source": "Sourcery",
+      "source_url": "https://mollysoshea.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 0,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://www.sourcery.vc/p/breaking-inside-applovins-100b-ad",
+      "title": "BREAKING: Inside AppLovin's $100B+ Ad Engine",
+      "published_at": "2026-08-14T14:34:43+00:00",
+      "kind": "article",
+      "source": "Sourcery",
+      "source_url": "https://mollysoshea.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 0,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://www.sourcery.vc/p/breaking-inside-neros-factory",
+      "title": "BREAKING: Inside Neros' Factory",
+      "published_at": "2026-08-14T01:37:28+00:00",
+      "kind": "article",
+      "source": "Sourcery",
+      "source_url": "https://mollysoshea.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 0,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://www.sourcery.vc/p/breaking-inside-rocket-lab-rklb",
+      "title": "BREAKING: Inside Rocket Lab ($RKLB)",
+      "published_at": "2026-08-24T14:51:48+00:00",
+      "kind": "article",
+      "source": "Sourcery",
+      "source_url": "https://mollysoshea.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 0,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://www.sourcery.vc/p/breaking-neros-hits-25b-valuation",
+      "title": "BREAKING: Neros Hits $2.5B Valuation on $250M Series C",
+      "published_at": "2026-08-11T17:35:30+00:00",
+      "kind": "article",
+      "source": "Sourcery",
+      "source_url": "https://mollysoshea.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 0,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://www.sourcery.vc/p/breaking-nikesh-arora-palo-alto-networks",
+      "title": "BREAKING: Nikesh Arora, Palo Alto Networks",
+      "published_at": "2026-08-18T18:40:23+00:00",
+      "kind": "article",
+      "source": "Sourcery",
+      "source_url": "https://mollysoshea.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 0,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://www.sourcery.vc/p/breaking-northwood-spaces-new-185k",
+      "title": "BREAKING: Northwood Space\u2019s New 185K sqft HQ + Factory",
+      "published_at": "2026-08-31T21:55:17+00:00",
+      "kind": "article",
+      "source": "Sourcery",
+      "source_url": "https://mollysoshea.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 0,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://www.sourcery.vc/p/breaking-rocket-lab-hq-tour",
+      "title": "BREAKING: Rocket Lab HQ Tour",
+      "published_at": "2026-08-26T13:53:46+00:00",
+      "kind": "article",
+      "source": "Sourcery",
+      "source_url": "https://mollysoshea.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 0,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://www.sourcery.vc/p/breaking-rocket-labs-engine-development",
+      "title": "BREAKING: Rocket Lab\u2019s Engine Development Center",
+      "published_at": "2026-08-28T15:35:54+00:00",
+      "kind": "article",
+      "source": "Sourcery",
+      "source_url": "https://mollysoshea.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 0,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://www.sourcery.vc/p/icymi-leopold-space-lasers-devin",
+      "title": "ICYMI: Leopold, Space Lasers, Devin",
+      "published_at": "2026-08-02T15:01:00+00:00",
+      "kind": "article",
+      "source": "Sourcery",
+      "source_url": "https://mollysoshea.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 0,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://www.spatialintelligence.ai/p/i-open-sourced-gods-eye-view",
+      "title": "I Open Sourced God\u2019s Eye View",
+      "published_at": "2026-08-25T14:56:49+00:00",
+      "kind": "article",
+      "source": "Map the World by Bilawal Sidhu",
+      "source_url": "https://creativetechnologydigest.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
+      "score": 0,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://www.spatialintelligence.ai/p/radio-frequency-sensing-ai-without-cameras",
+      "title": "Radio Was Built to Communicate. Now It Can See. Here\u2019s How.",
+      "published_at": "2026-08-02T14:02:27+00:00",
+      "kind": "article",
+      "source": "Map the World by Bilawal Sidhu",
+      "source_url": "https://creativetechnologydigest.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
       "score": 0,
       "why": "From a followed source"
     }
