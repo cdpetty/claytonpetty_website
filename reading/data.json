@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08T01:24:39.441452+00:00",
+  "updated_at": "2026-10-08T01:46:57.158530+00:00",
   "ranking": "Title topic matches and recency; no AI analysis or full article content.",
   "first_seen": {
     "https://tomtunguz.com/the-most-important-market-in-ai-is-the-middle/": "2026-09-24T03:49:54.414936+00:00",
@@ -3569,7 +3569,7 @@
     "https://marginalrevolution.com/marginalrevolution/2026/09/thursday-assorted-links-571.html": "2026-09-24T18:28:36.782411+00:00",
     "https://marginalrevolution.com/marginalrevolution/2026/09/ca-91326-a-public-choice-mystery-investigation.html": "2026-09-24T18:28:36.782411+00:00",
     "https://marginalrevolution.com/marginalrevolution/2026/09/fear-of-data.html": "2026-09-24T18:28:36.782411+00:00",
-    "https://codelivly.com/": "2026-10-08T00:45:19.144089+00:00",
+    "https://codelivly.com/": "2026-10-08T01:46:57.158530+00:00",
     "https://towardsdatascience.com/how-to-maximize-your-coding-agent-subscriptions/": "2026-09-24T18:28:36.782411+00:00",
     "https://towardsdatascience.com/beyond-rags-building-actually-truthful-ai-harnesses/": "2026-09-24T18:28:36.782411+00:00",
     "https://towardsdatascience.com/towards-spec-driven-test-automation-part-1/": "2026-09-24T18:28:36.782411+00:00",
@@ -4014,7 +4014,7 @@
       "categories": [
         "VC"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "error",
       "feed_url": "https://1517.substack.com/feed",
       "last_success_at": "2026-09-24T06:33:52.921949+00:00",
@@ -4027,7 +4027,7 @@
       "categories": [
         "AI"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "error",
       "feed_url": "https://humaninvariant.substack.com/feed",
       "last_success_at": "2026-09-24T06:33:52.921949+00:00",
@@ -4040,10 +4040,10 @@
       "categories": [
         "VC"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "feed",
       "feed_url": "https://www.a16z.news/feed",
-      "last_success_at": "2026-10-08T01:24:39.441452+00:00",
+      "last_success_at": "2026-10-08T01:46:57.158530+00:00",
       "error": null
     },
     {
@@ -4052,7 +4052,7 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "error",
       "feed_url": "https://aashishreddy.substack.com/feed",
       "last_success_at": "2026-09-24T06:33:52.921949+00:00",
@@ -4065,10 +4065,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "feed",
       "feed_url": "https://aeon.co/feed.rss",
-      "last_success_at": "2026-10-08T01:24:39.441452+00:00",
+      "last_success_at": "2026-10-08T01:46:57.158530+00:00",
       "error": null
     },
     {
@@ -4077,7 +4077,7 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "error",
       "feed_url": "https://afterschool.substack.com/feed",
       "last_success_at": "2026-09-24T06:33:52.921949+00:00",
@@ -4090,7 +4090,7 @@
       "categories": [
         "Finance"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "error",
       "feed_url": "https://yhamiltonblog.substack.com/feed",
       "last_success_at": "2026-09-24T06:33:52.921949+00:00",
@@ -4103,7 +4103,7 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "error",
       "feed_url": "https://aryadeniz.substack.com/feed",
       "last_success_at": "2026-09-24T06:33:52.921949+00:00",
@@ -4116,10 +4116,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "page_watch",
       "fingerprint": "1497fd3376bdd786f4ae8c7569220f179a7c0757abab933956b2645b227566a8",
-      "last_success_at": "2026-10-08T01:24:39.441452+00:00",
+      "last_success_at": "2026-10-08T01:46:57.158530+00:00",
       "error": null,
       "discovered_at": "2026-10-01T19:38:25.896723+00:00"
     },
@@ -4129,10 +4129,10 @@
       "categories": [
         "VC"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "feed",
       "feed_url": "https://stratechery.com/feed/",
-      "last_success_at": "2026-10-08T01:24:39.441452+00:00",
+      "last_success_at": "2026-10-08T01:46:57.158530+00:00",
       "error": null
     },
     {
@@ -4141,10 +4141,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "page_watch",
       "fingerprint": "a79900bfe8704325f8081c9d7bc96f376fa218137b5df1cf07a38fc3780e91d7",
-      "last_success_at": "2026-10-08T01:24:39.441452+00:00",
+      "last_success_at": "2026-10-08T01:46:57.158530+00:00",
       "error": null,
       "discovered_at": "2026-10-01T19:38:25.896723+00:00"
     },
@@ -4154,10 +4154,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "feed",
       "feed_url": "https://www.benkuhn.net/index.xml",
-      "last_success_at": "2026-10-08T01:24:39.441452+00:00",
+      "last_success_at": "2026-10-08T01:46:57.158530+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -4167,10 +4167,10 @@
       "categories": [
         "AI"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "feed",
       "feed_url": "https://www.beren.io/feed.xml",
-      "last_success_at": "2026-10-08T01:24:39.441452+00:00",
+      "last_success_at": "2026-10-08T01:46:57.158530+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -4180,10 +4180,10 @@
       "categories": [
         "AI"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "feed",
       "feed_url": "https://www.aleksagordic.com/feed.xml",
-      "last_success_at": "2026-10-08T01:24:39.441452+00:00",
+      "last_success_at": "2026-10-08T01:46:57.158530+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -4193,10 +4193,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "feed",
       "feed_url": "https://boz.com/rss.xml",
-      "last_success_at": "2026-10-08T01:24:39.441452+00:00",
+      "last_success_at": "2026-10-08T01:46:57.158530+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -4206,11 +4206,11 @@
       "categories": [
         "Finance"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "discovered_at": "2026-10-01T19:38:25.896723+00:00",
       "status": "page_watch",
       "fingerprint": "fe8de3300fa112d7addf284f21806a73ab611c54a2efcb42ae5490abbee37802",
-      "last_success_at": "2026-10-08T01:24:39.441452+00:00",
+      "last_success_at": "2026-10-08T01:46:57.158530+00:00",
       "error": null
     },
     {
@@ -4219,10 +4219,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "page_watch",
       "fingerprint": "542c24b8b68eb39167bb812f132dec758a3ab4c0f19b1c384e13fd630e12b2d4",
-      "last_success_at": "2026-10-08T01:24:39.441452+00:00",
+      "last_success_at": "2026-10-08T01:46:57.158530+00:00",
       "error": null,
       "discovered_at": "2026-10-01T19:38:25.896723+00:00"
     },
@@ -4232,10 +4232,10 @@
       "categories": [
         "Finance"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "feed",
       "feed_url": "https://www.bristlemoonresearch.com/feed",
-      "last_success_at": "2026-10-08T01:24:39.441452+00:00",
+      "last_success_at": "2026-10-08T01:46:57.158530+00:00",
       "error": null
     },
     {
@@ -4244,11 +4244,11 @@
       "categories": [
         "Finance"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "discovered_at": "2026-10-01T19:38:25.896723+00:00",
       "status": "page_watch",
       "fingerprint": "d96ab8c7453f8f65a55ddf1f1563c8133c2552ed62ea95470c773dbb287c9d6d",
-      "last_success_at": "2026-10-08T01:24:39.441452+00:00",
+      "last_success_at": "2026-10-08T01:46:57.158530+00:00",
       "error": null
     },
     {
@@ -4257,7 +4257,7 @@
       "categories": [
         "Builders"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "error",
       "feed_url": "https://buckonsoftware.substack.com/feed",
       "last_success_at": "2026-09-24T06:33:52.921949+00:00",
@@ -4270,10 +4270,10 @@
       "categories": [
         "Finance"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "feed",
       "feed_url": "https://www.thediff.co/rss/",
-      "last_success_at": "2026-10-08T01:24:39.441452+00:00",
+      "last_success_at": "2026-10-08T01:46:57.158530+00:00",
       "error": null
     },
     {
@@ -4282,10 +4282,10 @@
       "categories": [
         "Builders"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "feed",
       "feed_url": "https://blog.bytebytego.com/feed",
-      "last_success_at": "2026-10-08T01:24:39.441452+00:00",
+      "last_success_at": "2026-10-08T01:46:57.158530+00:00",
       "error": null
     },
     {
@@ -4294,7 +4294,7 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "error",
       "feed_url": "https://arbesman.substack.com/feed",
       "last_success_at": "2026-09-24T06:33:52.921949+00:00",
@@ -4307,10 +4307,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "feed",
       "feed_url": "https://www.cartoonshateher.com/feed",
-      "last_success_at": "2026-10-08T01:24:39.441452+00:00",
+      "last_success_at": "2026-10-08T01:46:57.158530+00:00",
       "error": null
     },
     {
@@ -4319,10 +4319,10 @@
       "categories": [
         "VC"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "feed",
       "feed_url": "https://www.platformer.news/rss/",
-      "last_success_at": "2026-10-08T01:24:39.441452+00:00",
+      "last_success_at": "2026-10-08T01:46:57.158530+00:00",
       "error": null
     },
     {
@@ -4331,10 +4331,10 @@
       "categories": [
         "China"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "feed",
       "feed_url": "https://www.chinatalk.media/feed",
-      "last_success_at": "2026-10-08T01:24:39.441452+00:00",
+      "last_success_at": "2026-10-08T01:46:57.158530+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -4345,7 +4345,7 @@
         "Cyber",
         "Solo blogs"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "error",
       "fingerprint": "e40c7d84bc4e624b0b4f3aa9d48e22f65c4dadbfcb31e977cc69562318d5fc3d",
       "last_success_at": "2026-09-24T03:48:01.272420+00:00",
@@ -4358,7 +4358,7 @@
       "categories": [
         "Finance"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "error",
       "feed_url": "https://cloudedjudgement.substack.com/feed",
       "last_success_at": "2026-09-24T06:33:52.921949+00:00",
@@ -4371,7 +4371,7 @@
       "categories": [
         "Finance"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "error",
       "feed_url": "https://carriednointerest.substack.com/feed",
       "last_success_at": "2026-09-24T06:33:52.921949+00:00",
@@ -4384,10 +4384,10 @@
       "categories": [
         "Cyber"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "page_watch",
-      "fingerprint": "231bf28b7df0347a169b316d3165fe9f839a9e48d040f3928eec03f90af58a1d",
-      "last_success_at": "2026-10-08T01:24:39.441452+00:00",
+      "fingerprint": "63ab8d1186a36f4550c6f19d6ae95a6b338165f2832efc7266c29b78a4cfba03",
+      "last_success_at": "2026-10-08T01:46:57.158530+00:00",
       "error": null,
       "discovered_at": "2026-10-01T19:38:25.896723+00:00"
     },
@@ -4397,10 +4397,10 @@
       "categories": [
         "AI"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "page_watch",
       "fingerprint": "200a84a4357159e92023266cdd7fa2461577a4bd9b8826e44ba0685487110217",
-      "last_success_at": "2026-10-08T01:24:39.441452+00:00",
+      "last_success_at": "2026-10-08T01:46:57.158530+00:00",
       "error": null,
       "discovered_at": "2026-10-01T19:38:25.896723+00:00"
     },
@@ -4410,10 +4410,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "feed",
       "feed_url": "https://www.cold-takes.com/rss/",
-      "last_success_at": "2026-10-08T01:24:39.441452+00:00",
+      "last_success_at": "2026-10-08T01:46:57.158530+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -4423,10 +4423,10 @@
       "categories": [
         "Finance"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "page_watch",
       "fingerprint": "b538dc255a279c70f37538880fbee1d588b6c9c277aa91163557dea9778a2e17",
-      "last_success_at": "2026-10-08T01:24:39.441452+00:00",
+      "last_success_at": "2026-10-08T01:46:57.158530+00:00",
       "error": null,
       "discovered_at": "2026-10-01T19:38:25.896723+00:00"
     },
@@ -4436,10 +4436,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "page_watch",
       "fingerprint": "8b6979729bf2143214e51d459c100cc97703e25c2d623ffd3faccd40724a3103",
-      "last_success_at": "2026-10-08T01:24:39.441452+00:00",
+      "last_success_at": "2026-10-08T01:46:57.158530+00:00",
       "error": null,
       "discovered_at": "2026-10-01T19:38:25.896723+00:00"
     },
@@ -4449,10 +4449,10 @@
       "categories": [
         "Finance"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "feed",
       "feed_url": "https://www.compoundingdividends.net/feed",
-      "last_success_at": "2026-10-08T01:24:39.441452+00:00",
+      "last_success_at": "2026-10-08T01:46:57.158530+00:00",
       "error": null
     },
     {
@@ -4461,10 +4461,10 @@
       "categories": [
         "Finance"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "feed",
       "feed_url": "https://www.compoundingquality.net/feed",
-      "last_success_at": "2026-10-08T01:24:39.441452+00:00",
+      "last_success_at": "2026-10-08T01:46:57.158530+00:00",
       "error": null
     },
     {
@@ -4473,7 +4473,7 @@
       "categories": [
         "Finance"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "error",
       "feed_url": "https://sergeycyw.substack.com/feed",
       "last_success_at": "2026-09-24T06:33:52.921949+00:00",
@@ -4486,10 +4486,10 @@
       "categories": [
         "Finance"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "feed",
       "feed_url": "https://www.conks.plumbing/feed",
-      "last_success_at": "2026-10-08T01:24:39.441452+00:00",
+      "last_success_at": "2026-10-08T01:46:57.158530+00:00",
       "error": null
     },
     {
@@ -4498,7 +4498,7 @@
       "categories": [
         "Newsletters"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "discovered_at": "2026-10-01T19:38:25.896723+00:00",
       "status": "error",
       "error": "HTTPError",
@@ -4511,7 +4511,7 @@
       "categories": [
         "Finance"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "error",
       "feed_url": "https://cws.substack.com/feed",
       "last_success_at": "2026-09-24T06:33:52.921949+00:00",
@@ -4524,10 +4524,10 @@
       "categories": [
         "Cyber"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "feed",
       "feed_url": "https://cybersecurityventures.com/feed/",
-      "last_success_at": "2026-10-08T01:24:39.441452+00:00",
+      "last_success_at": "2026-10-08T01:46:57.158530+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -4537,12 +4537,12 @@
       "categories": [
         "AI"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "page_watch",
       "error": null,
       "discovered_at": "2026-10-01T19:38:25.896723+00:00",
       "fingerprint": "ec9c8de95bf3e6e58032e9aec27188895740187cff3e88df5b6a0cb2b1b10525",
-      "last_success_at": "2026-10-08T01:24:39.441452+00:00"
+      "last_success_at": "2026-10-08T01:46:57.158530+00:00"
     },
     {
       "name": "Damien\u2019s Substack",
@@ -4550,7 +4550,7 @@
       "categories": [
         "VC"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "error",
       "feed_url": "https://abcbyd.substack.com/feed",
       "last_success_at": "2026-09-24T06:33:52.921949+00:00",
@@ -4563,7 +4563,7 @@
       "categories": [
         "Finance"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "error",
       "feed_url": "https://softwaremusings.substack.com/feed",
       "last_success_at": "2026-09-24T06:33:52.921949+00:00",
@@ -4576,7 +4576,7 @@
       "categories": [
         "AI"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "error",
       "feed_url": "https://deploy95.substack.com/feed",
       "last_success_at": "2026-09-24T06:33:52.921949+00:00",
@@ -4589,10 +4589,10 @@
       "categories": [
         "Cyber"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "feed",
       "feed_url": "https://www.detectionatscale.com/feed",
-      "last_success_at": "2026-10-08T01:24:39.441452+00:00",
+      "last_success_at": "2026-10-08T01:46:57.158530+00:00",
       "error": null
     },
     {
@@ -4601,10 +4601,10 @@
       "categories": [
         "VC"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "feed",
       "feed_url": "https://www.digitalnative.tech/feed",
-      "last_success_at": "2026-10-08T01:24:39.441452+00:00",
+      "last_success_at": "2026-10-08T01:46:57.158530+00:00",
       "error": null
     },
     {
@@ -4613,10 +4613,10 @@
       "categories": [
         "Newsletters"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "feed",
       "feed_url": "https://www.dwarkesh.com/feed",
-      "last_success_at": "2026-10-08T01:24:39.441452+00:00",
+      "last_success_at": "2026-10-08T01:46:57.158530+00:00",
       "error": null
     },
     {
@@ -4625,10 +4625,10 @@
       "categories": [
         "VC"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "feed",
       "feed_url": "https://blog.eladgil.com/feed",
-      "last_success_at": "2026-10-08T01:24:39.441452+00:00",
+      "last_success_at": "2026-10-08T01:46:57.158530+00:00",
       "error": null
     },
     {
@@ -4637,10 +4637,10 @@
       "categories": [
         "AI"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "page_watch",
       "fingerprint": "a582747353d0bd8aba0b3fa43063c1bbf443adb401ab87a036dc951bcaec43e0",
-      "last_success_at": "2026-10-08T01:24:39.441452+00:00",
+      "last_success_at": "2026-10-08T01:46:57.158530+00:00",
       "error": null,
       "discovered_at": "2026-10-01T19:38:25.896723+00:00"
     },
@@ -4650,10 +4650,10 @@
       "categories": [
         "Cyber"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "feed",
       "fingerprint": "3b386860baee7ef1360ad41f8759481c6d2ac304e383e403d7526c239c722ce9",
-      "last_success_at": "2026-10-08T01:24:39.441452+00:00",
+      "last_success_at": "2026-10-08T01:46:57.158530+00:00",
       "error": null,
       "feed_url": "https://embracethered.com/blog/index.xml",
       "discovered_at": "2026-09-24T03:49:54.414936+00:00"
@@ -4664,10 +4664,10 @@
       "categories": [
         "AI"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "feed",
       "feed_url": "https://www.moreentropy.com/feed",
-      "last_success_at": "2026-10-08T01:24:39.441452+00:00",
+      "last_success_at": "2026-10-08T01:46:57.158530+00:00",
       "error": null
     },
     {
@@ -4676,7 +4676,7 @@
       "categories": [
         "Finance"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "error",
       "feed_url": "https://ryanshannon.substack.com/feed",
       "last_success_at": "2026-09-24T06:33:52.921949+00:00",
@@ -4689,10 +4689,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "feed",
       "feed_url": "https://www.henrikkarlsson.xyz/feed",
-      "last_success_at": "2026-10-08T01:24:39.441452+00:00",
+      "last_success_at": "2026-10-08T01:46:57.158530+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -4702,10 +4702,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "page_watch",
       "feed_url": "https://gwern.substack.com/feed",
-      "last_success_at": "2026-10-08T01:24:39.441452+00:00",
+      "last_success_at": "2026-10-08T01:46:57.158530+00:00",
       "discovered_at": "2026-10-01T19:38:25.896723+00:00",
       "error": null,
       "fingerprint": "d1eb244a900e5bafc43b7f1be6880afc006988c15caf18f73c4cbbe4f8b32f78"
@@ -4716,10 +4716,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "feed",
       "feed_url": "https://insights.euclid.vc/feed",
-      "last_success_at": "2026-10-08T01:24:39.441452+00:00",
+      "last_success_at": "2026-10-08T01:46:57.158530+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -4729,10 +4729,10 @@
       "categories": [
         "General"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "page_watch",
       "fingerprint": "d1443683d804da5c217ee49fd09ae457d72205e9d96dfd5c2eb1cf18fefbda5c",
-      "last_success_at": "2026-10-08T01:24:39.441452+00:00",
+      "last_success_at": "2026-10-08T01:46:57.158530+00:00",
       "error": null,
       "discovered_at": "2026-10-01T19:38:25.896723+00:00"
     },
@@ -4742,10 +4742,10 @@
       "categories": [
         "Newsletters"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "feed",
       "feed_url": "https://ideas.everywhere.vc/feed",
-      "last_success_at": "2026-10-08T01:24:39.441452+00:00",
+      "last_success_at": "2026-10-08T01:46:57.158530+00:00",
       "error": null
     },
     {
@@ -4754,10 +4754,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "feed",
       "feed_url": "https://findthemoat.com/feed/",
-      "last_success_at": "2026-10-08T01:24:39.441452+00:00",
+      "last_success_at": "2026-10-08T01:46:57.158530+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -4767,7 +4767,7 @@
       "categories": [
         "Newsletters"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "discovered_at": "2026-10-01T19:38:25.896723+00:00",
       "status": "error",
       "error": "HTTPError",
@@ -4780,10 +4780,10 @@
       "categories": [
         "VC"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "feed",
       "feed_url": "https://read.first1000.co/feed",
-      "last_success_at": "2026-10-08T01:24:39.441452+00:00",
+      "last_success_at": "2026-10-08T01:46:57.158530+00:00",
       "error": null
     },
     {
@@ -4792,7 +4792,7 @@
       "categories": [
         "VC"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "error",
       "feed_url": "https://thefoundingjourney.substack.com/feed",
       "last_success_at": "2026-09-24T06:33:52.921949+00:00",
@@ -4805,10 +4805,10 @@
       "categories": [
         "VC"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "feed",
       "feed_url": "https://www.generational.pub/feed",
-      "last_success_at": "2026-10-08T01:24:39.441452+00:00",
+      "last_success_at": "2026-10-08T01:46:57.158530+00:00",
       "error": null
     },
     {
@@ -4817,10 +4817,10 @@
       "categories": [
         "Finance"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "feed",
       "feed_url": "https://www.globalequitybriefing.com/feed",
-      "last_success_at": "2026-10-08T01:24:39.441452+00:00",
+      "last_success_at": "2026-10-08T01:46:57.158530+00:00",
       "error": null
     },
     {
@@ -4829,11 +4829,11 @@
       "categories": [
         "VC"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "discovered_at": "2026-10-01T19:38:25.896723+00:00",
       "status": "page_watch",
       "fingerprint": "f8ca0a75a1b1266a3f87405caa522ce14573ca4d2d928b0f3f38bf741c257cb7",
-      "last_success_at": "2026-10-08T01:24:39.441452+00:00",
+      "last_success_at": "2026-10-08T01:46:57.158530+00:00",
       "error": null
     },
     {
@@ -4842,7 +4842,7 @@
       "categories": [
         "Newsletters"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "discovered_at": "2026-10-01T19:38:25.896723+00:00",
       "status": "error",
       "error": "HTTPError",
@@ -4855,7 +4855,7 @@
       "categories": [
         "Cyber"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "discovered_at": "2026-10-01T19:38:25.896723+00:00",
       "status": "error",
       "error": "URLError"
@@ -4866,7 +4866,7 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "error",
       "feed_url": "https://halfcourthoops.substack.com/feed",
       "last_success_at": "2026-09-24T06:33:52.921949+00:00",
@@ -4879,7 +4879,7 @@
       "categories": [
         "Builders"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "error",
       "feed_url": "https://hardwarefyi.substack.com/feed",
       "last_success_at": "2026-09-24T06:33:52.921949+00:00",
@@ -4892,10 +4892,10 @@
       "categories": [
         "Finance"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "feed",
       "feed_url": "https://hhhypergrowth.com/rss/",
-      "last_success_at": "2026-10-08T01:24:39.441452+00:00",
+      "last_success_at": "2026-10-08T01:46:57.158530+00:00",
       "error": null
     },
     {
@@ -4904,7 +4904,7 @@
       "categories": [
         "Finance"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "error",
       "feed_url": "https://sbeautiful.substack.com/feed",
       "last_success_at": "2026-09-24T06:33:52.921949+00:00",
@@ -4917,10 +4917,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "feed",
       "feed_url": "https://grahamduncan.blog/feed/",
-      "last_success_at": "2026-10-08T01:24:39.441452+00:00",
+      "last_success_at": "2026-10-08T01:46:57.158530+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -4930,10 +4930,10 @@
       "categories": [
         "Finance"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "page_watch",
       "fingerprint": "fca5ebe3f0b78df8838f4cc26ceb9a6b4d7eceeb99d6d7d4d392ca382c9e68a3",
-      "last_success_at": "2026-10-08T01:24:39.441452+00:00",
+      "last_success_at": "2026-10-08T01:46:57.158530+00:00",
       "error": null,
       "discovered_at": "2026-10-01T19:38:25.896723+00:00"
     },
@@ -4944,10 +4944,10 @@
         "AI",
         "Newsletters"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "feed",
       "feed_url": "https://jack-clark.net/feed/",
-      "last_success_at": "2026-10-08T01:24:39.441452+00:00",
+      "last_success_at": "2026-10-08T01:46:57.158530+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -4957,10 +4957,10 @@
       "categories": [
         "Builders"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "page_watch",
       "fingerprint": "ba2546cec03cd602857dc2c155af0ee60cd481a3c7313feaecb1fd214faa637d",
-      "last_success_at": "2026-10-08T01:24:39.441452+00:00",
+      "last_success_at": "2026-10-08T01:46:57.158530+00:00",
       "error": null,
       "discovered_at": "2026-10-01T19:38:25.896723+00:00"
     },
@@ -4970,7 +4970,7 @@
       "categories": [
         "Builders"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "error",
       "feed_url": "https://insightsbykp.substack.com/feed",
       "last_success_at": "2026-09-24T06:33:52.921949+00:00",
@@ -4983,7 +4983,7 @@
       "categories": [
         "Finance"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "error",
       "feed_url": "https://investing101.substack.com/feed",
       "last_success_at": "2026-09-24T06:33:52.921949+00:00",
@@ -4996,7 +4996,7 @@
       "categories": [
         "Newsletters"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "discovered_at": "2026-10-01T19:38:25.896723+00:00",
       "status": "error",
       "error": "HTTPError",
@@ -5009,7 +5009,7 @@
       "categories": [
         "Finance"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "discovered_at": "2026-10-01T19:38:25.896723+00:00",
       "status": "error",
       "fingerprint": "302f8b22084670e551a283cd2fb1738afdb623e826ae41d3d3790964856804b3",
@@ -5022,10 +5022,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "feed",
       "feed_url": "https://jsomers.net/blog/feed",
-      "last_success_at": "2026-10-08T01:24:39.441452+00:00",
+      "last_success_at": "2026-10-08T01:46:57.158530+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -5035,10 +5035,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "feed",
       "feed_url": "https://fullhoffman.com/feed/",
-      "last_success_at": "2026-10-08T01:24:39.441452+00:00",
+      "last_success_at": "2026-10-08T01:46:57.158530+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -5048,7 +5048,7 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "error",
       "feed_url": "https://chasingcuriosity0.substack.com/feed",
       "last_success_at": "2026-09-24T06:33:52.921949+00:00",
@@ -5061,10 +5061,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "feed",
       "feed_url": "https://www.jmeiners.com/feed.xml",
-      "last_success_at": "2026-10-08T01:24:39.441452+00:00",
+      "last_success_at": "2026-10-08T01:46:57.158530+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -5074,10 +5074,10 @@
       "categories": [
         "General"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "page_watch",
       "fingerprint": "ef5f12efeddea809a34f29c362f506bc92dcb331130afffaca7f0f2f3262569c",
-      "last_success_at": "2026-10-08T01:24:39.441452+00:00",
+      "last_success_at": "2026-10-08T01:46:57.158530+00:00",
       "error": null,
       "discovered_at": "2026-10-01T19:38:25.896723+00:00"
     },
@@ -5087,7 +5087,7 @@
       "categories": [
         "AI"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "error",
       "feed_url": "https://latent.substack.com/feed",
       "last_success_at": "2026-09-24T06:33:52.921949+00:00",
@@ -5100,10 +5100,10 @@
       "categories": [
         "AI"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "feed",
       "feed_url": "https://www.latent.space/feed",
-      "last_success_at": "2026-10-08T01:24:39.441452+00:00",
+      "last_success_at": "2026-10-08T01:46:57.158530+00:00",
       "error": null
     },
     {
@@ -5112,7 +5112,7 @@
       "categories": [
         "Newsletters"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "discovered_at": "2026-10-01T19:38:25.896723+00:00",
       "status": "error",
       "error": "HTTPError",
@@ -5125,10 +5125,10 @@
       "categories": [
         "VC"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "feed",
       "feed_url": "https://www.lennysnewsletter.com/feed",
-      "last_success_at": "2026-10-08T01:24:39.441452+00:00",
+      "last_success_at": "2026-10-08T01:46:57.158530+00:00",
       "error": null
     },
     {
@@ -5137,10 +5137,10 @@
       "categories": [
         "AI"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "page_watch",
       "fingerprint": "7b326d5bd068f2c7bff5936724c56f5865c0ecb80641f4bf4c12b96ce6de5c37",
-      "last_success_at": "2026-10-08T01:24:39.441452+00:00",
+      "last_success_at": "2026-10-08T01:46:57.158530+00:00",
       "error": null,
       "discovered_at": "2026-10-01T19:38:25.896723+00:00"
     },
@@ -5150,10 +5150,10 @@
       "categories": [
         "VC"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "feed",
       "feed_url": "https://www.newsletter.lukesophinos.com/feed",
-      "last_success_at": "2026-10-08T01:24:39.441452+00:00",
+      "last_success_at": "2026-10-08T01:46:57.158530+00:00",
       "error": null
     },
     {
@@ -5162,10 +5162,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "feed",
       "feed_url": "https://essays.johnloeber.com/feed",
-      "last_success_at": "2026-10-08T01:24:39.441452+00:00",
+      "last_success_at": "2026-10-08T01:46:57.158530+00:00",
       "error": null
     },
     {
@@ -5174,7 +5174,7 @@
       "categories": [
         "Newsletters"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "discovered_at": "2026-10-01T19:38:25.896723+00:00",
       "status": "error",
       "error": "HTTPError",
@@ -5187,10 +5187,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "feed",
       "feed_url": "https://magnusfinancial.com/feed/",
-      "last_success_at": "2026-10-08T01:24:39.441452+00:00",
+      "last_success_at": "2026-10-08T01:46:57.158530+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -5200,10 +5200,10 @@
       "categories": [
         "Cyber"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "feed",
       "feed_url": "https://malwr-analysis.com/feed/",
-      "last_success_at": "2026-10-08T01:24:39.441452+00:00",
+      "last_success_at": "2026-10-08T01:46:57.158530+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -5213,10 +5213,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "feed",
       "feed_url": "https://www.sexual-culture.com/feed",
-      "last_success_at": "2026-10-08T01:24:39.441452+00:00",
+      "last_success_at": "2026-10-08T01:46:57.158530+00:00",
       "error": null
     },
     {
@@ -5225,10 +5225,10 @@
       "categories": [
         "Newsletters"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "feed",
       "feed_url": "https://www.spatialintelligence.ai/feed",
-      "last_success_at": "2026-10-08T01:24:39.441452+00:00",
+      "last_success_at": "2026-10-08T01:46:57.158530+00:00",
       "error": null
     },
     {
@@ -5237,10 +5237,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "feed",
       "feed_url": "https://marginalrevolution.com/feed",
-      "last_success_at": "2026-10-08T01:24:39.441452+00:00",
+      "last_success_at": "2026-10-08T01:46:57.158530+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -5250,10 +5250,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "feed",
       "feed_url": "https://matklad.github.io/feed.xml",
-      "last_success_at": "2026-10-08T01:24:39.441452+00:00",
+      "last_success_at": "2026-10-08T01:46:57.158530+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -5263,10 +5263,10 @@
       "categories": [
         "Finance"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "feed",
       "feed_url": "https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine.rss",
-      "last_success_at": "2026-10-08T01:24:39.441452+00:00",
+      "last_success_at": "2026-10-08T01:46:57.158530+00:00",
       "error": null
     },
     {
@@ -5275,10 +5275,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "feed",
       "feed_url": "https://maxhodak.com/writings.xml",
-      "last_success_at": "2026-10-08T01:24:39.441452+00:00",
+      "last_success_at": "2026-10-08T01:46:57.158530+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -5288,7 +5288,7 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "discovered_at": "2026-10-01T19:38:25.896723+00:00",
       "status": "error",
       "fingerprint": "4799958acadd6a78c130d0302622514abb350219772dc8df7344a8a49eed9b1a",
@@ -5301,10 +5301,10 @@
       "categories": [
         "Finance"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "feed",
       "feed_url": "https://www.maxdividends.com/feed",
-      "last_success_at": "2026-10-08T01:24:39.441452+00:00",
+      "last_success_at": "2026-10-08T01:46:57.158530+00:00",
       "error": null
     },
     {
@@ -5313,7 +5313,7 @@
       "categories": [
         "Finance"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "error",
       "feed_url": "https://meritech.substack.com/feed",
       "last_success_at": "2026-09-24T06:33:52.921949+00:00",
@@ -5326,7 +5326,7 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "error",
       "feed_url": "https://milknosugar.substack.com/feed",
       "last_success_at": "2026-09-24T06:33:52.921949+00:00",
@@ -5339,7 +5339,7 @@
       "categories": [
         "Finance"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "error",
       "feed_url": "https://mispricedassets.substack.com/feed",
       "last_success_at": "2026-09-24T06:33:52.921949+00:00",
@@ -5352,10 +5352,10 @@
       "categories": [
         "AI"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "feed",
       "feed_url": "https://www.mixtureofexperts.co/feed",
-      "last_success_at": "2026-10-08T01:24:39.441452+00:00",
+      "last_success_at": "2026-10-08T01:46:57.158530+00:00",
       "error": null
     },
     {
@@ -5364,7 +5364,7 @@
       "categories": [
         "AI"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "error",
       "feed_url": "https://moreintelligent.substack.com/feed",
       "last_success_at": "2026-09-24T06:33:52.921949+00:00",
@@ -5377,10 +5377,10 @@
       "categories": [
         "Finance"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "feed",
       "feed_url": "https://kagansblog.com/feed/",
-      "last_success_at": "2026-10-08T01:24:39.441452+00:00",
+      "last_success_at": "2026-10-08T01:46:57.158530+00:00",
       "error": null
     },
     {
@@ -5389,7 +5389,7 @@
       "categories": [
         "Finance"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "error",
       "feed_url": "https://myweeklystock.substack.com/feed",
       "last_success_at": "2026-09-24T06:33:52.921949+00:00",
@@ -5402,7 +5402,7 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "error",
       "feed_url": "https://mylescooks.substack.com/feed",
       "last_success_at": "2026-09-24T06:33:52.921949+00:00",
@@ -5415,10 +5415,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "feed",
       "feed_url": "https://nadia.xyz/feed",
-      "last_success_at": "2026-10-08T01:24:39.441452+00:00",
+      "last_success_at": "2026-10-08T01:46:57.158530+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -5428,10 +5428,10 @@
       "categories": [
         "Finance"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "feed",
       "feed_url": "https://www.netinterest.co/feed",
-      "last_success_at": "2026-10-08T01:24:39.441452+00:00",
+      "last_success_at": "2026-10-08T01:46:57.158530+00:00",
       "error": null
     },
     {
@@ -5440,10 +5440,10 @@
       "categories": [
         "Newsletters"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "feed",
       "feed_url": "https://www.newcomer.co/feed",
-      "last_success_at": "2026-10-08T01:24:39.441452+00:00",
+      "last_success_at": "2026-10-08T01:46:57.158530+00:00",
       "error": null
     },
     {
@@ -5452,10 +5452,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "page_watch",
       "fingerprint": "193281cb4f511f085cdfe8ab074bd6063986152c10209f07ab9ccebbd0ae5061",
-      "last_success_at": "2026-10-08T01:24:39.441452+00:00",
+      "last_success_at": "2026-10-08T01:46:57.158530+00:00",
       "error": null,
       "discovered_at": "2026-10-01T19:38:25.896723+00:00"
     },
@@ -5465,10 +5465,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "feed",
       "feed_url": "https://www.noahpinion.blog/feed",
-      "last_success_at": "2026-10-08T01:24:39.441452+00:00",
+      "last_success_at": "2026-10-08T01:46:57.158530+00:00",
       "error": null
     },
     {
@@ -5477,7 +5477,7 @@
       "categories": [
         "Newsletters"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "discovered_at": "2026-10-01T19:38:25.896723+00:00",
       "status": "error",
       "error": "HTTPError",
@@ -5490,10 +5490,10 @@
       "categories": [
         "VC"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "feed",
       "feed_url": "https://www.notboring.co/feed",
-      "last_success_at": "2026-10-08T01:24:39.441452+00:00",
+      "last_success_at": "2026-10-08T01:46:57.158530+00:00",
       "error": null
     },
     {
@@ -5502,10 +5502,10 @@
       "categories": [
         "Cyber"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "feed",
       "feed_url": "https://news.oaksecurity.io/feed",
-      "last_success_at": "2026-10-08T01:24:39.441452+00:00",
+      "last_success_at": "2026-10-08T01:46:57.158530+00:00",
       "error": null
     },
     {
@@ -5514,7 +5514,7 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "error",
       "error": "HTTPError",
       "discovered_at": "2026-10-01T19:38:25.896723+00:00"
@@ -5525,10 +5525,10 @@
       "categories": [
         "Finance"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "feed",
       "feed_url": "https://www.onlycfo.io/feed",
-      "last_success_at": "2026-10-08T01:24:39.441452+00:00",
+      "last_success_at": "2026-10-08T01:46:57.158530+00:00",
       "error": null
     },
     {
@@ -5537,10 +5537,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "feed",
       "feed_url": "https://paco.me/feed.xml",
-      "last_success_at": "2026-10-08T01:24:39.441452+00:00",
+      "last_success_at": "2026-10-08T01:46:57.158530+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -5550,10 +5550,10 @@
       "categories": [
         "Finance"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "feed",
       "feed_url": "https://panteracapital.com/blockchain-letter/feed/",
-      "last_success_at": "2026-10-08T01:24:39.441452+00:00",
+      "last_success_at": "2026-10-08T01:46:57.158530+00:00",
       "discovered_at": "2026-09-24T06:19:10.147956+00:00",
       "error": null
     },
@@ -5563,11 +5563,11 @@
       "categories": [
         "Finance"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "discovered_at": "2026-10-01T19:38:25.896723+00:00",
       "status": "page_watch",
       "fingerprint": "68b27a19d7313d767b483bbf38fb46c1ccb9e749d0992efb94f62d0958cf3b79",
-      "last_success_at": "2026-10-08T01:24:39.441452+00:00",
+      "last_success_at": "2026-10-08T01:46:57.158530+00:00",
       "error": null
     },
     {
@@ -5576,10 +5576,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "page_watch",
       "feed_url": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
-      "last_success_at": "2026-10-08T01:24:39.441452+00:00",
+      "last_success_at": "2026-10-08T01:46:57.158530+00:00",
       "discovered_at": "2026-10-01T19:38:25.896723+00:00",
       "error": null,
       "fingerprint": "5361129b1e7568d0c90260473114bcbba9cb02c2f1e05a8b50185a15e6cc9ef2"
@@ -5590,10 +5590,10 @@
       "categories": [
         "Cyber"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "feed",
       "feed_url": "https://www.philvenables.com/blog-feed.xml",
-      "last_success_at": "2026-10-08T01:24:39.441452+00:00",
+      "last_success_at": "2026-10-08T01:46:57.158530+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -5603,7 +5603,7 @@
       "categories": [
         "General"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "error",
       "error": "HTTPError",
       "discovered_at": "2026-10-01T19:38:25.896723+00:00",
@@ -5616,10 +5616,10 @@
       "categories": [
         "VC"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "feed",
       "feed_url": "https://www.platformaeronaut.com/feed",
-      "last_success_at": "2026-10-08T01:24:39.441452+00:00",
+      "last_success_at": "2026-10-08T01:46:57.158530+00:00",
       "error": null
     },
     {
@@ -5628,7 +5628,7 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "error",
       "feed_url": "https://postcardsfromistanbul.substack.com/feed",
       "last_success_at": "2026-09-24T06:33:52.921949+00:00",
@@ -5641,10 +5641,10 @@
       "categories": [
         "Newsletters"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "feed",
       "feed_url": "https://www.prosaictimes.com/feed",
-      "last_success_at": "2026-10-08T01:24:39.441452+00:00",
+      "last_success_at": "2026-10-08T01:46:57.158530+00:00",
       "error": null
     },
     {
@@ -5653,7 +5653,7 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "error",
       "feed_url": "https://provenancewatches.substack.com/feed",
       "last_success_at": "2026-09-24T06:33:52.921949+00:00",
@@ -5667,10 +5667,10 @@
         "Solo blogs",
         "VC"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "feed",
       "feed_url": "https://qy.co/feed.xml",
-      "last_success_at": "2026-10-08T01:24:39.441452+00:00",
+      "last_success_at": "2026-10-08T01:46:57.158530+00:00",
       "discovered_at": "2026-09-24T06:23:24.839169+00:00",
       "error": null
     },
@@ -5680,7 +5680,7 @@
       "categories": [
         "AI"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "error",
       "fingerprint": "a5e4bf6b562cb2e02c99900128b0573738f658d04d96535c98881acb8134886b",
       "last_success_at": "2026-09-24T03:48:01.272420+00:00",
@@ -5693,10 +5693,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "feed",
       "feed_url": "https://rsms.me/atom.xml",
-      "last_success_at": "2026-10-08T01:24:39.441452+00:00",
+      "last_success_at": "2026-10-08T01:46:57.158530+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -5706,10 +5706,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "feed",
       "feed_url": "https://www.cojobrien.com/feed",
-      "last_success_at": "2026-10-08T01:24:39.441452+00:00",
+      "last_success_at": "2026-10-08T01:46:57.158530+00:00",
       "error": null
     },
     {
@@ -5718,10 +5718,10 @@
       "categories": [
         "Builders"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "page_watch",
       "fingerprint": "a835884ff255d1f73c62b1563188d75a7631a2ffab21b5853dc4574e93d4cba2",
-      "last_success_at": "2026-10-08T01:24:39.441452+00:00",
+      "last_success_at": "2026-10-08T01:46:57.158530+00:00",
       "error": null,
       "discovered_at": "2026-10-01T19:38:25.896723+00:00"
     },
@@ -5731,7 +5731,7 @@
       "categories": [
         "VC"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "error",
       "feed_url": "https://runrate.substack.com/feed",
       "last_success_at": "2026-09-24T06:33:52.921949+00:00",
@@ -5744,7 +5744,7 @@
       "categories": [
         "AI"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "error",
       "error": "TimeoutError",
       "discovered_at": "2026-10-01T19:38:25.896723+00:00"
@@ -5755,11 +5755,11 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "discovered_at": "2026-10-01T19:38:25.896723+00:00",
       "status": "page_watch",
       "fingerprint": "a3f164b3f9cd0c989214b1533af3b546c46a0ee8f7e3ca71c5ba606c0651670a",
-      "last_success_at": "2026-10-08T01:24:39.441452+00:00",
+      "last_success_at": "2026-10-08T01:46:57.158530+00:00",
       "error": null
     },
     {
@@ -5768,10 +5768,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "feed",
       "feed_url": "https://blog.samaltman.com/posts.atom",
-      "last_success_at": "2026-10-08T01:24:39.441452+00:00",
+      "last_success_at": "2026-10-08T01:46:57.158530+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -5781,7 +5781,7 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "error",
       "feed_url": "https://samenright.substack.com/feed",
       "last_success_at": "2026-09-24T06:33:52.921949+00:00",
@@ -5794,7 +5794,7 @@
       "categories": [
         "Finance"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "error",
       "feed_url": "https://sgthoughts.substack.com/feed",
       "last_success_at": "2026-09-24T06:33:52.921949+00:00",
@@ -5807,7 +5807,7 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "error",
       "feed_url": "https://seanzcai.substack.com/feed",
       "last_success_at": "2026-09-24T06:33:52.921949+00:00",
@@ -5820,7 +5820,7 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "error",
       "feed_url": "https://pjvogt.substack.com/feed",
       "last_success_at": "2026-09-24T06:33:52.921949+00:00",
@@ -5833,10 +5833,10 @@
       "categories": [
         "General"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "feed",
       "feed_url": "https://semianalysis.com/feed/",
-      "last_success_at": "2026-10-08T01:24:39.441452+00:00",
+      "last_success_at": "2026-10-08T01:46:57.158530+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -5846,7 +5846,7 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "error",
       "feed_url": "https://cathyreisenwitz.substack.com/feed",
       "last_success_at": "2026-09-24T06:33:52.921949+00:00",
@@ -5859,7 +5859,7 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "error",
       "feed_url": "https://signull.substack.com/feed",
       "last_success_at": "2026-09-24T06:33:52.921949+00:00",
@@ -5872,10 +5872,10 @@
       "categories": [
         "China"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "feed",
       "feed_url": "https://sinocism.com/feed",
-      "last_success_at": "2026-10-08T01:24:39.441452+00:00",
+      "last_success_at": "2026-10-08T01:46:57.158530+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -5885,10 +5885,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "feed",
       "feed_url": "https://slatestarcodex.com/feed/",
-      "last_success_at": "2026-10-08T01:24:39.441452+00:00",
+      "last_success_at": "2026-10-08T01:46:57.158530+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -5898,10 +5898,10 @@
       "categories": [
         "Finance"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "feed",
       "feed_url": "https://www.sleeperthoughts.com/feed",
-      "last_success_at": "2026-10-08T01:24:39.441452+00:00",
+      "last_success_at": "2026-10-08T01:46:57.158530+00:00",
       "error": null
     },
     {
@@ -5910,10 +5910,10 @@
       "categories": [
         "Newsletters"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "feed",
       "feed_url": "https://www.sourcery.vc/feed",
-      "last_success_at": "2026-10-08T01:24:39.441452+00:00",
+      "last_success_at": "2026-10-08T01:46:57.158530+00:00",
       "error": null
     },
     {
@@ -5922,10 +5922,10 @@
       "categories": [
         "Newsletters"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "feed",
       "feed_url": "https://blog.southparkcommons.com/feed",
-      "last_success_at": "2026-10-08T01:24:39.441452+00:00",
+      "last_success_at": "2026-10-08T01:46:57.158530+00:00",
       "error": null
     },
     {
@@ -5934,7 +5934,7 @@
       "categories": [
         "Newsletters"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "discovered_at": "2026-10-01T19:38:25.896723+00:00",
       "status": "error",
       "error": "HTTPError",
@@ -5947,7 +5947,7 @@
       "categories": [
         "Newsletters"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "discovered_at": "2026-10-01T19:38:25.896723+00:00",
       "status": "error",
       "error": "HTTPError",
@@ -5960,7 +5960,7 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "error",
       "feed_url": "https://superjoost.substack.com/feed",
       "last_success_at": "2026-09-24T06:33:52.921949+00:00",
@@ -5973,10 +5973,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "feed",
       "feed_url": "https://susam.net/feed.xml",
-      "last_success_at": "2026-10-08T01:24:39.441452+00:00",
+      "last_success_at": "2026-10-08T01:46:57.158530+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -5986,10 +5986,10 @@
       "categories": [
         "AI"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "feed",
       "feed_url": "https://www.newsletter.swirlai.com/feed",
-      "last_success_at": "2026-10-08T01:24:39.441452+00:00",
+      "last_success_at": "2026-10-08T01:46:57.158530+00:00",
       "error": null
     },
     {
@@ -5998,7 +5998,7 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "error",
       "feed_url": "https://taleenvoskuni.substack.com/feed",
       "last_success_at": "2026-09-24T06:33:52.921949+00:00",
@@ -6011,7 +6011,7 @@
       "categories": [
         "Newsletters"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "discovered_at": "2026-10-01T19:38:25.896723+00:00",
       "status": "error",
       "error": "HTTPError",
@@ -6024,10 +6024,10 @@
       "categories": [
         "China"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "feed",
       "feed_url": "https://www.asianometry.com/feed",
-      "last_success_at": "2026-10-08T01:24:39.441452+00:00",
+      "last_success_at": "2026-10-08T01:46:57.158530+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -6037,7 +6037,7 @@
       "categories": [
         "Newsletters"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "discovered_at": "2026-10-01T19:38:25.896723+00:00",
       "status": "error",
       "error": "HTTPError",
@@ -6050,10 +6050,10 @@
       "categories": [
         "Builders"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "feed",
       "feed_url": "https://growthstackmafia.com/feed",
-      "last_success_at": "2026-10-08T01:24:39.441452+00:00",
+      "last_success_at": "2026-10-08T01:46:57.158530+00:00",
       "error": null
     },
     {
@@ -6062,7 +6062,7 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "error",
       "feed_url": "https://mariakonnikova.substack.com/feed",
       "last_success_at": "2026-09-24T06:33:52.921949+00:00",
@@ -6075,7 +6075,7 @@
       "categories": [
         "Newsletters"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "discovered_at": "2026-10-01T19:38:25.896723+00:00",
       "status": "error",
       "error": "HTTPError",
@@ -6088,7 +6088,7 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "error",
       "feed_url": "https://danilk.substack.com/feed",
       "last_success_at": "2026-09-24T06:33:52.921949+00:00",
@@ -6101,10 +6101,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "feed",
       "feed_url": "https://newsletter.rootsofprogress.org/feed",
-      "last_success_at": "2026-10-08T01:24:39.441452+00:00",
+      "last_success_at": "2026-10-08T01:46:57.158530+00:00",
       "error": null
     },
     {
@@ -6113,10 +6113,10 @@
       "categories": [
         "Finance"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "feed",
       "feed_url": "https://www.thewolfofharcourtstreet.com/feed",
-      "last_success_at": "2026-10-08T01:24:39.441452+00:00",
+      "last_success_at": "2026-10-08T01:46:57.158530+00:00",
       "error": null
     },
     {
@@ -6125,10 +6125,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "feed",
       "fingerprint": "fa8b7f5eac12a40b22f7965f7f1466e48e38747255f18cc949cf5831e5ca2350",
-      "last_success_at": "2026-10-08T01:24:39.441452+00:00",
+      "last_success_at": "2026-10-08T01:46:57.158530+00:00",
       "error": null,
       "feed_url": "https://tomtunguz.com/index.xml",
       "discovered_at": "2026-09-24T03:49:54.414936+00:00"
@@ -6139,9 +6139,9 @@
       "categories": [
         "Finance"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "feed",
-      "last_success_at": "2026-10-08T01:24:39.441452+00:00",
+      "last_success_at": "2026-10-08T01:46:57.158530+00:00",
       "error": null
     },
     {
@@ -6150,10 +6150,10 @@
       "categories": [
         "AI"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "feed",
       "feed_url": "https://towardsdatascience.com/feed/",
-      "last_success_at": "2026-10-08T01:24:39.441452+00:00",
+      "last_success_at": "2026-10-08T01:46:57.158530+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -6163,10 +6163,10 @@
       "categories": [
         "Newsletters"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "feed",
       "feed_url": "https://thescienceofhitting.com/feed",
-      "last_success_at": "2026-10-08T01:24:39.441452+00:00",
+      "last_success_at": "2026-10-08T01:46:57.158530+00:00",
       "error": null
     },
     {
@@ -6175,7 +6175,7 @@
       "categories": [
         "Finance"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "error",
       "feed_url": "https://ufoholdings.substack.com/feed",
       "last_success_at": "2026-09-24T06:33:52.921949+00:00",
@@ -6188,11 +6188,11 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "discovered_at": "2026-09-24T06:17:39.218176+00:00",
       "status": "feed",
       "fingerprint": "431587f55e4da44bb6bce16751dd3501292e006bad1426a61eb5bbe50622a665",
-      "last_success_at": "2026-10-08T01:24:39.441452+00:00",
+      "last_success_at": "2026-10-08T01:46:57.158530+00:00",
       "error": null,
       "feed_url": "https://unherd.com/feed/"
     },
@@ -6202,10 +6202,10 @@
       "categories": [
         "Cyber"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "feed",
       "feed_url": "https://ventureinsecurity.net/feed",
-      "last_success_at": "2026-10-08T01:24:39.441452+00:00",
+      "last_success_at": "2026-10-08T01:46:57.158530+00:00",
       "error": null
     },
     {
@@ -6214,7 +6214,7 @@
       "categories": [
         "Finance"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "error",
       "feed_url": "https://vermilioncliffs.substack.com/feed",
       "last_success_at": "2026-09-24T06:33:52.921949+00:00",
@@ -6227,7 +6227,7 @@
       "categories": [
         "Finance"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "discovered_at": "2026-10-01T19:38:25.896723+00:00",
       "status": "error",
       "error": "HTTPError"
@@ -6238,7 +6238,7 @@
       "categories": [
         "VC"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "error",
       "feed_url": "https://wattfactory.substack.com/feed",
       "last_success_at": "2026-09-24T06:33:52.921949+00:00",
@@ -6251,7 +6251,7 @@
       "categories": [
         "VC"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "error",
       "feed_url": "https://whoisnnamdi.substack.com/feed",
       "last_success_at": "2026-09-24T06:33:52.921949+00:00",
@@ -6265,10 +6265,10 @@
         "Solo blogs",
         "AI"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "page_watch",
       "fingerprint": "7326ecdee1523681e63a7ac7b45d57fa034fce8989c94357587b4ddedc6c42d4",
-      "last_success_at": "2026-10-08T01:24:39.441452+00:00",
+      "last_success_at": "2026-10-08T01:46:57.158530+00:00",
       "error": null,
       "discovered_at": "2026-10-01T19:38:25.896723+00:00"
     },
@@ -6278,10 +6278,10 @@
       "categories": [
         "General"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "feed",
       "feed_url": "https://worksinprogress.co/rss.xml",
-      "last_success_at": "2026-10-08T01:24:39.441452+00:00",
+      "last_success_at": "2026-10-08T01:46:57.158530+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -6291,10 +6291,10 @@
       "categories": [
         "Cyber"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "feed",
       "feed_url": "https://nicholas.carlini.com/writing/feed.xml",
-      "last_success_at": "2026-10-08T01:24:39.441452+00:00",
+      "last_success_at": "2026-10-08T01:46:57.158530+00:00",
       "discovered_at": "2026-09-24T03:48:01.272420+00:00",
       "error": null
     },
@@ -6304,10 +6304,10 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "page_watch",
       "fingerprint": "873f26a9d2413dfaa66f1325cfbd473c7e71fbbf6539e36d1362e98086f479f2",
-      "last_success_at": "2026-10-08T01:24:39.441452+00:00",
+      "last_success_at": "2026-10-08T01:46:57.158530+00:00",
       "error": null,
       "discovered_at": "2026-10-01T19:38:25.896723+00:00"
     },
@@ -6317,11 +6317,11 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "discovered_at": "2026-10-01T19:38:25.896723+00:00",
       "status": "page_watch",
       "fingerprint": "a71598a5018cae11110cbd7578aeda163b2073708c0ae0bcd1e3021f31eaaa2e",
-      "last_success_at": "2026-10-08T01:24:39.441452+00:00",
+      "last_success_at": "2026-10-08T01:46:57.158530+00:00",
       "error": null
     },
     {
@@ -6330,7 +6330,7 @@
       "categories": [
         "Solo blogs"
       ],
-      "checked_at": "2026-10-08T01:24:39.441452+00:00",
+      "checked_at": "2026-10-08T01:46:57.158530+00:00",
       "status": "error",
       "feed_url": "https://masterofnonewithsunnyc.substack.com/feed",
       "last_success_at": "2026-09-24T06:33:52.921949+00:00",
@@ -6681,7 +6681,7 @@
         "AI"
       ],
       "first_seen_at": "2026-10-07T20:01:31.469271+00:00",
-      "score": 44.5,
+      "score": 44.4,
       "why": "AI & infrastructure"
     },
     {
@@ -6696,7 +6696,7 @@
         "VC"
       ],
       "first_seen_at": "2026-10-07T20:01:31.469271+00:00",
-      "score": 44.4,
+      "score": 44.3,
       "why": "AI & infrastructure"
     },
     {
@@ -6865,22 +6865,6 @@
       "why": "Startups & investing"
     },
     {
-      "url": "https://jack-clark.net/2026/10/05/import-ai-475-swarm-scaling-google-deepmind-watermarks-biology-and-the-ai-science-economy/",
-      "title": "Import AI 475: Swarm scaling; Google DeepMind watermarks biology; and the AI science economy",
-      "author": "Jack Clark",
-      "published_at": "2026-10-05T12:32:30+00:00",
-      "kind": "article",
-      "source": "Import AI",
-      "source_url": "https://jack-clark.net/",
-      "categories": [
-        "AI",
-        "Newsletters"
-      ],
-      "first_seen_at": "2026-10-05T21:31:50.750352+00:00",
-      "score": 42.5,
-      "why": "AI & infrastructure"
-    },
-    {
       "url": "https://www.a16z.news/p/top-100-consumer-ai-apps-seventh",
       "title": "Top 100 Consumer AI Apps - Seventh Edition",
       "author": "Olivia Moore",
@@ -6893,6 +6877,22 @@
       ],
       "first_seen_at": "2026-10-05T21:31:50.750352+00:00",
       "score": 42.5,
+      "why": "AI & infrastructure"
+    },
+    {
+      "url": "https://jack-clark.net/2026/10/05/import-ai-475-swarm-scaling-google-deepmind-watermarks-biology-and-the-ai-science-economy/",
+      "title": "Import AI 475: Swarm scaling; Google DeepMind watermarks biology; and the AI science economy",
+      "author": "Jack Clark",
+      "published_at": "2026-10-05T12:32:30+00:00",
+      "kind": "article",
+      "source": "Import AI",
+      "source_url": "https://jack-clark.net/",
+      "categories": [
+        "AI",
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-10-05T21:31:50.750352+00:00",
+      "score": 42.4,
       "why": "AI & infrastructure"
     },
     {
@@ -6986,21 +6986,6 @@
       "why": "AI & infrastructure"
     },
     {
-      "url": "https://www.lennysnewsletter.com/p/openais-head-of-chatgpt-were-entering",
-      "title": "OpenAI\u2019s Head of ChatGPT: We\u2019re entering a new era of AI (again) | Tibo Sottiaux",
-      "author": "Lenny Rachitsky",
-      "published_at": "2026-10-04T12:32:47+00:00",
-      "kind": "article",
-      "source": "Lenny's Newsletter",
-      "source_url": "https://lenny.substack.com/",
-      "categories": [
-        "VC"
-      ],
-      "first_seen_at": "2026-10-04T18:13:40.058206+00:00",
-      "score": 41.5,
-      "why": "AI & infrastructure"
-    },
-    {
       "url": "https://towardsdatascience.com/the-reversal-curse-why-a-language-model-that-knows-a-is-b-cant-tell-you-b-is-a/",
       "title": "The Reversal Curse: Why a Language Model That Knows \u201cA Is B\u201d Can\u2019t Tell You \u201cB Is A\u201d",
       "author": "Utkarsh Mangal",
@@ -7010,6 +6995,21 @@
       "source_url": "https://towardsdatascience.com/",
       "categories": [
         "AI"
+      ],
+      "first_seen_at": "2026-10-04T18:13:40.058206+00:00",
+      "score": 41.4,
+      "why": "AI & infrastructure"
+    },
+    {
+      "url": "https://www.lennysnewsletter.com/p/openais-head-of-chatgpt-were-entering",
+      "title": "OpenAI\u2019s Head of ChatGPT: We\u2019re entering a new era of AI (again) | Tibo Sottiaux",
+      "author": "Lenny Rachitsky",
+      "published_at": "2026-10-04T12:32:47+00:00",
+      "kind": "article",
+      "source": "Lenny's Newsletter",
+      "source_url": "https://lenny.substack.com/",
+      "categories": [
+        "VC"
       ],
       "first_seen_at": "2026-10-04T18:13:40.058206+00:00",
       "score": 41.4,
@@ -7027,7 +7027,7 @@
         "VC"
       ],
       "first_seen_at": "2026-10-03T18:01:56.814914+00:00",
-      "score": 40.7,
+      "score": 40.6,
       "why": "AI & infrastructure"
     },
     {
@@ -7061,21 +7061,6 @@
       "why": "AI & infrastructure"
     },
     {
-      "url": "https://www.sourcery.vc/p/breaking-frontier-ai-is-a-ferrari",
-      "title": "BREAKING: The future of AI isn't open vs. closed. We need a TON of both.",
-      "author": "Molly O\u2019Shea",
-      "published_at": "2026-10-02T14:47:59+00:00",
-      "kind": "article",
-      "source": "Sourcery",
-      "source_url": "https://mollysoshea.substack.com/",
-      "categories": [
-        "Newsletters"
-      ],
-      "first_seen_at": "2026-10-02T19:24:50.703949+00:00",
-      "score": 39.6,
-      "why": "AI & infrastructure"
-    },
-    {
       "url": "https://towardsdatascience.com/where-the-agent-development-lifecycle-fits/",
       "title": "Where the Agent Development Lifecycle Fits",
       "author": "Andrew Hinton",
@@ -7106,6 +7091,21 @@
       "why": "AI & infrastructure"
     },
     {
+      "url": "https://www.sourcery.vc/p/breaking-frontier-ai-is-a-ferrari",
+      "title": "BREAKING: The future of AI isn't open vs. closed. We need a TON of both.",
+      "author": "Molly O\u2019Shea",
+      "published_at": "2026-10-02T14:47:59+00:00",
+      "kind": "article",
+      "source": "Sourcery",
+      "source_url": "https://mollysoshea.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-10-02T19:24:50.703949+00:00",
+      "score": 39.5,
+      "why": "AI & infrastructure"
+    },
+    {
       "url": "https://towardsdatascience.com/how-to-build-a-control-plane-for-ai-agents/",
       "title": "How to Build a Control Plane for AI Agents",
       "author": "Ari Joury, PhD",
@@ -7121,21 +7121,6 @@
       "why": "AI & infrastructure"
     },
     {
-      "url": "https://www.newcomer.co/p/igor-babuschkin-founders-of-legora",
-      "title": "Igor Babuschkin + Founders of Legora, Factory, Fireworks AI, Etched & Crosby Join the Cerebral Valley AI Summit as Speakers",
-      "author": "Madeline Renbarger",
-      "published_at": "2026-10-01T19:39:07+00:00",
-      "kind": "article",
-      "source": "Newcomer",
-      "source_url": "https://newcomer.substack.com/",
-      "categories": [
-        "Newsletters"
-      ],
-      "first_seen_at": "2026-10-02T19:24:50.703949+00:00",
-      "score": 38.8,
-      "why": "AI & infrastructure"
-    },
-    {
       "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/Everyone-is-talking-about-AI",
       "title": "Everyone Is Talking About AI",
       "author": "Torsten Slok",
@@ -7147,6 +7132,21 @@
         "Finance"
       ],
       "first_seen_at": "2026-10-01T19:38:25.896723+00:00",
+      "score": 38.7,
+      "why": "AI & infrastructure"
+    },
+    {
+      "url": "https://www.newcomer.co/p/igor-babuschkin-founders-of-legora",
+      "title": "Igor Babuschkin + Founders of Legora, Factory, Fireworks AI, Etched & Crosby Join the Cerebral Valley AI Summit as Speakers",
+      "author": "Madeline Renbarger",
+      "published_at": "2026-10-01T19:39:07+00:00",
+      "kind": "article",
+      "source": "Newcomer",
+      "source_url": "https://newcomer.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-10-02T19:24:50.703949+00:00",
       "score": 38.7,
       "why": "AI & infrastructure"
     },
@@ -7297,7 +7297,7 @@
         "China"
       ],
       "first_seen_at": "2026-09-30T19:30:10.868665+00:00",
-      "score": 36.9,
+      "score": 36.8,
       "why": "AI & infrastructure"
     },
     {
@@ -7387,7 +7387,7 @@
         "AI"
       ],
       "first_seen_at": "2026-09-29T19:30:11.536789+00:00",
-      "score": 36.5,
+      "score": 36.4,
       "why": "AI & infrastructure"
     },
     {
@@ -7436,22 +7436,6 @@
       "why": "AI & infrastructure"
     },
     {
-      "url": "https://jack-clark.net/2026/09/28/import-ai-474-platonic-mindspace-tpus-in-space-zhipu-starts-an-outer-rsi-loop/",
-      "title": "Import AI 474: Platonic mindspace; TPUs in space; Zhipu starts an outer RSI loop",
-      "author": "Jack Clark",
-      "published_at": "2026-09-28T12:32:03+00:00",
-      "kind": "article",
-      "source": "Import AI",
-      "source_url": "https://jack-clark.net/",
-      "categories": [
-        "AI",
-        "Newsletters"
-      ],
-      "first_seen_at": "2026-09-28T20:37:06.838135+00:00",
-      "score": 35.5,
-      "why": "AI & infrastructure"
-    },
-    {
       "url": "https://towardsdatascience.com/how-to-make-your-own-jev-model-from-an-open-llm/",
       "title": "How to Make Your Own JEV Model from an Open LLM",
       "author": "Anubhab Banerjee",
@@ -7467,6 +7451,22 @@
       "why": "AI & infrastructure"
     },
     {
+      "url": "https://jack-clark.net/2026/09/28/import-ai-474-platonic-mindspace-tpus-in-space-zhipu-starts-an-outer-rsi-loop/",
+      "title": "Import AI 474: Platonic mindspace; TPUs in space; Zhipu starts an outer RSI loop",
+      "author": "Jack Clark",
+      "published_at": "2026-09-28T12:32:03+00:00",
+      "kind": "article",
+      "source": "Import AI",
+      "source_url": "https://jack-clark.net/",
+      "categories": [
+        "AI",
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-28T20:37:06.838135+00:00",
+      "score": 35.4,
+      "why": "AI & infrastructure"
+    },
+    {
       "url": "https://towardsdatascience.com/the-ai-that-learned-to-understand-long-after-it-stopped-trying/",
       "title": "The AI That Learned to Understand Long After It Stopped Trying",
       "author": "Utkarsh Mangal",
@@ -7478,7 +7478,7 @@
         "AI"
       ],
       "first_seen_at": "2026-09-28T20:37:06.838135+00:00",
-      "score": 35.5,
+      "score": 35.4,
       "why": "AI & infrastructure"
     },
     {
@@ -7662,21 +7662,6 @@
       "why": "AI & infrastructure"
     },
     {
-      "url": "https://towardsdatascience.com/rag-isnt-an-agent-i-built-the-layer-between-retrieval-and-action/",
-      "title": "RAG Isn't an Agent \u2014 I Built the Layer Between Retrieval and Action",
-      "author": "Emmimal P Alexander",
-      "published_at": "2026-09-25T12:30:01+00:00",
-      "kind": "article",
-      "source": "Towards Data Science",
-      "source_url": "https://towardsdatascience.com/",
-      "categories": [
-        "AI"
-      ],
-      "first_seen_at": "2026-09-25T18:44:41.201358+00:00",
-      "score": 32.5,
-      "why": "AI & infrastructure"
-    },
-    {
       "url": "https://towardsdatascience.com/your-models-mse-is-lying-to-you-part-ii/",
       "title": "Your Model's MSE Is Lying to You: Part II",
       "author": "Waleed Esmail",
@@ -7696,6 +7681,21 @@
       "title": "Jev vs. LLMs: When AI Moves from Generation to Decision-Making",
       "author": "Nhu Hoang",
       "published_at": "2026-09-25T11:00:01+00:00",
+      "kind": "article",
+      "source": "Towards Data Science",
+      "source_url": "https://towardsdatascience.com/",
+      "categories": [
+        "AI"
+      ],
+      "first_seen_at": "2026-09-25T18:44:41.201358+00:00",
+      "score": 32.4,
+      "why": "AI & infrastructure"
+    },
+    {
+      "url": "https://towardsdatascience.com/rag-isnt-an-agent-i-built-the-layer-between-retrieval-and-action/",
+      "title": "RAG Isn't an Agent \u2014 I Built the Layer Between Retrieval and Action",
+      "author": "Emmimal P Alexander",
+      "published_at": "2026-09-25T12:30:01+00:00",
       "kind": "article",
       "source": "Towards Data Science",
       "source_url": "https://towardsdatascience.com/",
@@ -7853,7 +7853,7 @@
         "Newsletters"
       ],
       "first_seen_at": "2026-09-24T06:17:39.218176+00:00",
-      "score": 31.0,
+      "score": 30.9,
       "why": "AI & infrastructure"
     },
     {
@@ -7962,21 +7962,6 @@
       "why": "AI & infrastructure"
     },
     {
-      "url": "https://sinocism.com/p/premier-li-on-advanced-manufacturing",
-      "title": "Premier Li on advanced manufacturing; Xi\u2019s US visit; AI; \u201cEnemy state\u201d clauses",
-      "author": "Bill Bishop",
-      "published_at": "2026-09-22T22:05:31+00:00",
-      "kind": "article",
-      "source": "Sinocism | Bill Bishop | Substack",
-      "source_url": "https://sinocism.com/",
-      "categories": [
-        "China"
-      ],
-      "first_seen_at": "2026-09-24T03:48:01.272420+00:00",
-      "score": 29.9,
-      "why": "AI & infrastructure"
-    },
-    {
       "url": "https://unherd.com/2026/09/ai-a-very-human-tragedy/?edition=us",
       "title": "AI: a very human tragedy",
       "author": "Terry Eagleton",
@@ -8052,6 +8037,21 @@
       "why": "AI & infrastructure"
     },
     {
+      "url": "https://sinocism.com/p/premier-li-on-advanced-manufacturing",
+      "title": "Premier Li on advanced manufacturing; Xi\u2019s US visit; AI; \u201cEnemy state\u201d clauses",
+      "author": "Bill Bishop",
+      "published_at": "2026-09-22T22:05:31+00:00",
+      "kind": "article",
+      "source": "Sinocism | Bill Bishop | Substack",
+      "source_url": "https://sinocism.com/",
+      "categories": [
+        "China"
+      ],
+      "first_seen_at": "2026-09-24T03:48:01.272420+00:00",
+      "score": 29.8,
+      "why": "AI & infrastructure"
+    },
+    {
       "url": "https://www.latent.space/p/john-platt",
       "title": "\ud83d\udd2c An Oscar, Two Asteroids, and the Algorithm in Your sklearn: John Platt on AI for Science",
       "author": "Brandon Anderson",
@@ -8078,7 +8078,7 @@
         "Newsletters"
       ],
       "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
-      "score": 29.8,
+      "score": 29.7,
       "why": "Startups & investing"
     },
     {
@@ -8097,21 +8097,6 @@
       "why": "AI & infrastructure"
     },
     {
-      "url": "https://towardsdatascience.com/4-ways-to-use-ai-on-a-phd-thesis/",
-      "title": "4 Ways to Use AI on a PhD Thesis",
-      "author": "Conor O'Sullivan",
-      "published_at": "2026-09-22T12:30:01+00:00",
-      "kind": "article",
-      "source": "Towards Data Science",
-      "source_url": "https://towardsdatascience.com/",
-      "categories": [
-        "AI"
-      ],
-      "first_seen_at": "2026-09-24T03:48:01.272420+00:00",
-      "score": 29.5,
-      "why": "AI & infrastructure"
-    },
-    {
       "url": "https://www.lennysnewsletter.com/p/advanced-evals-how-to-find-and-fix",
       "title": "Advanced evals: How to find (and fix) hidden AI failures in your product",
       "author": "Hamel Husain",
@@ -8124,6 +8109,21 @@
       ],
       "first_seen_at": "2026-09-24T06:17:39.218176+00:00",
       "score": 29.5,
+      "why": "AI & infrastructure"
+    },
+    {
+      "url": "https://towardsdatascience.com/4-ways-to-use-ai-on-a-phd-thesis/",
+      "title": "4 Ways to Use AI on a PhD Thesis",
+      "author": "Conor O'Sullivan",
+      "published_at": "2026-09-22T12:30:01+00:00",
+      "kind": "article",
+      "source": "Towards Data Science",
+      "source_url": "https://towardsdatascience.com/",
+      "categories": [
+        "AI"
+      ],
+      "first_seen_at": "2026-09-24T03:48:01.272420+00:00",
+      "score": 29.4,
       "why": "AI & infrastructure"
     },
     {
@@ -8244,7 +8244,7 @@
         "Newsletters"
       ],
       "first_seen_at": "2026-09-24T03:48:01.272420+00:00",
-      "score": 28.5,
+      "score": 28.4,
       "why": "AI & infrastructure"
     },
     {
@@ -8503,21 +8503,6 @@
       "why": "AI & infrastructure"
     },
     {
-      "url": "https://towardsdatascience.com/starting-a-career-in-data-science-in-the-age-of-ai/",
-      "title": "Starting a Career in Data Science in the Age of AI",
-      "author": "Stephanie Kirmer",
-      "published_at": "2026-09-18T12:30:01+00:00",
-      "kind": "article",
-      "source": "Towards Data Science",
-      "source_url": "https://towardsdatascience.com/",
-      "categories": [
-        "AI"
-      ],
-      "first_seen_at": "2026-09-24T03:48:01.272420+00:00",
-      "score": 25.5,
-      "why": "AI & infrastructure"
-    },
-    {
       "url": "https://towardsdatascience.com/we-pinned-our-model-version-to-stay-safe-the-provider-deprecated-it-anyway/",
       "title": "We Pinned Our Model Version to Stay Safe. The Provider Deprecated It Anyway.",
       "author": "Pratik Rupareliya",
@@ -8537,6 +8522,21 @@
       "title": "Multi-Agent Coding Isn\u2019t Enough \u2014 Agents Need a Commitment Layer",
       "author": "Emmimal P Alexander",
       "published_at": "2026-09-18T11:00:01+00:00",
+      "kind": "article",
+      "source": "Towards Data Science",
+      "source_url": "https://towardsdatascience.com/",
+      "categories": [
+        "AI"
+      ],
+      "first_seen_at": "2026-09-24T03:48:01.272420+00:00",
+      "score": 25.4,
+      "why": "AI & infrastructure"
+    },
+    {
+      "url": "https://towardsdatascience.com/starting-a-career-in-data-science-in-the-age-of-ai/",
+      "title": "Starting a Career in Data Science in the Age of AI",
+      "author": "Stephanie Kirmer",
+      "published_at": "2026-09-18T12:30:01+00:00",
       "kind": "article",
       "source": "Towards Data Science",
       "source_url": "https://towardsdatascience.com/",
@@ -11283,21 +11283,6 @@
       "why": "From a followed source"
     },
     {
-      "url": "https://www.maxdividends.com/p/dividend-score-a-maxdividends-study",
-      "title": "Dividend Score: A MaxDividends Study of U.S. and International Dividend Stocks",
-      "author": "MaxDividends",
-      "published_at": "2026-10-07T14:55:25+00:00",
-      "kind": "article",
-      "source": "MaxDividends",
-      "source_url": "https://www.maxdividends.com/",
-      "categories": [
-        "Finance"
-      ],
-      "first_seen_at": "2026-10-07T20:01:31.469271+00:00",
-      "score": 19.6,
-      "why": "From a followed source"
-    },
-    {
       "url": "https://www.newsletter.lukesophinos.com/p/linear-1975-is-the-phone-your-platforms",
       "title": "Linear #197.5: Is the phone your platforms next territory to own? Mike Sharp (CEO @ Dialstack)",
       "author": null,
@@ -11388,18 +11373,18 @@
       "why": "From a followed source"
     },
     {
-      "url": "https://aeon.co/videos/an-iranian-couple-seek-out-the-recipient-of-their-late-sons-heart",
-      "title": "I won\u2019t remain alone",
-      "author": "Aeon Video",
-      "published_at": "2026-10-07T10:01:00+00:00",
+      "url": "https://www.maxdividends.com/p/dividend-score-a-maxdividends-study",
+      "title": "Dividend Score: A MaxDividends Study of U.S. and International Dividend Stocks",
+      "author": "MaxDividends",
+      "published_at": "2026-10-07T14:55:25+00:00",
       "kind": "article",
-      "source": "Aeon | a world of ideas",
-      "source_url": "https://aeon.co/",
+      "source": "MaxDividends",
+      "source_url": "https://www.maxdividends.com/",
       "categories": [
-        "Solo blogs"
+        "Finance"
       ],
       "first_seen_at": "2026-10-07T20:01:31.469271+00:00",
-      "score": 19.4,
+      "score": 19.5,
       "why": "From a followed source"
     },
     {
@@ -11505,6 +11490,21 @@
       ],
       "first_seen_at": "2026-10-07T20:01:31.469271+00:00",
       "score": 19.4,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://aeon.co/videos/an-iranian-couple-seek-out-the-recipient-of-their-late-sons-heart",
+      "title": "I won\u2019t remain alone",
+      "author": "Aeon Video",
+      "published_at": "2026-10-07T10:01:00+00:00",
+      "kind": "article",
+      "source": "Aeon | a world of ideas",
+      "source_url": "https://aeon.co/",
+      "categories": [
+        "Solo blogs"
+      ],
+      "first_seen_at": "2026-10-07T20:01:31.469271+00:00",
+      "score": 19.3,
       "why": "From a followed source"
     },
     {
@@ -11793,36 +11793,6 @@
       "why": "From a followed source"
     },
     {
-      "url": "https://towardsdatascience.com/how-to-make-a-cloud-read-a-drones-mind-and-cut-data-usage-by-94/",
-      "title": "How to Make a Cloud Read a Drone's Mind (and Cut Data Usage by 94%)",
-      "author": "Anubhab Banerjee",
-      "published_at": "2026-10-06T12:30:00+00:00",
-      "kind": "article",
-      "source": "Towards Data Science",
-      "source_url": "https://towardsdatascience.com/",
-      "categories": [
-        "AI"
-      ],
-      "first_seen_at": "2026-10-06T19:36:38.065289+00:00",
-      "score": 18.5,
-      "why": "From a followed source"
-    },
-    {
-      "url": "https://aeon.co/essays/the-life-saving-scientific-knowledge-hiding-in-plain-sight",
-      "title": "How to assemble science",
-      "author": "Helen Pearson",
-      "published_at": "2026-10-06T10:00:00+00:00",
-      "kind": "article",
-      "source": "Aeon | a world of ideas",
-      "source_url": "https://aeon.co/",
-      "categories": [
-        "Solo blogs"
-      ],
-      "first_seen_at": "2026-10-06T19:36:38.065289+00:00",
-      "score": 18.4,
-      "why": "From a followed source"
-    },
-    {
       "url": "https://marginalrevolution.com/marginalrevolution/2026/10/the-pope-v-graham.html",
       "title": "Paul Graham Versus the Pope",
       "author": "Alex Tabarrok",
@@ -11838,15 +11808,15 @@
       "why": "From a followed source"
     },
     {
-      "url": "https://stratechery.com/2026/game-decompilation-is-this-legal-a-well-trodden-path/",
-      "title": "Game Decompilation, Is This Legal?, A Well-Trodden Path",
-      "author": "Ben Thompson",
-      "published_at": "2026-10-06T10:07:36+00:00",
+      "url": "https://towardsdatascience.com/how-to-make-a-cloud-read-a-drones-mind-and-cut-data-usage-by-94/",
+      "title": "How to Make a Cloud Read a Drone's Mind (and Cut Data Usage by 94%)",
+      "author": "Anubhab Banerjee",
+      "published_at": "2026-10-06T12:30:00+00:00",
       "kind": "article",
-      "source": "Ben Thompson \u2014 Stratechery",
-      "source_url": "https://stratechery.com/",
+      "source": "Towards Data Science",
+      "source_url": "https://towardsdatascience.com/",
       "categories": [
-        "VC"
+        "AI"
       ],
       "first_seen_at": "2026-10-06T19:36:38.065289+00:00",
       "score": 18.4,
@@ -11898,6 +11868,36 @@
       "why": "From a followed source"
     },
     {
+      "url": "https://aeon.co/essays/the-life-saving-scientific-knowledge-hiding-in-plain-sight",
+      "title": "How to assemble science",
+      "author": "Helen Pearson",
+      "published_at": "2026-10-06T10:00:00+00:00",
+      "kind": "article",
+      "source": "Aeon | a world of ideas",
+      "source_url": "https://aeon.co/",
+      "categories": [
+        "Solo blogs"
+      ],
+      "first_seen_at": "2026-10-06T19:36:38.065289+00:00",
+      "score": 18.3,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://stratechery.com/2026/game-decompilation-is-this-legal-a-well-trodden-path/",
+      "title": "Game Decompilation, Is This Legal?, A Well-Trodden Path",
+      "author": "Ben Thompson",
+      "published_at": "2026-10-06T10:07:36+00:00",
+      "kind": "article",
+      "source": "Ben Thompson \u2014 Stratechery",
+      "source_url": "https://stratechery.com/",
+      "categories": [
+        "VC"
+      ],
+      "first_seen_at": "2026-10-06T19:36:38.065289+00:00",
+      "score": 18.3,
+      "why": "From a followed source"
+    },
+    {
       "url": "https://www.maxdividends.com/p/undervalued-dividend-kings-october",
       "title": "Undervalued Dividend Kings \u2014 October 2026 Edition",
       "author": "MaxDividends",
@@ -11943,21 +11943,6 @@
       "why": "From a followed source"
     },
     {
-      "url": "https://unherd.com/2026/10/the-epstein-style-corruption-that-enraged-brazils-voters/?edition=us",
-      "title": "The Epstein-style corruption that enraged Brazil\u2019s voters",
-      "author": "Juan David Rojas",
-      "published_at": "2026-10-06T00:34:46+00:00",
-      "kind": "article",
-      "source": "UnHerd",
-      "source_url": "https://unherd.com/",
-      "categories": [
-        "Solo blogs"
-      ],
-      "first_seen_at": "2026-10-06T19:36:38.065289+00:00",
-      "score": 18.0,
-      "why": "From a followed source"
-    },
-    {
       "url": "https://tomtunguz.com/how-to-automate-inbound/",
       "title": "How to Automate Inbound",
       "author": null,
@@ -11992,6 +11977,21 @@
       "title": "Rioters could hand Le Pen the presidency",
       "author": "Andrew Hussey",
       "published_at": "2026-10-05T23:03:38+00:00",
+      "kind": "article",
+      "source": "UnHerd",
+      "source_url": "https://unherd.com/",
+      "categories": [
+        "Solo blogs"
+      ],
+      "first_seen_at": "2026-10-06T19:36:38.065289+00:00",
+      "score": 17.9,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://unherd.com/2026/10/the-epstein-style-corruption-that-enraged-brazils-voters/?edition=us",
+      "title": "The Epstein-style corruption that enraged Brazil\u2019s voters",
+      "author": "Juan David Rojas",
+      "published_at": "2026-10-06T00:34:46+00:00",
       "kind": "article",
       "source": "UnHerd",
       "source_url": "https://unherd.com/",
@@ -12153,36 +12153,6 @@
       "why": "From a followed source"
     },
     {
-      "url": "https://aeon.co/essays/what-i-have-learned-from-posting-episodes-of-my-life-on-facebook",
-      "title": "A life in episodes",
-      "author": "Thomas S\u00f6derqvist",
-      "published_at": "2026-10-05T10:00:00+00:00",
-      "kind": "article",
-      "source": "Aeon | a world of ideas",
-      "source_url": "https://aeon.co/",
-      "categories": [
-        "Solo blogs"
-      ],
-      "first_seen_at": "2026-10-05T21:31:50.750352+00:00",
-      "score": 17.4,
-      "why": "From a followed source"
-    },
-    {
-      "url": "https://aeon.co/videos/a-traditional-inuit-game-of-balance-and-strength-stylishly-captured",
-      "title": "All-around junior male",
-      "author": "Aeon Video",
-      "published_at": "2026-10-05T10:01:00+00:00",
-      "kind": "article",
-      "source": "Aeon | a world of ideas",
-      "source_url": "https://aeon.co/",
-      "categories": [
-        "Solo blogs"
-      ],
-      "first_seen_at": "2026-10-05T21:31:50.750352+00:00",
-      "score": 17.4,
-      "why": "From a followed source"
-    },
-    {
       "url": "https://marginalrevolution.com/marginalrevolution/2026/10/the-greg-clark-symposium.html",
       "title": "The Greg Clark Symposium",
       "author": "Alex Tabarrok",
@@ -12192,21 +12162,6 @@
       "source_url": "https://marginalrevolution.com/",
       "categories": [
         "Solo blogs"
-      ],
-      "first_seen_at": "2026-10-05T21:31:50.750352+00:00",
-      "score": 17.4,
-      "why": "From a followed source"
-    },
-    {
-      "url": "https://stratechery.com/2026/apple-and-a-hackers-future/",
-      "title": "Apple and a Hacker\u2019s Future",
-      "author": "Ben Thompson",
-      "published_at": "2026-10-05T10:00:00+00:00",
-      "kind": "article",
-      "source": "Ben Thompson \u2014 Stratechery",
-      "source_url": "https://stratechery.com/",
-      "categories": [
-        "VC"
       ],
       "first_seen_at": "2026-10-05T21:31:50.750352+00:00",
       "score": 17.4,
@@ -12270,6 +12225,51 @@
       ],
       "first_seen_at": "2026-10-05T21:31:50.750352+00:00",
       "score": 17.4,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://aeon.co/essays/what-i-have-learned-from-posting-episodes-of-my-life-on-facebook",
+      "title": "A life in episodes",
+      "author": "Thomas S\u00f6derqvist",
+      "published_at": "2026-10-05T10:00:00+00:00",
+      "kind": "article",
+      "source": "Aeon | a world of ideas",
+      "source_url": "https://aeon.co/",
+      "categories": [
+        "Solo blogs"
+      ],
+      "first_seen_at": "2026-10-05T21:31:50.750352+00:00",
+      "score": 17.3,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://aeon.co/videos/a-traditional-inuit-game-of-balance-and-strength-stylishly-captured",
+      "title": "All-around junior male",
+      "author": "Aeon Video",
+      "published_at": "2026-10-05T10:01:00+00:00",
+      "kind": "article",
+      "source": "Aeon | a world of ideas",
+      "source_url": "https://aeon.co/",
+      "categories": [
+        "Solo blogs"
+      ],
+      "first_seen_at": "2026-10-05T21:31:50.750352+00:00",
+      "score": 17.3,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://stratechery.com/2026/apple-and-a-hackers-future/",
+      "title": "Apple and a Hacker\u2019s Future",
+      "author": "Ben Thompson",
+      "published_at": "2026-10-05T10:00:00+00:00",
+      "kind": "article",
+      "source": "Ben Thompson \u2014 Stratechery",
+      "source_url": "https://stratechery.com/",
+      "categories": [
+        "VC"
+      ],
+      "first_seen_at": "2026-10-05T21:31:50.750352+00:00",
+      "score": 17.3,
       "why": "From a followed source"
     },
     {
@@ -12393,21 +12393,6 @@
       "why": "From a followed source"
     },
     {
-      "url": "https://www.compoundingdividends.net/p/portfolio-update-october-2026",
-      "title": "Portfolio Update: October 2026",
-      "author": "TJ Terwilliger",
-      "published_at": "2026-10-05T00:34:41+00:00",
-      "kind": "article",
-      "source": "Compounding Dividends",
-      "source_url": "https://compoundingdividends.substack.com/",
-      "categories": [
-        "Finance"
-      ],
-      "first_seen_at": "2026-10-05T21:31:50.750352+00:00",
-      "score": 17.0,
-      "why": "From a followed source"
-    },
-    {
       "url": "https://matklad.github.io/2026/10/05/benchmark-milliseconds.html",
       "title": "Benchmark In Milliseconds",
       "author": "Alex Kladov",
@@ -12492,6 +12477,21 @@
       "source_url": "https://unherd.com/",
       "categories": [
         "Solo blogs"
+      ],
+      "first_seen_at": "2026-10-05T21:31:50.750352+00:00",
+      "score": 16.9,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://www.compoundingdividends.net/p/portfolio-update-october-2026",
+      "title": "Portfolio Update: October 2026",
+      "author": "TJ Terwilliger",
+      "published_at": "2026-10-05T00:34:41+00:00",
+      "kind": "article",
+      "source": "Compounding Dividends",
+      "source_url": "https://compoundingdividends.substack.com/",
+      "categories": [
+        "Finance"
       ],
       "first_seen_at": "2026-10-05T21:31:50.750352+00:00",
       "score": 16.9,
@@ -12663,21 +12663,6 @@
       "why": "From a followed source"
     },
     {
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/do-the-elderly-prefer-robotic-care.html",
-      "title": "Do the elderly prefer robotic care?",
-      "author": "Tyler Cowen",
-      "published_at": "2026-10-04T05:17:41+00:00",
-      "kind": "article",
-      "source": "Marginal REVOLUTION - Small Steps Toward A Much Better World",
-      "source_url": "https://marginalrevolution.com/",
-      "categories": [
-        "Solo blogs"
-      ],
-      "first_seen_at": "2026-10-04T18:13:40.058206+00:00",
-      "score": 16.2,
-      "why": "From a followed source"
-    },
-    {
       "url": "https://marginalrevolution.com/marginalrevolution/2026/10/marital-sorting-by-class-and-race.html",
       "title": "Marital sorting by class and race",
       "author": "Tyler Cowen",
@@ -12690,6 +12675,21 @@
       ],
       "first_seen_at": "2026-10-04T18:13:40.058206+00:00",
       "score": 16.2,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/10/do-the-elderly-prefer-robotic-care.html",
+      "title": "Do the elderly prefer robotic care?",
+      "author": "Tyler Cowen",
+      "published_at": "2026-10-04T05:17:41+00:00",
+      "kind": "article",
+      "source": "Marginal REVOLUTION - Small Steps Toward A Much Better World",
+      "source_url": "https://marginalrevolution.com/",
+      "categories": [
+        "Solo blogs"
+      ],
+      "first_seen_at": "2026-10-04T18:13:40.058206+00:00",
+      "score": 16.1,
       "why": "From a followed source"
     },
     {
@@ -12738,21 +12738,6 @@
       "why": "From a followed source"
     },
     {
-      "url": "https://www.sourcery.vc/p/icymi-sourcery-live-in-the-south",
-      "title": "ICYMI: Sourcery Live in the South of France",
-      "author": null,
-      "published_at": "2026-10-03T12:21:35+00:00",
-      "kind": "article",
-      "source": "Sourcery",
-      "source_url": "https://mollysoshea.substack.com/",
-      "categories": [
-        "Newsletters"
-      ],
-      "first_seen_at": "2026-10-03T18:01:56.814914+00:00",
-      "score": 15.5,
-      "why": "From a followed source"
-    },
-    {
       "url": "https://towardsdatascience.com/how-to-use-a-pinn-for-a-navier-stokes-inverse-problem/",
       "title": "How to Use a PINN for a Navier-Stokes Inverse Problem",
       "author": "Ferran Alia",
@@ -12792,6 +12777,21 @@
       "source_url": "https://netinterest.substack.com/",
       "categories": [
         "Finance"
+      ],
+      "first_seen_at": "2026-10-03T18:01:56.814914+00:00",
+      "score": 15.4,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://www.sourcery.vc/p/icymi-sourcery-live-in-the-south",
+      "title": "ICYMI: Sourcery Live in the South of France",
+      "author": null,
+      "published_at": "2026-10-03T12:21:35+00:00",
+      "kind": "article",
+      "source": "Sourcery",
+      "source_url": "https://mollysoshea.substack.com/",
+      "categories": [
+        "Newsletters"
       ],
       "first_seen_at": "2026-10-03T18:01:56.814914+00:00",
       "score": 15.4,
@@ -13053,21 +13053,6 @@
       "why": "From a followed source"
     },
     {
-      "url": "https://aeon.co/essays/early-violence-is-a-bad-teacher-but-the-mind-can-learn-anew",
-      "title": "Life on a hair trigger",
-      "author": "Megan Kang",
-      "published_at": "2026-10-02T10:00:00+00:00",
-      "kind": "article",
-      "source": "Aeon | a world of ideas",
-      "source_url": "https://aeon.co/",
-      "categories": [
-        "Solo blogs"
-      ],
-      "first_seen_at": "2026-10-02T19:24:50.703949+00:00",
-      "score": 14.4,
-      "why": "From a followed source"
-    },
-    {
       "url": "https://marginalrevolution.com/marginalrevolution/2026/10/a-normal-debate.html",
       "title": "A Normal Debate?",
       "author": "Alex Tabarrok",
@@ -13113,6 +13098,21 @@
       "why": "From a followed source"
     },
     {
+      "url": "https://aeon.co/essays/early-violence-is-a-bad-teacher-but-the-mind-can-learn-anew",
+      "title": "Life on a hair trigger",
+      "author": "Megan Kang",
+      "published_at": "2026-10-02T10:00:00+00:00",
+      "kind": "article",
+      "source": "Aeon | a world of ideas",
+      "source_url": "https://aeon.co/",
+      "categories": [
+        "Solo blogs"
+      ],
+      "first_seen_at": "2026-10-02T19:24:50.703949+00:00",
+      "score": 14.3,
+      "why": "From a followed source"
+    },
+    {
       "url": "https://marginalrevolution.com/marginalrevolution/2026/10/what-should-i-ask-tom-griffiths.html",
       "title": "What should I ask Tom Griffiths?",
       "author": "Tyler Cowen",
@@ -13139,22 +13139,7 @@
         "Solo blogs"
       ],
       "first_seen_at": "2026-10-02T19:24:50.703949+00:00",
-      "score": 14.2,
-      "why": "From a followed source"
-    },
-    {
-      "url": "https://www.latent.space/p/rlm",
-      "title": "Academia is for Ambition \u2014 Alex Zhang, MIT",
-      "author": null,
-      "published_at": "2026-10-02T00:28:04+00:00",
-      "kind": "article",
-      "source": "Latent.Space",
-      "source_url": "https://swyx.substack.com/",
-      "categories": [
-        "AI"
-      ],
-      "first_seen_at": "2026-10-02T19:24:50.703949+00:00",
-      "score": 14.0,
+      "score": 14.1,
       "why": "From a followed source"
     },
     {
@@ -13227,6 +13212,21 @@
       "source_url": "https://unherd.com/",
       "categories": [
         "Solo blogs"
+      ],
+      "first_seen_at": "2026-10-02T19:24:50.703949+00:00",
+      "score": 13.9,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://www.latent.space/p/rlm",
+      "title": "Academia is for Ambition \u2014 Alex Zhang, MIT",
+      "author": null,
+      "published_at": "2026-10-02T00:28:04+00:00",
+      "kind": "article",
+      "source": "Latent.Space",
+      "source_url": "https://swyx.substack.com/",
+      "categories": [
+        "AI"
       ],
       "first_seen_at": "2026-10-02T19:24:50.703949+00:00",
       "score": 13.9,
@@ -13353,21 +13353,6 @@
       "why": "From a followed source"
     },
     {
-      "url": "https://www.sourcery.vc/p/breaking-7x-midas-investor-annie",
-      "title": "BREAKING: 7x Midas Investor Annie Lamont \u201c90% Isn\u2019t Worth It\u201d",
-      "author": "Molly O\u2019Shea",
-      "published_at": "2026-10-01T14:58:28+00:00",
-      "kind": "article",
-      "source": "Sourcery",
-      "source_url": "https://mollysoshea.substack.com/",
-      "categories": [
-        "Newsletters"
-      ],
-      "first_seen_at": "2026-10-01T19:38:25.896723+00:00",
-      "score": 13.6,
-      "why": "From a followed source"
-    },
-    {
       "url": "https://marginalrevolution.com/marginalrevolution/2026/10/what-should-i-ask-moxie-marlinspike.html",
       "title": "What should I ask Moxie Marlinspike?",
       "author": "Tyler Cowen",
@@ -13377,21 +13362,6 @@
       "source_url": "https://marginalrevolution.com/",
       "categories": [
         "Solo blogs"
-      ],
-      "first_seen_at": "2026-10-01T19:38:25.896723+00:00",
-      "score": 13.5,
-      "why": "From a followed source"
-    },
-    {
-      "url": "https://towardsdatascience.com/what-the-relu-revolution-revealed-about-biological-plausibility/",
-      "title": "What the ReLU Revolution Revealed About Biological Plausibility",
-      "author": "Rob Taylor",
-      "published_at": "2026-10-01T12:30:01+00:00",
-      "kind": "article",
-      "source": "Towards Data Science",
-      "source_url": "https://towardsdatascience.com/",
-      "categories": [
-        "AI"
       ],
       "first_seen_at": "2026-10-01T19:38:25.896723+00:00",
       "score": 13.5,
@@ -13413,48 +13383,18 @@
       "why": "From a followed source"
     },
     {
-      "url": "https://aeon.co/essays/why-real-intelligence-is-something-more-than-optimisation",
-      "title": "Reason is more than a tool",
-      "author": "Sasha Mudd",
-      "published_at": "2026-10-01T10:00:00+00:00",
+      "url": "https://www.sourcery.vc/p/breaking-7x-midas-investor-annie",
+      "title": "BREAKING: 7x Midas Investor Annie Lamont \u201c90% Isn\u2019t Worth It\u201d",
+      "author": "Molly O\u2019Shea",
+      "published_at": "2026-10-01T14:58:28+00:00",
       "kind": "article",
-      "source": "Aeon | a world of ideas",
-      "source_url": "https://aeon.co/",
+      "source": "Sourcery",
+      "source_url": "https://mollysoshea.substack.com/",
       "categories": [
-        "Solo blogs"
+        "Newsletters"
       ],
       "first_seen_at": "2026-10-01T19:38:25.896723+00:00",
-      "score": 13.4,
-      "why": "From a followed source"
-    },
-    {
-      "url": "https://aeon.co/videos/green-tree-ants-have-been-successful-for-ages-enter-the-imposters",
-      "title": "Green tree ants are famous in the tropics",
-      "author": "Aeon Video",
-      "published_at": "2026-10-01T10:01:00+00:00",
-      "kind": "article",
-      "source": "Aeon | a world of ideas",
-      "source_url": "https://aeon.co/",
-      "categories": [
-        "Solo blogs"
-      ],
-      "first_seen_at": "2026-10-01T19:38:25.896723+00:00",
-      "score": 13.4,
-      "why": "From a followed source"
-    },
-    {
-      "url": "https://stratechery.com/2026/an-interview-with-jason-del-rey-about-muse-amazon-and-walmart/",
-      "title": "An Interview with Jason Del Rey About Muse, Amazon, and Walmart",
-      "author": "Ben Thompson",
-      "published_at": "2026-10-01T10:00:00+00:00",
-      "kind": "article",
-      "source": "Ben Thompson \u2014 Stratechery",
-      "source_url": "https://stratechery.com/",
-      "categories": [
-        "VC"
-      ],
-      "first_seen_at": "2026-10-01T19:38:25.896723+00:00",
-      "score": 13.4,
+      "score": 13.5,
       "why": "From a followed source"
     },
     {
@@ -13473,15 +13413,15 @@
       "why": "From a followed source"
     },
     {
-      "url": "https://www.a16z.news/p/investing-in-armadin",
-      "title": "Investing in Armadin",
-      "author": "David George",
-      "published_at": "2026-10-01T10:02:55+00:00",
+      "url": "https://towardsdatascience.com/what-the-relu-revolution-revealed-about-biological-plausibility/",
+      "title": "What the ReLU Revolution Revealed About Biological Plausibility",
+      "author": "Rob Taylor",
+      "published_at": "2026-10-01T12:30:01+00:00",
       "kind": "article",
-      "source": "a16z",
-      "source_url": "https://a16z.substack.com/",
+      "source": "Towards Data Science",
+      "source_url": "https://towardsdatascience.com/",
       "categories": [
-        "VC"
+        "AI"
       ],
       "first_seen_at": "2026-10-01T19:38:25.896723+00:00",
       "score": 13.4,
@@ -13503,21 +13443,6 @@
       "why": "From a followed source"
     },
     {
-      "url": "https://www.chinatalk.media/p/china-responds-to-starlink",
-      "title": "China's Starlink Response",
-      "author": "Paddy Stephens",
-      "published_at": "2026-10-01T10:04:50+00:00",
-      "kind": "article",
-      "source": "ChinaTalk | Jordan Schneider | Substack",
-      "source_url": "https://www.chinatalk.media/",
-      "categories": [
-        "China"
-      ],
-      "first_seen_at": "2026-10-01T19:38:25.896723+00:00",
-      "score": 13.4,
-      "why": "From a followed source"
-    },
-    {
       "url": "https://www.compoundingquality.net/p/how-to-find-the-best-serial-acquirers",
       "title": "The 5-Minute Serial Acquirer Test",
       "author": "Compounding Quality",
@@ -13533,6 +13458,36 @@
       "why": "From a followed source"
     },
     {
+      "url": "https://aeon.co/essays/why-real-intelligence-is-something-more-than-optimisation",
+      "title": "Reason is more than a tool",
+      "author": "Sasha Mudd",
+      "published_at": "2026-10-01T10:00:00+00:00",
+      "kind": "article",
+      "source": "Aeon | a world of ideas",
+      "source_url": "https://aeon.co/",
+      "categories": [
+        "Solo blogs"
+      ],
+      "first_seen_at": "2026-10-01T19:38:25.896723+00:00",
+      "score": 13.3,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://aeon.co/videos/green-tree-ants-have-been-successful-for-ages-enter-the-imposters",
+      "title": "Green tree ants are famous in the tropics",
+      "author": "Aeon Video",
+      "published_at": "2026-10-01T10:01:00+00:00",
+      "kind": "article",
+      "source": "Aeon | a world of ideas",
+      "source_url": "https://aeon.co/",
+      "categories": [
+        "Solo blogs"
+      ],
+      "first_seen_at": "2026-10-01T19:38:25.896723+00:00",
+      "score": 13.3,
+      "why": "From a followed source"
+    },
+    {
       "url": "https://sinocism.com/p/the-strategic-stalemate-era-for-the",
       "title": "The Strategic Stalemate Era for the US and China; Xi Welcomes American Young People; Domestic Crackdowns and Economic Concerns",
       "author": "Bill Bishop",
@@ -13540,6 +13495,51 @@
       "kind": "article",
       "source": "Sinocism | Bill Bishop | Substack",
       "source_url": "https://sinocism.com/",
+      "categories": [
+        "China"
+      ],
+      "first_seen_at": "2026-10-01T19:38:25.896723+00:00",
+      "score": 13.3,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://stratechery.com/2026/an-interview-with-jason-del-rey-about-muse-amazon-and-walmart/",
+      "title": "An Interview with Jason Del Rey About Muse, Amazon, and Walmart",
+      "author": "Ben Thompson",
+      "published_at": "2026-10-01T10:00:00+00:00",
+      "kind": "article",
+      "source": "Ben Thompson \u2014 Stratechery",
+      "source_url": "https://stratechery.com/",
+      "categories": [
+        "VC"
+      ],
+      "first_seen_at": "2026-10-01T19:38:25.896723+00:00",
+      "score": 13.3,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://www.a16z.news/p/investing-in-armadin",
+      "title": "Investing in Armadin",
+      "author": "David George",
+      "published_at": "2026-10-01T10:02:55+00:00",
+      "kind": "article",
+      "source": "a16z",
+      "source_url": "https://a16z.substack.com/",
+      "categories": [
+        "VC"
+      ],
+      "first_seen_at": "2026-10-01T19:38:25.896723+00:00",
+      "score": 13.3,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://www.chinatalk.media/p/china-responds-to-starlink",
+      "title": "China's Starlink Response",
+      "author": "Paddy Stephens",
+      "published_at": "2026-10-01T10:04:50+00:00",
+      "kind": "article",
+      "source": "ChinaTalk | Jordan Schneider | Substack",
+      "source_url": "https://www.chinatalk.media/",
       "categories": [
         "China"
       ],
@@ -13803,21 +13803,6 @@
       "why": "From a followed source"
     },
     {
-      "url": "https://www.lennysnewsletter.com/p/openai-dev-day-2026-the-releases",
-      "title": "OpenAI Dev Day 2026: The releases that actually matter",
-      "author": "Claire Vo",
-      "published_at": "2026-09-30T14:45:15+00:00",
-      "kind": "article",
-      "source": "Lenny's Newsletter",
-      "source_url": "https://lenny.substack.com/",
-      "categories": [
-        "VC"
-      ],
-      "first_seen_at": "2026-09-30T19:30:10.868665+00:00",
-      "score": 12.6,
-      "why": "From a followed source"
-    },
-    {
       "url": "https://www.newsletter.lukesophinos.com/p/linear-1965-vertical-gtm-deep-dive",
       "title": "Linear #196.5: Vertical GTM Deep Dive with Kevin Wilson (CRO @ Skimmer)",
       "author": null,
@@ -13863,21 +13848,6 @@
       "why": "From a followed source"
     },
     {
-      "url": "https://towardsdatascience.com/how-to-solve-issues-when-you-nest-measures-while-overwriting-the-same-filter/",
-      "title": "How to Solve Issues When You Nest Measures While Overwriting the Same Filter",
-      "author": "Salvatore Cagliari",
-      "published_at": "2026-09-30T12:30:02+00:00",
-      "kind": "article",
-      "source": "Towards Data Science",
-      "source_url": "https://towardsdatascience.com/",
-      "categories": [
-        "AI"
-      ],
-      "first_seen_at": "2026-09-30T19:30:10.868665+00:00",
-      "score": 12.5,
-      "why": "From a followed source"
-    },
-    {
       "url": "https://towardsdatascience.com/insight-is-still-the-currency-of-data-science/",
       "title": "Insight Is Still the Currency of Data Science",
       "author": "Andrew Hinton",
@@ -13893,33 +13863,18 @@
       "why": "From a followed source"
     },
     {
-      "url": "https://www.conks.plumbing/p/the-repo-dark-spot-part-ii",
-      "title": "The Repo Dark Spot: Part II",
-      "author": "Conks",
-      "published_at": "2026-09-30T12:26:55+00:00",
+      "url": "https://www.lennysnewsletter.com/p/openai-dev-day-2026-the-releases",
+      "title": "OpenAI Dev Day 2026: The releases that actually matter",
+      "author": "Claire Vo",
+      "published_at": "2026-09-30T14:45:15+00:00",
       "kind": "article",
-      "source": "Conks",
-      "source_url": "https://conkstack.substack.com/",
+      "source": "Lenny's Newsletter",
+      "source_url": "https://lenny.substack.com/",
       "categories": [
-        "Finance"
+        "VC"
       ],
       "first_seen_at": "2026-09-30T19:30:10.868665+00:00",
       "score": 12.5,
-      "why": "From a followed source"
-    },
-    {
-      "url": "https://aeon.co/videos/searching-for-a-local-legend-a-filmmaker-stumbles-into-a-tragicomedy",
-      "title": "Passportless mess",
-      "author": "Aeon Video",
-      "published_at": "2026-09-30T10:01:00+00:00",
-      "kind": "article",
-      "source": "Aeon | a world of ideas",
-      "source_url": "https://aeon.co/",
-      "categories": [
-        "Solo blogs"
-      ],
-      "first_seen_at": "2026-09-30T19:30:10.868665+00:00",
-      "score": 12.4,
       "why": "From a followed source"
     },
     {
@@ -13938,15 +13893,15 @@
       "why": "From a followed source"
     },
     {
-      "url": "https://stratechery.com/2026/openai-dev-day-dot-and-openais-product-transition-sign-in-with-chatgpt/",
-      "title": "OpenAI Dev Day, Dot and OpenAI\u2019s Product Transition, Sign In With ChatGPT",
-      "author": "Ben Thompson",
-      "published_at": "2026-09-30T10:00:00+00:00",
+      "url": "https://towardsdatascience.com/how-to-solve-issues-when-you-nest-measures-while-overwriting-the-same-filter/",
+      "title": "How to Solve Issues When You Nest Measures While Overwriting the Same Filter",
+      "author": "Salvatore Cagliari",
+      "published_at": "2026-09-30T12:30:02+00:00",
       "kind": "article",
-      "source": "Ben Thompson \u2014 Stratechery",
-      "source_url": "https://stratechery.com/",
+      "source": "Towards Data Science",
+      "source_url": "https://towardsdatascience.com/",
       "categories": [
-        "VC"
+        "AI"
       ],
       "first_seen_at": "2026-09-30T19:30:10.868665+00:00",
       "score": 12.4,
@@ -13998,21 +13953,6 @@
       "why": "From a followed source"
     },
     {
-      "url": "https://www.chinatalk.media/p/logan-wright-on-broken-china",
-      "title": "Logan Wright on Broken China",
-      "author": "Jordan Schneider",
-      "published_at": "2026-09-30T10:06:04+00:00",
-      "kind": "article",
-      "source": "ChinaTalk | Jordan Schneider | Substack",
-      "source_url": "https://www.chinatalk.media/",
-      "categories": [
-        "China"
-      ],
-      "first_seen_at": "2026-09-30T19:30:10.868665+00:00",
-      "score": 12.4,
-      "why": "From a followed source"
-    },
-    {
       "url": "https://www.compoundingdividends.net/p/the-7-deadly-sins-of-investing-and",
       "title": "The 7 Deadly Sins of Investing (And How to Avoid Them)",
       "author": "TJ Terwilliger",
@@ -14020,6 +13960,21 @@
       "kind": "article",
       "source": "Compounding Dividends",
       "source_url": "https://compoundingdividends.substack.com/",
+      "categories": [
+        "Finance"
+      ],
+      "first_seen_at": "2026-09-30T19:30:10.868665+00:00",
+      "score": 12.4,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://www.conks.plumbing/p/the-repo-dark-spot-part-ii",
+      "title": "The Repo Dark Spot: Part II",
+      "author": "Conks",
+      "published_at": "2026-09-30T12:26:55+00:00",
+      "kind": "article",
+      "source": "Conks",
+      "source_url": "https://conkstack.substack.com/",
       "categories": [
         "Finance"
       ],
@@ -14040,6 +13995,51 @@
       ],
       "first_seen_at": "2026-09-30T19:30:10.868665+00:00",
       "score": 12.4,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://aeon.co/videos/searching-for-a-local-legend-a-filmmaker-stumbles-into-a-tragicomedy",
+      "title": "Passportless mess",
+      "author": "Aeon Video",
+      "published_at": "2026-09-30T10:01:00+00:00",
+      "kind": "article",
+      "source": "Aeon | a world of ideas",
+      "source_url": "https://aeon.co/",
+      "categories": [
+        "Solo blogs"
+      ],
+      "first_seen_at": "2026-09-30T19:30:10.868665+00:00",
+      "score": 12.3,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://stratechery.com/2026/openai-dev-day-dot-and-openais-product-transition-sign-in-with-chatgpt/",
+      "title": "OpenAI Dev Day, Dot and OpenAI\u2019s Product Transition, Sign In With ChatGPT",
+      "author": "Ben Thompson",
+      "published_at": "2026-09-30T10:00:00+00:00",
+      "kind": "article",
+      "source": "Ben Thompson \u2014 Stratechery",
+      "source_url": "https://stratechery.com/",
+      "categories": [
+        "VC"
+      ],
+      "first_seen_at": "2026-09-30T19:30:10.868665+00:00",
+      "score": 12.3,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://www.chinatalk.media/p/logan-wright-on-broken-china",
+      "title": "Logan Wright on Broken China",
+      "author": "Jordan Schneider",
+      "published_at": "2026-09-30T10:06:04+00:00",
+      "kind": "article",
+      "source": "ChinaTalk | Jordan Schneider | Substack",
+      "source_url": "https://www.chinatalk.media/",
+      "categories": [
+        "China"
+      ],
+      "first_seen_at": "2026-09-30T19:30:10.868665+00:00",
+      "score": 12.3,
       "why": "From a followed source"
     },
     {
@@ -14313,36 +14313,6 @@
       "why": "From a followed source"
     },
     {
-      "url": "https://aeon.co/essays/we-need-a-better-way-to-describe-what-is-often-called-cancer",
-      "title": "Don\u2019t use the \u2018C-word\u2019",
-      "author": "Matthew R Cooperberg",
-      "published_at": "2026-09-29T10:00:00+00:00",
-      "kind": "article",
-      "source": "Aeon | a world of ideas",
-      "source_url": "https://aeon.co/",
-      "categories": [
-        "Solo blogs"
-      ],
-      "first_seen_at": "2026-09-29T19:30:11.536789+00:00",
-      "score": 11.4,
-      "why": "From a followed source"
-    },
-    {
-      "url": "https://stratechery.com/2026/one-more-note-on-agents-meta-connect-meta-enterprise-platform/",
-      "title": "One More Note on Agents, Meta Connect, Meta Enterprise Platform",
-      "author": "Ben Thompson",
-      "published_at": "2026-09-29T10:00:00+00:00",
-      "kind": "article",
-      "source": "Ben Thompson \u2014 Stratechery",
-      "source_url": "https://stratechery.com/",
-      "categories": [
-        "VC"
-      ],
-      "first_seen_at": "2026-09-29T19:30:11.536789+00:00",
-      "score": 11.4,
-      "why": "From a followed source"
-    },
-    {
       "url": "https://towardsdatascience.com/building-fair-evaluation-sets-is-a-combinatorial-problem/",
       "title": "Building Fair Evaluation Sets Is a Combinatorial Problem",
       "author": "Vasileios Vonikakis",
@@ -14373,21 +14343,6 @@
       "why": "From a followed source"
     },
     {
-      "url": "https://www.chinatalk.media/p/my-beautiful-dark-twisted-state-dinner",
-      "title": "Xizus",
-      "author": "Jordache",
-      "published_at": "2026-09-29T10:04:09+00:00",
-      "kind": "article",
-      "source": "ChinaTalk | Jordan Schneider | Substack",
-      "source_url": "https://www.chinatalk.media/",
-      "categories": [
-        "China"
-      ],
-      "first_seen_at": "2026-09-29T19:30:11.536789+00:00",
-      "score": 11.4,
-      "why": "From a followed source"
-    },
-    {
       "url": "https://www.compoundingquality.net/p/its-serial-acquirer-week",
       "title": "It\u2019s Serial Acquirer Week",
       "author": "Compounding Quality",
@@ -14400,6 +14355,51 @@
       ],
       "first_seen_at": "2026-09-29T19:30:11.536789+00:00",
       "score": 11.4,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://aeon.co/essays/we-need-a-better-way-to-describe-what-is-often-called-cancer",
+      "title": "Don\u2019t use the \u2018C-word\u2019",
+      "author": "Matthew R Cooperberg",
+      "published_at": "2026-09-29T10:00:00+00:00",
+      "kind": "article",
+      "source": "Aeon | a world of ideas",
+      "source_url": "https://aeon.co/",
+      "categories": [
+        "Solo blogs"
+      ],
+      "first_seen_at": "2026-09-29T19:30:11.536789+00:00",
+      "score": 11.3,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://stratechery.com/2026/one-more-note-on-agents-meta-connect-meta-enterprise-platform/",
+      "title": "One More Note on Agents, Meta Connect, Meta Enterprise Platform",
+      "author": "Ben Thompson",
+      "published_at": "2026-09-29T10:00:00+00:00",
+      "kind": "article",
+      "source": "Ben Thompson \u2014 Stratechery",
+      "source_url": "https://stratechery.com/",
+      "categories": [
+        "VC"
+      ],
+      "first_seen_at": "2026-09-29T19:30:11.536789+00:00",
+      "score": 11.3,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://www.chinatalk.media/p/my-beautiful-dark-twisted-state-dinner",
+      "title": "Xizus",
+      "author": "Jordache",
+      "published_at": "2026-09-29T10:04:09+00:00",
+      "kind": "article",
+      "source": "ChinaTalk | Jordan Schneider | Substack",
+      "source_url": "https://www.chinatalk.media/",
+      "categories": [
+        "China"
+      ],
+      "first_seen_at": "2026-09-29T19:30:11.536789+00:00",
+      "score": 11.3,
       "why": "From a followed source"
     },
     {
@@ -14445,36 +14445,6 @@
       ],
       "first_seen_at": "2026-09-29T19:30:11.536789+00:00",
       "score": 11.0,
-      "why": "From a followed source"
-    },
-    {
-      "url": "https://www.platformer.news/open-ai-model-release-canceled/",
-      "title": "Following: OpenAI taps the brakes",
-      "author": "Ella Markianos",
-      "published_at": "2026-09-29T00:16:11+00:00",
-      "kind": "article",
-      "source": "Casey Newton \u2014 Platformer",
-      "source_url": "https://www.platformer.news/",
-      "categories": [
-        "VC"
-      ],
-      "first_seen_at": "2026-09-29T19:30:11.536789+00:00",
-      "score": 11.0,
-      "why": "From a followed source"
-    },
-    {
-      "url": "https://sinocism.com/p/us-china-strategic-stalemate-premier",
-      "title": "US-China strategic stalemate; Premier Li signals Q4 economic support; More Nvidia chips for China?; PRC-Philippine tensions",
-      "author": "Bill Bishop",
-      "published_at": "2026-09-28T22:06:06+00:00",
-      "kind": "article",
-      "source": "Sinocism | Bill Bishop | Substack",
-      "source_url": "https://sinocism.com/",
-      "categories": [
-        "China"
-      ],
-      "first_seen_at": "2026-09-29T19:30:11.536789+00:00",
-      "score": 10.9,
       "why": "From a followed source"
     },
     {
@@ -14550,6 +14520,36 @@
       ],
       "first_seen_at": "2026-09-29T19:30:11.536789+00:00",
       "score": 10.9,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://www.platformer.news/open-ai-model-release-canceled/",
+      "title": "Following: OpenAI taps the brakes",
+      "author": "Ella Markianos",
+      "published_at": "2026-09-29T00:16:11+00:00",
+      "kind": "article",
+      "source": "Casey Newton \u2014 Platformer",
+      "source_url": "https://www.platformer.news/",
+      "categories": [
+        "VC"
+      ],
+      "first_seen_at": "2026-09-29T19:30:11.536789+00:00",
+      "score": 10.9,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://sinocism.com/p/us-china-strategic-stalemate-premier",
+      "title": "US-China strategic stalemate; Premier Li signals Q4 economic support; More Nvidia chips for China?; PRC-Philippine tensions",
+      "author": "Bill Bishop",
+      "published_at": "2026-09-28T22:06:06+00:00",
+      "kind": "article",
+      "source": "Sinocism | Bill Bishop | Substack",
+      "source_url": "https://sinocism.com/",
+      "categories": [
+        "China"
+      ],
+      "first_seen_at": "2026-09-29T19:30:11.536789+00:00",
+      "score": 10.8,
       "why": "From a followed source"
     },
     {
@@ -14673,21 +14673,6 @@
       "why": "From a followed source"
     },
     {
-      "url": "https://www.sourcery.vc/p/breaking-how-apollo-citadel-blackstone",
-      "title": "BREAKING: How Apollo, Citadel, Blackstone, & Bridgewater Built Their Brands",
-      "author": "Molly O\u2019Shea",
-      "published_at": "2026-09-28T14:43:14+00:00",
-      "kind": "article",
-      "source": "Sourcery",
-      "source_url": "https://mollysoshea.substack.com/",
-      "categories": [
-        "Newsletters"
-      ],
-      "first_seen_at": "2026-09-28T20:37:06.838135+00:00",
-      "score": 10.6,
-      "why": "From a followed source"
-    },
-    {
       "url": "https://cybersecurityventures.com/klez-worm-2001-one-of-the-scariest-computer-viruses-ever-created/",
       "title": "Klez Worm (2001): One Of The Scariest Computer Viruses Ever Created",
       "author": "Taylor Fox",
@@ -14748,21 +14733,6 @@
       "why": "From a followed source"
     },
     {
-      "url": "https://www.globalequitybriefing.com/p/7-stocks-to-buy-for-the-next-6-12",
-      "title": "7 Stocks to BUY for the next 6-12 months!",
-      "author": "Ray Myers",
-      "published_at": "2026-09-28T12:32:12+00:00",
-      "kind": "article",
-      "source": "Global Equity Briefing",
-      "source_url": "https://equitybriefing.substack.com/",
-      "categories": [
-        "Finance"
-      ],
-      "first_seen_at": "2026-09-28T20:37:06.838135+00:00",
-      "score": 10.5,
-      "why": "From a followed source"
-    },
-    {
       "url": "https://www.notboring.co/p/airbound-as-we-may-move",
       "title": "Airbound: As We May Move",
       "author": "Packy McCormick",
@@ -14778,33 +14748,18 @@
       "why": "From a followed source"
     },
     {
-      "url": "https://aeon.co/essays/when-a-man-becomes-a-father-and-a-poetic-revolution-follows",
-      "title": "Paternity is poetical",
-      "author": "Daniel Swift",
-      "published_at": "2026-09-28T10:00:00+00:00",
+      "url": "https://www.sourcery.vc/p/breaking-how-apollo-citadel-blackstone",
+      "title": "BREAKING: How Apollo, Citadel, Blackstone, & Bridgewater Built Their Brands",
+      "author": "Molly O\u2019Shea",
+      "published_at": "2026-09-28T14:43:14+00:00",
       "kind": "article",
-      "source": "Aeon | a world of ideas",
-      "source_url": "https://aeon.co/",
+      "source": "Sourcery",
+      "source_url": "https://mollysoshea.substack.com/",
       "categories": [
-        "Solo blogs"
+        "Newsletters"
       ],
       "first_seen_at": "2026-09-28T20:37:06.838135+00:00",
-      "score": 10.4,
-      "why": "From a followed source"
-    },
-    {
-      "url": "https://aeon.co/videos/beyond-the-mind-body-divide-on-the-affective-turn-in-the-humanities",
-      "title": "Affect theory",
-      "author": "Aeon Video",
-      "published_at": "2026-09-28T10:01:00+00:00",
-      "kind": "article",
-      "source": "Aeon | a world of ideas",
-      "source_url": "https://aeon.co/",
-      "categories": [
-        "Solo blogs"
-      ],
-      "first_seen_at": "2026-09-28T20:37:06.838135+00:00",
-      "score": 10.4,
+      "score": 10.5,
       "why": "From a followed source"
     },
     {
@@ -14898,6 +14853,21 @@
       "why": "From a followed source"
     },
     {
+      "url": "https://www.globalequitybriefing.com/p/7-stocks-to-buy-for-the-next-6-12",
+      "title": "7 Stocks to BUY for the next 6-12 months!",
+      "author": "Ray Myers",
+      "published_at": "2026-09-28T12:32:12+00:00",
+      "kind": "article",
+      "source": "Global Equity Briefing",
+      "source_url": "https://equitybriefing.substack.com/",
+      "categories": [
+        "Finance"
+      ],
+      "first_seen_at": "2026-09-28T20:37:06.838135+00:00",
+      "score": 10.4,
+      "why": "From a followed source"
+    },
+    {
       "url": "https://www.lennysnewsletter.com/p/jev-for-beginners-how-to-use-it-and",
       "title": "Jev for beginners: how to use it and what to build",
       "author": "Claire Vo",
@@ -14910,6 +14880,36 @@
       ],
       "first_seen_at": "2026-09-28T20:37:06.838135+00:00",
       "score": 10.4,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://aeon.co/essays/when-a-man-becomes-a-father-and-a-poetic-revolution-follows",
+      "title": "Paternity is poetical",
+      "author": "Daniel Swift",
+      "published_at": "2026-09-28T10:00:00+00:00",
+      "kind": "article",
+      "source": "Aeon | a world of ideas",
+      "source_url": "https://aeon.co/",
+      "categories": [
+        "Solo blogs"
+      ],
+      "first_seen_at": "2026-09-28T20:37:06.838135+00:00",
+      "score": 10.3,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://aeon.co/videos/beyond-the-mind-body-divide-on-the-affective-turn-in-the-humanities",
+      "title": "Affect theory",
+      "author": "Aeon Video",
+      "published_at": "2026-09-28T10:01:00+00:00",
+      "kind": "article",
+      "source": "Aeon | a world of ideas",
+      "source_url": "https://aeon.co/",
+      "categories": [
+        "Solo blogs"
+      ],
+      "first_seen_at": "2026-09-28T20:37:06.838135+00:00",
+      "score": 10.3,
       "why": "From a followed source"
     },
     {
@@ -15018,21 +15018,6 @@
       "why": "From a followed source"
     },
     {
-      "url": "https://www.maxdividends.com/p/sunday-coffee-brick-by-brick-888",
-      "title": "\u2615\ufe0f Sunday Coffee: Brick by Brick",
-      "author": "MaxDividends",
-      "published_at": "2026-09-27T17:11:05+00:00",
-      "kind": "article",
-      "source": "MaxDividends",
-      "source_url": "https://www.maxdividends.com/",
-      "categories": [
-        "Finance"
-      ],
-      "first_seen_at": "2026-09-27T18:31:36.974270+00:00",
-      "score": 9.7,
-      "why": "From a followed source"
-    },
-    {
       "url": "https://marginalrevolution.com/marginalrevolution/2026/09/sunday-assorted-links-584.html",
       "title": "Sunday assorted links",
       "author": "Tyler Cowen",
@@ -15057,6 +15042,21 @@
       "source_url": "https://towardsdatascience.com/",
       "categories": [
         "AI"
+      ],
+      "first_seen_at": "2026-09-27T18:31:36.974270+00:00",
+      "score": 9.6,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://www.maxdividends.com/p/sunday-coffee-brick-by-brick-888",
+      "title": "\u2615\ufe0f Sunday Coffee: Brick by Brick",
+      "author": "MaxDividends",
+      "published_at": "2026-09-27T17:11:05+00:00",
+      "kind": "article",
+      "source": "MaxDividends",
+      "source_url": "https://www.maxdividends.com/",
+      "categories": [
+        "Finance"
       ],
       "first_seen_at": "2026-09-27T18:31:36.974270+00:00",
       "score": 9.6,
@@ -15108,21 +15108,6 @@
       "why": "From a followed source"
     },
     {
-      "url": "https://www.lennysnewsletter.com/p/the-grief-loneliness-and-burnout",
-      "title": "The grief, loneliness, and burnout sweeping through the tech industry right now | Molly Graham",
-      "author": "Lenny Rachitsky",
-      "published_at": "2026-09-27T12:32:18+00:00",
-      "kind": "article",
-      "source": "Lenny's Newsletter",
-      "source_url": "https://lenny.substack.com/",
-      "categories": [
-        "VC"
-      ],
-      "first_seen_at": "2026-09-27T18:31:36.974270+00:00",
-      "score": 9.5,
-      "why": "From a followed source"
-    },
-    {
       "url": "https://www.compoundingquality.net/p/selling-one-buying-two",
       "title": "Selling one, buying two",
       "author": "Compounding Quality",
@@ -15132,6 +15117,21 @@
       "source_url": "https://qualitycompounding.substack.com/",
       "categories": [
         "Finance"
+      ],
+      "first_seen_at": "2026-09-27T18:31:36.974270+00:00",
+      "score": 9.4,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://www.lennysnewsletter.com/p/the-grief-loneliness-and-burnout",
+      "title": "The grief, loneliness, and burnout sweeping through the tech industry right now | Molly Graham",
+      "author": "Lenny Rachitsky",
+      "published_at": "2026-09-27T12:32:18+00:00",
+      "kind": "article",
+      "source": "Lenny's Newsletter",
+      "source_url": "https://lenny.substack.com/",
+      "categories": [
+        "VC"
       ],
       "first_seen_at": "2026-09-27T18:31:36.974270+00:00",
       "score": 9.4,
@@ -15269,7 +15269,7 @@
         "Solo blogs"
       ],
       "first_seen_at": "2026-09-26T17:49:50.756694+00:00",
-      "score": 8.3,
+      "score": 8.2,
       "why": "From a followed source"
     },
     {
@@ -15449,7 +15449,7 @@
         "VC"
       ],
       "first_seen_at": "2026-09-25T18:44:41.201358+00:00",
-      "score": 7.6,
+      "score": 7.5,
       "why": "From a followed source"
     },
     {
@@ -15528,6 +15528,21 @@
       "why": "From a followed source"
     },
     {
+      "url": "https://www.cartoonshateher.com/p/behind-every-left-lib-is-a-kn95-lesbian",
+      "title": "Behind Every Left-Lib Is a KN95 Lesbian Bar Experience",
+      "author": "Cartoons Hate Her",
+      "published_at": "2026-09-25T11:04:10+00:00",
+      "kind": "article",
+      "source": "Cartoons Hate Her",
+      "source_url": "https://cartoonshateher.substack.com/",
+      "categories": [
+        "Solo blogs"
+      ],
+      "first_seen_at": "2026-09-25T18:44:41.201358+00:00",
+      "score": 7.4,
+      "why": "From a followed source"
+    },
+    {
       "url": "https://aeon.co/essays/habermass-theory-of-truth-meant-he-changed-his-mind",
       "title": "Reasoning together",
       "author": "Emilie Prattico",
@@ -15539,7 +15554,7 @@
         "Solo blogs"
       ],
       "first_seen_at": "2026-09-25T18:44:41.201358+00:00",
-      "score": 7.4,
+      "score": 7.3,
       "why": "From a followed source"
     },
     {
@@ -15554,22 +15569,7 @@
         "Solo blogs"
       ],
       "first_seen_at": "2026-09-25T18:44:41.201358+00:00",
-      "score": 7.4,
-      "why": "From a followed source"
-    },
-    {
-      "url": "https://www.cartoonshateher.com/p/behind-every-left-lib-is-a-kn95-lesbian",
-      "title": "Behind Every Left-Lib Is a KN95 Lesbian Bar Experience",
-      "author": "Cartoons Hate Her",
-      "published_at": "2026-09-25T11:04:10+00:00",
-      "kind": "article",
-      "source": "Cartoons Hate Her",
-      "source_url": "https://cartoonshateher.substack.com/",
-      "categories": [
-        "Solo blogs"
-      ],
-      "first_seen_at": "2026-09-25T18:44:41.201358+00:00",
-      "score": 7.4,
+      "score": 7.3,
       "why": "From a followed source"
     },
     {
@@ -15753,51 +15753,6 @@
       "why": "From a followed source"
     },
     {
-      "url": "https://towardsdatascience.com/towards-spec-driven-test-automation-part-1/",
-      "title": "Towards Spec-Driven Test Automation: Part 1",
-      "author": "Gal Arav",
-      "published_at": "2026-09-24T12:30:02+00:00",
-      "kind": "article",
-      "source": "Towards Data Science",
-      "source_url": "https://towardsdatascience.com/",
-      "categories": [
-        "AI"
-      ],
-      "first_seen_at": "2026-09-24T18:28:36.782411+00:00",
-      "score": 6.5,
-      "why": "From a followed source"
-    },
-    {
-      "url": "https://aeon.co/essays/a-prairie-enthusiast-in-search-of-a-farming-land-ethic",
-      "title": "Where a land ethic blooms",
-      "author": "Craig Maier",
-      "published_at": "2026-09-24T10:00:00+00:00",
-      "kind": "article",
-      "source": "Aeon | a world of ideas",
-      "source_url": "https://aeon.co/",
-      "categories": [
-        "Solo blogs"
-      ],
-      "first_seen_at": "2026-09-24T18:28:36.782411+00:00",
-      "score": 6.4,
-      "why": "From a followed source"
-    },
-    {
-      "url": "https://aeon.co/videos/before-the-hindenburg-there-was-r101-britains-ill-fated-airship",
-      "title": "Britain\u2019s last great airship",
-      "author": "Aeon Video",
-      "published_at": "2026-09-24T10:01:00+00:00",
-      "kind": "article",
-      "source": "Aeon | a world of ideas",
-      "source_url": "https://aeon.co/",
-      "categories": [
-        "Solo blogs"
-      ],
-      "first_seen_at": "2026-09-24T18:28:36.782411+00:00",
-      "score": 6.4,
-      "why": "From a followed source"
-    },
-    {
       "url": "https://marginalrevolution.com/marginalrevolution/2026/09/ca-91326-a-public-choice-mystery-investigation.html",
       "title": "CA 91326: A Public Choice Mystery Investigation",
       "author": "Alex Tabarrok",
@@ -15813,15 +15768,15 @@
       "why": "From a followed source"
     },
     {
-      "url": "https://stratechery.com/2026/an-interview-with-colossus-eic-jeremy-stern-about-profiling-mark-zuckerberg/",
-      "title": "An Interview with Colossus EIC Jeremy Stern About Profiling Mark Zuckerberg",
-      "author": "Ben Thompson",
-      "published_at": "2026-09-24T10:00:00+00:00",
+      "url": "https://towardsdatascience.com/towards-spec-driven-test-automation-part-1/",
+      "title": "Towards Spec-Driven Test Automation: Part 1",
+      "author": "Gal Arav",
+      "published_at": "2026-09-24T12:30:02+00:00",
       "kind": "article",
-      "source": "Ben Thompson \u2014 Stratechery",
-      "source_url": "https://stratechery.com/",
+      "source": "Towards Data Science",
+      "source_url": "https://towardsdatascience.com/",
       "categories": [
-        "VC"
+        "AI"
       ],
       "first_seen_at": "2026-09-24T18:28:36.782411+00:00",
       "score": 6.4,
@@ -15888,6 +15843,36 @@
       "why": "From a followed source"
     },
     {
+      "url": "https://aeon.co/essays/a-prairie-enthusiast-in-search-of-a-farming-land-ethic",
+      "title": "Where a land ethic blooms",
+      "author": "Craig Maier",
+      "published_at": "2026-09-24T10:00:00+00:00",
+      "kind": "article",
+      "source": "Aeon | a world of ideas",
+      "source_url": "https://aeon.co/",
+      "categories": [
+        "Solo blogs"
+      ],
+      "first_seen_at": "2026-09-24T18:28:36.782411+00:00",
+      "score": 6.3,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://aeon.co/videos/before-the-hindenburg-there-was-r101-britains-ill-fated-airship",
+      "title": "Britain\u2019s last great airship",
+      "author": "Aeon Video",
+      "published_at": "2026-09-24T10:01:00+00:00",
+      "kind": "article",
+      "source": "Aeon | a world of ideas",
+      "source_url": "https://aeon.co/",
+      "categories": [
+        "Solo blogs"
+      ],
+      "first_seen_at": "2026-09-24T18:28:36.782411+00:00",
+      "score": 6.3,
+      "why": "From a followed source"
+    },
+    {
       "url": "https://marginalrevolution.com/marginalrevolution/2026/09/fear-of-data.html",
       "title": "*Fear of Data*",
       "author": "Tyler Cowen",
@@ -15903,15 +15888,15 @@
       "why": "From a followed source"
     },
     {
-      "url": "https://www.noahpinion.blog/p/no-you-are-not-on-indigenous-land-2b2",
-      "title": "No, you are not on Indigenous land",
-      "author": "Noah Smith",
-      "published_at": "2026-09-24T07:44:38+00:00",
+      "url": "https://stratechery.com/2026/an-interview-with-colossus-eic-jeremy-stern-about-profiling-mark-zuckerberg/",
+      "title": "An Interview with Colossus EIC Jeremy Stern About Profiling Mark Zuckerberg",
+      "author": "Ben Thompson",
+      "published_at": "2026-09-24T10:00:00+00:00",
       "kind": "article",
-      "source": "Noahpinion",
-      "source_url": "https://noahpinion.substack.com/",
+      "source": "Ben Thompson \u2014 Stratechery",
+      "source_url": "https://stratechery.com/",
       "categories": [
-        "Solo blogs"
+        "VC"
       ],
       "first_seen_at": "2026-09-24T18:28:36.782411+00:00",
       "score": 6.3,
@@ -15927,6 +15912,21 @@
       "source_url": "https://www.maxdividends.com/",
       "categories": [
         "Finance"
+      ],
+      "first_seen_at": "2026-09-24T18:28:36.782411+00:00",
+      "score": 6.2,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://www.noahpinion.blog/p/no-you-are-not-on-indigenous-land-2b2",
+      "title": "No, you are not on Indigenous land",
+      "author": "Noah Smith",
+      "published_at": "2026-09-24T07:44:38+00:00",
+      "kind": "article",
+      "source": "Noahpinion",
+      "source_url": "https://noahpinion.substack.com/",
+      "categories": [
+        "Solo blogs"
       ],
       "first_seen_at": "2026-09-24T18:28:36.782411+00:00",
       "score": 6.2,
@@ -16083,21 +16083,6 @@
       "why": "From a followed source"
     },
     {
-      "url": "https://www.a16z.news/p/introducing-the-a16z-ops-engineering",
-      "title": "Introducing the a16z Ops Engineering Fellowship",
-      "author": "David Booth",
-      "published_at": "2026-09-23T17:03:25+00:00",
-      "kind": "article",
-      "source": "a16z",
-      "source_url": "https://a16z.substack.com/",
-      "categories": [
-        "VC"
-      ],
-      "first_seen_at": "2026-09-24T06:17:39.218176+00:00",
-      "score": 5.7,
-      "why": "From a followed source"
-    },
-    {
       "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/the-diesel-shock-is-a-core-inflation-shock",
       "title": "The Diesel Shock Is a Core Inflation Shock",
       "author": "Torsten Slok",
@@ -16139,21 +16124,6 @@
         "VC"
       ],
       "first_seen_at": "2026-09-24T06:17:39.218176+00:00",
-      "score": 5.7,
-      "why": "From a followed source"
-    },
-    {
-      "url": "https://www.sourcery.vc/p/icymi-brad-gerstner-and-rob-goldberg",
-      "title": "ICYMI: Brad Gerstner & Rob Goldberg on the #1 Test for Heart Disease Prevention (You Probably Haven\u2019t Taken)",
-      "author": "Molly O\u2019Shea",
-      "published_at": "2026-09-23T17:12:30+00:00",
-      "kind": "article",
-      "source": "Sourcery",
-      "source_url": "https://mollysoshea.substack.com/",
-      "categories": [
-        "Newsletters"
-      ],
-      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
       "score": 5.7,
       "why": "From a followed source"
     },
@@ -16214,6 +16184,36 @@
         "AI"
       ],
       "first_seen_at": "2026-09-24T03:48:01.272420+00:00",
+      "score": 5.6,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://www.a16z.news/p/introducing-the-a16z-ops-engineering",
+      "title": "Introducing the a16z Ops Engineering Fellowship",
+      "author": "David Booth",
+      "published_at": "2026-09-23T17:03:25+00:00",
+      "kind": "article",
+      "source": "a16z",
+      "source_url": "https://a16z.substack.com/",
+      "categories": [
+        "VC"
+      ],
+      "first_seen_at": "2026-09-24T06:17:39.218176+00:00",
+      "score": 5.6,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://www.sourcery.vc/p/icymi-brad-gerstner-and-rob-goldberg",
+      "title": "ICYMI: Brad Gerstner & Rob Goldberg on the #1 Test for Heart Disease Prevention (You Probably Haven\u2019t Taken)",
+      "author": "Molly O\u2019Shea",
+      "published_at": "2026-09-23T17:12:30+00:00",
+      "kind": "article",
+      "source": "Sourcery",
+      "source_url": "https://mollysoshea.substack.com/",
+      "categories": [
+        "Newsletters"
+      ],
+      "first_seen_at": "2026-09-24T03:55:11.066413+00:00",
       "score": 5.6,
       "why": "From a followed source"
     },
@@ -16293,21 +16293,6 @@
       "why": "From a followed source"
     },
     {
-      "url": "https://towardsdatascience.com/how-grpo-trains-small-language-models-with-verifiable-rewards/",
-      "title": "How GRPO Trains Small Language Models with Verifiable Rewards",
-      "author": "Benjamin Nweke",
-      "published_at": "2026-09-23T12:30:01+00:00",
-      "kind": "article",
-      "source": "Towards Data Science",
-      "source_url": "https://towardsdatascience.com/",
-      "categories": [
-        "AI"
-      ],
-      "first_seen_at": "2026-09-24T03:48:01.272420+00:00",
-      "score": 5.5,
-      "why": "From a followed source"
-    },
-    {
       "url": "https://www.a16z.news/p/should-we-send-our-kids-to-haa",
       "title": "Should We Send Our Kids to HAA?",
       "author": "Packy McCormick",
@@ -16338,21 +16323,6 @@
       "why": "From a followed source"
     },
     {
-      "url": "https://aeon.co/videos/at-an-old-west-theme-park-tourists-play-in-a-past-that-never-existed",
-      "title": "How the West was fun",
-      "author": "Aeon Video",
-      "published_at": "2026-09-23T10:01:00+00:00",
-      "kind": "article",
-      "source": "Aeon | a world of ideas",
-      "source_url": "https://aeon.co/",
-      "categories": [
-        "Solo blogs"
-      ],
-      "first_seen_at": "2026-09-24T06:17:39.218176+00:00",
-      "score": 5.4,
-      "why": "From a followed source"
-    },
-    {
       "url": "https://marginalrevolution.com/marginalrevolution/2026/09/the-price-of-intelligence-is-falling.html",
       "title": "The Price of Intelligence is Falling Rapidly",
       "author": "Alex Tabarrok",
@@ -16368,17 +16338,17 @@
       "why": "From a followed source"
     },
     {
-      "url": "https://stratechery.com/2026/more-on-muse-amazon-and-walmart-muse-and-expedia-whither-google/",
-      "title": "More on Muse, Amazon, and Walmart; Muse and Expedia; Whither Google?",
-      "author": "Ben Thompson",
-      "published_at": "2026-09-23T10:00:00+00:00",
+      "url": "https://towardsdatascience.com/how-grpo-trains-small-language-models-with-verifiable-rewards/",
+      "title": "How GRPO Trains Small Language Models with Verifiable Rewards",
+      "author": "Benjamin Nweke",
+      "published_at": "2026-09-23T12:30:01+00:00",
       "kind": "article",
-      "source": "Ben Thompson \u2014 Stratechery",
-      "source_url": "https://stratechery.com/",
+      "source": "Towards Data Science",
+      "source_url": "https://towardsdatascience.com/",
       "categories": [
-        "VC"
+        "AI"
       ],
-      "first_seen_at": "2026-09-24T06:17:39.218176+00:00",
+      "first_seen_at": "2026-09-24T03:48:01.272420+00:00",
       "score": 5.4,
       "why": "From a followed source"
     },
@@ -16413,21 +16383,6 @@
       "why": "From a followed source"
     },
     {
-      "url": "https://www.chinatalk.media/p/the-xi-state-visit",
-      "title": "Xi Descends on DC",
-      "author": "Jordan Schneider",
-      "published_at": "2026-09-23T09:54:40+00:00",
-      "kind": "article",
-      "source": "ChinaTalk | Jordan Schneider | Substack",
-      "source_url": "https://www.chinatalk.media/",
-      "categories": [
-        "China"
-      ],
-      "first_seen_at": "2026-09-24T03:48:01.272420+00:00",
-      "score": 5.4,
-      "why": "From a followed source"
-    },
-    {
       "url": "https://www.compoundingdividends.net/p/the-second-quintile-strategy",
       "title": "The Second Quintile Strategy",
       "author": "TJ Terwilliger",
@@ -16440,6 +16395,21 @@
       ],
       "first_seen_at": "2026-09-24T06:17:39.218176+00:00",
       "score": 5.4,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://aeon.co/videos/at-an-old-west-theme-park-tourists-play-in-a-past-that-never-existed",
+      "title": "How the West was fun",
+      "author": "Aeon Video",
+      "published_at": "2026-09-23T10:01:00+00:00",
+      "kind": "article",
+      "source": "Aeon | a world of ideas",
+      "source_url": "https://aeon.co/",
+      "categories": [
+        "Solo blogs"
+      ],
+      "first_seen_at": "2026-09-24T06:17:39.218176+00:00",
+      "score": 5.3,
       "why": "From a followed source"
     },
     {
@@ -16458,6 +16428,36 @@
       "why": "From a followed source"
     },
     {
+      "url": "https://stratechery.com/2026/more-on-muse-amazon-and-walmart-muse-and-expedia-whither-google/",
+      "title": "More on Muse, Amazon, and Walmart; Muse and Expedia; Whither Google?",
+      "author": "Ben Thompson",
+      "published_at": "2026-09-23T10:00:00+00:00",
+      "kind": "article",
+      "source": "Ben Thompson \u2014 Stratechery",
+      "source_url": "https://stratechery.com/",
+      "categories": [
+        "VC"
+      ],
+      "first_seen_at": "2026-09-24T06:17:39.218176+00:00",
+      "score": 5.3,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://www.chinatalk.media/p/the-xi-state-visit",
+      "title": "Xi Descends on DC",
+      "author": "Jordan Schneider",
+      "published_at": "2026-09-23T09:54:40+00:00",
+      "kind": "article",
+      "source": "ChinaTalk | Jordan Schneider | Substack",
+      "source_url": "https://www.chinatalk.media/",
+      "categories": [
+        "China"
+      ],
+      "first_seen_at": "2026-09-24T03:48:01.272420+00:00",
+      "score": 5.3,
+      "why": "From a followed source"
+    },
+    {
       "url": "https://marginalrevolution.com/marginalrevolution/2026/09/what-ive-been-reading-295.html",
       "title": "What I\u2019ve been reading",
       "author": "Tyler Cowen",
@@ -16470,21 +16470,6 @@
       ],
       "first_seen_at": "2026-09-24T03:48:01.272420+00:00",
       "score": 5.1,
-      "why": "From a followed source"
-    },
-    {
-      "url": "https://www.platformer.news/meta-muse-consumer-agents/",
-      "title": "Muse is having a moment",
-      "author": "Casey Newton",
-      "published_at": "2026-09-23T00:25:13+00:00",
-      "kind": "article",
-      "source": "Casey Newton \u2014 Platformer",
-      "source_url": "https://www.platformer.news/",
-      "categories": [
-        "VC"
-      ],
-      "first_seen_at": "2026-09-24T06:17:39.218176+00:00",
-      "score": 5.0,
       "why": "From a followed source"
     },
     {
@@ -16548,6 +16533,21 @@
       "why": "From a followed source"
     },
     {
+      "url": "https://www.platformer.news/meta-muse-consumer-agents/",
+      "title": "Muse is having a moment",
+      "author": "Casey Newton",
+      "published_at": "2026-09-23T00:25:13+00:00",
+      "kind": "article",
+      "source": "Casey Newton \u2014 Platformer",
+      "source_url": "https://www.platformer.news/",
+      "categories": [
+        "VC"
+      ],
+      "first_seen_at": "2026-09-24T06:17:39.218176+00:00",
+      "score": 4.9,
+      "why": "From a followed source"
+    },
+    {
       "url": "https://hhhypergrowth.com/premium-the-agentic-era/",
       "title": "Premium: The Agentic Era",
       "author": "muji",
@@ -16560,21 +16560,6 @@
       ],
       "first_seen_at": "2026-09-24T06:17:39.218176+00:00",
       "score": 4.8,
-      "why": "From a followed source"
-    },
-    {
-      "url": "https://afterschool.substack.com/p/optimized-partying-and-corporate",
-      "title": "Optimized Partying and Corporate Transcendence",
-      "author": "Casey Lewis",
-      "published_at": "2026-09-22T17:00:49+00:00",
-      "kind": "article",
-      "source": "After School by Casey Lewis",
-      "source_url": "https://afterschool.substack.com/",
-      "categories": [
-        "Solo blogs"
-      ],
-      "first_seen_at": "2026-09-24T06:17:39.218176+00:00",
-      "score": 4.7,
       "why": "From a followed source"
     },
     {
@@ -16638,13 +16623,13 @@
       "why": "From a followed source"
     },
     {
-      "url": "https://aryadeniz.substack.com/p/the-cost-of-waiting-in-american-real",
-      "title": "The Cost of Waiting in American Real Estate",
-      "author": "Arya",
-      "published_at": "2026-09-22T14:38:05+00:00",
+      "url": "https://afterschool.substack.com/p/optimized-partying-and-corporate",
+      "title": "Optimized Partying and Corporate Transcendence",
+      "author": "Casey Lewis",
+      "published_at": "2026-09-22T17:00:49+00:00",
       "kind": "article",
-      "source": "Arya\u2019s Substack",
-      "source_url": "https://aryadeniz.substack.com/",
+      "source": "After School by Casey Lewis",
+      "source_url": "https://afterschool.substack.com/",
       "categories": [
         "Solo blogs"
       ],
@@ -16758,6 +16743,21 @@
       "why": "From a followed source"
     },
     {
+      "url": "https://aryadeniz.substack.com/p/the-cost-of-waiting-in-american-real",
+      "title": "The Cost of Waiting in American Real Estate",
+      "author": "Arya",
+      "published_at": "2026-09-22T14:38:05+00:00",
+      "kind": "article",
+      "source": "Arya\u2019s Substack",
+      "source_url": "https://aryadeniz.substack.com/",
+      "categories": [
+        "Solo blogs"
+      ],
+      "first_seen_at": "2026-09-24T06:17:39.218176+00:00",
+      "score": 4.5,
+      "why": "From a followed source"
+    },
+    {
       "url": "https://cybersecurityventures.com/ctrl-alt-hacked-at-gdc-festival-of-gaming-mar-1-5-2027/",
       "title": "CTRL, ALT, HACKED at GDC Festival of Gaming, Mar. 1-5, 2027",
       "author": "Taylor Fox",
@@ -16767,21 +16767,6 @@
       "source_url": "https://cybersecurityventures.com/",
       "categories": [
         "Cyber"
-      ],
-      "first_seen_at": "2026-09-24T03:48:01.272420+00:00",
-      "score": 4.5,
-      "why": "From a followed source"
-    },
-    {
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/dartmouth-provost-okie-dokie.html",
-      "title": "Dartmouth Provost okie-dokie",
-      "author": "Tyler Cowen",
-      "published_at": "2026-09-22T12:20:22+00:00",
-      "kind": "article",
-      "source": "Marginal REVOLUTION - Small Steps Toward A Much Better World",
-      "source_url": "https://marginalrevolution.com/",
-      "categories": [
-        "Solo blogs"
       ],
       "first_seen_at": "2026-09-24T03:48:01.272420+00:00",
       "score": 4.5,
@@ -16833,17 +16818,17 @@
       "why": "From a followed source"
     },
     {
-      "url": "https://aeon.co/essays/a-scientists-search-for-answers-about-amanita-muscaria-gummies",
-      "title": "Toadstools and toxins",
-      "author": "Eric Leas",
-      "published_at": "2026-09-22T10:00:00+00:00",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/09/dartmouth-provost-okie-dokie.html",
+      "title": "Dartmouth Provost okie-dokie",
+      "author": "Tyler Cowen",
+      "published_at": "2026-09-22T12:20:22+00:00",
       "kind": "article",
-      "source": "Aeon | a world of ideas",
-      "source_url": "https://aeon.co/",
+      "source": "Marginal REVOLUTION - Small Steps Toward A Much Better World",
+      "source_url": "https://marginalrevolution.com/",
       "categories": [
         "Solo blogs"
       ],
-      "first_seen_at": "2026-09-24T06:17:39.218176+00:00",
+      "first_seen_at": "2026-09-24T03:48:01.272420+00:00",
       "score": 4.4,
       "why": "From a followed source"
     },
@@ -16857,21 +16842,6 @@
       "source_url": "https://notanotherceo.substack.com/",
       "categories": [
         "Newsletters"
-      ],
-      "first_seen_at": "2026-09-24T06:17:39.218176+00:00",
-      "score": 4.4,
-      "why": "From a followed source"
-    },
-    {
-      "url": "https://stratechery.com/2026/amazon-blocks-muse-amazons-moat-aggregator-v-aggregator/",
-      "title": "Amazon Blocks Muse, Amazon\u2019s Moat, Aggregator v Aggregator",
-      "author": "Ben Thompson",
-      "published_at": "2026-09-22T10:00:00+00:00",
-      "kind": "article",
-      "source": "Ben Thompson \u2014 Stratechery",
-      "source_url": "https://stratechery.com/",
-      "categories": [
-        "VC"
       ],
       "first_seen_at": "2026-09-24T06:17:39.218176+00:00",
       "score": 4.4,
@@ -16953,6 +16923,21 @@
       "why": "From a followed source"
     },
     {
+      "url": "https://aeon.co/essays/a-scientists-search-for-answers-about-amanita-muscaria-gummies",
+      "title": "Toadstools and toxins",
+      "author": "Eric Leas",
+      "published_at": "2026-09-22T10:00:00+00:00",
+      "kind": "article",
+      "source": "Aeon | a world of ideas",
+      "source_url": "https://aeon.co/",
+      "categories": [
+        "Solo blogs"
+      ],
+      "first_seen_at": "2026-09-24T06:17:39.218176+00:00",
+      "score": 4.3,
+      "why": "From a followed source"
+    },
+    {
       "url": "https://piratewires.substack.com/p/tuesday-three-morning-takes-f15",
       "title": "Tuesday: Three Morning Takes",
       "author": "PW Daily",
@@ -16962,6 +16947,21 @@
       "source_url": "https://www.piratewires.com/",
       "categories": [
         "General"
+      ],
+      "first_seen_at": "2026-09-24T06:17:39.218176+00:00",
+      "score": 4.3,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://stratechery.com/2026/amazon-blocks-muse-amazons-moat-aggregator-v-aggregator/",
+      "title": "Amazon Blocks Muse, Amazon\u2019s Moat, Aggregator v Aggregator",
+      "author": "Ben Thompson",
+      "published_at": "2026-09-22T10:00:00+00:00",
+      "kind": "article",
+      "source": "Ben Thompson \u2014 Stratechery",
+      "source_url": "https://stratechery.com/",
+      "categories": [
+        "VC"
       ],
       "first_seen_at": "2026-09-24T06:17:39.218176+00:00",
       "score": 4.3,
@@ -17133,21 +17133,6 @@
       "why": "From a followed source"
     },
     {
-      "url": "https://towardsdatascience.com/google-offered-10m-for-a-dying-airlines-data-how-can-you-value-yours/",
-      "title": "Google Offered $10M for a Dying Airline's Data. How Can You Value Yours?",
-      "author": "Thuwarakesh Murallie",
-      "published_at": "2026-09-21T12:30:02+00:00",
-      "kind": "article",
-      "source": "Towards Data Science",
-      "source_url": "https://towardsdatascience.com/",
-      "categories": [
-        "AI"
-      ],
-      "first_seen_at": "2026-09-24T03:48:01.272420+00:00",
-      "score": 3.5,
-      "why": "From a followed source"
-    },
-    {
       "url": "https://towardsdatascience.com/gpt-6-astra-just-hit-openais-highest-cybersecurity-risk-level/",
       "title": "GPT-6 Astra Just Hit OpenAI's Highest Cybersecurity Risk Level",
       "author": "Benjamin Nweke",
@@ -17163,36 +17148,6 @@
       "why": "From a followed source"
     },
     {
-      "url": "https://aeon.co/essays/a-good-sceptic-has-more-than-doubt-and-less-than-certainty",
-      "title": "He was probably right",
-      "author": "Massimo Pigliucci",
-      "published_at": "2026-09-21T10:00:00+00:00",
-      "kind": "article",
-      "source": "Aeon | a world of ideas",
-      "source_url": "https://aeon.co/",
-      "categories": [
-        "Solo blogs"
-      ],
-      "first_seen_at": "2026-09-24T06:17:39.218176+00:00",
-      "score": 3.4,
-      "why": "From a followed source"
-    },
-    {
-      "url": "https://aeon.co/videos/indonesia-is-building-a-new-capital-city-whats-being-lost",
-      "title": "Sound guardians",
-      "author": "Aeon Video",
-      "published_at": "2026-09-21T10:01:00+00:00",
-      "kind": "article",
-      "source": "Aeon | a world of ideas",
-      "source_url": "https://aeon.co/",
-      "categories": [
-        "Solo blogs"
-      ],
-      "first_seen_at": "2026-09-24T06:17:39.218176+00:00",
-      "score": 3.4,
-      "why": "From a followed source"
-    },
-    {
       "url": "https://marginalrevolution.com/marginalrevolution/2026/09/the-tragedy-of-nikole-hannah-jones.html",
       "title": "The Tragedy of Nikole Hannah-Jones",
       "author": "Alex Tabarrok",
@@ -17204,21 +17159,6 @@
         "Solo blogs"
       ],
       "first_seen_at": "2026-09-24T03:48:01.272420+00:00",
-      "score": 3.4,
-      "why": "From a followed source"
-    },
-    {
-      "url": "https://stratechery.com/2026/frontier-overhangs/",
-      "title": "Frontier Overhangs",
-      "author": "Ben Thompson",
-      "published_at": "2026-09-21T10:00:00+00:00",
-      "kind": "article",
-      "source": "Ben Thompson \u2014 Stratechery",
-      "source_url": "https://stratechery.com/",
-      "categories": [
-        "VC"
-      ],
-      "first_seen_at": "2026-09-24T06:17:39.218176+00:00",
       "score": 3.4,
       "why": "From a followed source"
     },
@@ -17238,6 +17178,21 @@
       "why": "From a followed source"
     },
     {
+      "url": "https://towardsdatascience.com/google-offered-10m-for-a-dying-airlines-data-how-can-you-value-yours/",
+      "title": "Google Offered $10M for a Dying Airline's Data. How Can You Value Yours?",
+      "author": "Thuwarakesh Murallie",
+      "published_at": "2026-09-21T12:30:02+00:00",
+      "kind": "article",
+      "source": "Towards Data Science",
+      "source_url": "https://towardsdatascience.com/",
+      "categories": [
+        "AI"
+      ],
+      "first_seen_at": "2026-09-24T03:48:01.272420+00:00",
+      "score": 3.4,
+      "why": "From a followed source"
+    },
+    {
       "url": "https://www.cartoonshateher.com/p/mens-physical-preferences-are-not",
       "title": "Men\u2019s Physical Preferences Are Not A Truth Nuke",
       "author": "Cartoons Hate Her",
@@ -17250,6 +17205,36 @@
       ],
       "first_seen_at": "2026-09-24T06:17:39.218176+00:00",
       "score": 3.4,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://aeon.co/essays/a-good-sceptic-has-more-than-doubt-and-less-than-certainty",
+      "title": "He was probably right",
+      "author": "Massimo Pigliucci",
+      "published_at": "2026-09-21T10:00:00+00:00",
+      "kind": "article",
+      "source": "Aeon | a world of ideas",
+      "source_url": "https://aeon.co/",
+      "categories": [
+        "Solo blogs"
+      ],
+      "first_seen_at": "2026-09-24T06:17:39.218176+00:00",
+      "score": 3.3,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://aeon.co/videos/indonesia-is-building-a-new-capital-city-whats-being-lost",
+      "title": "Sound guardians",
+      "author": "Aeon Video",
+      "published_at": "2026-09-21T10:01:00+00:00",
+      "kind": "article",
+      "source": "Aeon | a world of ideas",
+      "source_url": "https://aeon.co/",
+      "categories": [
+        "Solo blogs"
+      ],
+      "first_seen_at": "2026-09-24T06:17:39.218176+00:00",
+      "score": 3.3,
       "why": "From a followed source"
     },
     {
@@ -17277,6 +17262,21 @@
       "source_url": "https://www.piratewires.com/",
       "categories": [
         "General"
+      ],
+      "first_seen_at": "2026-09-24T06:17:39.218176+00:00",
+      "score": 3.3,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://stratechery.com/2026/frontier-overhangs/",
+      "title": "Frontier Overhangs",
+      "author": "Ben Thompson",
+      "published_at": "2026-09-21T10:00:00+00:00",
+      "kind": "article",
+      "source": "Ben Thompson \u2014 Stratechery",
+      "source_url": "https://stratechery.com/",
+      "categories": [
+        "VC"
       ],
       "first_seen_at": "2026-09-24T06:17:39.218176+00:00",
       "score": 3.3,
@@ -17477,21 +17477,6 @@
       "why": "From a followed source"
     },
     {
-      "url": "https://www.lennysnewsletter.com/p/90-minutes-of-unfiltered-product",
-      "title": "90 minutes of unfiltered product advice from Snap and Discord\u2019s product chief | Peter Sellis",
-      "author": "Lenny Rachitsky",
-      "published_at": "2026-09-20T12:32:17+00:00",
-      "kind": "article",
-      "source": "Lenny's Newsletter",
-      "source_url": "https://lenny.substack.com/",
-      "categories": [
-        "VC"
-      ],
-      "first_seen_at": "2026-09-24T06:17:39.218176+00:00",
-      "score": 2.5,
-      "why": "From a followed source"
-    },
-    {
       "url": "https://www.maxdividends.com/p/sunday-coffee-anne-scheiber-from",
       "title": "\u2615\ufe0f Sunday Coffee: Anne Scheiber. From $5,000 to $22 Million",
       "author": "MaxDividends",
@@ -17567,6 +17552,21 @@
       "why": "From a followed source"
     },
     {
+      "url": "https://www.lennysnewsletter.com/p/90-minutes-of-unfiltered-product",
+      "title": "90 minutes of unfiltered product advice from Snap and Discord\u2019s product chief | Peter Sellis",
+      "author": "Lenny Rachitsky",
+      "published_at": "2026-09-20T12:32:17+00:00",
+      "kind": "article",
+      "source": "Lenny's Newsletter",
+      "source_url": "https://lenny.substack.com/",
+      "categories": [
+        "VC"
+      ],
+      "first_seen_at": "2026-09-24T06:17:39.218176+00:00",
+      "score": 2.4,
+      "why": "From a followed source"
+    },
+    {
       "url": "https://www.noahpinion.blog/p/how-we-can-beat-china",
       "title": "How we can beat China",
       "author": "Noah Smith",
@@ -17578,7 +17578,7 @@
         "Solo blogs"
       ],
       "first_seen_at": "2026-09-24T06:17:39.218176+00:00",
-      "score": 2.4,
+      "score": 2.3,
       "why": "From a followed source"
     },
     {
@@ -17597,21 +17597,6 @@
       "why": "From a followed source"
     },
     {
-      "url": "https://www.lennysnewsletter.com/p/community-wisdom-finding-your-first",
-      "title": "\ud83e\udde0 Community Wisdom: Finding your first users before the product exists, debriefing your own interviews, what to optimize for in the early years of your career, and more",
-      "author": "Kiyani",
-      "published_at": "2026-09-19T19:42:24+00:00",
-      "kind": "article",
-      "source": "Lenny's Newsletter",
-      "source_url": "https://lenny.substack.com/",
-      "categories": [
-        "VC"
-      ],
-      "first_seen_at": "2026-09-24T06:17:39.218176+00:00",
-      "score": 1.8,
-      "why": "From a followed source"
-    },
-    {
       "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/not-tech-not-wall-street",
       "title": "Not Tech, Not Wall Street",
       "author": "Torsten Slok",
@@ -17621,6 +17606,21 @@
       "source_url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark",
       "categories": [
         "Finance"
+      ],
+      "first_seen_at": "2026-09-24T06:17:39.218176+00:00",
+      "score": 1.7,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://www.lennysnewsletter.com/p/community-wisdom-finding-your-first",
+      "title": "\ud83e\udde0 Community Wisdom: Finding your first users before the product exists, debriefing your own interviews, what to optimize for in the early years of your career, and more",
+      "author": "Kiyani",
+      "published_at": "2026-09-19T19:42:24+00:00",
+      "kind": "article",
+      "source": "Lenny's Newsletter",
+      "source_url": "https://lenny.substack.com/",
+      "categories": [
+        "VC"
       ],
       "first_seen_at": "2026-09-24T06:17:39.218176+00:00",
       "score": 1.7,
@@ -17848,7 +17848,7 @@
         "Solo blogs"
       ],
       "first_seen_at": "2026-09-24T06:17:39.218176+00:00",
-      "score": 0.8,
+      "score": 0.7,
       "why": "From a followed source"
     },
     {
@@ -18017,21 +18017,6 @@
       "why": "From a followed source"
     },
     {
-      "url": "https://aeon.co/essays/black-holes-ring-like-bells-what-happens-next-is-stranger",
-      "title": "Cosmic amnesia",
-      "author": "Richard Dyer",
-      "published_at": "2026-09-18T10:00:00+00:00",
-      "kind": "article",
-      "source": "Aeon | a world of ideas",
-      "source_url": "https://aeon.co/",
-      "categories": [
-        "Solo blogs"
-      ],
-      "first_seen_at": "2026-09-24T06:17:39.218176+00:00",
-      "score": 0.4,
-      "why": "From a followed source"
-    },
-    {
       "url": "https://www.cartoonshateher.com/p/the-email-job-bubble-is-wrong-about",
       "title": "All Men Are Firefighters, All Women Are Marketing Executives",
       "author": "Cartoons Hate Her",
@@ -18044,6 +18029,21 @@
       ],
       "first_seen_at": "2026-09-24T06:17:39.218176+00:00",
       "score": 0.4,
+      "why": "From a followed source"
+    },
+    {
+      "url": "https://aeon.co/essays/black-holes-ring-like-bells-what-happens-next-is-stranger",
+      "title": "Cosmic amnesia",
+      "author": "Richard Dyer",
+      "published_at": "2026-09-18T10:00:00+00:00",
+      "kind": "article",
+      "source": "Aeon | a world of ideas",
+      "source_url": "https://aeon.co/",
+      "categories": [
+        "Solo blogs"
+      ],
+      "first_seen_at": "2026-09-24T06:17:39.218176+00:00",
+      "score": 0.3,
       "why": "From a followed source"
     },
     {
@@ -22122,7 +22122,7 @@
       "categories": [
         "Cyber"
       ],
-      "first_seen_at": "2026-10-08T00:45:19.144089+00:00",
+      "first_seen_at": "2026-10-08T01:46:57.158530+00:00",
       "score": 0,
       "why": "Page content changed; may not be a new article"
     },
