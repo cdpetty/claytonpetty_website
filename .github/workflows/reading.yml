@@ -37,8 +37,9 @@ jobs:
           fi
       - name: Prepare public site
         run: |
-          mkdir -p _site/reading
+          mkdir -p _site/reading _site/louvre
           cp index.html Headshot2.jpg CNAME _site/
+          cp louvre/index.html _site/louvre/
           cp reading/index.html reading/reading.js reading/data.json reading/people.json _site/reading/
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
