@@ -27,3 +27,7 @@ Use Clayton's exact authored text as the curator note, omitting only the quote a
 Keep older exhibits permanently, deduplicate by Clayton's post ID, and show newest first. Preserve existing entries and the checkpoint on failed/incomplete searches. Validate and escape external text. If updating state and HTML, stage both writes safely before publishing. Keep the reading collector, homepage, and static GitHub Pages deployment working. Do not change the approved Salon design. Avoid em dashes in new copy.
 
 Run `python3 -m unittest discover -s tests`. Verify desktop/mobile embeds and curator notes, perform one real backfill and one incremental run, then confirm the daily deployment works. Report required setup and any incomplete backfill honestly.
+
+## Daily schedule status (November 9, 2026)
+
+The workflow is enabled and scheduled once daily at 14:23 UTC (6:23 a.m. Pacific standard time or 7:23 a.m. daylight time). GitHub may delay scheduled starts. Louvre collection runs for scheduled or manually dispatched workflows, not code pushes. The November 8 scheduled run skipped collection because X_BEARER_TOKEN was absent. Missing credentials now produce a visible workflow warning and summary. No X or Grok API integration has been activated.

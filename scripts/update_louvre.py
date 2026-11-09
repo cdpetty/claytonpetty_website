@@ -90,7 +90,11 @@ def render(state):
 def main():
     token = os.environ.get('X_BEARER_TOKEN')
     if not token:
-        print('Louvre collection skipped: X_BEARER_TOKEN is not configured. Existing gallery preserved.')
+        message = 'Louvre collection skipped: X_BEARER_TOKEN is not configured. Existing gallery preserved.'
+        print(('::warning::' if os.environ.get('GITHUB_ACTIONS') == 'true' else '') + message)
+        if os.environ.get('GITHUB_STEP_SUMMARY'):
+            with open(os.environ['GITHUB_STEP_SUMMARY'], 'a') as summary:
+                summary.write('Louvre refresh is not active: configure the X_BEARER_TOKEN repository secret to enable daily collection.\n')
         return
     path = ROOT / 'louvre/collection.json'
     state = collect(json.loads(path.read_text()), token, datetime.now(timezone.utc))

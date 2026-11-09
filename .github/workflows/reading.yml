@@ -27,6 +27,7 @@ jobs:
       - run: python -m unittest discover -s tests
       - run: python scripts/update_reading.py
       - name: Refresh Louvre collection
+        if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
         continue-on-error: true
         env:
           X_BEARER_TOKEN: ${{ secrets.X_BEARER_TOKEN }}
